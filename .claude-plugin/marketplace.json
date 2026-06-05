@@ -5,7 +5,7 @@
     "url": "https://github.com/codearranger"
   },
   "metadata": {
-    "description": "Marketplace of Claude Code / Cowork plugins for preparing U.S. court documents — one plugin per state plus two shared federal reference plugins (us-federal-debt-corpus and us-federal-immigration-corpus). Each plugin ships matter-neutral civil-procedure skills plus subject-matter bundles and verbatim reference corpora; the state plugins depend on us-federal-debt-corpus for the shared federal / UCC / Bankruptcy content. Per-plugin detail lives in each plugin's README.md. Currently ten state plugins (WA, OR, CA, CO, IN, NY, OH, TN, MI, AZ) plus the two shared plugins.",
+    "description": "Marketplace of Claude Code / Cowork plugins for legal corpora \u2014 one plugin per U.S. state plus three shared federal reference plugins (us-federal-debt-corpus, us-federal-immigration-corpus, us-federal-legal-corpus). Each plugin ships verbatim reference corpora for legal research and document production. Currently 53 plugins total: 50 state + 3 federal. Per-plugin detail lives in each plugin's README.md.",
     "version": "0.27.2"
   },
   "plugins": [
@@ -68,7 +68,7 @@
     {
       "name": "us-wa-legal-corpus",
       "source": "./plugins/us-wa-legal-corpus",
-      "description": "Washington court documents: GR 14 formatting; King / Pierce / Snohomish / Spokane venues + family-law department + county roll-up; six subject bundles (consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes) plus a matter-neutral CPA/UDAP skill (Consumer Protection Act, RCW 19.86 — Hangman Ridge) and a CEMA (RCW 19.190 anti-spam; Brown v. Old Navy) skill. Full detail in the plugin README.",
+      "description": "Washington court documents: GR 14 formatting; King / Pierce / Snohomish / Spokane venues + family-law department + county roll-up; six subject bundles (consumer-debt, family-law, landlord-tenant, personal-injury, employment, commercial-disputes) plus a matter-neutral CPA/UDAP skill (Consumer Protection Act, RCW 19.86 \u2014 Hangman Ridge) and a CEMA (RCW 19.190 anti-spam; Brown v. Old Navy) skill. Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "washington",
@@ -272,7 +272,7 @@
     {
       "name": "us-ny-legal-corpus",
       "source": "./plugins/us-ny-legal-corpus",
-      "description": "New York court documents: 22 NYCRR § 202.5 / § 202.5-b NYSCEF formatting; five flagship Supreme Court venues plus District / City / Justice / Family / Housing courts; five subject bundles (consumer-debt, landlord-tenant, personal-injury, employment, commercial-disputes). Full detail in the plugin README.",
+      "description": "New York court documents: 22 NYCRR \u00a7 202.5 / \u00a7 202.5-b NYSCEF formatting; five flagship Supreme Court venues plus District / City / Justice / Family / Housing courts; five subject bundles (consumer-debt, landlord-tenant, personal-injury, employment, commercial-disputes). Full detail in the plugin README.",
       "category": "legal",
       "keywords": [
         "new-york",
@@ -552,6 +552,541 @@
         "tucson",
         "azturbocourt",
         "shared-references"
+      ]
+    },
+    {
+      "name": "us-ak-legal-corpus",
+      "source": "./plugins/us-ak-legal-corpus",
+      "description": "Alaska state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ak-law",
+        "state-law",
+        "alaska",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-al-legal-corpus",
+      "source": "./plugins/us-al-legal-corpus",
+      "description": "Alabama state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "al-law",
+        "state-law",
+        "alabama",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ar-legal-corpus",
+      "source": "./plugins/us-ar-legal-corpus",
+      "description": "Arkansas state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ar-law",
+        "state-law",
+        "arkansas",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ct-legal-corpus",
+      "source": "./plugins/us-ct-legal-corpus",
+      "description": "Connecticut state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ct-law",
+        "state-law",
+        "connecticut",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-de-legal-corpus",
+      "source": "./plugins/us-de-legal-corpus",
+      "description": "Delaware state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "de-law",
+        "state-law",
+        "delaware",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-fl-legal-corpus",
+      "source": "./plugins/us-fl-legal-corpus",
+      "description": "Florida state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "fl-law",
+        "state-law",
+        "florida",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ga-legal-corpus",
+      "source": "./plugins/us-ga-legal-corpus",
+      "description": "Georgia state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ga-law",
+        "state-law",
+        "georgia",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-hi-legal-corpus",
+      "source": "./plugins/us-hi-legal-corpus",
+      "description": "Hawaii state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "hi-law",
+        "state-law",
+        "hawaii",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ia-legal-corpus",
+      "source": "./plugins/us-ia-legal-corpus",
+      "description": "Iowa state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ia-law",
+        "state-law",
+        "iowa",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-id-legal-corpus",
+      "source": "./plugins/us-id-legal-corpus",
+      "description": "Idaho state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "id-law",
+        "state-law",
+        "idaho",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-il-legal-corpus",
+      "source": "./plugins/us-il-legal-corpus",
+      "description": "Illinois state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "il-law",
+        "state-law",
+        "illinois",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ks-legal-corpus",
+      "source": "./plugins/us-ks-legal-corpus",
+      "description": "Kansas state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ks-law",
+        "state-law",
+        "kansas",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ky-legal-corpus",
+      "source": "./plugins/us-ky-legal-corpus",
+      "description": "Kentucky state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ky-law",
+        "state-law",
+        "kentucky",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-la-legal-corpus",
+      "source": "./plugins/us-la-legal-corpus",
+      "description": "Louisiana state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "la-law",
+        "state-law",
+        "louisiana",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ma-legal-corpus",
+      "source": "./plugins/us-ma-legal-corpus",
+      "description": "Massachusetts state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ma-law",
+        "state-law",
+        "massachusetts",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-md-legal-corpus",
+      "source": "./plugins/us-md-legal-corpus",
+      "description": "Maryland state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "md-law",
+        "state-law",
+        "maryland",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-me-legal-corpus",
+      "source": "./plugins/us-me-legal-corpus",
+      "description": "Maine state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "me-law",
+        "state-law",
+        "maine",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-mn-legal-corpus",
+      "source": "./plugins/us-mn-legal-corpus",
+      "description": "Minnesota state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "mn-law",
+        "state-law",
+        "minnesota",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-mo-legal-corpus",
+      "source": "./plugins/us-mo-legal-corpus",
+      "description": "Missouri state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "mo-law",
+        "state-law",
+        "missouri",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ms-legal-corpus",
+      "source": "./plugins/us-ms-legal-corpus",
+      "description": "Mississippi state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ms-law",
+        "state-law",
+        "mississippi",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-mt-legal-corpus",
+      "source": "./plugins/us-mt-legal-corpus",
+      "description": "Montana state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "mt-law",
+        "state-law",
+        "montana",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-nc-legal-corpus",
+      "source": "./plugins/us-nc-legal-corpus",
+      "description": "North Carolina state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "nc-law",
+        "state-law",
+        "north carolina",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-nd-legal-corpus",
+      "source": "./plugins/us-nd-legal-corpus",
+      "description": "North Dakota state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "nd-law",
+        "state-law",
+        "north dakota",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ne-legal-corpus",
+      "source": "./plugins/us-ne-legal-corpus",
+      "description": "Nebraska state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ne-law",
+        "state-law",
+        "nebraska",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-nh-legal-corpus",
+      "source": "./plugins/us-nh-legal-corpus",
+      "description": "New Hampshire state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "nh-law",
+        "state-law",
+        "new hampshire",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-nj-legal-corpus",
+      "source": "./plugins/us-nj-legal-corpus",
+      "description": "New Jersey state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "nj-law",
+        "state-law",
+        "new jersey",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-nm-legal-corpus",
+      "source": "./plugins/us-nm-legal-corpus",
+      "description": "New Mexico state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "nm-law",
+        "state-law",
+        "new mexico",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-nv-legal-corpus",
+      "source": "./plugins/us-nv-legal-corpus",
+      "description": "Nevada state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "nv-law",
+        "state-law",
+        "nevada",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ok-legal-corpus",
+      "source": "./plugins/us-ok-legal-corpus",
+      "description": "Oklahoma state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ok-law",
+        "state-law",
+        "oklahoma",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-pa-legal-corpus",
+      "source": "./plugins/us-pa-legal-corpus",
+      "description": "Pennsylvania state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "pa-law",
+        "state-law",
+        "pennsylvania",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ri-legal-corpus",
+      "source": "./plugins/us-ri-legal-corpus",
+      "description": "Rhode Island state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ri-law",
+        "state-law",
+        "rhode island",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-sc-legal-corpus",
+      "source": "./plugins/us-sc-legal-corpus",
+      "description": "South Carolina state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "sc-law",
+        "state-law",
+        "south carolina",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-sd-legal-corpus",
+      "source": "./plugins/us-sd-legal-corpus",
+      "description": "South Dakota state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "sd-law",
+        "state-law",
+        "south dakota",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-tx-legal-corpus",
+      "source": "./plugins/us-tx-legal-corpus",
+      "description": "Texas state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "tx-law",
+        "state-law",
+        "texas",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-ut-legal-corpus",
+      "source": "./plugins/us-ut-legal-corpus",
+      "description": "Utah state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "ut-law",
+        "state-law",
+        "utah",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-va-legal-corpus",
+      "source": "./plugins/us-va-legal-corpus",
+      "description": "Virginia state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "va-law",
+        "state-law",
+        "virginia",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-vt-legal-corpus",
+      "source": "./plugins/us-vt-legal-corpus",
+      "description": "Vermont state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "vt-law",
+        "state-law",
+        "vermont",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-wi-legal-corpus",
+      "source": "./plugins/us-wi-legal-corpus",
+      "description": "Wisconsin state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "wi-law",
+        "state-law",
+        "wisconsin",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-wv-legal-corpus",
+      "source": "./plugins/us-wv-legal-corpus",
+      "description": "West Virginia state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "wv-law",
+        "state-law",
+        "west virginia",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-wy-legal-corpus",
+      "source": "./plugins/us-wy-legal-corpus",
+      "description": "Wyoming state legal corpus: state statutory code, administrative regulations, state precedent, plus all embedded county/municipal layers. Scaffolded plugin \u2014 puller scripts to be added in follow-up commits.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "wy-law",
+        "state-law",
+        "wyoming",
+        "corpus"
+      ]
+    },
+    {
+      "name": "us-federal-legal-corpus",
+      "source": "./plugins/us-federal-legal-corpus",
+      "description": "Nationwide U.S. federal legal corpus: U.S. Constitution, USC Titles, CFR regulations, federalism framework. Venue scope: nation-wide.",
+      "category": "legal",
+      "keywords": [
+        "legal",
+        "federal-law",
+        "united-states",
+        "constitution",
+        "usc",
+        "cfr",
+        "nationwide"
       ]
     }
   ]
