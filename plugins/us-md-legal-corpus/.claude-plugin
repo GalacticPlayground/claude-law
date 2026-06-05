@@ -1,0 +1,10 @@
+{
+  "name": "us-md-legal-corpus",
+  "description": "Comprehensive corpus of Maryland state law \u2014 Maryland Code, state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "maryland",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
