@@ -1,0 +1,58 @@
+# United States Code — Title 8 (Cornell LII)
+
+**Source:** https://www.law.cornell.edu/uscode/text/8
+**Pulled:** 2026-06-05
+
+---
+
+U.S. Code: Title 8 — ALIENS AND NATIONALITY | U.S. Code | US Law | LII / Legal Information Institute 
+
+ Please help us improve our site! 
+ 
+ × 
+
+ No thank you 
+
+ Quick search by citation: 
+
+ Title 
+
+ Section 
+
+ Go! 
+
+ U.S. Code: Title 8 — ALIENS AND NATIONALITY 
+
+ U.S. Code 
+
+ prev | next 
+
+ CHAPTER 1—GENERAL PROVISIONS (§ 1) 
+
+ CHAPTER 2—ELECTIVE FRANCHISE (§ 31) 
+
+ CHAPTER 3—CIVIL RIGHTS (§§ 41 – 53) 
+
+ CHAPTER 4—FREEDMEN (§ 61) 
+
+ CHAPTER 5—ALIEN OWNERSHIP OF LAND (§§ 71 – 83) 
+
+ CHAPTER 6—IMMIGRATION (§§ 100 – 241) 
+
+ CHAPTER 7—EXCLUSION OF CHINESE (§§ 261 – 299) 
+
+ CHAPTER 8—THE COOLY TRADE (§ 331) 
+
+ CHAPTER 9—MISCELLANEOUS PROVISIONS (§ 351) 
+
+ CHAPTER 10—ALIEN REGISTRATION (§ 451) 
+
+ CHAPTER 11—NATIONALITY (§§ 501 – 1001) 
+
+ CHAPTER 12—IMMIGRATION AND NATIONALITY (§§ 1101 – 1537) 
+
+ CHAPTER 13—IMMIGRATION AND NATURALIZATION SERVICE (§§ 1551 – 1574) 
+
+ CHAPTER 14—RESTRICTING WELFARE AND PUBLIC BENEFITS FOR ALIENS (§§ 1601 – 1646) 
+
+ CHAPTER 15—ENHANCED BORDER SECURITY AND VISA ENTRY REFORM (§§ 1701 – 1778)
