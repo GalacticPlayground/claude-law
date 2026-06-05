@@ -154,6 +154,17 @@ jobs:
         timeout-minutes: 15
         run: python3 scripts/pull_ucc.py
 
+      # ---- federal-legal — Constitution + USC + CFR index corpus ----
+      # This is a reference-only corpus (no verbatim statute pulls; just
+      # curated Constitution text + USC title index + CFR title-to-agency
+      # map). Quarterly refresh is a no-op confirmation that the corpus
+      # is in sync with the source.
+      - name: Federal-legal — Constitution + USC + CFR index (no quarterly pull)
+        if: matrix.target == 'federal-legal'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-federal-legal-corpus is reference-only; no quarterly pull needed"
+
       # ---- immigration — shared, venue-independent corpus ----
       # INA (8 U.S.C. ch 12) from uscode.house.gov USLM XML and the
       # curated 8 CFR / 22 CFR parts from the eCFR versioner API both
