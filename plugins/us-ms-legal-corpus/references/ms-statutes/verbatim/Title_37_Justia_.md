@@ -1,0 +1,461 @@
+# MS — Title 37 (Justia)
+
+**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/mississippi/title-37/>
+**Plugin:** `us-ms-legal-corpus`
+**Pulled:** 2026-06-05
+
+---
+
+Mississippi Code Title 37 (2023) - EDUCATION :: 2023 Mississippi Code :: US Codes and Statutes :: US Law :: Justia
+
+7 captures
+27 Aug 2024 - 08 Apr 2026
+
+Nov |
+DEC |
+Jan |
+
+|
+05 |
+|
+
+2023 |
+2024 |
+2025 |
+
+success
+
+fail
+
+About this capture
+
+COLLECTED BY
+
+Collection: Common Crawl
+
+Web crawl data from Common Crawl.
+
+TIMESTAMPS
+
+The Wayback Machine - https://web.archive.org/web/20241205005619/https://law.justia.com/codes/mississippi/title-37/
+
+Go to Previous Versions
+of
+this Title
+
+2023 Mississippi Code (here)
+
+2020 Mississippi Code
+
+2019 Mississippi Code
+
+View All Versions
+
+Mississippi Code 1972 (2023)
+Title 37 - EDUCATION (§§ 37-NEW-001 — 37-NEW01-004)
+
+Previous
+
+Next
+
+Section 37-NEW-001 - [Newly enacted section not yet numbered] ["Seizure action plan" defined]
+
+Section 37-NEW-002 - [Newly enacted section not yet numbered] [Staff training - Administration or assistance with self-administration of seizure rescue medication - Authorization from parents - Seizure action plan]
+
+Section 37-NEW-003 - [Newly enacted section not yet numbered] [Qualified immunity]
+
+Section 37-NEW-010 - [Newly enacted section not yet numbered] [Interstate Teacher Mobility Compact]
+
+Chapter 1 - STATE BOARD OF EDUCATION (§§ 37-1-1 — 37-1-13)
+
+Chapter 3 - STATE DEPARTMENT OF EDUCATION (§§ 37-3-1 — 37-3-107)
+
+Chapter 4 - MISSISSIPPI COMMUNITY COLLEGE BOARD (§§ 37-4-1 — 37-4-15)
+
+Chapter 5 - COUNTY BOARDS OF EDUCATION AND SUPERINTENDENTS (§§ 37-5-1 — 37-5-77)
+
+Chapter 6 - MISSISSIPPI UNIFORM SCHOOL LAW (§§ 37-6-1 — 37-6-15)
+
+Chapter 7 - SCHOOL DISTRICTS; BOARDS OF TRUSTEES OF SCHOOL DISTRICTS (§§ 37-7-1 — 37-7-1001)
+
+Chapter 9 - DISTRICT SUPERINTENDENTS, PRINCIPALS, TEACHERS, AND OTHER EMPLOYEES (§§ 37-9-1 — 37-9-251)
+
+Chapter 11 - GENERAL PROVISIONS PERTAINING TO EDUCATION (§§ 37-11-1 — 37-11-NEW-002)
+
+Chapter 12 - MISSISSIPPI STUDENT RELIGIOUS LIBERTIES ACT OF 2013 (§§ 37-12-1 — 37-12-15)
+
+Chapter 13 - CURRICULUM; SCHOOL YEAR AND ATTENDANCE (§§ 37-13-1 — 37-13-213)
+
+Chapter 14 - MARY KIRKPATRICK HASKELL-MARY SPRAYBERRY PUBLIC SCHOOL NURSE ACT OF 2007 (§§ 37-14-1 — 37-14-7)
+
+Chapter 15 - PUBLIC SCHOOLS; RECORDS, ENROLLMENT AND TRANSFER OF PUPILS (§§ 37-15-1 — 37-15-39)
+
+Chapter 16 - STATEWIDE TESTING PROGRAM (§§ 37-16-1 — 37-16-17)
+
+Chapter 17 - ACCREDITATION OF SCHOOLS (§§ 37-17-1 — 37-17-17)
+
+Chapter 18 - SUPERIOR-PERFORMING, EXEMPLARY AND SCHOOL AT-RISK SCHOOLS PROGRAMS (§§ 37-18-1 — 37-18-7)
+
+Chapter 19 - TEACHER COMPENSATION (§§ 37-19-1 — 37-19-25)
+
+Chapter 20 - REMEDIAL EDUCATION (§§ 37-20-1 — 37-20-9)
+
+Chapter 21 - EARLY CHILDHOOD EDUCATION (§§ 37-21-1 — 37-21-55)
+
+Chapter 22 - STATE FUNDS FOR SCHOOL DISTRICTS (§§ 37-22-1 — 37-22-25)
+
+Chapter 23 - EXCEPTIONAL CHILDREN (§§ 37-23-1 — 37-23-205)
+
+Chapter 24 - MISSISSIPPI YOUTH CONCUSSION LAW (§§ 37-24-1 — 37-24-9)
+
+Chapter 25 - DRIVER EDUCATION AND TRAINING (§§ 37-25-1 — 37-25-29)
+
+Chapter 26 - STATE COURT EDUCATION FUND (§§ 37-26-1 — 37-26-11)
+
+Chapter 27 - AGRICULTURAL HIGH SCHOOLS (§§ 37-27-1 — 37-27-95)
+
+Chapter 28 - MISSISSIPPI CHARTER SCHOOLS ACT OF 2013 (§§ 37-28-1 — 37-28-63)
+
+Chapter 29 - JUNIOR COLLEGES (§§ 37-29-1 — 37-29-613)
+
+Chapter 31 - VOCATIONAL EDUCATION (§§ 37-31-1 — 37-31-211)
+
+Chapter 33 - CIVILIAN VOCATIONAL REHABILITATION (§§ 37-33-1 — 37-33-263)
+
+Chapter 35 - ADULT EDUCATION (§§ 37-35-1 — 37-35-13)
+
+Chapter 37 - PUBLIC SCHOOLS; ACCOUNTING AND AUDITING (§§ 37-37-1 — 37-37-21)
+
+Chapter 39 - PUBLIC SCHOOLS; PURCHASES (§§ 37-39-1 — 37-39-25)
+
+Chapter 41 - TRANSPORTATION OF PUPILS (§§ 37-41-1 — 37-41-121)
+
+Chapter 43 - TEXTBOOKS (§§ 37-43-1 — 37-43-59)
+
+Chapter 45 - STATE AID TO PUBLIC SCHOOLS (§§ 37-45-1 — 37-45-63)
+
+Chapter 47 - STATE AID FOR CONSTRUCTION OF SCHOOL FACILITIES (§§ 37-47-1 — 37-47-67)
+
+Chapter 49 - LOANS TO STUDENTS (§§ 37-49-1 — 37-49-5)
+
+Chapter 51 - FINANCIAL ASSISTANCE TO CHILDREN ATTENDING NONSECTARIAN PRIVATE SCHOOLS (§§ 37-51-1 — 37-51-21)
+
+Chapter 53 - SUMMER NORMALS [Repealed] (§ 37-53-1)
+
+Chapter 55 - SCHOOL LIBRARIES (§ 37-55-1)
+
+Chapter 57 - TAXATION (§§ 37-57-1 — 37-57-133)
+
+Chapter 59 - SCHOOL BONDS AND OBLIGATIONS (§§ 37-59-1 — 37-59-301)
+
+Chapter 61 - EXPENDITURE OF SCHOOL FUNDS; BUDGETS (§§ 37-61-1 — 37-61-37)
+
+Chapter 63 - EDUCATIONAL TELEVISION (§§ 37-63-1 — 37-63-17)
+
+Chapter 65 - CLOSING OF PUBLIC SCHOOLS AND INSTITUTIONS OF HIGHER LEARNING (§§ 37-65-1 — 37-65-131)
+
+Chapter 67 - DISTANCE LEARNING COLLABORATIVE ACT OF 2016 (§ 37-67-1)
+
+Chapter 68 - EQUITY IN DISTANCE LEARNING ACT (§§ 37-68-1 — 37-68-15)
+
+Chapter 69 - THE ENERGY ACADEMY ACT (§§ 37-69-1 — 37-69-7)
+
+Chapter 71 - MISSISSIPPI LEARN TO EARN ACT (§§ 37-71-1 — 37-71-11)
+
+Chapter 73 - COMPREHENSIVE CAREER AND TECHNICAL EDUCATION REFORM ACT (§§ 37-73-1 — 37-73-9)
+
+Chapter 97 - ATHLETICS (§§ 37-97-1 — 37-97-109)
+
+Chapter 99 - POSTSECONDARY EDUCATION: PROVISIONS COMMON TO INSTITUTIONS OF HIGHER LEARNING AND COMMUNITY AND JUNIOR COLLEGES (§§ 37-99-1 — 37-99-3)
+
+Chapter 101 - INSTITUTIONS OF HIGHER LEARNING; GENERAL PROVISIONS (§§ 37-101-1 — 37-101-415)
+
+Chapter 102 - OFF-CAMPUS INSTRUCTIONAL PROGRAMS (§§ 37-102-1 — 37-102-17)
+
+Chapter 103 - RESIDENCY AND FEES OF STUDENTS ATTENDING OR APPLYING FOR ADMISSION TO EDUCATIONAL INSTITUTIONS (§§ 37-103-1 — 37-103-29)
+
+Chapter 104 - MISSISSIPPI EDUCATIONAL FACILITIES AUTHORITY ACT FOR PRIVATE, NONPROFIT INSTITUTIONS OF HIGHER LEARNING (§§ 37-104-1 — 37-104-49)
+
+Chapter 105 - CAMPUSES AND STREETS OF STATE INSTITUTIONS OF HIGHER LEARNING (§§ 37-105-1 — 37-105-9)
+
+Chapter 106 - POST-SECONDARY EDUCATION FINANCIAL ASSISTANCE (§§ 37-106-1 — 37-106-83)
+
+Chapter 107 - SCHOLARSHIPS FOR CHILDREN OF DECEASED OR DISABLED LAW ENFORCEMENT OFFICERS OR FIREMEN (§ 37-107-1)
+
+Chapter 108 - SCHOLARSHIPS FOR CHILDREN OF PRISONERS OF WAR OR MEN MISSING IN ACTION (§ 37-108-1)
+
+Chapter 109 - MISSISSIPPI DUAL ENROLLMENT/DUAL CREDIT SCHOLARSHIP PROGRAM ACT OF 2023 (§§ 37-109-1 — 37-109-13)
+
+Chapter 110 - MISSISSIPPI PUBLIC MANAGEMENT GRADUATE INTERN PROGRAM (§§ 37-110-1 — 37-110-9)
+
+Chapter 111 - FRATERNITIES, SORORITIES AND OTHER SOCIETIES (§§ 37-111-1 — 37-111-13)
+
+Chapter 113 - MISSISSIPPI STATE UNIVERSITY OF AGRICULTURE AND APPLIED SCIENCE (§§ 37-113-1 — 37-113-NEW-006)
+
+Chapter 115 - UNIVERSITY OF MISSISSIPPI (§§ 37-115-1 — 37-115-131)
+
+Chapter 117 - MISSISSIPPI UNIVERSITY FOR WOMEN (§§ 37-117-1 — 37-117-11)
+
+Chapter 119 - UNIVERSITY OF SOUTHERN MISSISSIPPI (§§ 37-119-1 — 37-119-11)
+
+Chapter 121 - ALCORN STATE UNIVERSITY (§§ 37-121-1 — 37-121-19)
+
+Chapter 123 - DELTA STATE UNIVERSITY (§§ 37-123-1 — 37-123-5)
+
+Chapter 125 - JACKSON STATE UNIVERSITY (§§ 37-125-1 — 37-125-7)
+
+Chapter 127 - MISSISSIPPI VALLEY STATE UNIVERSITY (§§ 37-127-1 — 37-127-7)
+
+Chapter 129 - NURSING SCHOOLS AND SCHOLARSHIPS (§§ 37-129-1 — 37-129-5)
+
+Chapter 131 - TEACHERS DEMONSTRATION AND PRACTICE SCHOOLS (§§ 37-131-1 — 37-131-15)
+
+Chapter 132 - STUDENT TEACHERS (§§ 37-132-1 — 37-132-5)
+
+Chapter 133 - TECHNICAL INSTITUTES (§§ 37-133-1 — 37-133-9)
+
+Chapter 135 - COMPACTS WITH OTHER STATES (§§ 37-135-1 — 37-135-31)
+
+Chapter 137 - SCHOOL ASBESTOS HAZARD ELIMINATION ACT [Repealed] (§ 37-137-1)
+
+Chapter 138 - ASBESTOS ABATEMENT ACCREDITATION AND CERTIFICATION ACT (§§ 37-138-1 — 37-138-31)
+
+Chapter 139 - MISSISSIPPI SCHOOL FOR MATHEMATICS AND SCIENCE (§§ 37-139-1 — 37-139-13)
+
+Chapter 140 - MISSISSIPPI SCHOOL OF THE ARTS (§§ 37-140-1 — 37-140-17)
+
+Chapter 141 - THE UNIVERSITY RESEARCH CENTER ACT OF 1988 (§§ 37-141-1 — 37-141-57)
+
+Chapter 143 - OMNIBUS LOAN OR SCHOLARSHIP ACT OF 1991 (§ 37-143-1)
+
+Chapter 144 - MISSISSIPPI RURAL PHYSICIANS SCHOLARSHIP PROGRAM (§§ 37-144-1 — 37-144-21)
+
+Chapter 145 - MISSISSIPPI OPPORTUNITY LOAN PROGRAM ACT (§§ 37-145-1 — 37-145-73)
+
+Chapter 146 - MISSISSIPPI RURAL DENTISTS SCHOLARSHIP PROGRAM (§§ 37-146-1 — 37-146-21)
+
+Chapter 147 - MISSISSIPPI UNIVERSITY RESEARCH AUTHORITY ACT (§§ 37-147-1 — 37-147-15)
+
+Chapter 148 - STRENGTHENING MISSISSIPPI ACADEMIC RESEARCH THROUGH BUSINESS ACT (§§ 37-148-1 — 37-148-11)
+
+Chapter 149 - MISSISSIPPI TEACHER CENTER (§§ 37-149-1 — 37-149-7)
+
+Chapter 151 - MISSISSIPPI ACCOUNTABILITY AND ADEQUATE EDUCATION PROGRAM ACT OF 1997 (§§ 37-151-1 — 37-151-215)
+
+Chapter 152 - COMMISSION ON RESTRUCTURING THE MISSISSIPPI ADEQUATE EDUCATION PROGRAM (MAEP)
+
+Chapter 153 - WORKFORCE DEVELOPMENT, TRAINING, EDUCATION AND RETENTION (§§ 37-153-1 — 37-153-223)
+
+Chapter 154 - STATE LONGITUDINAL DATA SYSTEM (§§ 37-154-1 — 37-154-3)
+
+Chapter 155 - COLLEGE SAVINGS PLANS OF MISSISSIPPI (§§ 37-155-1 — 37-155-125)
+
+Chapter 157 - STUDENT TUITION ASSISTANCE (§ 37-157-1)
+
+Chapter 159 - MISSISSIPPI TEACHER SCHOLARSHIP PROGRAMS (§§ 37-159-1 — 37-159-51)
+
+Chapter 160 - TEACH FOR AMERICA ACT (§§ 37-160-1 — 37-160-7)
+
+Chapter 161 - MISSISSIPPI EDUCATION REFORM ACT OF 2006 (§§ 37-161-1 — 37-161-7)
+
+Chapter 163 - EDUCATION ACHIEVEMENT COUNCIL (§ 37-163-1)
+
+Chapter 165 - CONVERSION CHARTER SCHOOL ACT OF 2010 (§ 37-165-1)
+
+Chapter 167 - NEW START SCHOOL PROGRAM [Repealed] (§ 37-167-1)
+
+Chapter 169 - MISSISSIPPI AUTISM ADVISORY COMMITTEE (§§ 37-169-1 — 37-169-5)
+
+Chapter 171 - USE OF SCHOOL PROPERTY BY PUBLIC FOR RECREATION AND SPORTS (§§ 37-171-1 — 37-171-7)
+
+Chapter 173 - DYSLEXIA THERAPY SCHOLARSHIP FOR STUDENTS WITH DYSLEXIA PROGRAM (§§ 37-173-1 — 37-173-NEW)
+
+Chapter 175 - MISSISSIPPI SPEECH-LANGUAGE THERAPY SCHOLARSHIP FOR STUDENTS WITH SPEECH-LANGUAGE IMPAIRMENTS PROGRAM (§§ 37-175-1 — 37-175-29)
+
+Chapter 177 - LITERACY-BASED PROMOTION ACT (§§ 37-177-1 — 37-177-21)
+
+Chapter 179 - DISTRICTS OF INNOVATION (§§ 37-179-1 — 37-179-3)
+
+Chapter 181 - EQUAL OPPORTUNITY FOR STUDENTS WITH SPECIAL NEEDS ACT (§§ 37-181-1 — 37-181-23)
+
+Chapter 183 - POSTSECONDARY EDUCATION COVID-19 MITIGATION RELIEF PROGRAM ACT (§§ 37-183-1 — 37-183-9)
+
+Chapter 185 - GRANT PROGRAMS FOR INDEPENDENT PRIMARY AND SECONDARY SCHOOLS, COLLEGES AND UNIVERSITIES (§§ 37-185-1 — 37-185-31)
+
+Chapter 187 - MISSISSIPPI PANDEMIC RESPONSE BROADBAND AVAILABILITY (§§ 37-187-1 — 37-187-7)
+
+Chapter NEW - PARAMEDICS RECRUITMENT AND RETENTION SCHOLARSHIP PROGRAM ACT (§§ 37-NEW01-001 — 37-NEW01-004)
+
+Previous
+
+Next
+
+Disclaimer: These codes may not be the most recent version. Mississippi may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
+
+This site is protected by reCAPTCHA and the Google
+Privacy Policy and
+Terms of Service apply.
+
+Toggle button
+
+Get free summaries of new opinions delivered to your inbox!
+
+Enter Your Email
+
+Sign Up
+
+Justia Legal Resources
+
+Find a Lawyer
+
+Bankruptcy Lawyers
+
+Business Lawyers
+
+Criminal Lawyers
+
+Employment Lawyers
+
+Estate Planning Lawyers
+
+Family Lawyers
+
+Personal Injury Lawyers
+
+More...
+
+Individuals
+
+Bankruptcy
+
+Criminal
+
+Divorce
+
+DUI
+
+Estate Planning
+
+Family Law
+
+Personal Injury
+
+More...
+
+Business
+
+Business Formation
+
+Business Operations
+
+Employment
+
+Intellectual Property
+
+International Trade
+
+Real Estate
+
+Tax Law
+
+More...
+
+Law Schools
+
+Dictionary
+
+Admissions
+
+Financial Aid
+
+Course Outlines
+
+Law Journals
+
+Blogs
+
+Employment
+
+More...
+
+US Federal Law
+
+US Constitution
+
+US Code
+
+Regulations
+
+Supreme Court
+
+Circuit Courts
+
+District Courts
+
+Dockets & Filings
+
+More...
+
+US State Law
+
+State Constitutions
+
+State Codes
+
+State Case Law
+
+California
+
+Florida
+
+New York
+
+Texas
+
+More...
+
+Other Databases
+
+Legal Jobs
+
+Legal Blogs
+
+Business Forms
+
+Product Recalls
+
+Patents
+
+Trademarks
+
+Countries
+
+More...
+
+Marketing Solutions
+
+Justia Connect Membership
+
+Justia Lawyer Directory
+
+Justia Premium Placements
+
+Justia Elevate (SEO, Websites)
+
+Justia Amplify (PPC, GBP)
+
+Justia Onward Blog
+
+Testimonials
+
+More...
+
+© 2024 Justia
+
+Justia Connect
+Legal Portal
+Company
+Help
+Terms of Service
+Privacy Policy
+Marketing Solutions
