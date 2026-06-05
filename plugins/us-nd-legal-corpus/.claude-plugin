@@ -1,0 +1,10 @@
+{
+  "name": "us-nd-legal-corpus",
+  "description": "Comprehensive corpus of North Dakota state law \u2014 North Dakota Century Code (NDCC), state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "north dakota",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
