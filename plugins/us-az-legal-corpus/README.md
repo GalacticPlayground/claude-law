@@ -14,11 +14,23 @@ Applies **Ariz. R. Civ. P. 10 / 7.1** formatting (the Superior Court of Arizona 
 
 ## Reference corpora
 
-Under `skills/az-law-references/references/` (each corpus dir has its own README): `az-statutes-debt/` (verbatim A.R.S. via azleg.gov), `court-rules/` (verbatim ARCP + Ariz. R. Evid. + ARFLP + JCRCP via the courtrules.net mirror — azcourts.gov is Cloudflare-gated), plus curated reference files and the shared federal symlinks.
+Top-level generated corpora live under `references/`:
+
+- `az_statutes/` — 12 curated Arizona Revised Statutes topic files plus `_manifest.json`. Current files are pointer stubs because the June 4, 2026 pull could not retrieve verbatim text from `azleg.gov` in this runtime.
+- `az_court_rules/` — ARCP, Ariz. R. Evid., ARFLP, and JCRCP files plus `_manifest.json`. Current files are pointer stubs because the June 4, 2026 pull could not retrieve rule text from the `courtrules.net` mirror in this runtime; `azcourts.gov` remains the canonical authority.
+
+The skill-hosted `skills/az-law-references/references/` directory contains curated Arizona reference maps and shared federal symlinks used by `az-law-references`.
 
 ## Refresh
 
-`scripts/pull_arizona_statutes.py` · `scripts/pull_arizona_rules.py`. Plugin scripts: `format-check.py` (Ariz. R. Civ. P. 10 / 7.1) · `case-calendar.py` (Ariz. R. Civ. P. 6 + A.R.S. § 1-301 holidays).
+Populate the generated corpora with:
+
+```bash
+HTTPS_PROXY=http://192.168.8.21:9091 python3 scripts/pull_arizona_statutes.py --out plugins/us-az-legal-corpus/references/az_statutes/
+HTTPS_PROXY=http://192.168.8.21:9091 python3 scripts/pull_arizona_rules.py --out plugins/us-az-legal-corpus/references/az_court_rules/
+```
+
+Plugin scripts: `format-check.py` (Ariz. R. Civ. P. 10 / 7.1) · `case-calendar.py` (Ariz. R. Civ. P. 6 + A.R.S. § 1-301 holidays).
 
 ---
 Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
