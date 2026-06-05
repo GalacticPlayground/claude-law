@@ -1,0 +1,85 @@
+# KS — Article 2
+
+**Source:** <https://www.kslegislature.org/li/b2025_26/statute/002_000_0000_chapter/>
+**Plugin:** `us-ks-legal-corpus`
+**Pulled:** 2026-06-05
+
+---
+
+Kansas Statutes 
+
+ Skip to main content 
+
+ 2026 Kansas Statutes
+
+ search 
+ Search
+
+ Article 1. - STATE AND OTHER AGRICULTURAL SOCIETIES AND FAIRS 
+
+ Article 2. - STATE FAIR 
+
+ Article 3. - FAIRS IN COUNTIES OVER 50,000 POPULATION 
+
+ Article 5. - COUNTY DEMONSTRATION FARMS 
+
+ Article 6. - COUNTY EXTENSION 
+
+ Article 7. - INSECTS AND PLANT DISEASES 
+
+ Article 8. - STATE HORTICULTURAL SOCIETY 
+
+ Article 9. - POULTRY 
+
+ Article 10. - COMMERCIAL FEEDING STUFFS 
+
+ Article 11. - SALE OF FARM PRODUCE 
+
+ Article 12. - FERTILIZERS 
+
+ Article 13. - WEEDS 
+
+ Article 14. - SALE AND DISTRIBUTION OF AGRICULTURAL SEEDS 
+
+ Article 16. - BOARD OF TRADE 
+
+ Article 19. - CONSERVATION DISTRICTS 
+
+ Article 20. - SOIL EROSION CAUSED BY WIND 
+
+ Article 21. - PLANT PESTS 
+
+ Article 22. - AGRICULTURAL CHEMICALS 
+
+ Article 23. - LABELING OF AGRICULTURAL PRODUCTS 
+
+ Article 24. - PEST CONTROL 
+
+ Article 25. - KANSAS EGG LAW 
+
+ Article 27. - AGRICULTURAL HALL OF FAME 
+
+ Article 28. - SOIL AMENDMENT ACT 
+
+ Article 29. - AGRICULTURAL LIMING MATERIALS 
+
+ Article 30. - GRAIN COMMODITY COMMISSIONS 
+
+ Article 31. - INTERSTATE COMPACT ON AGRICULTURAL GRAIN MARKETING 
+
+ Article 32. - PROTECTION OF FARMLAND AND AGRICULTURAL ACTIVITIES 
+
+ Article 33. - CHEMIGATION SAFETY 
+
+ Article 36. - AGRICULTURAL SEED COUNCIL 
+
+ Article 37. - ENVIRONMENTAL REMEDIATION 
+
+ Article 38. - FARMERS' MARKETS. 
+
+ Article 39. - INDUSTRIAL HEMP 
+
+ © 2026 Revisor of Statutes, State of Kansas
+
+ arrow_upward 
+ Top

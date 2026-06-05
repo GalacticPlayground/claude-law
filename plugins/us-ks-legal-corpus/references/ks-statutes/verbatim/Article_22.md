@@ -1,0 +1,81 @@
+# KS — Article 22
+
+**Source:** <https://www.kslegislature.org/li/b2025_26/statute/022_000_0000_chapter/>
+**Plugin:** `us-ks-legal-corpus`
+**Pulled:** 2026-06-05
+
+---
+
+Kansas Statutes 
+
+ Skip to main content 
+
+ 2026 Kansas Statutes
+
+ search 
+ Search
+
+ Article 21. - TITLE AND SCOPE 
+
+ Article 22. - GENERAL DEFINITIONS 
+
+ Article 23. - PRELIMINARY PROCEEDINGS 
+
+ Article 24. - ARREST 
+
+ Article 25. - SEARCH AND SEIZURE 
+
+ Article 26. - JURISDICTION AND VENUE 
+
+ Article 27. - UNIFORM CRIMINAL EXTRADITION ACT 
+
+ Article 28. - CONDITIONS OF RELEASE 
+
+ Article 29. - PROCEDURE AFTER ARREST 
+
+ Article 30. - GRAND JURIES 
+
+ Article 31. - INQUISITIONS IN CRIMINAL CASES 
+
+ Article 32. - PROCEEDINGS BEFORE TRIAL 
+
+ Article 33. - COMPETENCY OF DEFENDANT TO STAND TRIAL 
+
+ Article 34. - TRIALS AND INCIDENTS THERETO 
+
+ Article 35. - POST-TRIAL MOTIONS 
+
+ Article 36. - APPEALS 
+
+ Article 37. - RELEASE PROCEDURES 
+
+ Article 38. - COSTS IN CRIMINAL CASES 
+
+ Article 39. - ABATEMENT OF COMMON NUISANCES 
+
+ Article 40. - EXECUTION OF DEATH SENTENCES 
+
+ Article 41. - PAROLE VIOLATIONS 
+
+ Article 42. - OUT-OF-STATE WITNESSES 
+
+ Article 43. - UNIFORM MANDATORY DISPOSITION OF DETAINERS ACT 
+
+ Article 44. - AGREEMENT ON DETAINERS 
+
+ Article 45. - AID TO INDIGENT DEFENDANTS 
+
+ Article 46. - GENERAL PROVISIONS 
+
+ Article 47. - CRIMINAL HISTORY RECORD INFORMATION 
+
+ Article 48. - FORFEITURE 
+
+ Article 49. - OFFENDER REGISTRATION 
+
+ Article 50. - NATIONAL CRIME PREVENTION AND PRIVACY COMPACT 
+
+ © 2026 Revisor of Statutes, State of Kansas
+
+ arrow_upward 
+ Top

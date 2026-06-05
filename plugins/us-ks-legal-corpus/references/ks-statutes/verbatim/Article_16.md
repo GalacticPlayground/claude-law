@@ -1,0 +1,51 @@
+# KS — Article 16
+
+**Source:** <https://www.kslegislature.org/li/b2025_26/statute/016_000_0000_chapter/>
+**Plugin:** `us-ks-legal-corpus`
+**Pulled:** 2026-06-05
+
+---
+
+Kansas Statutes 
+
+ Skip to main content 
+
+ 2026 Kansas Statutes
+
+ search 
+ Search
+
+ Article 1. - GENERAL PROVISIONS 
+
+ Article 2. - INTEREST AND CHARGES 
+
+ Article 3. - FUNERAL AND CEMETERY MERCHANDISE AGREEMENTS, CONTRACTS AND PLANS 
+
+ Article 7. - REGULATION OF PAWNBROKERS AND PRECIOUS METAL DEALERS 
+
+ Article 8. - TRUTH IN LENDING 
+
+ Article 10. - CONTRACTS TO MAINTAIN STOCK OF FARM EQUIPMENT 
+
+ Article 12. - FARM EQUIPMENT DEALERSHIP AGREEMENTS 
+
+ Article 13. - OUTDOOR POWER EQUIPMENT DEALERSHIP AGREEMENTS 
+
+ Article 14. - LAWN AND GARDEN EQUIPMENT DEALERSHIP AGREEMENTS 
+
+ Article 15. - SWINE CONTRACTS AND MARKETING POOLS 
+
+ Article 16. - ELECTRONIC TRANSACTIONS 
+
+ Article 17. - POULTRY PRODUCTION CONTRACTS 
+
+ Article 18. - KANSAS FAIRNESS IN PRIVATE CONSTRUCTION CONTRACT ACT 
+
+ Article 19. - KANSAS FAIRNESS IN PUBLIC CONSTRUCTION CONTRACT ACT 
+
+ Article 20. - COMPETITIVE BID PROTECTION ACT 
+
+ © 2026 Revisor of Statutes, State of Kansas
+
+ arrow_upward 
+ Top

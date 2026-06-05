@@ -1,0 +1,59 @@
+# KS — Article 66
+
+**Source:** <https://www.kslegislature.org/li/b2025_26/statute/066_000_0000_chapter/>
+**Plugin:** `us-ks-legal-corpus`
+**Pulled:** 2026-06-05
+
+---
+
+Kansas Statutes 
+
+ Skip to main content 
+
+ 2026 Kansas Statutes
+
+ search 
+ Search
+
+ Article 1. - POWERS OF STATE CORPORATION COMMISSION 
+
+ Article 1a. - FEES 
+
+ Article 2. - DUTIES AND LIABILITIES OF RAILROAD COMPANIES 
+
+ Article 3. - DUTIES AND LIABILITIES OF RAILROADS AND OTHER CARRIERS 
+
+ Article 4. - RAILROAD CORPORATIONS 
+
+ Article 5. - POWERS OF RAILROAD COMPANIES 
+
+ Article 8. - FORECLOSURE PROCEEDINGS 
+
+ Article 9. - EMINENT DOMAIN 
+
+ Article 12. - MISCELLANEOUS PROVISIONS 
+
+ Article 13. - MOTOR CARRIERS 
+
+ Article 14. - HOLDING COMPANIES 
+
+ Article 15. - COSTS AND EXPENSES OF INVESTIGATION AND REGULATION; HEARINGS 
+
+ Article 16. - TAMPERING WITH UTILITY EQUIPMENT AND SERVICE; CIVIL PENALTIES 
+
+ Article 17. - OVERHEAD POWER LINE ACCIDENT PREVENTION 
+
+ Article 18. - UTILITY DAMAGE PREVENTION 
+
+ Article 20. - TELECOMMUNICATIONS 
+
+ Article 21. - RURAL KANSAS SELF-HELP GAS ACT 
+
+ Article 22. - GAS SAFETY AND RELIABILITY POLICY ACT 
+
+ Article 23. - NUCLEAR GENERATING FACILITY SECURITY GUARDS 
+
+ © 2026 Revisor of Statutes, State of Kansas
+
+ arrow_upward 
+ Top

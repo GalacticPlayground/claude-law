@@ -1,0 +1,57 @@
+# KS — Article 23
+
+**Source:** <https://www.kslegislature.org/li/b2025_26/statute/023_000_0000_chapter/>
+**Plugin:** `us-ks-legal-corpus`
+**Pulled:** 2026-06-05
+
+---
+
+Kansas Statutes 
+
+ Skip to main content 
+
+ 2026 Kansas Statutes
+
+ search 
+ Search
+
+ Article 21. - PREFATORY 
+
+ Article 22. - PARENTAGE ACT 
+
+ Article 23. - ASSISTED CONCEPTION, REPRODUCTIVE TECHNOLOGY 
+
+ Article 24. - PREMARITAL AGREEMENTS 
+
+ Article 25. - MARRIAGE 
+
+ Article 26. - MARITAL PROPERTY RIGHTS 
+
+ Article 27. - DISSOLUTION OF MARRIAGE 
+
+ Article 28. - DIVISION OF PROPERTY 
+
+ Article 29. - ESTABLISHMENT AND MODIFICATION OF SPOUSAL SUPPORT 
+
+ Article 30. - ESTABLISHMENT AND MODIFICATION OF CHILD SUPPORT 
+
+ Article 31. - ENFORCEMENT OF SUPPORT ORDERS 
+
+ Article 32. - LEGAL CUSTODY, RESIDENCY AND PARENTING PLANS 
+
+ Article 33. - NONPARENT VISITATION 
+
+ Article 34. - ENFORCEMENT OF VISITATION AND PARENTING TIME 
+
+ Article 35. - ALTERNATIVE DISPUTE RESOLUTION 
+
+ Article 36. - FAMILY SUPPORT JURISDICTION 
+
+ Article 37. - UNIFORM CHILD-CUSTODY JURISDICTION AND ENFORCEMENT ACT (UCCJEA) 
+
+ Article 38. - UNIFORM CHILD ABDUCTION PREVENTION ACT (UCAPA) 
+
+ © 2026 Revisor of Statutes, State of Kansas
+
+ arrow_upward 
+ Top
