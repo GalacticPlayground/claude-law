@@ -1,0 +1,3099 @@
+# NC — Chapter 25
+
+**Source:** <https://www.ncleg.gov/Laws/GeneralStatuteSections/Chapter25>
+**Plugin:** `us-nc-legal-corpus`
+**Pulled:** 2026-06-05
+
+---
+
+General Statute Sections - North Carolina General Assembly 
+
+ Chapter 25 - Uniform Commercial Code.
+
+ The General Statutes include changes through S.L. 2026-3 .
+
+ General Statutes published on this website are not official. Please read the caveats for more information.
+
+ Search
+
+ Chapter * 
+ All chapters 
+ Chapter 1 
+ Chapter 1A 
+ Chapter 1B 
+ Chapter 1C 
+ Chapter 1D 
+ Chapter 1E 
+ Chapter 1F 
+ Chapter 1G 
+ Chapter 2 
+ Chapter 3 
+ Chapter 4 
+ Chapter 5 
+ Chapter 5A 
+ Chapter 6 
+ Chapter 7 
+ Chapter 7A 
+ Chapter 7B 
+ Chapter 8 
+ Chapter 8A 
+ Chapter 8B 
+ Chapter 8C 
+ Chapter 9 
+ Chapter 10 
+ Chapter 10A 
+ Chapter 10B 
+ Chapter 11 
+ Chapter 12 
+ Chapter 13 
+ Chapter 14 
+ Chapter 15 
+ Chapter 15A 
+ Chapter 15B 
+ Chapter 15C 
+ Chapter 16 
+ Chapter 17 
+ Chapter 17A 
+ Chapter 17B 
+ Chapter 17C 
+ Chapter 17D 
+ Chapter 17E 
+ Chapter 17F 
+ Chapter 18 
+ Chapter 18A 
+ Chapter 18B 
+ Chapter 18C 
+ Chapter 19 
+ Chapter 19A 
+ Chapter 20 
+ Chapter 21 
+ Chapter 22 
+ Chapter 22A 
+ Chapter 22B 
+ Chapter 22C 
+ Chapter 23 
+ Chapter 24 
+ Chapter 25 
+ Chapter 25A 
+ Chapter 25B 
+ Chapter 25C 
+ Chapter 26 
+ Chapter 27 
+ Chapter 28 
+ Chapter 28A 
+ Chapter 28B 
+ Chapter 28C 
+ Chapter 29 
+ Chapter 30 
+ Chapter 31 
+ Chapter 31A 
+ Chapter 31B 
+ Chapter 31C 
+ Chapter 31D 
+ Chapter 32 
+ Chapter 32A 
+ Chapter 32C 
+ Chapter 33 
+ Chapter 33A 
+ Chapter 33B 
+ Chapter 34 
+ Chapter 35 
+ Chapter 35A 
+ Chapter 35B 
+ Chapter 36 
+ Chapter 36A 
+ Chapter 36B 
+ Chapter 36C 
+ Chapter 36D 
+ Chapter 36E 
+ Chapter 36F 
+ Chapter 37 
+ Chapter 37A 
+ Chapter 38 
+ Chapter 38A 
+ Chapter 38B 
+ Chapter 39 
+ Chapter 39A 
+ Chapter 40 
+ Chapter 40A 
+ Chapter 41 
+ Chapter 41A 
+ Chapter 42 
+ Chapter 42A 
+ Chapter 43 
+ Chapter 44 
+ Chapter 44A 
+ Chapter 45 
+ Chapter 45A 
+ Chapter 46 
+ Chapter 46A 
+ Chapter 47 
+ Chapter 47A 
+ Chapter 47B 
+ Chapter 47C 
+ Chapter 47D 
+ Chapter 47E 
+ Chapter 47F 
+ Chapter 47G 
+ Chapter 47H 
+ Chapter 48 
+ Chapter 48A 
+ Chapter 49 
+ Chapter 49A 
+ Chapter 50 
+ Chapter 50A 
+ Chapter 50B 
+ Chapter 50C 
+ Chapter 50D 
+ Chapter 51 
+ Chapter 52 
+ Chapter 52A 
+ Chapter 52B 
+ Chapter 52C 
+ Chapter 53 
+ Chapter 53A 
+ Chapter 53B 
+ Chapter 53C 
+ Chapter 54 
+ Chapter 54A 
+ Chapter 54B 
+ Chapter 54C 
+ Chapter 54D 
+ Chapter 55 
+ Chapter 55A 
+ Chapter 55B 
+ Chapter 55C 
+ Chapter 55D 
+ Chapter 56 
+ Chapter 57 
+ Chapter 57A 
+ Chapter 57B 
+ Chapter 57C 
+ Chapter 57D 
+ Chapter 58 
+ Chapter 58A 
+ Chapter 59 
+ Chapter 59B 
+ Chapter 60 
+ Chapter 61 
+ Chapter 62 
+ Chapter 62A 
+ Chapter 63 
+ Chapter 63A 
+ Chapter 64 
+ Chapter 65 
+ Chapter 66 
+ Chapter 67 
+ Chapter 68 
+ Chapter 69 
+ Chapter 70 
+ Chapter 71 
+ Chapter 71A 
+ Chapter 72 
+ Chapter 73 
+ Chapter 74 
+ Chapter 74A 
+ Chapter 74B 
+ Chapter 74C 
+ Chapter 74D 
+ Chapter 74E 
+ Chapter 74F 
+ Chapter 74G 
+ Chapter 75 
+ Chapter 75A 
+ Chapter 75B 
+ Chapter 75C 
+ Chapter 75D 
+ Chapter 75E 
+ Chapter 76 
+ Chapter 76A 
+ Chapter 77 
+ Chapter 78 
+ Chapter 78A 
+ Chapter 78B 
+ Chapter 78C 
+ Chapter 78D 
+ Chapter 79 
+ Chapter 80 
+ Chapter 81 
+ Chapter 81A 
+ Chapter 82 
+ Chapter 83 
+ Chapter 83A 
+ Chapter 84 
+ Chapter 84A 
+ Chapter 85 
+ Chapter 85A 
+ Chapter 85B 
+ Chapter 85C 
+ Chapter 86 
+ Chapter 86A 
+ Chapter 86B 
+ Chapter 87 
+ Chapter 88 
+ Chapter 88A 
+ Chapter 88B 
+ Chapter 89 
+ Chapter 89A 
+ Chapter 89B 
+ Chapter 89C 
+ Chapter 89D 
+ Chapter 89E 
+ Chapter 89F 
+ Chapter 89G 
+ Chapter 90 
+ Chapter 90A 
+ Chapter 90B 
+ Chapter 90C 
+ Chapter 90D 
+ Chapter 91 
+ Chapter 91A 
+ Chapter 92 
+ Chapter 93 
+ Chapter 93A 
+ Chapter 93B 
+ Chapter 93C 
+ Chapter 93D 
+ Chapter 93E 
+ Chapter 94 
+ Chapter 95 
+ Chapter 96 
+ Chapter 97 
+ Chapter 98 
+ Chapter 99 
+ Chapter 99A 
+ Chapter 99B 
+ Chapter 99C 
+ Chapter 99D 
+ Chapter 99E 
+ Chapter 100 
+ Chapter 101 
+ Chapter 102 
+ Chapter 103 
+ Chapter 104 
+ Chapter 104A 
+ Chapter 104B 
+ Chapter 104C 
+ Chapter 104D 
+ Chapter 104E 
+ Chapter 104F 
+ Chapter 104G 
+ Chapter 105 
+ Chapter 105A 
+ Chapter 105B 
+ Chapter 106 
+ Chapter 107 
+ Chapter 108 
+ Chapter 108A 
+ Chapter 108B 
+ Chapter 108C 
+ Chapter 108D 
+ Chapter 109 
+ Chapter 110 
+ Chapter 111 
+ Chapter 112 
+ Chapter 113 
+ Chapter 113A 
+ Chapter 113B 
+ Chapter 114 
+ Chapter 114A 
+ Chapter 115 
+ Chapter 115A 
+ Chapter 115B 
+ Chapter 115C 
+ Chapter 115D 
+ Chapter 115E 
+ Chapter 116 
+ Chapter 116A 
+ Chapter 116B 
+ Chapter 116C 
+ Chapter 116D 
+ Chapter 116E 
+ Chapter 117 
+ Chapter 118 
+ Chapter 118A 
+ Chapter 118B 
+ Chapter 119 
+ Chapter 120 
+ Chapter 120C 
+ Chapter 121 
+ Chapter 122 
+ Chapter 122A 
+ Chapter 122B 
+ Chapter 122C 
+ Chapter 122D 
+ Chapter 122E 
+ Chapter 123 
+ Chapter 123A 
+ Chapter 124 
+ Chapter 125 
+ Chapter 126 
+ Chapter 127 
+ Chapter 127A 
+ Chapter 127B 
+ Chapter 127C 
+ Chapter 128 
+ Chapter 129 
+ Chapter 130 
+ Chapter 130A 
+ Chapter 130B 
+ Chapter 131 
+ Chapter 131A 
+ Chapter 131B 
+ Chapter 131C 
+ Chapter 131D 
+ Chapter 131E 
+ Chapter 131F 
+ Chapter 132 
+ Chapter 133 
+ Chapter 134 
+ Chapter 134A 
+ Chapter 135 
+ Chapter 136 
+ Chapter 137 
+ Chapter 138 
+ Chapter 138A 
+ Chapter 139 
+ Chapter 140 
+ Chapter 140A 
+ Chapter 141 
+ Chapter 142 
+ Chapter 143 
+ Chapter 143A 
+ Chapter 143B 
+ Chapter 143C 
+ Chapter 143D 
+ Chapter 143E 
+ Chapter 144 
+ Chapter 145 
+ Chapter 146 
+ Chapter 147 
+ Chapter 148 
+ Chapter 149 
+ Chapter 150 
+ Chapter 150A 
+ Chapter 150B 
+ Chapter 151 
+ Chapter 152 
+ Chapter 152A 
+ Chapter 153 
+ Chapter 153A 
+ Chapter 153B 
+ Chapter 153C 
+ Chapter 154 
+ Chapter 155 
+ Chapter 156 
+ Chapter 157 
+ Chapter 157A 
+ Chapter 158 
+ Chapter 159 
+ Chapter 159A 
+ Chapter 159B 
+ Chapter 159C 
+ Chapter 159D 
+ Chapter 159E 
+ Chapter 159F 
+ Chapter 159G 
+ Chapter 159I 
+ Chapter 160 
+ Chapter 160A 
+ Chapter 160B 
+ Chapter 160C 
+ Chapter 160D 
+ Chapter 161 
+ Chapter 162 
+ Chapter 162A 
+ Chapter 162B 
+ Chapter 163 
+ Chapter 163A 
+ Chapter 164 
+ Chapter 165 
+ Chapter 166 
+ Chapter 166A 
+ Chapter 167 
+ Chapter 168 
+ Chapter 168A 
+ Chapter 169 
+ 
+ Please select a chapter 
+
+ Search Text * 
+ 
+ Please enter search text 
+
+ Results type * 
+ Return chapters 
+ Return articles 
+ Return sections 
+ 
+ Please select a results type 
+
+ Search 
+
+ Citation Lookup
+
+ Citation Number *  (Example: 17D-4) 
+ 
+ Please enter a citation number 
+
+  Get HTML 
+  Get PDF 
+
+ Chapter 25 
+
+  Chapter HTML 
+  Chapter PDF 
+
+ Article 1 - General Provisions. 
+
+ G.S. 25-1-101 
+
+ § 25-1-101. Short titles. 
+
+ G.S. 25-1-102 
+
+ § 25-1-102. Scope of Article. 
+
+ G.S. 25-1-103 
+
+ § 25-1-103. Construction of this Chapter to promote its purposes and policies; applicability of supplemental principles of law. 
+
+ G.S. 25-1-104 
+
+ § 25-1-104. Construction against implied repeal. 
+
+ G.S. 25-1-105 
+
+ § 25-1-105. Severability. 
+
+ G.S. 25-1-106 
+
+ § 25-1-106. Use of singular and plural; gender. 
+
+ G.S. 25-1-107 
+
+ § 25-1-107. Section captions. 
+
+ G.S. 25-1-108 
+
+ § 25-1-108. Relation to Electronic Signatures in Global and National Commerce Act. 
+
+ G.S. 25-1-201 
+
+ § 25-1-201. General definitions. 
+
+ G.S. 25-1-202 
+
+ § 25-1-202. Notice; knowledge. 
+
+ G.S. 25-1-203 
+
+ § 25-1-203. Lease distinguished from security interest. 
+
+ G.S. 25-1-204 
+
+ § 25-1-204. Value. 
+
+ G.S. 25-1-205 
+
+ § 25-1-205. Reasonable time; seasonableness. 
+
+ G.S. 25-1-206 
+
+ § 25-1-206. Presumptions. 
+
+ G.S. 25-1-301 
+
+ § 25-1-301. Territorial applicability; parties' power to choose applicable law. 
+
+ G.S. 25-1-302 
+
+ § 25-1-302. Variation by agreement. 
+
+ G.S. 25-1-303 
+
+ § 25-1-303. Course of performance, course of dealing, and usage of trade. 
+
+ G.S. 25-1-304 
+
+ § 25-1-304. Obligation of good faith. 
+
+ G.S. 25-1-305 
+
+ § 25-1-305. Remedies to be liberally administered. 
+
+ G.S. 25-1-306 
+
+ § 25-1-306. Waiver or renunciation of claim or right after breach. 
+
+ G.S. 25-1-307 
+
+ § 25-1-307. Prima facie evidence by third-party documents. 
+
+ G.S. 25-1-308 
+
+ § 25-1-308. Performance or acceptance under reservation of rights. 
+
+ G.S. 25-1-309 
+
+ § 25-1-309. Option to accelerate at will. 
+
+ G.S. 25-1-310 
+
+ § 25-1-310. Subordinated obligations. 
+
+ Article 2 - Sales. 
+
+ G.S. 25-2-101 
+
+ § 25-2-101. Short title. 
+
+ G.S. 25-2-102 
+
+ § 25-2-102. Scope; certain security and other transactions excluded from this Article. 
+
+ G.S. 25-2-103 
+
+ § 25-2-103. Definitions and index of definitions. 
+
+ G.S. 25-2-104 
+
+ § 25-2-104. Definitions: "Merchant"; "between merchants"; "financing agency." 
+
+ G.S. 25-2-105 
+
+ § 25-2-105. Definitions: "Transferability"; "goods"; "future" goods; "lot"; "commercial unit." 
+
+ G.S. 25-2-106 
+
+ § 25-2-106. Definitions: "Contract"; "agreement"; "contract for sale"; "sale"; "present sale"; "layaway contract"; "conforming" to contract; "termination"; "cancellation"; "hybrid transaction." 
+
+ G.S. 25-2-107 
+
+ § 25-2-107. Goods to be severed from realty; recording. 
+
+ G.S. 25-2-201 
+
+ § 25-2-201. Formal requirements; statute of frauds. 
+
+ G.S. 25-2-202 
+
+ § 25-2-202. Final expression; parol or extrinsic evidence. 
+
+ G.S. 25-2-203 
+
+ § 25-2-203. Seals inoperative. 
+
+ G.S. 25-2-204 
+
+ § 25-2-204. Formation in general. 
+
+ G.S. 25-2-205 
+
+ § 25-2-205. Firm offers. 
+
+ G.S. 25-2-206 
+
+ § 25-2-206. Offer and acceptance in formation of contract. 
+
+ G.S. 25-2-207 
+
+ § 25-2-207. Additional terms in acceptance or confirmation. 
+
+ G.S. 25-2-208 
+
+ § 25-2-208: Repealed by Session Laws 2006-112, s. 4, effective October 1, 2006. 
+
+ G.S. 25-2-209 
+
+ § 25-2-209. Modification, rescission, and waiver. 
+
+ G.S. 25-2-210 
+
+ § 25-2-210. Delegation of performance; assignment of rights. 
+
+ G.S. 25-2-301 
+
+ § 25-2-301. General obligations of parties. 
+
+ G.S. 25-2-302 
+
+ § 25-2-302. Unconscionable contract or clause. 
+
+ G.S. 25-2-303 
+
+ § 25-2-303. Allocation or division of risks. 
+
+ G.S. 25-2-304 
+
+ § 25-2-304. Price payable in money, goods, realty, or otherwise. 
+
+ G.S. 25-2-305 
+
+ § 25-2-305. Open price term. 
+
+ G.S. 25-2-306 
+
+ § 25-2-306. Output, requirements and exclusive dealings. 
+
+ G.S. 25-2-307 
+
+ § 25-2-307. Delivery in single lot or several lots. 
+
+ G.S. 25-2-308 
+
+ § 25-2-308. Absence of specified place for delivery. 
+
+ G.S. 25-2-309 
+
+ § 25-2-309. Absence of specific time provisions; notice of termination. 
+
+ G.S. 25-2-310 
+
+ § 25-2-310. Open time for payment or running of credit; authority to ship under reservation. 
+
+ G.S. 25-2-311 
+
+ § 25-2-311. Options and cooperation respecting performance. 
+
+ G.S. 25-2-312 
+
+ § 25-2-312. Warranty of title and against infringement; buyer's obligation against infringement. 
+
+ G.S. 25-2-313 
+
+ § 25-2-313. Express warranties by affirmation, promise, description, sample. 
+
+ G.S. 25-2-314 
+
+ § 25-2-314. Implied warranty: Merchantability; usage of trade. 
+
+ G.S. 25-2-315 
+
+ § 25-2-315. Implied warranty: Fitness for particular purpose. 
+
+ G.S. 25-2-316 
+
+ § 25-2-316. Exclusion or modification of warranties. 
+
+ G.S. 25-2-317 
+
+ § 25-2-317. Cumulation and conflict of warranties express or implied. 
+
+ G.S. 25-2-318 
+
+ § 25-2-318. Third party beneficiaries of warranties express or implied. 
+
+ G.S. 25-2-319 
+
+ § 25-2-319. F.O.B. and F.A.S. terms. 
+
+ G.S. 25-2-320 
+
+ § 25-2-320. C.I.F. and C. & F. terms. 
+
+ G.S. 25-2-321 
+
+ § 25-2-321. C.I.F. or C. & F.: "Net landed weights"; "payment on arrival"; warranty of condition on arrival. 
+
+ G.S. 25-2-322 
+
+ § 25-2-322. Delivery "ex-ship." 
+
+ G.S. 25-2-323 
+
+ § 25-2-323. Form of bill of lading required in overseas shipment; "overseas." 
+
+ G.S. 25-2-324 
+
+ § 25-2-324. "No arrival, no sale" term. 
+
+ G.S. 25-2-325 
+
+ § 25-2-325. "Letter of credit" term; "confirmed credit." 
+
+ G.S. 25-2-326 
+
+ § 25-2-326. Sale on approval and sale or return; rights of creditors. 
+
+ G.S. 25-2-327 
+
+ § 25-2-327. Special incidents of sale on approval and sale or return. 
+
+ G.S. 25-2-328 
+
+ § 25-2-328. Sale by auction. 
+
+ G.S. 25-2-401 
+
+ § 25-2-401. Passing of title; reservation for security; limited application of this section. 
+
+ G.S. 25-2-402 
+
+ § 25-2-402. Rights of seller's creditors against sold goods. 
+
+ G.S. 25-2-403 
+
+ § 25-2-403. Power to transfer; good faith purchase of goods; "entrusting." 
+
+ G.S. 25-2-501 
+
+ § 25-2-501. Insurable interest in goods; manner of identification of goods. 
+
+ G.S. 25-2-502 
+
+ § 25-2-502. Buyer's right to goods on seller's repudiation, failure to deliver, or insolvency. 
+
+ G.S. 25-2-503 
+
+ § 25-2-503. Manner of seller's tender of delivery. 
+
+ G.S. 25-2-504 
+
+ § 25-2-504. Shipment by seller. 
+
+ G.S. 25-2-505 
+
+ § 25-2-505. Seller's shipment under reservation. 
+
+ G.S. 25-2-506 
+
+ § 25-2-506. Rights of financing agency. 
+
+ G.S. 25-2-507 
+
+ § 25-2-507. Effect of seller's tender; delivery on condition. 
+
+ G.S. 25-2-508 
+
+ § 25-2-508. Cure by seller of improper tender or delivery; replacement. 
+
+ G.S. 25-2-509 
+
+ § 25-2-509. Risk of loss in the absence of breach. 
+
+ G.S. 25-2-510 
+
+ § 25-2-510. Effect of breach on risk of loss. 
+
+ G.S. 25-2-511 
+
+ § 25-2-511. Tender of payment by buyer; payment by check. 
+
+ G.S. 25-2-512 
+
+ § 25-2-512. Payment by buyer before inspection. 
+
+ G.S. 25-2-513 
+
+ § 25-2-513. Buyer's right to inspection of goods. 
+
+ G.S. 25-2-514 
+
+ § 25-2-514. When documents deliverable on acceptance; when on payment. 
+
+ G.S. 25-2-515 
+
+ § 25-2-515. Preserving evidence of goods in dispute. 
+
+ G.S. 25-2-601 
+
+ § 25-2-601. Buyer's rights on improper delivery. 
+
+ G.S. 25-2-602 
+
+ § 25-2-602. Manner and effect of rightful rejection. 
+
+ G.S. 25-2-603 
+
+ § 25-2-603. Merchant buyer's duties as to rightfully rejected goods. 
+
+ G.S. 25-2-604 
+
+ § 25-2-604. Buyer's options as to salvage of rightfully rejected goods. 
+
+ G.S. 25-2-605 
+
+ § 25-2-605. Waiver of buyer's objections by failure to particularize. 
+
+ G.S. 25-2-606 
+
+ § 25-2-606. What constitutes acceptance of goods. 
+
+ G.S. 25-2-607 
+
+ § 25-2-607. Effect of acceptance; notice of breach; burden of establishing breach after acceptance; notice of claim or litigation to person answerable over. 
+
+ G.S. 25-2-608 
+
+ § 25-2-608. Revocation of acceptance in whole or in part. 
+
+ G.S. 25-2-609 
+
+ § 25-2-609. Right to adequate assurance of performance. 
+
+ G.S. 25-2-610 
+
+ § 25-2-610. Anticipatory repudiation. 
+
+ G.S. 25-2-611 
+
+ § 25-2-611. Retraction of anticipatory repudiation. 
+
+ G.S. 25-2-612 
+
+ § 25-2-612. "Installment contract"; breach. 
+
+ G.S. 25-2-613 
+
+ § 25-2-613. Casualty to identified goods. 
+
+ G.S. 25-2-614 
+
+ § 25-2-614. Substituted performance. 
+
+ G.S. 25-2-615 
+
+ § 25-2-615. Excuse by failure of presupposed conditions. 
+
+ G.S. 25-2-616 
+
+ § 25-2-616. Procedure on notice claiming excuse. 
+
+ G.S. 25-2-701 
+
+ § 25-2-701. Remedies for breach of collateral contracts not impaired. 
+
+ G.S. 25-2-702 
+
+ § 25-2-702. Seller's remedies on discovery of buyer's insolvency. 
+
+ G.S. 25-2-703 
+
+ § 25-2-703. Seller's remedies in general. 
+
+ G.S. 25-2-703.1 
+
+ § 25-2-703.1. Repossession of manufactured sign. 
+
+ G.S. 25-2-704 
+
+ § 25-2-704. Seller's right to identify goods to the contract notwithstanding breach or to salvage unfinished goods. 
+
+ G.S. 25-2-705 
+
+ § 25-2-705. Seller's stoppage of delivery in transit or otherwise. 
+
+ G.S. 25-2-706 
+
+ § 25-2-706. Seller's resale including contract for resale. 
+
+ G.S. 25-2-707 
+
+ § 25-2-707. "Person in the position of a seller." 
+
+ G.S. 25-2-708 
+
+ § 25-2-708. Seller's damages for nonacceptance or repudiation. 
+
+ G.S. 25-2-709 
+
+ § 25-2-709. Action for the price. 
+
+ G.S. 25-2-710 
+
+ § 25-2-710. Seller's incidental damages. 
+
+ G.S. 25-2-711 
+
+ § 25-2-711. Buyer's remedies in general; buyer's security interest in rejected goods. 
+
+ G.S. 25-2-712 
+
+ § 25-2-712. "Cover"; buyer's procurement of substitute goods. 
+
+ G.S. 25-2-713 
+
+ § 25-2-713. Buyer's damages for nondelivery or repudiation. 
+
+ G.S. 25-2-714 
+
+ § 25-2-714. Buyer's damages for breach in regard to accepted goods. 
+
+ G.S. 25-2-715 
+
+ § 25-2-715. Buyer's incidental and consequential damages. 
+
+ G.S. 25-2-716 
+
+ § 25-2-716. Buyer's right to specific performance or replevin. 
+
+ G.S. 25-2-717 
+
+ § 25-2-717. Deduction of damages from the price. 
+
+ G.S. 25-2-718 
+
+ § 25-2-718. Liquidation or limitation of damages; deposits. 
+
+ G.S. 25-2-719 
+
+ § 25-2-719. Contractual modification or limitation of remedy. 
+
+ G.S. 25-2-720 
+
+ § 25-2-720. Effect of "cancellation" or "rescission" on claims for antecedent breach. 
+
+ G.S. 25-2-721 
+
+ § 25-2-721. Remedies for fraud. 
+
+ G.S. 25-2-722 
+
+ § 25-2-722. Who can sue third parties for injury to goods. 
+
+ G.S. 25-2-723 
+
+ § 25-2-723. Proof of market price; time and place. 
+
+ G.S. 25-2-724 
+
+ § 25-2-724. Admissibility of market quotations. 
+
+ G.S. 25-2-725 
+
+ § 25-2-725. Statute of limitations in contracts for sale. 
+
+ Article 2A - Leases. 
+
+ G.S. 25-2A-101 
+
+ § 25-2A-101. Short title. 
+
+ G.S. 25-2A-102 
+
+ § 25-2A-102. Scope. 
+
+ G.S. 25-2A-103 
+
+ § 25-2A-103. Definitions and index of definitions. 
+
+ G.S. 25-2A-104 
+
+ § 25-2A-104. Leases subject to other law. 
+
+ G.S. 25-2A-105 
+
+ § 25-2A-105. Territorial application of Article to goods covered by certificate of title. 
+
+ G.S. 25-2A-106 
+
+ § 25-2A-106. Limitation on power of parties to consumer lease to choose applicable law and judicial forum. 
+
+ G.S. 25-2A-107 
+
+ § 25-2A-107. Waiver or renunciation of claim or right after default. 
+
+ G.S. 25-2A-108 
+
+ § 25-2A-108. Unconscionability. 
+
+ G.S. 25-2A-109 
+
+ § 25-2A-109. Option to accelerate at will. 
+
+ G.S. 25-2A-201 
+
+ § 25-2A-201. Statute of frauds. 
+
+ G.S. 25-2A-202 
+
+ § 25-2A-202. Final expression: parol or extrinsic evidence. 
+
+ G.S. 25-2A-203 
+
+ § 25-2A-203. Seals inoperative. 
+
+ G.S. 25-2A-204 
+
+ § 25-2A-204. Formation in general. 
+
+ G.S. 25-2A-205 
+
+ § 25-2A-205. Firm offers. 
+
+ G.S. 25-2A-206 
+
+ § 25-2A-206. Offer and acceptance in formation of lease contract. 
+
+ G.S. 25-2A-207 
+
+ § 25-2A-207: Repealed by Session Laws 2006-112, s. 6, effective October 1, 2006. 
+
+ G.S. 25-2A-208 
+
+ § 25-2A-208. Modification, rescission, and waiver. 
+
+ G.S. 25-2A-209 
+
+ § 25-2A-209. Lessee under finance lease as beneficiary of supply contract. 
+
+ G.S. 25-2A-210 
+
+ § 25-2A-210. Express warranties. 
+
+ G.S. 25-2A-211 
+
+ § 25-2A-211. Warranties against interference and against infringement; lessee's obligation against infringement. 
+
+ G.S. 25-2A-212 
+
+ § 25-2A-212. Implied warranty of merchantability. 
+
+ G.S. 25-2A-213 
+
+ § 25-2A-213. Implied warranty of fitness for particular purpose. 
+
+ G.S. 25-2A-214 
+
+ § 25-2A-214. Exclusion or modification of warranties. 
+
+ G.S. 25-2A-215 
+
+ § 25-2A-215. Cumulation and conflict of warranties express or implied. 
+
+ G.S. 25-2A-216 
+
+ § 25-2A-216. Third-party beneficiaries of express and implied warranties. 
+
+ G.S. 25-2A-217 
+
+ § 25-2A-217. Identification. 
+
+ G.S. 25-2A-218 
+
+ § 25-2A-218. Insurance and proceeds. 
+
+ G.S. 25-2A-219 
+
+ § 25-2A-219. Risk of loss. 
+
+ G.S. 25-2A-220 
+
+ § 25-2A-220. Effect of default on risk of loss. 
+
+ G.S. 25-2A-221 
+
+ § 25-2A-221. Casualty to identified goods. 
+
+ G.S. 25-2A-301 
+
+ § 25-2A-301. Enforceability of lease contract. 
+
+ G.S. 25-2A-302 
+
+ § 25-2A-302. Title to and possession of goods. 
+
+ G.S. 25-2A-303 
+
+ § 25-2A-303. Alienability of party's interest under lease contract or of lessor's residual interest in goods; delegation of performance; transfer of rights. 
+
+ G.S. 25-2A-304 
+
+ § 25-2A-304. Subsequent lease of goods by lessor. 
+
+ G.S. 25-2A-305 
+
+ § 25-2A-305. Sale or sublease of goods by lessee. 
+
+ G.S. 25-2A-306 
+
+ § 25-2A-306. Priority of certain liens arising by operation of law. 
+
+ G.S. 25-2A-307 
+
+ § 25-2A-307. Priority of liens arising by attachment or levy on, security interests in, and other claims to goods. 
+
+ G.S. 25-2A-308 
+
+ § 25-2A-308. Special rights of creditors. 
+
+ G.S. 25-2A-309 
+
+ § 25-2A-309. Lessor's and lessee's rights when goods become fixtures. 
+
+ G.S. 25-2A-310 
+
+ § 25-2A-310. Lessor's and lessee's rights when goods become accessions. 
+
+ G.S. 25-2A-401 
+
+ § 25-2A-401. Insecurity: adequate assurance of performance. 
+
+ G.S. 25-2A-402 
+
+ § 25-2A-402. Anticipatory repudiation. 
+
+ G.S. 25-2A-403 
+
+ § 25-2A-403. Retraction of anticipatory repudiation. 
+
+ G.S. 25-2A-404 
+
+ § 25-2A-404. Substituted performance. 
+
+ G.S. 25-2A-405 
+
+ § 25-2A-405. Excused performance. 
+
+ G.S. 25-2A-406 
+
+ § 25-2A-406. Procedure on excused performance. 
+
+ G.S. 25-2A-407 
+
+ § 25-2A-407. Irrevocable promises: finance leases. 
+
+ G.S. 25-2A-501 
+
+ § 25-2A-501. Default: procedure. 
+
+ G.S. 25-2A-502 
+
+ § 25-2A-502. Notice after default. 
+
+ G.S. 25-2A-503 
+
+ § 25-2A-503. Modification or impairment of rights and remedies. 
+
+ G.S. 25-2A-504 
+
+ § 25-2A-504. Liquidation of damages. 
+
+ G.S. 25-2A-505 
+
+ § 25-2A-505. Cancellation and termination and effect of cancellation, termination, rescission, or fraud on rights and remedies. 
+
+ G.S. 25-2A-506 
+
+ § 25-2A-506. Statute of limitations. 
+
+ G.S. 25-2A-507 
+
+ § 25-2A-507. Proof of market rent: time and place. 
+
+ G.S. 25-2A-508 
+
+ § 25-2A-508. Lessee's remedies. 
+
+ G.S. 25-2A-509 
+
+ § 25-2A-509. Lessee's rights on improper delivery; rightful rejection. 
+
+ G.S. 25-2A-510 
+
+ § 25-2A-510. Installment lease contracts; rejection and default. 
+
+ G.S. 25-2A-511 
+
+ § 25-2A-511. Merchant lessee's duties as to rightfully rejected goods. 
+
+ G.S. 25-2A-512 
+
+ § 25-2A-512. Lessee's duties as to rightfully rejected goods. 
+
+ G.S. 25-2A-513 
+
+ § 25-2A-513. Cure by lessor of improper tender or delivery; replacement. 
+
+ G.S. 25-2A-514 
+
+ § 25-2A-514. Waiver of lessee's objections. 
+
+ G.S. 25-2A-515 
+
+ § 25-2A-515. Acceptance of goods. 
+
+ G.S. 25-2A-516 
+
+ § 25-2A-516. Effect of acceptance of goods; notice of default; burden of establishing default after acceptance; notice of claim or litigation to person answerable over. 
+
+ G.S. 25-2A-517 
+
+ § 25-2A-517. Revocation of acceptance of goods. 
+
+ G.S. 25-2A-518 
+
+ § 25-2A-518. Cover; substitute goods. 
+
+ G.S. 25-2A-519 
+
+ § 25-2A-519. Lessee's damages for nondelivery, repudiation, default, and breach of warranty in regard to accepted goods. 
+
+ G.S. 25-2A-520 
+
+ § 25-2A-520. Lessee's incidental and consequential damages. 
+
+ G.S. 25-2A-521 
+
+ § 25-2A-521. Lessee's right to specific performance or replevin. 
+
+ G.S. 25-2A-522 
+
+ § 25-2A-522. Lessee's right to goods on lessor's insolvency. 
+
+ G.S. 25-2A-523 
+
+ § 25-2A-523. Lessor's remedies. 
+
+ G.S. 25-2A-524 
+
+ § 25-2A-524. Lessor's right to identify goods to lease contract. 
+
+ G.S. 25-2A-525 
+
+ § 25-2A-525. Lessor's right to possession of goods. 
+
+ G.S. 25-2A-526 
+
+ § 25-2A-526. Lessor's stoppage of delivery in transit or otherwise. 
+
+ G.S. 25-2A-527 
+
+ § 25-2A-527. Lessor's rights to dispose of goods. 
+
+ G.S. 25-2A-528 
+
+ § 25-2A-528. Lessor's damages for nonacceptance, failure to pay, repudiation, or other default. 
+
+ G.S. 25-2A-529 
+
+ § 25-2A-529. Lessor's action for the rent. 
+
+ G.S. 25-2A-530 
+
+ § 25-2A-530. Lessor's incidental damages. 
+
+ G.S. 25-2A-531 
+
+ § 25-2A-531. Standing to sue third parties for injury to goods. 
+
+ G.S. 25-2A-532 
+
+ § 25-2A-532. Lessor's rights to residual interest. 
+
+ Article 3 - Negotiable Instruments. 
+
+ G.S. 25-3-101 
+
+ § 25-3-101. Short title. 
+
+ G.S. 25-3-102 
+
+ § 25-3-102. Subject matter. 
+
+ G.S. 25-3-103 
+
+ § 25-3-103. Definitions. 
+
+ G.S. 25-3-104 
+
+ § 25-3-104. Negotiable instrument. 
+
+ G.S. 25-3-105 
+
+ § 25-3-105. Issue of instrument. 
+
+ G.S. 25-3-106 
+
+ § 25-3-106. Unconditional promise or order. 
+
+ G.S. 25-3-107 
+
+ § 25-3-107. Instrument payable in foreign money. 
+
+ G.S. 25-3-108 
+
+ § 25-3-108. Payable on demand or at definite time. 
+
+ G.S. 25-3-109 
+
+ § 25-3-109. Payable to bearer or to order. 
+
+ G.S. 25-3-110 
+
+ § 25-3-110. Identification of person to whom instrument is payable. 
+
+ G.S. 25-3-111 
+
+ § 25-3-111. Place of payment. 
+
+ G.S. 25-3-112 
+
+ § 25-3-112. Interest. 
+
+ G.S. 25-3-113 
+
+ § 25-3-113. Date of instrument. 
+
+ G.S. 25-3-114 
+
+ § 25-3-114. Contradictory terms of instrument. 
+
+ G.S. 25-3-115 
+
+ § 25-3-115. Incomplete instrument. 
+
+ G.S. 25-3-116 
+
+ § 25-3-116. Joint and several liability; contribution. 
+
+ G.S. 25-3-117 
+
+ § 25-3-117. Other agreements affecting instrument. 
+
+ G.S. 25-3-118 
+
+ § 25-3-118. Statute of limitations. 
+
+ G.S. 25-3-119 
+
+ § 25-3-119. Notice of right to defend action. 
+
+ G.S. 25-3-201 
+
+ § 25-3-201. Negotiation. 
+
+ G.S. 25-3-202 
+
+ § 25-3-202. Negotiation subject to rescission. 
+
+ G.S. 25-3-203 
+
+ § 25-3-203. Transfer of instrument; rights acquired by transfer. 
+
+ G.S. 25-3-204 
+
+ § 25-3-204. Indorsement. 
+
+ G.S. 25-3-205 
+
+ § 25-3-205. Special indorsement; blank indorsement; anomalous indorsement. 
+
+ G.S. 25-3-206 
+
+ § 25-3-206. Restrictive indorsement. 
+
+ G.S. 25-3-207 
+
+ § 25-3-207. Reacquisition. 
+
+ G.S. 25-3-301 
+
+ § 25-3-301. Person entitled to enforce instrument. 
+
+ G.S. 25-3-302 
+
+ § 25-3-302. Holder in due course. 
+
+ G.S. 25-3-303 
+
+ § 25-3-303. Value and consideration. 
+
+ G.S. 25-3-304 
+
+ § 25-3-304. Overdue instrument. 
+
+ G.S. 25-3-305 
+
+ § 25-3-305. Defenses and claims in recoupment. 
+
+ G.S. 25-3-306 
+
+ § 25-3-306. Claims to an instrument. 
+
+ G.S. 25-3-307 
+
+ § 25-3-307. Notice of breach of fiduciary duty. 
+
+ G.S. 25-3-308 
+
+ § 25-3-308. Proof of signatures and status as holder in due course. 
+
+ G.S. 25-3-309 
+
+ § 25-3-309. Enforcement of lost, destroyed, or stolen instrument. 
+
+ G.S. 25-3-310 
+
+ § 25-3-310. Effect of instrument on obligation for which taken. 
+
+ G.S. 25-3-311 
+
+ § 25-3-311. Accord and satisfaction by use of instrument. 
+
+ G.S. 25-3-312 
+
+ § 25-3-312. Lost, destroyed, or stolen cashier's check, teller's check, or certified check. 
+
+ G.S. 25-3-401 
+
+ § 25-3-401. Signature necessary for liability on instrument. 
+
+ G.S. 25-3-402 
+
+ § 25-3-402. Signature by representative. 
+
+ G.S. 25-3-403 
+
+ § 25-3-403. Unauthorized signature. 
+
+ G.S. 25-3-404 
+
+ § 25-3-404. Impostors; fictitious payees. 
+
+ G.S. 25-3-405 
+
+ § 25-3-405. Employer's responsibility for fraudulent indorsement by employee. 
+
+ G.S. 25-3-406 
+
+ § 25-3-406. Negligence contributing to forged signature or alteration of instrument. 
+
+ G.S. 25-3-407 
+
+ § 25-3-407. Alteration. 
+
+ G.S. 25-3-408 
+
+ § 25-3-408. Drawee not liable on unaccepted draft. 
+
+ G.S. 25-3-409 
+
+ § 25-3-409. Acceptance of draft; certified check. 
+
+ G.S. 25-3-410 
+
+ § 25-3-410. Acceptance varying draft. 
+
+ G.S. 25-3-411 
+
+ § 25-3-411. Refusal to pay cashier's checks, teller's checks, and certified checks. 
+
+ G.S. 25-3-412 
+
+ § 25-3-412. Obligation of issuer of note or cashier's check. 
+
+ G.S. 25-3-413 
+
+ § 25-3-413. Obligation of acceptor. 
+
+ G.S. 25-3-414 
+
+ § 25-3-414. Obligation of drawer. 
+
+ G.S. 25-3-415 
+
+ § 25-3-415. Obligation of indorser. 
+
+ G.S. 25-3-416 
+
+ § 25-3-416. Transfer warranties. 
+
+ G.S. 25-3-417 
+
+ § 25-3-417. Presentment warranties. 
+
+ G.S. 25-3-418 
+
+ § 25-3-418. Payment or acceptance by mistake. 
+
+ G.S. 25-3-419 
+
+ § 25-3-419. Instruments signed for accommodation. 
+
+ G.S. 25-3-420 
+
+ § 25-3-420. Conversion of instrument. 
+
+ G.S. 25-3-501 
+
+ § 25-3-501. Presentment. 
+
+ G.S. 25-3-502 
+
+ § 25-3-502. Dishonor. 
+
+ G.S. 25-3-503 
+
+ § 25-3-503. Notice of dishonor. 
+
+ G.S. 25-3-504 
+
+ § 25-3-504. Excused presentment and notice of dishonor. 
+
+ G.S. 25-3-505 
+
+ § 25-3-505. Evidence of dishonor. 
+
+ G.S. 25-3-506 
+
+ § 25-3-506. Collection of processing fee for returned checks. 
+
+ G.S. 25-3-601 
+
+ § 25-3-601. Discharge and effect of discharge. 
+
+ G.S. 25-3-602 
+
+ § 25-3-602. Payment. 
+
+ G.S. 25-3-603 
+
+ § 25-3-603. Tender of payment. 
+
+ G.S. 25-3-604 
+
+ § 25-3-604. Discharge by cancellation or renunciation. 
+
+ G.S. 25-3-605 
+
+ § 25-3-605. Discharge of indorsers and accommodation parties. 
+
+ Article 4 - Bank Deposits and Collections. 
+
+ G.S. 25-4-101 
+
+ § 25-4-101. Short title. 
+
+ G.S. 25-4-102 
+
+ § 25-4-102. Applicability. 
+
+ G.S. 25-4-103 
+
+ § 25-4-103. Variation by agreement; measure of damages; action constituting ordinary care. 
+
+ G.S. 25-4-104 
+
+ § 25-4-104. Definitions and index of definitions. 
+
+ G.S. 25-4-105 
+
+ § 25-4-105. "Bank"; "depositary bank"; "intermediary bank"; "collecting bank"; "payor bank"; "presenting bank". 
+
+ G.S. 25-4-105.1 
+
+ § 25-4-105.1. Payable through or payable at bank; collecting bank. 
+
+ G.S. 25-4-106 
+
+ § 25-4-106. Separate office of a bank. 
+
+ G.S. 25-4-107 
+
+ § 25-4-107. Time of receipt of items. 
+
+ G.S. 25-4-108 
+
+ § 25-4-108. Delays. 
+
+ G.S. 25-4-109 
+
+ § 25-4-109: Repealed by Session Laws 1995, c. 232, s. 2. 
+
+ G.S. 25-4-110 
+
+ § 25-4-110. Electronic presentment. 
+
+ G.S. 25-4-111 
+
+ § 25-4-111. Statute of limitations. 
+
+ G.S. 25-4-201 
+
+ § 25-4-201. Status of collecting bank as agent and provisional status of credits; applicability of Article; item indorsed "pay any bank". 
+
+ G.S. 25-4-202 
+
+ § 25-4-202. Responsibility for collection or return; when action timely. 
+
+ G.S. 25-4-203 
+
+ § 25-4-203. Effect of instructions. 
+
+ G.S. 25-4-204 
+
+ § 25-4-204. Methods of sending and presenting; sending directly to payor. 
+
+ G.S. 25-4-205 
+
+ § 25-4-205. Depositary bank holder of unindorsed item. 
+
+ G.S. 25-4-206 
+
+ § 25-4-206. Transfer between banks. 
+
+ G.S. 25-4-207 
+
+ § 25-4-207. Transfer warranties. 
+
+ G.S. 25-4-207.1 
+
+ § 25-4-207.1. Presentment warranties. 
+
+ G.S. 25-4-207.2 
+
+ § 25-4-207.2. Encoding and retention warranties. 
+
+ G.S. 25-4-208 
+
+ § 25-4-208. Security interest of collecting bank in items, accompanying documents and proceeds. 
+
+ G.S. 25-4-209 
+
+ § 25-4-209. When bank gives value for purposes of holder in due course. 
+
+ G.S. 25-4-210 
+
+ § 25-4-210. Presentment by notice of item not payable by, through, or at a bank; liability of drawer or indorser. 
+
+ G.S. 25-4-211 
+
+ § 25-4-211. Medium and time of settlement by bank. 
+
+ G.S. 25-4-212 
+
+ § 25-4-212. Right of charge-back or refund; liability of collecting bank; return of item. 
+
+ G.S. 25-4-213 
+
+ § 25-4-213. Final payment of item by payor bank; when provisional debits and credits become final; when certain credits become available for withdrawal. 
+
+ G.S. 25-4-214 
+
+ § 25-4-214. Insolvency and preference. 
+
+ G.S. 25-4-301 
+
+ § 25-4-301. Deferred posting; recovery of payment by return of items; time of dishonor; return of items by payor bank. 
+
+ G.S. 25-4-302 
+
+ § 25-4-302. Payor bank's responsibility for late return of item. 
+
+ G.S. 25-4-303 
+
+ § 25-4-303. When items subject to notice, stop-payment order, legal process, or setoff; order in which items may be charged or certified. 
+
+ G.S. 25-4-401 
+
+ § 25-4-401. When bank may charge customer's account. 
+
+ G.S. 25-4-402 
+
+ § 25-4-402. Bank's liability to customer for wrongful dishonor; time of determining insufficiency of account. 
+
+ G.S. 25-4-403 
+
+ § 25-4-403. Customer's right to stop payment; burden of proof of loss. 
+
+ G.S. 25-4-404 
+
+ § 25-4-404. Bank not obligated to pay check more than six months old. 
+
+ G.S. 25-4-405 
+
+ § 25-4-405. Death or incompetence of customer. 
+
+ G.S. 25-4-406 
+
+ § 25-4-406. Customer's duty to discover and report unauthorized signature or alteration. 
+
+ G.S. 25-4-407 
+
+ § 25-4-407. Payor bank's right to subrogation on improper payment. 
+
+ G.S. 25-4-501 
+
+ § 25-4-501. Handling of documentary drafts; duty to send for presentment and to notify customer of dishonor. 
+
+ G.S. 25-4-502 
+
+ § 25-4-502. Presentment of "on arrival" drafts. 
+
+ G.S. 25-4-503 
+
+ § 25-4-503. Responsibility of presenting bank for documents and goods; report of reasons for dishonor; referee in case of need. 
+
+ G.S. 25-4-504 
+
+ § 25-4-504. Privilege of presenting bank to deal with goods; security interest for expenses. 
+
+ Article 4A - Funds Transfers. 
+
+ G.S. 25-4A-101 
+
+ § 25-4A-101. Short title. 
+
+ G.S. 25-4A-102 
+
+ § 25-4A-102. Subject matter. 
+
+ G.S. 25-4A-103 
+
+ § 25-4A-103. Payment order – definitions. 
+
+ G.S. 25-4A-104 
+
+ § 25-4A-104. Funds transfer - definitions. 
+
+ G.S. 25-4A-105 
+
+ § 25-4A-105. Other definitions. 
+
+ G.S. 25-4A-106 
+
+ § 25-4A-106. Time payment order is received. 
+
+ G.S. 25-4A-107 
+
+ § 25-4A-107. Federal reserve regulations and operating circulars. 
+
+ G.S. 25-4A-108 
+
+ § 25-4A-108. Relationship to Electronic Fund Transfer Act. 
+
+ G.S. 25-4A-201 
+
+ § 25-4A-201. Security procedure. 
+
+ G.S. 25-4A-202 
+
+ § 25-4A-202. Authorized and verified payment orders. 
+
+ G.S. 25-4A-203 
+
+ § 25-4A-203. Unenforceability of certain verified payment orders. 
+
+ G.S. 25-4A-204 
+
+ § 25-4A-204. Refund of payment and duty of customer to report with respect to unauthorized payment order. 
+
+ G.S. 25-4A-205 
+
+ § 25-4A-205. Erroneous payment orders. 
+
+ G.S. 25-4A-206 
+
+ § 25-4A-206. Transmission of payment order through funds-transfer or other communication system. 
+
+ G.S. 25-4A-207 
+
+ § 25-4A-207. Misdescription of beneficiary. 
+
+ G.S. 25-4A-208 
+
+ § 25-4A-208. Misdescription of intermediary bank or beneficiary's bank. 
+
+ G.S. 25-4A-209 
+
+ § 25-4A-209. Acceptance of payment order. 
+
+ G.S. 25-4A-210 
+
+ § 25-4A-210. Rejection of payment order. 
+
+ G.S. 25-4A-211 
+
+ § 25-4A-211. Cancellation and amendment of payment order. 
+
+ G.S. 25-4A-212 
+
+ § 25-4A-212. Liability and duty of receiving bank regarding unaccepted payment order. 
+
+ G.S. 25-4A-301 
+
+ § 25-4A-301. Execution and execution date. 
+
+ G.S. 25-4A-302 
+
+ § 25-4A-302. Obligations of receiving bank in execution of payment order. 
+
+ G.S. 25-4A-303 
+
+ § 25-4A-303. Erroneous execution of payment order. 
+
+ G.S. 25-4A-304 
+
+ § 25-4A-304. Duty of sender to report erroneously executed payment order. 
+
+ G.S. 25-4A-305 
+
+ § 25-4A-305. Liability for late or improper execution or failure to execute payment order. 
+
+ G.S. 25-4A-401 
+
+ § 25-4A-401. Payment date. 
+
+ G.S. 25-4A-402 
+
+ § 25-4A-402. Obligation of sender to pay receiving bank. 
+
+ G.S. 25-4A-403 
+
+ § 25-4A-403. Payment by sender to receiving bank. 
+
+ G.S. 25-4A-404 
+
+ § 25-4A-404. Obligation of beneficiary's bank to pay and give notice to beneficiary. 
+
+ G.S. 25-4A-405 
+
+ § 25-4A-405. Payment by beneficiary's bank to beneficiary. 
+
+ G.S. 25-4A-406 
+
+ § 25-4A-406. Payment by originator to beneficiary; discharge of underlying obligation. 
+
+ G.S. 25-4A-501 
+
+ § 25-4A-501. Variation by agreement and effect of funds-transfer system rule. 
+
+ G.S. 25-4A-502 
+
+ § 25-4A-502. Creditor process served on receiving bank; setoff by beneficiary's bank. 
+
+ G.S. 25-4A-503 
+
+ § 25-4A-503. Injunction or restraining order with respect to funds transfer. 
+
+ G.S. 25-4A-504 
+
+ § 25-4A-504. Order in which items and payment orders may be charged to account; order of withdrawals from account. 
+
+ G.S. 25-4A-505 
+
+ § 25-4A-505. Preclusion of objection to debit of customer's account. 
+
+ G.S. 25-4A-506 
+
+ § 25-4A-506. Rate of interest. 
+
+ G.S. 25-4A-507 
+
+ § 25-4A-507. Choice of law. 
+
+ Article 5 - Letters of Credit. 
+
+ G.S. 25-5-101 
+
+ § 25-5-101. Short title. 
+
+ G.S. 25-5-102 
+
+ § 25-5-102. Definitions. 
+
+ G.S. 25-5-103 
+
+ § 25-5-103. Scope. 
+
+ G.S. 25-5-104 
+
+ § 25-5-104. Formal requirements. 
+
+ G.S. 25-5-105 
+
+ § 25-5-105. Consideration. 
+
+ G.S. 25-5-106 
+
+ § 25-5-106. Issuance, amendment, cancellation, and duration. 
+
+ G.S. 25-5-107 
+
+ § 25-5-107. Confirmer, nominated person, and adviser. 
+
+ G.S. 25-5-108 
+
+ § 25-5-108. Issuer's rights and obligations. 
+
+ G.S. 25-5-109 
+
+ § 25-5-109. Fraud and forgery. 
+
+ G.S. 25-5-110 
+
+ § 25-5-110. Warranties. 
+
+ G.S. 25-5-111 
+
+ § 25-5-111. Remedies. 
+
+ G.S. 25-5-112 
+
+ § 25-5-112. Transfer of letter of credit. 
+
+ G.S. 25-5-113 
+
+ § 25-5-113. Transfer by operation of law. 
+
+ G.S. 25-5-114 
+
+ § 25-5-114. Assignment of proceeds. 
+
+ G.S. 25-5-115 
+
+ § 25-5-115. Statute of limitations. 
+
+ G.S. 25-5-116 
+
+ § 25-5-116. Choice of law and forum. 
+
+ G.S. 25-5-117 
+
+ § 25-5-117. Subrogation of issuer, applicant, and nominated person. 
+
+ G.S. 25-5-118 
+
+ § 25-5-118. Security interest of issuer or nominated person. 
+
+ Article 6 - Bulk Transfers. 
+
+ G.S. 25-6-101 
+
+ §§ 25-6-101 through 25-6-105: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005. 
+
+ G.S. 25-6-102 through G.S. 25-6-10225-6-101 through 25-6-105: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005.
+
+ G.S. 25-6-102 
+
+ §§ 25-6-101 through 25-6-105: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005. 
+
+ G.S. 25-6-103 through G.S. 25-6-10325-6-101 through 25-6-105: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005.
+
+ G.S. 25-6-103 
+
+ §§ 25-6-101 through 25-6-105: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005. 
+
+ G.S. 25-6-104 
+
+ §§ 25-6-101 through 25-6-105: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005. 
+
+ G.S. 25-6-105 
+
+ §§ 25-6-101 through 25-6-105: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005. 
+
+ G.S. 25-6-106 
+
+ § 25-6-106. Repealed by Session Laws 1967, c. 562, s. 1, effective at midnight June 30, 1967. 
+
+ G.S. 25-6-107 
+
+ §§ 25-6-107 through 25-6-111: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005. 
+
+ G.S. 25-6-108 through G.S. 25-6-10825-6-107 through 25-6-111: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005.
+
+ G.S. 25-6-108 
+
+ §§ 25-6-107 through 25-6-111: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005. 
+
+ G.S. 25-6-109 through G.S. 25-6-10925-6-107 through 25-6-111: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005.
+
+ G.S. 25-6-109 
+
+ §§ 25-6-107 through 25-6-111: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005. 
+
+ G.S. 25-6-110 
+
+ §§ 25-6-107 through 25-6-111: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005. 
+
+ G.S. 25-6-111 
+
+ §§ 25-6-107 through 25-6-111: Repealed by Session Laws 2004-190, s. 1, effective January 1, 2005. 
+
+ Article 7 - Documents of Title. 
+
+ G.S. 25-7-101 
+
+ § 25-7-101. Short title. 
+
+ G.S. 25-7-102 
+
+ § 25-7-102. Definitions and index of definitions. 
+
+ G.S. 25-7-103 
+
+ § 25-7-103. Relation of Article to treaty or statute. 
+
+ G.S. 25-7-104 
+
+ § 25-7-104. Negotiable and nonnegotiable document of title. 
+
+ G.S. 25-7-105 
+
+ § 25-7-105. Reissuance in alternative medium. 
+
+ G.S. 25-7-106 
+
+ § 25-7-106. Control of electronic document of title. 
+
+ G.S. 25-7-201 
+
+ § 25-7-201. Person that may issue a warehouse receipt; storage under bond. 
+
+ G.S. 25-7-202 
+
+ § 25-7-202. Form of warehouse receipt; effect of omission. 
+
+ G.S. 25-7-203 
+
+ § 25-7-203. Liability for nonreceipt or misdescription. 
+
+ G.S. 25-7-204 
+
+ § 25-7-204. Duty of care; contractual limitation of warehouse's liability. 
+
+ G.S. 25-7-205 
+
+ § 25-7-205. Title under warehouse receipt defeated in certain cases. 
+
+ G.S. 25-7-206 
+
+ § 25-7-206. Termination of storage at warehouse's option. 
+
+ G.S. 25-7-207 
+
+ § 25-7-207. Goods must be kept separate; fungible goods. 
+
+ G.S. 25-7-208 
+
+ § 25-7-208. Altered warehouse receipts. 
+
+ G.S. 25-7-209 
+
+ § 25-7-209. Lien of warehouse. 
+
+ G.S. 25-7-210 
+
+ § 25-7-210. Enforcement of warehouse's lien. 
+
+ G.S. 25-7-301 
+
+ § 25-7-301. Liability for nonreceipt or misdescription; "said to contain"; "shipper's weight, load, and count"; improper handling. 
+
+ G.S. 25-7-302 
+
+ § 25-7-302. Through bills of lading and similar documents of title. 
+
+ G.S. 25-7-303 
+
+ § 25-7-303. Diversion; reconsignment; change of instructions. 
+
+ G.S. 25-7-304 
+
+ § 25-7-304. Tangible bills of lading in a set. 
+
+ G.S. 25-7-305 
+
+ § 25-7-305. Destination bills. 
+
+ G.S. 25-7-306 
+
+ § 25-7-306. Altered bills of lading. 
+
+ G.S. 25-7-307 
+
+ § 25-7-307. Lien of carrier. 
+
+ G.S. 25-7-308 
+
+ § 25-7-308. Enforcement of carrier's lien. 
+
+ G.S. 25-7-309 
+
+ § 25-7-309. Duty of care; contractual limitation of carrier's liability. 
+
+ G.S. 25-7-401 
+
+ § 25-7-401. Irregularities in issue of receipt or bill or conduct of issuer. 
+
+ G.S. 25-7-402 
+
+ § 25-7-402. Duplicate document of title; overissue. 
+
+ G.S. 25-7-403 
+
+ § 25-7-403. Obligation of bailee to deliver; excuse. 
+
+ G.S. 25-7-404 
+
+ § 25-7-404. No liability for good-faith delivery pursuant to document of title. 
+
+ G.S. 25-7-501 
+
+ § 25-7-501. Form of negotiation and requirements of due negotiation. 
+
+ G.S. 25-7-502 
+
+ § 25-7-502. Rights acquired by due negotiation. 
+
+ G.S. 25-7-503 
+
+ § 25-7-503. Document of title to goods defeated in certain cases. 
+
+ G.S. 25-7-504 
+
+ § 25-7-504. Rights acquired in absence of due negotiation; effect of diversion; stoppage of delivery. 
+
+ G.S. 25-7-505 
+
+ § 25-7-505. Indorser not guarantor for other parties. 
+
+ G.S. 25-7-506 
+
+ § 25-7-506. Delivery without indorsement; right to compel indorsement. 
+
+ G.S. 25-7-507 
+
+ § 25-7-507. Warranties on negotiation or delivery of document of title. 
+
+ G.S. 25-7-508 
+
+ § 25-7-508. Warranties of collecting bank as to documents of title. 
+
+ G.S. 25-7-509 
+
+ § 25-7-509. Adequate compliance with commercial contract. 
+
+ G.S. 25-7-601 
+
+ § 25-7-601. Lost, stolen, or destroyed documents of title. 
+
+ G.S. 25-7-602 
+
+ § 25-7-602. Judicial process against goods covered by negotiable document of title. 
+
+ G.S. 25-7-603 
+
+ § 25-7-603. Conflicting claims; interpleader. 
+
+ Article 8 - Investment Securities. 
+
+ G.S. 25-8-101 
+
+ § 25-8-101. Short title. 
+
+ G.S. 25-8-102 
+
+ § 25-8-102. Definitions. 
+
+ G.S. 25-8-103 
+
+ § 25-8-103. Rules for determining whether certain obligations and interests are securities or financial assets. 
+
+ G.S. 25-8-104 
+
+ § 25-8-104. Acquisition of security or financial asset or interest therein. 
+
+ G.S. 25-8-105 
+
+ § 25-8-105. Notice of adverse claim. 
+
+ G.S. 25-8-106 
+
+ § 25-8-106. Control. 
+
+ G.S. 25-8-107 
+
+ § 25-8-107. Whether indorsement, instruction, or entitlement order is effective. 
+
+ G.S. 25-8-108 
+
+ § 25-8-108. Warranties in direct holding. 
+
+ G.S. 25-8-109 
+
+ § 25-8-109. Warranties in indirect holding. 
+
+ G.S. 25-8-110 
+
+ § 25-8-110. Applicability; choice of law. 
+
+ G.S. 25-8-111 
+
+ § 25-8-111. Clearing corporation rules. 
+
+ G.S. 25-8-112 
+
+ § 25-8-112. Creditor's legal process. 
+
+ G.S. 25-8-113 
+
+ § 25-8-113. Statute of frauds inapplicable. 
+
+ G.S. 25-8-114 
+
+ § 25-8-114. Evidentiary rules concerning certificated securities. 
+
+ G.S. 25-8-115 
+
+ § 25-8-115. Securities intermediary and others not liable to adverse claimant. 
+
+ G.S. 25-8-116 
+
+ § 25-8-116. Securities intermediary as purchaser for value. 
+
+ G.S. 25-8-201 
+
+ § 25-8-201. Issuer. 
+
+ G.S. 25-8-202 
+
+ § 25-8-202. Issuer's responsibility and defenses; notice of defect or defense. 
+
+ G.S. 25-8-203 
+
+ § 25-8-203. Staleness as notice of defect or defense. 
+
+ G.S. 25-8-204 
+
+ § 25-8-204. Effect of issuer's restriction on transfer. 
+
+ G.S. 25-8-205 
+
+ § 25-8-205. Effect of unauthorized signature on security certificate. 
+
+ G.S. 25-8-206 
+
+ § 25-8-206. Completion of alteration of security certificate. 
+
+ G.S. 25-8-207 
+
+ § 25-8-207. Rights and duties of issuer with respect to registered owners. 
+
+ G.S. 25-8-208 
+
+ § 25-8-208. Effect of signature of authenticating trustee, registrar, or transfer agent. 
+
+ G.S. 25-8-209 
+
+ § 25-8-209. Issuer's lien. 
+
+ G.S. 25-8-210 
+
+ § 25-8-210. Overissue. 
+
+ G.S. 25-8-301 
+
+ § 25-8-301. Delivery. 
+
+ G.S. 25-8-302 
+
+ § 25-8-302. Rights of purchaser. 
+
+ G.S. 25-8-303 
+
+ § 25-8-303. Protected purchaser. 
+
+ G.S. 25-8-304 
+
+ § 25-8-304. Indorsement. 
+
+ G.S. 25-8-305 
+
+ § 25-8-305. Instruction. 
+
+ G.S. 25-8-306 
+
+ § 25-8-306. Effect of guaranteeing signature, indorsement, or instruction. 
+
+ G.S. 25-8-307 
+
+ § 25-8-307. Purchaser's right to requisites for registration of transfer. 
+
+ G.S. 25-8-401 
+
+ § 25-8-401. Duty of issuer to register transfer. 
+
+ G.S. 25-8-402 
+
+ § 25-8-402. Assurance that indorsement or instruction is effective. 
+
+ G.S. 25-8-403 
+
+ § 25-8-403. Demand that issuer not register transfer. 
+
+ G.S. 25-8-404 
+
+ § 25-8-404. Wrongful registration. 
+
+ G.S. 25-8-405 
+
+ § 25-8-405. Replacement of lost, destroyed, or wrongfully taken security certificate. 
+
+ G.S. 25-8-406 
+
+ § 25-8-406. Obligation to notify issuer of lost, destroyed, or wrongfully taken security certificate. 
+
+ G.S. 25-8-407 
+
+ § 25-8-407. Authenticating trustee, transfer agent, and registrar. 
+
+ G.S. 25-8-501 
+
+ § 25-8-501. Securities account; acquisition of security entitlement from securities intermediary. 
+
+ G.S. 25-8-502 
+
+ § 25-8-502. Assertion of adverse claim against entitlement holder. 
+
+ G.S. 25-8-503 
+
+ § 25-8-503. Property interest of entitlement holder in financial asset held by securities intermediary. 
+
+ G.S. 25-8-504 
+
+ § 25-8-504. Duty of securities intermediary to maintain financial asset. 
+
+ G.S. 25-8-505 
+
+ § 25-8-505. Duty of securities intermediary with respect to payments and distributions. 
+
+ G.S. 25-8-506 
+
+ § 25-8-506. Duty of securities intermediary to exercise rights as directed by entitlement holder. 
+
+ G.S. 25-8-507 
+
+ § 25-8-507. Duty of securities intermediary to comply with entitlement order. 
+
+ G.S. 25-8-508 
+
+ § 25-8-508. Duty of securities intermediary to change entitlement holder's position to other form of security holding. 
+
+ G.S. 25-8-509 
+
+ § 25-8-509. Specification of duties of securities intermediary by other statute or regulation; manner of performance of duties of securities intermediary and exercise of rights of entitlement holder. 
+
+ G.S. 25-8-510 
+
+ § 25-8-510. Rights of purchaser of security entitlement from entitlement holder. 
+
+ G.S. 25-8-511 
+
+ § 25-8-511. Priority among security interests and entitlement holders. 
+
+ Article 9 - Secured Transactions. 
+
+ G.S. 25-9-101 
+
+ § 25-9-101. Short title. 
+
+ G.S. 25-9-102 
+
+ § 25-9-102. Definitions and index of definitions. 
+
+ G.S. 25-9-103 
+
+ § 25-9-103. Purchase-money security interest; application of payments; burden of establishing. 
+
+ G.S. 25-9-103.1 
+
+ § 25-9-103.1. Production-money crops; production-money obligation; production-money security interest; burden of establishing. 
+
+ G.S. 25-9-104 
+
+ § 25-9-104. Control of deposit account. 
+
+ G.S. 25-9-105 
+
+ § 25-9-105. Control of electronic copy of record evidencing chattel paper. 
+
+ G.S. 25-9-105.1 
+
+ § 25-9-105.1. Control of electronic money. 
+
+ G.S. 25-9-106 
+
+ § 25-9-106. Control of investment property. 
+
+ G.S. 25-9-107 
+
+ § 25-9-107. Control of letter-of-credit right. 
+
+ G.S. 25-9-107.1 
+
+ § 25-9-107.1. Control of controllable electronic record, controllable account, or controllable payment intangible. 
+
+ G.S. 25-9-107.2 
+
+ § 25-9-107.2. No requirement to acknowledge or confirm; no duties. 
+
+ G.S. 25-9-108 
+
+ § 25-9-108. Sufficiency of description. 
+
+ G.S. 25-9-109 
+
+ § 25-9-109. Scope. 
+
+ G.S. 25-9-110 
+
+ § 25-9-110. Security interests arising under Article 2 or 2A of this Chapter. 
+
+ G.S. 25-9-111 
+
+ § 25-9-111: Deleted or Recodified. 
+
+ G.S. 25-9-112 
+
+ § 25-9-112: Deleted or Recodified. 
+
+ G.S. 25-9-113 
+
+ § 25-9-113: Deleted or Recodified. 
+
+ G.S. 25-9-114 
+
+ § 25-9-114: Deleted or Recodified. 
+
+ G.S. 25-9-115 
+
+ § 25-9-115: Deleted or Recodified. 
+
+ G.S. 25-9-116 
+
+ § 25-9-116: Deleted or Recodified. 
+
+ G.S. 25-9-201 
+
+ § 25-9-201. General effectiveness of security agreement. 
+
+ G.S. 25-9-202 
+
+ § 25-9-202. Title to collateral immaterial. 
+
+ G.S. 25-9-203 
+
+ § 25-9-203. Attachment and enforceability of security interest; proceeds; supporting obligations; formal requisites. 
+
+ G.S. 25-9-204 
+
+ § 25-9-204. After-acquired property; future advances. 
+
+ G.S. 25-9-205 
+
+ § 25-9-205. Use or disposition of collateral permissible. 
+
+ G.S. 25-9-206 
+
+ § 25-9-206. Security interest arising in purchase or delivery of financial asset. 
+
+ G.S. 25-9-207 
+
+ § 25-9-207. Rights and duties of secured party having possession or control of collateral. 
+
+ G.S. 25-9-208 
+
+ § 25-9-208. Additional duties of secured party having control of collateral. 
+
+ G.S. 25-9-209 
+
+ § 25-9-209. Duties of secured party if account debtor has been notified of assignment. 
+
+ G.S. 25-9-210 
+
+ § 25-9-210. Request for accounting; request regarding list of collateral or statement of account. 
+
+ G.S. 25-9-301 
+
+ § 25-9-301. Law governing perfection and priority of security interests. 
+
+ G.S. 25-9-302 
+
+ § 25-9-302. Law governing perfection and priority of agricultural liens. 
+
+ G.S. 25-9-303 
+
+ § 25-9-303. Law governing perfection and priority of security interests in goods covered by a certificate of title. 
+
+ G.S. 25-9-304 
+
+ § 25-9-304. Law governing perfection and priority of security interests in deposit accounts. 
+
+ G.S. 25-9-305 
+
+ § 25-9-305. Law governing perfection and priority of security interests in investment property. 
+
+ G.S. 25-9-306 
+
+ § 25-9-306. Law governing perfection and priority of security interests in letter-of-credit rights. 
+
+ G.S. 25-9-306.1 
+
+ § 25-9-306.1. Law governing perfection and priority of security interests in chattel paper. 
+
+ G.S. 25-9-306.2 
+
+ § 25-9-306.2. Law governing perfection and priority of security interests in controllable accounts, controllable electronic records, and controllable payment intangibles. 
+
+ G.S. 25-9-307 
+
+ § 25-9-307. Location of debtor. 
+
+ G.S. 25-9-308 
+
+ § 25-9-308. When security interest or agricultural lien is perfected; continuity of perfection. 
+
+ G.S. 25-9-309 
+
+ § 25-9-309. Security interest perfected upon attachment. 
+
+ G.S. 25-9-310 
+
+ § 25-9-310. When filing required to perfect security interest or agricultural lien; security interests and agricultural liens to which filing provisions do not apply. 
+
+ G.S. 25-9-311 
+
+ § 25-9-311. Perfection of security interests in property subject to certain statutes, regulations, and treaties. 
+
+ G.S. 25-9-312 
+
+ § 25-9-312. Perfection of security interests in chattel paper, controllable accounts, controllable electronic records, controllable payment intangibles, deposit accounts, negotiable documents, goods covered by documents, instruments, investment property, letter-of-credit rights, and money; perfection by permissive filing; temporary perfection without filing or transfer of possession. 
+
+ G.S. 25-9-313 
+
+ § 25-9-313. When possession by or delivery to secured party perfects security interest without filing. 
+
+ G.S. 25-9-314 
+
+ § 25-9-314. Perfection by control. 
+
+ G.S. 25-9-314.1 
+
+ § 25-9-314.1. Perfection by possession and control of chattel paper. 
+
+ G.S. 25-9-315 
+
+ § 25-9-315. Secured party's rights on disposition of collateral and in proceeds. 
+
+ G.S. 25-9-316 
+
+ § 25-9-316. Effect of change in governing law. 
+
+ G.S. 25-9-317 
+
+ § 25-9-317. Interests that take priority over or take free of security interest or agricultural lien. 
+
+ G.S. 25-9-318 
+
+ § 25-9-318. No interest retained in right to payment that is sold; rights and title of seller of account or chattel paper with respect to creditors and purchasers. 
+
+ G.S. 25-9-319 
+
+ § 25-9-319. Rights and title of consignee with respect to creditors and purchasers. 
+
+ G.S. 25-9-320 
+
+ § 25-9-320. Buyer of goods. 
+
+ G.S. 25-9-321 
+
+ § 25-9-321. Licensee of general intangible and lessee of goods in ordinary course of business. 
+
+ G.S. 25-9-322 
+
+ § 25-9-322. Priorities among conflicting security interests in and agricultural liens on same collateral. 
+
+ G.S. 25-9-323 
+
+ § 25-9-323. Future advances. 
+
+ G.S. 25-9-324 
+
+ § 25-9-324. Priority of purchase-money security interests. 
+
+ G.S. 25-9-324.1 
+
+ § 25-9-324.1. Priority of production-money security interests and agricultural liens. 
+
+ G.S. 25-9-325 
+
+ § 25-9-325. Priority of security interests in transferred collateral. 
+
+ G.S. 25-9-326 
+
+ § 25-9-326. Priority of security interests created by new debtor. 
+
+ G.S. 25-9-326.1 
+
+ § 25-9-326.1. Priority of security interest in controllable account, controllable electronic record, and controllable payment intangible. 
+
+ G.S. 25-9-327 
+
+ § 25-9-327. Priority of security interests in deposit account. 
+
+ G.S. 25-9-328 
+
+ § 25-9-328. Priority of security interests in investment property. 
+
+ G.S. 25-9-329 
+
+ § 25-9-329. Priority of security interests in letter-of-credit right. 
+
+ G.S. 25-9-330 
+
+ § 25-9-330. Priority of purchaser of chattel paper or instrument. 
+
+ G.S. 25-9-331 
+
+ § 25-9-331. Priority of rights of purchasers of controllable accounts, controllable electronic records, controllable payment intangibles, documents, instruments, and securities under other Articles; priority of interests in financial assets and security entitlements and protection against assertion of claim under Articles 8 and 12. 
+
+ G.S. 25-9-332 
+
+ § 25-9-332. Transfer of money; transfer of funds from deposit account. 
+
+ G.S. 25-9-333 
+
+ § 25-9-333. Priority of certain liens arising by operation of law. 
+
+ G.S. 25-9-334 
+
+ § 25-9-334. Priority of security interests in fixtures and crops. 
+
+ G.S. 25-9-335 
+
+ § 25-9-335. Accessions. 
+
+ G.S. 25-9-336 
+
+ § 25-9-336. Commingled goods. 
+
+ G.S. 25-9-337 
+
+ § 25-9-337. Priority of security interests in goods covered by certificate of title. 
+
+ G.S. 25-9-338 
+
+ § 25-9-338. Priority of security interest or agricultural lien perfected by filed financing statement providing certain incorrect information. 
+
+ G.S. 25-9-339 
+
+ § 25-9-339. Priority subject to subordination. 
+
+ G.S. 25-9-340 
+
+ § 25-9-340. Effectiveness of right of recoupment or setoff against deposit account. 
+
+ G.S. 25-9-341 
+
+ § 25-9-341. Bank's rights and duties with respect to deposit account. 
+
+ G.S. 25-9-342 
+
+ § 25-9-342. Bank's right to refuse to enter into or disclose existence of control agreement. 
+
+ G.S. 25-9-401 
+
+ § 25-9-401. Alienability of debtor's rights. 
+
+ G.S. 25-9-402 
+
+ § 25-9-402. Secured party not obligated on contract of debtor or in tort. 
+
+ G.S. 25-9-403 
+
+ § 25-9-403. Agreement not to assert defenses against assignee. 
+
+ G.S. 25-9-404 
+
+ § 25-9-404. Rights acquired by assignee; claims and defenses against assignee. 
+
+ G.S. 25-9-405 
+
+ § 25-9-405. Modification of assigned contract. 
+
+ G.S. 25-9-406 
+
+ § 25-9-406. Discharge of account debtor; notification of assignment; identification and proof of assignment; restrictions on assignment of accounts, chattel paper, payment intangibles, and promissory notes ineffective. 
+
+ G.S. 25-9-407 
+
+ § 25-9-407. Restrictions on creation or enforcement of security interest in leasehold interest or in lessor's residual interest. 
+
+ G.S. 25-9-408 
+
+ § 25-9-408. Restrictions on assignment of promissory notes, health-care-insurance receivables, and certain general intangibles ineffective. 
+
+ G.S. 25-9-409 
+
+ § 25-9-409. Restrictions on assignment of letter-of-credit rights ineffective. 
+
+ G.S. 25-9-501 
+
+ § 25-9-501. Filing offices. 
+
+ G.S. 25-9-502 
+
+ § 25-9-502. Contents of financing statement; record of mortgage as financing statement; time of filing financing statement. 
+
+ G.S. 25-9-503 
+
+ § 25-9-503. Name of debtor and secured party. 
+
+ G.S. 25-9-504 
+
+ § 25-9-504. Indication of collateral. 
+
+ G.S. 25-9-504.1 
+
+ § 25-9-504.1. Deleted. 
+
+ G.S. 25-9-504.2 
+
+ § 25-9-504.2. Deleted. 
+
+ G.S. 25-9-505 
+
+ § 25-9-505. Filing and compliance with other statutes and treaties for consignments, leases, other bailments, and other transactions. 
+
+ G.S. 25-9-506 
+
+ § 25-9-506. Effect of errors or omissions. 
+
+ G.S. 25-9-507 
+
+ § 25-9-507. Effect of certain events on effectiveness of financing statement. 
+
+ G.S. 25-9-508 
+
+ § 25-9-508. Effectiveness of financing statement if new debtor becomes bound by security agreement. 
+
+ G.S. 25-9-509 
+
+ § 25-9-509. Persons entitled to file a record. 
+
+ G.S. 25-9-510 
+
+ § 25-9-510. Effectiveness of filed record. 
+
+ G.S. 25-9-511 
+
+ § 25-9-511. Secured party of record. 
+
+ G.S. 25-9-512 
+
+ § 25-9-512. Amendment of financing statement. 
+
+ G.S. 25-9-513 
+
+ § 25-9-513. Termination statement. 
+
+ G.S. 25-9-514 
+
+ § 25-9-514. Assignment of powers of secured party of record. 
+
+ G.S. 25-9-515 
+
+ § 25-9-515. Duration and effectiveness of financing statement; effect of lapsed financing statement. 
+
+ G.S. 25-9-516 
+
+ § 25-9-516. What constitutes filing; effectiveness of filing. 
+
+ G.S. 25-9-517 
+
+ § 25-9-517. Effect of indexing errors. 
+
+ G.S. 25-9-518 
+
+ § 25-9-518. Claim concerning inaccurate or wrongfully filed record. 
+
+ G.S. 25-9-519 
+
+ § 25-9-519. Numbering, maintaining, and indexing records; communicating information provided in records. 
+
+ G.S. 25-9-520 
+
+ § 25-9-520. Acceptance, refusal to accept record, and cancellation of record. 
+
+ G.S. 25-9-521 
+
+ § 25-9-521. Uniform form of written financing statement and amendment. 
+
+ G.S. 25-9-522 
+
+ § 25-9-522. Maintenance and destruction of records. 
+
+ G.S. 25-9-523 
+
+ § 25-9-523. Information from filing office. 
+
+ G.S. 25-9-524 
+
+ § 25-9-524. Delay by filing office. 
+
+ G.S. 25-9-525 
+
+ § 25-9-525. Fees. 
+
+ G.S. 25-9-526 
+
+ § 25-9-526. Filing-office rules. 
+
+ G.S. 25-9-527 
+
+ § 25-9-527. Reserved for future codification purposes. 
+
+ G.S. 25-9-601 
+
+ § 25-9-601. Rights after default; judicial enforcement; consignor or buyer of accounts, chattel paper, payment intangibles, or promissory notes. 
+
+ G.S. 25-9-602 
+
+ § 25-9-602. Waiver and variance of rights and duties. 
+
+ G.S. 25-9-603 
+
+ § 25-9-603. Agreement on standards concerning rights and duties. 
+
+ G.S. 25-9-604 
+
+ § 25-9-604. Procedure if security agreement covers real property or fixtures. 
+
+ G.S. 25-9-605 
+
+ § 25-9-605. Unknown debtor or secondary obligor. 
+
+ G.S. 25-9-606 
+
+ § 25-9-606. Time of default for agricultural lien. 
+
+ G.S. 25-9-607 
+
+ § 25-9-607. Collection and enforcement by secured party. 
+
+ G.S. 25-9-608 
+
+ § 25-9-608. Application of proceeds of collection or enforcement; liability for deficiency and right to surplus. 
+
+ G.S. 25-9-609 
+
+ § 25-9-609. Secured party's right to take possession after default. 
+
+ G.S. 25-9-610 
+
+ § 25-9-610. Disposition of collateral after default. 
+
+ G.S. 25-9-611 
+
+ § 25-9-611. Notification before disposition of collateral. 
+
+ G.S. 25-9-612 
+
+ § 25-9-612. Timeliness of notification before disposition of collateral. 
+
+ G.S. 25-9-613 
+
+ § 25-9-613. Contents and form of notification before disposition of collateral: general. 
+
+ G.S. 25-9-614 
+
+ § 25-9-614. Contents and form of notification before disposition of collateral: consumer-goods transaction. 
+
+ G.S. 25-9-615 
+
+ § 25-9-615. Application of proceeds of disposition; liability for deficiency and right to surplus. 
+
+ G.S. 25-9-616 
+
+ § 25-9-616. Explanation of calculation of surplus or deficiency. 
+
+ G.S. 25-9-617 
+
+ § 25-9-617. Rights of transferee of collateral. 
+
+ G.S. 25-9-618 
+
+ § 25-9-618. Rights and duties of certain secondary obligors. 
+
+ G.S. 25-9-619 
+
+ § 25-9-619. Transfer of record or legal title. 
+
+ G.S. 25-9-620 
+
+ § 25-9-620. Acceptance of collateral in full or partial satisfaction of obligation; compulsory disposition of collateral. 
+
+ G.S. 25-9-621 
+
+ § 25-9-621. Notification of proposal to accept collateral. 
+
+ G.S. 25-9-622 
+
+ § 25-9-622. Effect of acceptance of collateral. 
+
+ G.S. 25-9-623 
+
+ § 25-9-623. Right to redeem collateral. 
+
+ G.S. 25-9-624 
+
+ § 25-9-624. Waiver. 
+
+ G.S. 25-9-625 
+
+ § 25-9-625. Remedies for secured party's failure to comply with Article. 
+
+ G.S. 25-9-626 
+
+ § 25-9-626. Action in which deficiency or surplus is in issue. 
+
+ G.S. 25-9-627 
+
+ § 25-9-627. Determination of whether conduct was commercially reasonable. 
+
+ G.S. 25-9-628 
+
+ § 25-9-628. Nonliability and limitation on liability of secured party; liability of secondary obligor. 
+
+ G.S. 25-9-701 
+
+ § 25-9-701. Effective date. 
+
+ G.S. 25-9-702 
+
+ § 25-9-702. Savings clause. 
+
+ G.S. 25-9-703 
+
+ § 25-9-703. Security interest perfected before effective date. 
+
+ G.S. 25-9-704 
+
+ § 25-9-704. Security interest unperfected before effective date. 
+
+ G.S. 25-9-705 
+
+ § 25-9-705. Effectiveness of action taken before effective date. 
+
+ G.S. 25-9-706 
+
+ § 25-9-706. When initial financing statement suffices to continue effectiveness of financing statement. 
+
+ G.S. 25-9-707 
+
+ § 25-9-707. Amendment of pre-effective-date financing statement. 
+
+ G.S. 25-9-708 
+
+ § 25-9-708. Persons entitled to file initial financing statement or continuation statement. 
+
+ G.S. 25-9-709 
+
+ § 25-9-709. Priority. 
+
+ G.S. 25-9-710 
+
+ § 25-9-710. Special transitional provision for maintaining and searching local-filing office records. 
+
+ Article 10 - Effective Date and Repealer. 
+
+ G.S. 25-10-101 
+
+ § 25-10-101. Effective date. 
+
+ G.S. 25-10-102 
+
+ § 25-10-102. Specific repealer; provision for transition. 
+
+ G.S. 25-10-103 
+
+ § 25-10-103. General repealer. 
+
+ G.S. 25-10-104 
+
+ § 25-10-104: Repealed by Session Laws 2006-112, s. 56, effective October 1, 2006. 
+
+ G.S. 25-10-105 
+
+ § 25-10-105. Repealed by Session Laws 1967, c. 562, s. 3. 
+
+ G.S. 25-10-106 
+
+ § 25-10-106. Covered transactions not subject to prior registration statutes. 
+
+ G.S. 25-10-107 
+
+ § 25-10-107. Repealed by Session Laws 1967, c. 562, s. 5. 
+
+ Article 11 - 1975 Amendatory Act – Effective Date and Transition Provisions. 
+
+ G.S. 25-11-101 through G.S. 25-11-108: Repealed by Session Laws 2012-194, s. 11, effective July 17, 2012.
+
+ G.S. 25-11-101 
+
+ § 25-11-101: Repealed by Session Laws 2012-194, s. 11, effective July 17, 2012. 
+
+ G.S. 25-11-101.1 
+
+ § 25-11-101.1: Repealed by Session Laws 2012-194, s. 11, effective July 17, 2012. 
+
+ G.S. 25-11-102 
+
+ § 25-11-102: Repealed by Session Laws 2012-194, s. 11, effective July 17, 2012. 
+
+ G.S. 25-11-103 
+
+ § 25-11-103: Repealed by Session Laws 2012-194, s. 11, effective July 17, 2012. 
+
+ G.S. 25-11-104 
+
+ § 25-11-104: Repealed by Session Laws 2012-194, s. 11, effective July 17, 2012. 
+
+ G.S. 25-11-105 
+
+ § 25-11-105: Repealed by Session Laws 2012-194, s. 11, effective July 17, 2012. 
+
+ G.S. 25-11-106 
+
+ § 25-11-106: Repealed by Session Laws 2012-194, s. 11, effective July 17, 2012. 
+
+ G.S. 25-11-107 
+
+ § 25-11-107: Repealed by Session Laws 2012-194, s. 11, effective July 17, 2012. 
+
+ G.S. 25-11-108 
+
+ § 25-11-108: Repealed by Session Laws 2012-194, s. 11, effective July 17, 2012. 
+
+ Article 12 - Controllable Electronic Records. 
+
+ G.S. 25-12-101 
+
+ § 25-12-101. Title. 
+
+ G.S. 25-12-102 
+
+ § 25-12-102. Definitions. 
+
+ G.S. 25-12-103 
+
+ § 25-12-103. Relation to Article 9 and consumer laws. 
+
+ G.S. 25-12-104 
+
+ § 25-12-104. Rights in controllable account, controllable electronic record, and controllable payment intangible. 
+
+ G.S. 25-12-105 
+
+ § 25-12-105. Control of controllable electronic record. 
+
+ G.S. 25-12-106 
+
+ § 25-12-106. Discharge of account debtor on controllable account or controllable payment intangible. 
+
+ G.S. 25-12-107 
+
+ § 25-12-107. Governing law.
