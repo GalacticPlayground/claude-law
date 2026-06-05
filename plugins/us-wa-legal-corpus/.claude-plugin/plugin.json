@@ -1,0 +1,13 @@
+{
+  "name": "wa-court-docs",
+  "description": "Washington state law corpus — RCWs, WACs, King County layer, state precedent. This is the WA_state_legal_corpus plugin.",
+  "version": "0.2.0",
+  "category": "corpus",
+  "venue_scope": "wa-statewide",
+  "nesting": {
+    "king_county_corp": "us-wa-state-legal-corpus/king_county_corp"
+  },
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "us-federal-legal-corpus",
+  "description": "Comprehensive corpus of United States federal law — Constitution, USC Titles, CFR Regulations. Venue scope: nation-wide.",
+  "version": "0.2.0",
+  "category": "corpus", 
+  "venue_scope": "nation-wide"
+}
