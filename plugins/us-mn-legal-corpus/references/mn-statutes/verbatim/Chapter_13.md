@@ -1,0 +1,1089 @@
+# MN — Chapter 13
+
+**Source:** <https://www.revisor.mn.gov/statutes/cite/13>
+**Plugin:** `us-mn-legal-corpus`
+**Pulled:** 2026-06-05
+
+---
+
+Ch. 13 MN Statutes
+
+ Minnesota Legislature 
+ 
+ Advanced
+ Search 
+ Search Legislature 
+ 
+ Search 
+
+ Office of the Revisor of Statutes 
+
+ Office of the Revisor of Statutes
+
+ 2025 Minnesota Statutes 
+
+ DATA PRACTICES 
+
+ Chapter 13
+
+ 2025 Minnesota Statutes
+
+ Authenticate 
+
+ PDF 
+
+ Resources
+
+ Search Minnesota Statutes 
+
+ About Minnesota Statutes 
+
+ 2025 Statutes New, Amended or Repealed 
+
+ 2025 Table of Chapters 
+
+ 2025 Statutes Topics (Index) 
+
+ Chapter 13
+
+ Table of Sections 
+
+ Full Chapter Text 
+
+ Version List 
+
+ This chapter has been affected by law enacted during the 2026 Regular Session. More info... 
+
+ 13.04 subd. 4a has been amended by Chapter 95, Article 1, Section 2 
+
+ 13.202 subd. 11 has been amended by Chapter 88, Article 2, Section 2 
+
+ 13.321 subd. 12 has been repealed by Chapter 92, Article 2, Section 17 
+
+ 13.321 subd. 13 has been added by Chapter 117, Section 1 
+
+ 13.3806 subd. 22 has been amended by Chapter 88, Article 1, Section 2 
+
+ 13.384 subd. 3 has been amended by Chapter 95, Article 1, Section 3 
+
+ 13.43 subd. 5a has been amended by Chapter 95, Article 1, Section 4 
+
+ 13.46 subd. 1 has been amended by Chapter 95, Article 1, Section 5 
+
+ 13.46 subd. 2 has been amended by Chapter 88, Article 1, Section 3 
+
+ 13.46 subd. 2 has been amended by Chapter 95, Article 1, Section 6 
+
+ 13.46 subd. 4 has been amended by Chapter 88, Article 1, Section 4 
+
+ 13.46 subd. 7 has been amended by Chapter 121, Article 8, Section 1 
+
+ 13.46 subd. 14 has been added by Chapter 95, Article 1, Section 7 
+
+ 13.461 subd. 7a has been amended by Chapter 88, Article 1, Section 5 
+
+ 13.461 subd. 16a has been repealed by Chapter 88, Article 1, Section 226 
+
+ 13.55 subd. 1 has been amended by Chapter 88, Article 2, Section 3 
+
+ 13.69 subd. 1 has been amended by Chapter 97, Article 1, Section 1 
+
+ 13.6905 subd. 39 has been added by Chapter 97, Article 1, Section 2 
+
+ 13.6905 subd. 39 has been added by Chapter 118, Article 2, Section 1 
+
+ 13.6905 subd. 40 has been added by Chapter 97, Article 1, Section 3 
+
+ 13.6905 subd. 41 has been added by Chapter 97, Article 2, Section 1 
+
+ 13.82 subd. 1 has been amended by Chapter 92, Article 2, Section 1 
+
+ 13.82 subd. 33 has been added by Chapter 117, Section 2 
+
+ 13.825 subd. 2 has been amended by Chapter 88, Article 1, Section 6 
+
+ 13.871 subd. 5 has been amended by Chapter 97, Article 1, Section 4 
+
+ Note: see session law sections for effective dates.
+
+ CHAPTER 13. GOVERNMENT DATA PRACTICES
+
+ Table of Sections 
+
+ Section 
+ Headnote 
+
+ 13.001 
+ 
+ MS 2006 [Renumbered 15.001] 
+
+ GENERALLY 
+
+ 13.01 
+ 
+ GOVERNMENT DATA. 
+
+ 13.02 
+ 
+ DEFINITIONS. 
+
+ 13.025 
+ 
+ GOVERNMENT ENTITY OBLIGATION. 
+
+ 13.03 
+ 
+ ACCESS TO GOVERNMENT DATA. 
+
+ 13.04 
+ 
+ RIGHTS OF SUBJECTS OF DATA. 
+
+ 13.045 
+ 
+ SAFE AT HOME PROGRAM PARTICIPANT DATA. 
+
+ 13.05 
+ 
+ DUTIES OF RESPONSIBLE AUTHORITY. 
+
+ 13.055 
+ 
+ DISCLOSURE OF BREACH IN SECURITY; NOTIFICATION AND INVESTIGATION REPORT REQUIRED. 
+
+ 13.06 
+ 
+ TEMPORARY CLASSIFICATION. 
+
+ 13.07 
+ 
+ DUTIES OF COMMISSIONER; RULES. 
+
+ 13.072 
+ 
+ OPINIONS BY THE COMMISSIONER. 
+
+ 13.073 
+ 
+ PUBLIC INFORMATION POLICY TRAINING PROGRAM. 
+
+ 13.08 
+ 
+ CIVIL REMEDIES. 
+
+ 13.081 
+ 
+ [Repealed, 2001 c 202 s 21 ] 
+
+ 13.085 
+ 
+ ADMINISTRATIVE REMEDY. 
+
+ 13.09 
+ 
+ PENALTIES. 
+
+ 13.10 
+ 
+ DATA ON DECEDENTS. 
+
+ COMPUTER DATA 
+
+ 13.15 
+ 
+ COMPUTER DATA. 
+
+ POLITICAL SUBDIVISION DATA 
+
+ 13.201 
+ 
+ RIDESHARE DATA. 
+
+ 13.202 
+ 
+ POLITICAL SUBDIVISION DATA CODED ELSEWHERE. 
+
+ 13.203 
+ 
+ SERVICE COOPERATIVE CLAIMS DATA. 
+
+ 13.204 
+ 
+ POLITICAL SUBDIVISIONS LICENSING DATA. 
+
+ 13.30 
+ 
+ [Renumbered 13.393 ]
+
+ 13.31 
+ 
+ [Renumbered 13.462 ]
+
+ EDUCATIONAL DATA 
+
+ 13.319 
+ 
+ EDUCATION DATA CODED ELSEWHERE. 
+
+ 13.32 
+ 
+ EDUCATIONAL DATA. 
+
+ 13.321 
+ 
+ PREKINDERGARTEN TO GRADE 12 EDUCATIONAL DATA CODED ELSEWHERE. 
+
+ 13.3215 
+ 
+ UNIVERSITY OF MINNESOTA DATA. 
+
+ 13.322 
+ 
+ POSTSECONDARY EDUCATION DATA CODED ELSEWHERE. 
+
+ 13.33 
+ 
+ [Renumbered 13.601, subd 2 ]
+
+ GENERAL DATA 
+
+ 13.34 
+ 
+ EXAMINATION DATA. 
+
+ 13.35 
+ 
+ FEDERAL CONTRACTS DATA. 
+
+ 13.355 
+ 
+ SOCIAL SECURITY NUMBERS. 
+
+ 13.356 
+ 
+ PERSONAL CONTACT AND ONLINE ACCOUNT INFORMATION. 
+
+ 13.357 
+ 
+ DATA SHARING. 
+
+ 13.36 
+ 
+ [Renumbered 13.87, subd 2 ]
+
+ 13.37 
+ 
+ GENERAL NONPUBLIC DATA. 
+
+ 13.38 
+ 
+ [Renumbered 13.3805, subdivision 1 ]
+
+ HEALTH AND MEDICAL DATA 
+
+ 13.3805 
+ 
+ PUBLIC HEALTH DATA. 
+
+ 13.3806 
+ 
+ PUBLIC HEALTH DATA CODED ELSEWHERE. 
+
+ 13.381 
+ 
+ HEALTH REGULATORY DATA CODED ELSEWHERE. 
+
+ 13.383 
+ 
+ HEALTH OCCUPATIONS INVESTIGATIVE DATA CODED ELSEWHERE. 
+
+ 13.384 
+ 
+ MEDICAL DATA. 
+
+ 13.385 
+ 
+ [Renumbered 13.3805, subd 2 ]
+
+ 13.386 
+ 
+ TREATMENT OF GENETIC INFORMATION HELD BY GOVERNMENT ENTITIES AND OTHER PERSONS. 
+
+ 13.387 
+ 
+ HEALTH CARE CONTRACT DATA. 
+
+ ATTORNEY, AUDIT, AND INVESTIGATIVE DATA 
+
+ 13.39 
+ 
+ CIVIL INVESTIGATION. 
+
+ 13.391 
+ 
+ [Renumbered 13.821 ]
+
+ 13.392 
+ 
+ INTERNAL AUDITING DATA. 
+
+ 13.393 
+ 
+ ATTORNEYS. 
+
+ LIBRARY DATA 
+
+ 13.40 
+ 
+ LIBRARY AND HISTORICAL DATA. 
+
+ 13.401 
+ 
+ LIBRARY AND HISTORICAL DATA CODED ELSEWHERE. 
+
+ LICENSING DATA 
+
+ 13.41 
+ 
+ LICENSING DATA. 
+
+ 13.411 
+ 
+ LICENSING DATA CODED ELSEWHERE. 
+
+ 13.42 
+ 
+ [Renumbered 13.384 ]
+
+ PERSONNEL; SALARY BENEFIT DATA 
+
+ 13.43 
+ 
+ PERSONNEL DATA. 
+
+ 13.435 
+ 
+ SALARY BENEFIT SURVEY DATA. 
+
+ PROPERTY DATA 
+
+ 13.44 
+ 
+ PROPERTY DATA. 
+
+ 13.441 
+ 
+ PROPERTY DATA CODED ELSEWHERE. 
+
+ 13.442 
+ 
+ [Renumbered 13.44, subd 2 ]
+
+ 13.45 
+ 
+ [Renumbered 13.435 ]
+
+ FAMILY, WELFARE, AND BENEFIT DATA 
+
+ 13.46 
+ 
+ WELFARE DATA. 
+
+ 13.461 
+ 
+ HUMAN SERVICES DATA CODED ELSEWHERE. 
+
+ 13.462 
+ 
+ BENEFIT DATA. 
+
+ 13.463 
+ 
+ EDUCATION SUPPORT SERVICES DATA. 
+
+ 13.465 
+ 
+ FAMILY AND DOMESTIC RELATIONS DATA CODED ELSEWHERE. 
+
+ 13.467 
+ 
+ FOSTER CARE DATA. 
+
+ 13.468 
+ 
+ [Repealed, 1Sp2017 c 6 art 7 s 36 ] 
+
+ EMPLOYMENT AND TRAINING DATA 
+
+ 13.47 
+ 
+ EMPLOYMENT AND TRAINING DATA. 
+
+ 13.475 
+ 
+ [Repealed, 2004 c 290 s 39 ] 
+
+ BUSINESS ORGANIZATION AND TRADE REGULATION DATA 
+
+ 13.48 
+ 
+ AWARD DATA. 
+
+ 13.485 
+ 
+ CORPORATION DATA CODED ELSEWHERE. 
+
+ 13.487 
+ 
+ TRADE REGULATION AND CONSUMER DATA CODED ELSEWHERE. 
+
+ TAXATION AND ASSESSMENT DATA 
+
+ 13.49 
+ 
+ [Renumbered 13.355 ]
+
+ 13.491 
+ 
+ [Renumbered 13.201 ; 13.72, subd 9 ]
+
+ 13.495 
+ 
+ LODGING TAX DATA. 
+
+ 13.4961 
+ 
+ GENERAL TAX DATA CODED ELSEWHERE. 
+
+ 13.4963 
+ 
+ CLASSIFICATION AND DISCLOSURE TAX DATA CODED ELSEWHERE. 
+
+ 13.4965 
+ 
+ PROPERTY TAX DATA CODED ELSEWHERE. 
+
+ 13.4967 
+ 
+ OTHER TAX DATA CODED ELSEWHERE. 
+
+ 13.50 
+ 
+ [Renumbered 13.44, subd 3 ]
+
+ 13.51 
+ 
+ ASSESSOR'S DATA. 
+
+ 13.511 
+ 
+ [Renumbered 13.495 ]
+
+ 13.52 
+ 
+ DEFERRED ASSESSMENT DATA. 
+
+ 13.521 
+ 
+ [Renumbered 13.72, subd 10 ]
+
+ 13.528 
+ 
+ [Renumbered 13.467, subd 2 ]
+
+ 13.53 
+ 
+ [Renumbered 13.467, subdivision 1 ]
+
+ 13.531 
+ 
+ [Renumbered 13.643, subd 2 ]
+
+ 13.54 
+ 
+ [Renumbered 13.585 ]
+
+ 13.5401 
+ 
+ [Renumbered 13.586 ]
+
+ 13.541 
+ 
+ [Renumbered 13.587 ]
+
+ FACILITY, EVENT, AND RECREATIONAL DATA 
+
+ 13.548 
+ 
+ SOCIAL RECREATIONAL DATA. 
+
+ 13.55 
+ 
+ CONVENTION CENTER DATA. 
+
+ 13.551 
+ 
+ [Renumbered 13.592 and 13.593 ]
+
+ HUMAN RIGHTS DATA 
+
+ 13.552 
+ 
+ HUMAN RIGHTS DATA CODED ELSEWHERE. 
+
+ 13.56 
+ 
+ [Renumbered 13.822 ]
+
+ 13.57 
+ 
+ [Renumbered 13.548 ]
+
+ 13.58 
+ 
+ [Repealed, 1987 c 268 art 6 s 53 ] 
+
+ HOUSING, BUSINESS, AND DEVELOPMENT DATA 
+
+ 13.585 
+ 
+ HOUSING AGENCY DATA. 
+
+ 13.586 
+ 
+ HOUSING AGENCY DATA CODED ELSEWHERE. 
+
+ 13.587 
+ 
+ EMERGENCY SERVICES FOR HOMELESS PERSONS; PRIVATE DATA. 
+
+ 13.59 
+ 
+ HOUSING AND REDEVELOPMENT DATA. 
+
+ 13.591 
+ 
+ BUSINESS DATA. 
+
+ 13.592 
+ 
+ [Repealed, 2001 c 202 s 21 ] 
+
+ 13.5921 
+ 
+ [Repealed, 2001 c 202 s 21 ] 
+
+ 13.5922 
+ 
+ [Repealed, 2001 c 202 s 21 ] 
+
+ 13.593 
+ 
+ [Repealed, 2001 c 202 s 21 ] 
+
+ 13.594 
+ 
+ [Repealed, 2001 c 202 s 21 ] 
+
+ 13.5951 
+ 
+ [Repealed, 2001 c 202 s 21 ] 
+
+ 13.5952 
+ 
+ [Repealed, 2001 c 202 s 21 ] 
+
+ 13.5953 
+ 
+ [Repealed, 2001 c 202 s 21 ] 
+
+ 13.596 
+ 
+ [Repealed, 2001 c 202 s 21 ] 
+
+ 13.5965 
+ 
+ [Repealed, 2001 c 202 s 21 ] 
+
+ 13.598 
+ 
+ EMPLOYMENT AND ECONOMIC DEVELOPMENT DATA CODED ELSEWHERE. 
+
+ GRANTS 
+
+ 13.599 
+ 
+ GRANTS. 
+
+ 13.60 
+ 
+ [Renumbered 13.601, subdivision 1 ]
+
+ ELECTED AND APPOINTED OFFICIALS; LEGISLATIVE DATA 
+
+ 13.601 
+ 
+ ELECTED AND APPOINTED OFFICIALS. 
+
+ 13.602 
+ 
+ ELECTED AND APPOINTED OFFICIAL DATA CODED ELSEWHERE. 
+
+ 13.605 
+ 
+ LEGISLATIVE DATA. 
+
+ 13.606 
+ 
+ LEGISLATIVE DATA CODED ELSEWHERE. 
+
+ CAMPAIGN FINANCE, PUBLIC DISCLOSURE, AND ELECTION DATA 
+
+ 13.607 
+ 
+ CAMPAIGN FINANCE, PUBLIC DISCLOSURE, AND ELECTION DATA CODED ELSEWHERE. 
+
+ 13.61 
+ 
+ [Renumbered 13.714 ]
+
+ 13.612 
+ 
+ [Renumbered 13.685 ]
+
+ 13.62 
+ 
+ [Renumbered 13.594 ]
+
+ 13.621 
+ 
+ [Renumbered 13.5951 ]
+
+ 13.622 
+ 
+ [Renumbered 13.5952 ]
+
+ RETIREMENT DATA 
+
+ 13.63 
+ 
+ RETIREMENT DATA. 
+
+ 13.631 
+ 
+ RETIREMENT DATA CODED ELSEWHERE. 
+
+ 13.632 
+ 
+ ST. PAUL TEACHERS RETIREMENT FUND ASSOCIATION DATA. 
+
+ STATE AGENCY DATA 
+
+ 13.635 
+ 
+ GENERAL STATE AGENCY DATA CODED ELSEWHERE. 
+
+ ADMINISTRATION AND FINANCE DATA 
+
+ 13.64 
+ 
+ ADMINISTRATION; MANAGEMENT AND BUDGET DATA. 
+
+ 13.6401 
+ 
+ ADMINISTRATION AND MANAGEMENT AND BUDGET DATA CODED ELSEWHERE. 
+
+ 13.641 
+ 
+ [Repealed, 1990 c 573 s 23 ] 
+
+ 13.642 
+ 
+ [Renumbered 13.63, subd 2 ]
+
+ AGRICULTURAL DATA 
+
+ 13.643 
+ 
+ AGRICULTURAL DATA. 
+
+ 13.6435 
+ 
+ AGRICULTURAL DATA CODED ELSEWHERE. 
+
+ 13.644 
+ 
+ [Repealed, 1993 c 351 s 41 ] 
+
+ 13.645 
+ 
+ [Renumbered 13.643, subd 3 ]
+
+ 13.646 
+ 
+ [Renumbered 13.605, subdivision 1 ]
+
+ ATTORNEY GENERAL 
+
+ 13.65 
+ 
+ ATTORNEY GENERAL DATA. 
+
+ 13.6505 
+ 
+ ATTORNEY GENERAL DATA CODED ELSEWHERE. 
+
+ 13.66 
+ 
+ [Renumbered 13.855 , subds 1-3]
+
+ EMPLOYEE RELATIONS DATA 
+
+ 13.67 
+ 
+ EMPLOYEE RELATIONS DATA. 
+
+ 13.6705 
+ 
+ EMPLOYEE RELATIONS DATA CODED ELSEWHERE. 
+
+ 13.671 
+ 
+ [Renumbered 13.5953 ]
+
+ ENERGY AND UTILITIES DATA 
+
+ 13.679 
+ 
+ PUBLIC UTILITY DATA. 
+
+ 13.68 
+ 
+ ENERGY AND FINANCIAL DATA AND STATISTICS. 
+
+ 13.681 
+ 
+ ENERGY AND UTILITIES DATA CODED ELSEWHERE. 
+
+ 13.685 
+ 
+ MUNICIPAL UTILITY CUSTOMER DATA. 
+
+ PUBLIC SAFETY DATA 
+
+ 13.69 
+ 
+ PUBLIC SAFETY DEPARTMENT DATA. 
+
+ 13.6905 
+ 
+ PUBLIC SAFETY DATA CODED ELSEWHERE. 
+
+ 13.691 
+ 
+ [Renumbered 13.63, subd 3 ]
+
+ 13.692 
+ 
+ [Renumbered 13.679 ]
+
+ 13.70 
+ 
+ [Repealed, 1989 c 184 art 1 s 20 ] 
+
+ 13.71 
+
+ Subdivisions renumbered, repealed, or no longer in effect
+
+ COMMERCE, BANKING, AND INSURANCE DATA 
+
+ 13.711 
+ 
+ DEPARTMENT OF COMMERCE DATA; RELEASE OF COMPLAINT TO RESPONDENT. 
+
+ 13.712 
+ 
+ COMMERCE DATA CODED ELSEWHERE. 
+
+ 13.713 
+ 
+ BANKING DATA CODED ELSEWHERE. 
+
+ 13.714 
+ 
+ INSURANCE TRUST DATA; PRIVATE AND NONPUBLIC DATA. 
+
+ 13.715 
+ 
+ GENERAL INSURANCE POWERS DATA; SURPLUS LINE INSURANCE. 
+
+ 13.716 
+ 
+ GENERAL INSURANCE POWERS DATA CODED ELSEWHERE. 
+
+ 13.717 
+ 
+ INSURANCE; HEALTH CARE COST CONTAINMENT DATA CODED ELSEWHERE. 
+
+ 13.719 
+ 
+ MISCELLANEOUS INSURANCE DATA. 
+
+ 13.7191 
+ 
+ MISCELLANEOUS INSURANCE DATA CODED ELSEWHERE. 
+
+ TRANSPORTATION DATA 
+
+ 13.72 
+ 
+ TRANSPORTATION DEPARTMENT DATA. 
+
+ 13.721 
+ 
+ TRANSPORTATION DATA CODED ELSEWHERE. 
+
+ 13.73 
+ 
+ [Repealed, 1985 c 298 s 45 ] 
+
+ 13.74 
+ 
+ [Renumbered 13.741, subd 3 ]
+
+ ENVIRONMENTAL PROTECTION DATA 
+
+ 13.741 
+ 
+ POLLUTION CONTROL; ENVIRONMENTAL QUALITY DATA. 
+
+ 13.7411 
+ 
+ POLLUTION CONTROL AND ENVIRONMENTAL QUALITY DATA CODED ELSEWHERE. 
+
+ RACING; GAMING DATA 
+
+ 13.745 
+ 
+ PARI-MUTUEL HORSE RACING CODED ELSEWHERE. 
+
+ 13.746 
+ 
+ GAMING DATA CODED ELSEWHERE. 
+
+ 13.75 
+ 
+ [Renumbered 13.79, subd 2 ]
+
+ 13.76 
+ 
+ [Renumbered 13.596 ]
+
+ 13.761 
+ 
+ [Renumbered 13.605, subd 2 ]
+
+ 13.77 
+ 
+ [Renumbered 13.643, subd 4 ]
+
+ 13.771 
+ 
+ [Renumbered 13.741, subdivision 1 ]
+
+ 13.772 
+ 
+ [Renumbered 13.741, subd 2 ]
+
+ 13.78 
+ 
+ [Renumbered 13.5965 ]
+
+ VETERANS AND MILITARY AFFAIRS DATA 
+
+ 13.785 
+ 
+ VETERANS OR MILITARY AFFAIRS DATA CODED ELSEWHERE. 
+
+ LABOR DATA 
+
+ 13.79 
+ 
+ DEPARTMENT OF LABOR AND INDUSTRY DATA. 
+
+ 13.7905 
+ 
+ LABOR AND INDUSTRY DATA CODED ELSEWHERE. 
+
+ 13.7908 
+ 
+ BUREAU OF MEDIATION SERVICES DATA. 
+
+ 13.7909 
+ 
+ PUBLIC EMPLOYMENT RELATIONS BOARD DATA. 
+
+ 13.791 
+ 
+ REHABILITATION DATA. 
+
+ BIOTECHNOLOGY DATA 
+
+ 13.7911 
+ 
+ BIOPROCESS PIPING AND EQUIPMENT DATA. 
+
+ GIFT DATA 
+
+ 13.792 
+ 
+ PRIVATE DONOR GIFT DATA. 
+
+ NATURAL RESOURCE DATA 
+
+ 13.793 
+ 
+ NATURAL RESOURCE DATA; MINERAL DATA. 
+
+ 13.7931 
+ 
+ NATURAL RESOURCE DATA CODED ELSEWHERE. 
+
+ 13.7932 
+ 
+ LOGGER SAFETY AND EDUCATION PROGRAM DATA. 
+
+ 13.794 
+ 
+ [Renumbered 13.392 ]
+
+ LAW ENFORCEMENT; JUDICIAL; CORRECTIONS;
+CRIMINAL JUSTICE DATA 
+
+ 13.80 
+ 
+ DOMESTIC ABUSE DATA. 
+
+ 13.805 
+ 
+ ADDRESS CONFIDENTIALITY DATA CODED ELSEWHERE. 
+
+ 13.81 
+ 
+ [Repealed, 1985 c 298 s 45 ] 
+
+ 13.82 
+ 
+ COMPREHENSIVE LAW ENFORCEMENT DATA. 
+
+ 13.821 
+ 
+ RECORDINGS OF CHILD ABUSE VICTIMS. 
+
+ 13.822 
+ 
+ SEXUAL ASSAULT DATA. 
+
+ 13.823 
+ 
+ DOMESTIC ABUSE OR SEXUAL ASSAULT PROGRAMS. 
+
+ 13.824 
+ 
+ AUTOMATED LICENSE PLATE READERS. 
+
+ 13.825 
+ 
+ PORTABLE RECORDING SYSTEMS. 
+
+ 13.83 
+ 
+ MEDICAL EXAMINER DATA. 
+
+ 13.84 
+ 
+ COURT SERVICES DATA. 
+
+ 13.841 
+ 
+ COURT SERVICES DATA CODED ELSEWHERE. 
+
+ 13.85 
+ 
+ CORRECTIONS AND DETENTION DATA. 
+
+ 13.851 
+ 
+ CORRECTIONS AND DETENTION DATA CODED ELSEWHERE. 
+
+ 13.854 
+ 
+ RELEASE OF ARRESTED, DETAINED, OR CONFINED PERSON; AUTOMATED NOTIFICATION SERVICE. 
+
+ 13.855 
+ 
+ [Repealed, 1Sp2003 c 2 art 5 s 18 ] 
+
+ 13.856 
+ 
+ OMBUDSPERSON FOR CORRECTIONS; DATA. 
+
+ 13.86 
+ 
+ INVESTIGATIVE DETENTION DATA. 
+
+ 13.861 
+ 
+ SECURITY SERVICE DATA. 
+
+ 13.87 
+ 
+ CRIMINAL JUSTICE DATA. 
+
+ 13.871 
+ 
+ CRIMINAL JUSTICE DATA CODED ELSEWHERE. 
+
+ 13.873 
+ 
+ INTEGRATED SEARCH SERVICE DATA SUBJECT ACCESS. 
+
+ 13.875 
+ 
+ JUVENILE JUSTICE DATA CODED ELSEWHERE. 
+
+ 13.876 
+ 
+ FOSTER YOUTH OMBUDSPERSON; DATA. 
+
+ 13.88 
+ 
+ COMMUNITY DISPUTE RESOLUTION CENTER DATA. 
+
+ 13.89 
+ 
+ DISSEMINATION OF DATA TO PROTECTION AND ADVOCACY SYSTEMS. 
+
+ 13.891 
+ 
+ RESTORATIVE PRACTICE PARTICIPANT DATA. 
+
+ 13.90 
+ 
+ JUDICIARY EXEMPT. 
+
+ 13.95 
+ 
+ ADMINISTRATIVE COURTS. 
+
+ 13.99 
+
+ Subdivisions renumbered, repealed, or no longer in effect
+
+ 13.991 
+ 
+ JUDICIAL OFFICIAL DATA; PERSONAL INFORMATION. 
+
+ Official Publication of the State of Minnesota
+
+ Revisor of Statutes
