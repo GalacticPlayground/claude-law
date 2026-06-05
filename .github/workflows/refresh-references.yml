@@ -15,18 +15,59 @@ on:
         default: all
         options:
           - all
-          - federal
-          - immigration
-          - wa
-          - or
-          - ca
-          - co
-          - in
-          - ny
-          - oh
-          - tn
-          - mi
-          - az
+          - federal-debt
+          - federal-immigration
+          - federal-legal
+          - us-wa
+          - us-or
+          - us-ca
+          - us-co
+          - us-in
+          - us-ny
+          - us-oh
+          - us-tn
+          - us-mi
+          - us-az
+          - us-ak
+          - us-al
+          - us-ar
+          - us-ct
+          - us-de
+          - us-fl
+          - us-ga
+          - us-hi
+          - us-ia
+          - us-id
+          - us-il
+          - us-ks
+          - us-ky
+          - us-la
+          - us-ma
+          - us-md
+          - us-me
+          - us-mn
+          - us-mo
+          - us-ms
+          - us-mt
+          - us-nc
+          - us-nd
+          - us-ne
+          - us-nh
+          - us-nj
+          - us-nm
+          - us-nv
+          - us-ok
+          - us-pa
+          - us-ri
+          - us-sc
+          - us-sd
+          - us-tx
+          - us-ut
+          - us-va
+          - us-vt
+          - us-wi
+          - us-wv
+          - us-wy
 
 permissions:
   contents: write
@@ -52,21 +93,12 @@ jobs:
         env:
           TARGET: ${{ github.event.inputs.target }}
         run: |
+          # All 50 states + 3 federal plugins. Quarterly cron fires with
+          # target="all" so every leg of the matrix runs in parallel.
           case "${TARGET:-all}" in
-            all)     targets='["federal","immigration","wa","or","ca","co","in","ny","oh","tn","mi","az"]' ;;
-            federal) targets='["federal"]' ;;
-            immigration) targets='["immigration"]' ;;
-            wa)      targets='["wa"]' ;;
-            or)      targets='["or"]' ;;
-            ca)      targets='["ca"]' ;;
-            co)      targets='["co"]' ;;
-            in)      targets='["in"]' ;;
-            ny)      targets='["ny"]' ;;
-            oh)      targets='["oh"]' ;;
-            tn)      targets='["tn"]' ;;
-            mi)      targets='["mi"]' ;;
-            az)      targets='["az"]' ;;
-            *)       echo "unexpected target: $TARGET" >&2; exit 1 ;;
+            all) targets='["federal-debt","federal-immigration","federal-legal","us-wa","us-or","us-ca","us-co","us-in","us-ny","us-oh","us-tn","us-mi","us-az","us-ak","us-al","us-ar","us-ct","us-de","us-fl","us-ga","us-hi","us-ia","us-id","us-il","us-ks","us-ky","us-la","us-ma","us-md","us-me","us-mn","us-mo","us-ms","us-mt","us-nc","us-nd","us-ne","us-nh","us-nj","us-nm","us-nv","us-ok","us-pa","us-ri","us-sc","us-sd","us-tx","us-ut","us-va","us-vt","us-wi","us-wv","us-wy"]' ;;
+            federal-debt|federal-immigration|federal-legal|us-wa|us-or|us-ca|us-co|us-in|us-ny|us-oh|us-tn|us-mi|us-az|us-ak|us-al|us-ar|us-ct|us-de|us-fl|us-ga|us-hi|us-ia|us-id|us-il|us-ks|us-ky|us-la|us-ma|us-md|us-me|us-mn|us-mo|us-ms|us-mt|us-nc|us-nd|us-ne|us-nh|us-nj|us-nm|us-nv|us-ok|us-pa|us-ri|us-sc|us-sd|us-tx|us-ut|us-va|us-vt|us-wi|us-wv|us-wy) targets="[\"${TARGET}\"]" ;;
+            *) echo "unexpected target: $TARGET" >&2; exit 1 ;;
           esac
           echo "targets=$targets" >> "$GITHUB_OUTPUT"
 
@@ -107,13 +139,13 @@ jobs:
 
       # ---- federal — shared corpus consumed by every state plugin ----
       - name: Federal — debt laws
-        if: matrix.target == 'federal'
+        if: matrix.target == 'federal-debt'
         continue-on-error: true
         timeout-minutes: 10
         run: python3 scripts/pull_federal_debt_laws.py
 
       - name: Federal — Model UCC
-        if: matrix.target == 'federal'
+        if: matrix.target == 'federal-debt'
         continue-on-error: true
         # 15 min cap: the new throttle-aware defaults in pull_ucc.py use
         # workers=2, jittered backoff, and a 30s cool-off between articles
@@ -135,19 +167,19 @@ jobs:
       # verbatim content rather than clobbering it. Case law is not pulled
       # here — it is on-demand per references/legal-data-apis.md.
       - name: Immigration — INA (8 U.S.C. Chapter 12)
-        if: matrix.target == 'immigration'
+        if: matrix.target == 'federal-immigration'
         continue-on-error: true
         timeout-minutes: 10
         run: python3 scripts/pull_ina.py
 
       - name: Immigration — 8 CFR + 22 CFR (curated parts)
-        if: matrix.target == 'immigration'
+        if: matrix.target == 'federal-immigration'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_immigration_cfr.py
 
       - name: Immigration — FAM (verbatim; AIA-chases the omitted TLS intermediate + crawls the JSON TOC API)
-        if: matrix.target == 'immigration'
+        if: matrix.target == 'federal-immigration'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_fam.py
@@ -159,14 +191,14 @@ jobs:
       # The _file_is_stub guard preserves any verbatim content a future
       # headless/un-gated run commits.
       - name: Immigration — EOIR practice manuals (ICPM + BIA Practice Manual stubs)
-        if: matrix.target == 'immigration'
+        if: matrix.target == 'federal-immigration'
         continue-on-error: true
         timeout-minutes: 5
         run: python3 scripts/pull_eoir_manuals.py
 
-      # ---- WA ----
+      # ---- US-WA ----
       - name: WA — court rules
-        if: matrix.target == 'wa'
+        if: matrix.target == 'us-wa'
         continue-on-error: true
         timeout-minutes: 15
         run: |
@@ -174,49 +206,49 @@ jobs:
             --manifest plugins/us-wa-legal-corpus/skills/wa-law-references/references/court-rules/_manifest.json
 
       - name: WA — RCW debt chapters
-        if: matrix.target == 'wa'
+        if: matrix.target == 'us-wa'
         continue-on-error: true
         timeout-minutes: 10
         run: python3 scripts/pull_wa_rcw.py --workers 12
 
-      # ---- OR ----
+      # ---- US-OR ----
       # Federal + UCC content for OR comes from the shared `federal`
       # target. The OR-specific pullers below refresh the Oregon-only
       # corpora (ORS chapters and the seven OR court-rule canonical
       # sources).
       - name: OR — court rules
-        if: matrix.target == 'or'
+        if: matrix.target == 'us-or'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_oregon_rules.py
 
       - name: OR — ORS debt + civil-practice chapters
-        if: matrix.target == 'or'
+        if: matrix.target == 'us-or'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_oregon_ors.py --workers 4
 
-      # ---- CA ----
+      # ---- US-CA ----
       - name: CA — court rules
-        if: matrix.target == 'ca'
+        if: matrix.target == 'us-ca'
         continue-on-error: true
         timeout-minutes: 10
         run: python3 scripts/pull_ca_court_rules.py --workers 8
 
-      # ---- CO ----
+      # ---- US-CO ----
       - name: CO — statute corpus (titles 4, 5, 6, 13, 14, 24)
-        if: matrix.target == 'co'
+        if: matrix.target == 'us-co'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_co_statutes.py --workers 4
 
       - name: CO — court rules (Chief Justice Directives + paywalled-rule stubs)
-        if: matrix.target == 'co'
+        if: matrix.target == 'us-co'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_co_court_rules.py --workers 4
 
-      # ---- IN ----
+      # ---- US-IN ----
       # Indiana's five state-wide rule sets (Trial, Evidence, Appellate,
       # Professional Conduct, Administrative) plus Marion County and Lake
       # County local-rule PDFs all come from rules.incourts.gov and
@@ -225,20 +257,20 @@ jobs:
       # current state) the script emits well-formed stubs so the corpus
       # mirrors the article shape until access is wired in.
       - name: IN — court rules (state-wide + Marion/Lake local rules)
-        if: matrix.target == 'in'
+        if: matrix.target == 'us-in'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_indiana_rules.py --workers 4
 
       - name: IN — Indiana Code (civil-practice articles)
-        if: matrix.target == 'in'
+        if: matrix.target == 'us-in'
         continue-on-error: true
         timeout-minutes: 15
         env:
           IGA_API_KEY: ${{ secrets.IGA_API_KEY }}
         run: python3 scripts/pull_indiana_statutes.py --workers 4
 
-      # ---- NY ----
+      # ---- US-NY ----
       # New York's trial-court rules (22 NYCRR Parts 130, 202, 202.70,
       # 208, 210, 212, 214, 1200) are published on www.nycourts.gov,
       # which sits behind Cloudflare's managed-challenge gate. The
@@ -251,7 +283,7 @@ jobs:
       # formed pointer stubs so the corpus retains its target shape
       # until access is wired in. Mirrors the IN statutes puller.
       - name: NY — court rules (22 NYCRR civil practice + Comm Div + sanctions)
-        if: matrix.target == 'ny'
+        if: matrix.target == 'us-ny'
         continue-on-error: true
         timeout-minutes: 15
         # No `NY_RULES_PROXY` here on purpose. The proxy referenced
@@ -270,14 +302,14 @@ jobs:
           python3 scripts/pull_ny_court_rules.py --workers 4
 
       - name: NY — consolidated laws (CPLR + GOB + GBS + RPAPL + UCC + DRL + GCN + BNK)
-        if: matrix.target == 'ny'
+        if: matrix.target == 'us-ny'
         continue-on-error: true
         timeout-minutes: 15
         env:
           NYSENATE_API_KEY: ${{ secrets.NYSENATE_API_KEY }}
         run: python3 scripts/pull_ny_statutes.py --workers 4
 
-      # ---- OH ----
+      # ---- US-OH ----
       # Ohio's court rules + statutes are both published on
       # public-access government sites with no Cloudflare gate
       # and no API-key requirement:
@@ -293,18 +325,18 @@ jobs:
       #     3115/3119/3127 family + 5321/1923 L&T + 1901/1907/1925
       #     court-specific procedural).
       - name: OH — court rules (Civ. R. + Evid. R. + Sup. R. + Prof. Cond. R. + 10 others)
-        if: matrix.target == 'oh'
+        if: matrix.target == 'us-oh'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_ohio_court_rules.py --workers 3
 
       - name: OH — Revised Code (20 chapters covering civil + family practice)
-        if: matrix.target == 'oh'
+        if: matrix.target == 'us-oh'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_ohio_statutes.py --workers 4
 
-      # ---- TN ----
+      # ---- US-TN ----
       # Tennessee's statewide rule sets are published as Drupal HTML
       # at tncourts.gov — one HTML sub-page per rule, with the rule
       # body inside a `field--name-field-rules-rule-content` div.
@@ -330,20 +362,20 @@ jobs:
       # Operators wanting a guaranteed-fresh verbatim pull should
       # run the puller locally from a residential or VPN-routed IP.
       - name: TN — court rules (TRCP + TRE + TRAP + Tenn. Sup. Ct. R.)
-        if: matrix.target == 'tn'
+        if: matrix.target == 'us-tn'
         continue-on-error: true
         timeout-minutes: 20
         run: python3 scripts/pull_tn_court_rules.py --workers 2
 
       - name: TN — Tenn. Code Ann. (25 chapters covering civil + family practice)
-        if: matrix.target == 'tn'
+        if: matrix.target == 'us-tn'
         continue-on-error: true
         timeout-minutes: 20
         run: |
           pip3 install --break-system-packages curl_cffi
           python3 scripts/pull_tn_statutes.py --workers 4
 
-      # ---- MI ----
+      # ---- US-MI ----
       # Michigan Compiled Laws come from legislature.mi.gov (ungated HTML; the
       # objectName per-section scheme), so the statutes puller mirrors verbatim.
       # The Michigan Court Rules / Rules of Evidence are gated on the canonical
@@ -352,18 +384,18 @@ jobs:
       # falling back to canonical-URL pointer stubs only when that mirror is
       # unreachable; the _file_is_stub guard preserves committed verbatim content.
       - name: MI — Michigan Compiled Laws (curated civil + family + consumer sections)
-        if: matrix.target == 'mi'
+        if: matrix.target == 'us-mi'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_michigan_statutes.py
 
       - name: MI — Michigan Court Rules + Rules of Evidence (verbatim where reachable, else stubs)
-        if: matrix.target == 'mi'
+        if: matrix.target == 'us-mi'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_michigan_rules.py
 
-      # ---- AZ ----
+      # ---- US-AZ ----
       # Arizona Revised Statutes come from azleg.gov (ungated per-section HTML
       # fragments), so the statutes puller mirrors verbatim. The Arizona court
       # rules (Ariz. R. Civ. P., Ariz. R. Evid., Arizona Rules of Family Law
@@ -373,18 +405,266 @@ jobs:
       # stubs only when the mirror is unreachable; the _file_is_stub guard
       # preserves committed verbatim content.
       - name: AZ — Arizona Revised Statutes (curated civil + family + consumer sections)
-        if: matrix.target == 'az'
+        if: matrix.target == 'us-az'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_arizona_statutes.py
 
       - name: AZ — Arizona court rules (Ariz. R. Civ. P. + Evid. + Family Law Proc. + Justice Court)
-        if: matrix.target == 'az'
+        if: matrix.target == 'us-az'
         continue-on-error: true
         timeout-minutes: 15
         run: python3 scripts/pull_arizona_rules.py
 
-      # ---- Finalize ----
+      # ---- Newly scaffolded states (40 remaining) ----
+      # Each of these is a scaffold-only plugin today; no puller script
+      # yet. The step below is a no-op that succeeds, registering the
+      # plugin with the quarterly refresh pipeline so that future
+      # additions of pull scripts will be exercised automatically by the
+      # next cron run. When a state-specific puller is added (e.g.
+      # scripts/pull_texas_statutes.py), the corresponding `run:` line
+      # below can be updated to invoke it.
+      - name: AK — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ak'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ak-legal-corpus is scaffolded but no puller yet"
+
+      - name: AL — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-al'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-al-legal-corpus is scaffolded but no puller yet"
+
+      - name: AR — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ar'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ar-legal-corpus is scaffolded but no puller yet"
+
+      - name: CT — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ct'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ct-legal-corpus is scaffolded but no puller yet"
+
+      - name: DE — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-de'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-de-legal-corpus is scaffolded but no puller yet"
+
+      - name: FL — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-fl'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-fl-legal-corpus is scaffolded but no puller yet"
+
+      - name: GA — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ga'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ga-legal-corpus is scaffolded but no puller yet"
+
+      - name: HI — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-hi'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-hi-legal-corpus is scaffolded but no puller yet"
+
+      - name: IA — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ia'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ia-legal-corpus is scaffolded but no puller yet"
+
+      - name: ID — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-id'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-id-legal-corpus is scaffolded but no puller yet"
+
+      - name: IL — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-il'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-il-legal-corpus is scaffolded but no puller yet"
+
+      - name: KS — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ks'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ks-legal-corpus is scaffolded but no puller yet"
+
+      - name: KY — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ky'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ky-legal-corpus is scaffolded but no puller yet"
+
+      - name: LA — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-la'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-la-legal-corpus is scaffolded but no puller yet"
+
+      - name: MA — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ma'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ma-legal-corpus is scaffolded but no puller yet"
+
+      - name: MD — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-md'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-md-legal-corpus is scaffolded but no puller yet"
+
+      - name: ME — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-me'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-me-legal-corpus is scaffolded but no puller yet"
+
+      - name: MN — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-mn'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-mn-legal-corpus is scaffolded but no puller yet"
+
+      - name: MO — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-mo'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-mo-legal-corpus is scaffolded but no puller yet"
+
+      - name: MS — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ms'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ms-legal-corpus is scaffolded but no puller yet"
+
+      - name: MT — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-mt'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-mt-legal-corpus is scaffolded but no puller yet"
+
+      - name: NC — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-nc'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-nc-legal-corpus is scaffolded but no puller yet"
+
+      - name: ND — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-nd'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-nd-legal-corpus is scaffolded but no puller yet"
+
+      - name: NE — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ne'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ne-legal-corpus is scaffolded but no puller yet"
+
+      - name: NH — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-nh'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-nh-legal-corpus is scaffolded but no puller yet"
+
+      - name: NJ — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-nj'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-nj-legal-corpus is scaffolded but no puller yet"
+
+      - name: NM — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-nm'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-nm-legal-corpus is scaffolded but no puller yet"
+
+      - name: NV — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-nv'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-nv-legal-corpus is scaffolded but no puller yet"
+
+      - name: OK — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ok'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ok-legal-corpus is scaffolded but no puller yet"
+
+      - name: PA — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-pa'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-pa-legal-corpus is scaffolded but no puller yet"
+
+      - name: RI — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ri'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ri-legal-corpus is scaffolded but no puller yet"
+
+      - name: SC — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-sc'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-sc-legal-corpus is scaffolded but no puller yet"
+
+      - name: SD — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-sd'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-sd-legal-corpus is scaffolded but no puller yet"
+
+      - name: TX — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-tx'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-tx-legal-corpus is scaffolded but no puller yet"
+
+      - name: UT — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-ut'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-ut-legal-corpus is scaffolded but no puller yet"
+
+      - name: VA — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-va'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-va-legal-corpus is scaffolded but no puller yet"
+
+      - name: VT — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-vt'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-vt-legal-corpus is scaffolded but no puller yet"
+
+      - name: WI — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-wi'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-wi-legal-corpus is scaffolded but no puller yet"
+
+      - name: WV — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-wv'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-wv-legal-corpus is scaffolded but no puller yet"
+
+      - name: WY — scaffolded plugin (no puller yet)
+        if: matrix.target == 'us-wy'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: echo "us-wy-legal-corpus is scaffolded but no puller yet"
+
+      # ---- FINALIZE ----
 
       - name: Lint after refresh
         run: python3 scripts/lint-skills.py
@@ -395,19 +675,60 @@ jobs:
           T: ${{ matrix.target }}
         run: |
           case "$T" in
-            federal)     path='plugins/us-federal-debt-corpus/references/**' ;;
-            immigration) path='plugins/us-federal-immigration-corpus/references/**' ;;
-            wa)          path='plugins/us-wa-legal-corpus/references/**' ;;
-            or)          path='plugins/us-or-legal-corpus/references/**' ;;
-            ca)          path='plugins/us-ca-legal-corpus/references/**' ;;
-            co)          path='plugins/us-co-legal-corpus/references/**' ;;
-            in)          path='plugins/us-in-legal-corpus/references/**' ;;
-            ny)          path='plugins/us-ny-legal-corpus/references/**' ;;
-            oh)          path='plugins/us-oh-legal-corpus/references/**' ;;
-            tn)          path='plugins/us-tn-legal-corpus/references/**' ;;
-            mi)          path='plugins/us-mi-legal-corpus/references/**' ;;
-            az)          path='plugins/us-az-legal-corpus/references/**' ;;
-            *)           echo "unexpected target: $T" >&2; exit 1 ;;
+            federal-debt)         path='plugins/us-federal-debt-corpus/references/**' ;;
+            federal-immigration)  path='plugins/us-federal-immigration-corpus/references/**' ;;
+            federal-legal)        path='plugins/us-federal-legal-corpus/references/**' ;;
+            us-wa)  path='plugins/us-wa-legal-corpus/references/**' ;;
+            us-or)  path='plugins/us-or-legal-corpus/references/**' ;;
+            us-ca)  path='plugins/us-ca-legal-corpus/references/**' ;;
+            us-co)  path='plugins/us-co-legal-corpus/references/**' ;;
+            us-in)  path='plugins/us-in-legal-corpus/references/**' ;;
+            us-ny)  path='plugins/us-ny-legal-corpus/references/**' ;;
+            us-oh)  path='plugins/us-oh-legal-corpus/references/**' ;;
+            us-tn)  path='plugins/us-tn-legal-corpus/references/**' ;;
+            us-mi)  path='plugins/us-mi-legal-corpus/references/**' ;;
+            us-az)  path='plugins/us-az-legal-corpus/references/**' ;;
+            us-ak)  path='plugins/us-ak-legal-corpus/references/**' ;;
+            us-al)  path='plugins/us-al-legal-corpus/references/**' ;;
+            us-ar)  path='plugins/us-ar-legal-corpus/references/**' ;;
+            us-ct)  path='plugins/us-ct-legal-corpus/references/**' ;;
+            us-de)  path='plugins/us-de-legal-corpus/references/**' ;;
+            us-fl)  path='plugins/us-fl-legal-corpus/references/**' ;;
+            us-ga)  path='plugins/us-ga-legal-corpus/references/**' ;;
+            us-hi)  path='plugins/us-hi-legal-corpus/references/**' ;;
+            us-ia)  path='plugins/us-ia-legal-corpus/references/**' ;;
+            us-id)  path='plugins/us-id-legal-corpus/references/**' ;;
+            us-il)  path='plugins/us-il-legal-corpus/references/**' ;;
+            us-ks)  path='plugins/us-ks-legal-corpus/references/**' ;;
+            us-ky)  path='plugins/us-ky-legal-corpus/references/**' ;;
+            us-la)  path='plugins/us-la-legal-corpus/references/**' ;;
+            us-ma)  path='plugins/us-ma-legal-corpus/references/**' ;;
+            us-md)  path='plugins/us-md-legal-corpus/references/**' ;;
+            us-me)  path='plugins/us-me-legal-corpus/references/**' ;;
+            us-mn)  path='plugins/us-mn-legal-corpus/references/**' ;;
+            us-mo)  path='plugins/us-mo-legal-corpus/references/**' ;;
+            us-ms)  path='plugins/us-ms-legal-corpus/references/**' ;;
+            us-mt)  path='plugins/us-mt-legal-corpus/references/**' ;;
+            us-nc)  path='plugins/us-nc-legal-corpus/references/**' ;;
+            us-nd)  path='plugins/us-nd-legal-corpus/references/**' ;;
+            us-ne)  path='plugins/us-ne-legal-corpus/references/**' ;;
+            us-nh)  path='plugins/us-nh-legal-corpus/references/**' ;;
+            us-nj)  path='plugins/us-nj-legal-corpus/references/**' ;;
+            us-nm)  path='plugins/us-nm-legal-corpus/references/**' ;;
+            us-nv)  path='plugins/us-nv-legal-corpus/references/**' ;;
+            us-ok)  path='plugins/us-ok-legal-corpus/references/**' ;;
+            us-pa)  path='plugins/us-pa-legal-corpus/references/**' ;;
+            us-ri)  path='plugins/us-ri-legal-corpus/references/**' ;;
+            us-sc)  path='plugins/us-sc-legal-corpus/references/**' ;;
+            us-sd)  path='plugins/us-sd-legal-corpus/references/**' ;;
+            us-tx)  path='plugins/us-tx-legal-corpus/references/**' ;;
+            us-ut)  path='plugins/us-ut-legal-corpus/references/**' ;;
+            us-va)  path='plugins/us-va-legal-corpus/references/**' ;;
+            us-vt)  path='plugins/us-vt-legal-corpus/references/**' ;;
+            us-wi)  path='plugins/us-wi-legal-corpus/references/**' ;;
+            us-wv)  path='plugins/us-wv-legal-corpus/references/**' ;;
+            us-wy)  path='plugins/us-wy-legal-corpus/references/**' ;;
+            *)                  echo "unexpected target: $T" >&2; exit 1 ;;
           esac
           echo "path=$path" >> "$GITHUB_OUTPUT"
 
