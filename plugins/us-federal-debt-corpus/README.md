@@ -5,7 +5,8 @@ credit-report-rights skills layer.
 
 ## What's in here
 
-- `references/federal-debt-laws/` — verbatim text of U.S. consumer-finance and debt-collection statutes (FDCPA, FCRA, TILA, ECOA) and the CFPB regulations that implement them (Reg B, Reg F, Reg V, Reg Z). Pulled from `uscode.house.gov` USLM XML and the eCFR Versioner API by [`scripts/pull_federal_debt_laws.py`](../../scripts/pull_federal_debt_laws.py).
+- `references/federal-debt-laws/` — verbatim text of U.S. consumer-finance and debt-collection statutes and regulations. Coverage includes TILA, federal garnishment restrictions, FCRA, ECOA, FDCPA, EFTA, RESPA, FHA, SCRA, CFPB Regulations B/E/F/M/N/P/V/X/Z/DD, and the FTC Telemarketing Sales Rule. Pulled from `uscode.house.gov` USLM XML and the eCFR Versioner API by [`scripts/pull_federal_debt_laws.py`](../../scripts/pull_federal_debt_laws.py).
+- `references/federal-bankruptcy/` — verbatim text of Title 11 U.S.C., Bankruptcy Code chapters 1, 3, 5, 7, 11, 12, 13, and 15. Pulled by the same federal debt laws script into a sibling corpus because consumer-debt workflows often intersect with bankruptcy analysis.
 - `references/ucc-model/` — model Uniform Commercial Code, Articles 1 (General Provisions), 2 (Sales), 3 (Negotiable Instruments), and 9 (Secured Transactions). The *model* text as drafted by ALI/ULC; pulled from Cornell Legal Information Institute (`law.cornell.edu/ucc`) by [`scripts/pull_ucc.py`](../../scripts/pull_ucc.py). State-court matters should cite the enacting state code (e.g., RCW Title 62A for Washington), not the model text — the model is included here for interpreting uniform language across states.
 - `skills/` — a **consumer credit-report-rights skills layer** built on the FCRA (15 U.S.C. §§ 1681 et seq.). These are state-independent, matter-neutral self-help skills that produce documents (request/dispute letters, identity-theft block requests, communication logs, damages ledgers, harm declarations, re-notification demands, review checklists), not legal advice. They cite the FCRA text in `references/federal-debt-laws/FCRA.md` and compose with the per-state `*-consumer-debt` and `*-pro-se` skills.
 
@@ -26,6 +27,19 @@ State plugins declare this plugin in their `plugin.json` `dependencies` array. W
 ## Refresh
 
 The quarterly `refresh-references` GitHub Action runs `pull_federal_debt_laws.py` and `pull_ucc.py` against the paths in this plugin, then opens a PR. Federal/UCC content is now updated once per quarter instead of once per state.
+
+Manual refresh:
+
+```
+python3 scripts/pull_federal_debt_laws.py --output plugins/us-federal-debt-corpus/references/
+python3 scripts/pull_ucc.py --out plugins/us-federal-debt-corpus/references/ucc-model/
+```
+
+Current federal corpus source stamps:
+
+- USC: Public Law 119-84 release point.
+- eCFR: 2026-01-01 as-of date.
+- Federal pull date in generated files: 2026-05-13.
 
 ## Not legal advice
 

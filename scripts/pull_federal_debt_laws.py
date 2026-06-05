@@ -50,6 +50,7 @@ import xml.etree.ElementTree as ET
 import zipfile
 from datetime import date
 from pathlib import Path
+from typing import Optional
 
 USER_AGENT = "claude-legal/1.0 (+https://github.com/codearranger/claude-legal) federal-debt-laws-puller"
 
@@ -73,7 +74,7 @@ ECFR_BASE = "https://www.ecfr.gov/api/versioner/v1/full"
 # - subchapter_or_None: "schI", "schII", ... when the act is one subchapter
 #   of a chapter; None means "render the whole chapter".
 # - corpus_dir: which output corpus the file is written into.
-USCRow = tuple[str, str, str | None, str, str, str, str]
+USCRow = tuple[str, str, Optional[str], str, str, str, str]
 USC_TARGETS: list[USCRow] = [
     # 15 U.S.C. Chapter 41 — Consumer Credit Protection Act
     ("15", "ch41", "schI",   "TILA",        "15 U.S.C. §§ 1601–1667f",
@@ -535,6 +536,8 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--out-root",
+        "--output",
+        dest="out_root",
         default="plugins/us-federal-debt-corpus/references",
         help="Root references/ dir; per-target corpus subdirs are written inside it.",
     )
