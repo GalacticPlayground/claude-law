@@ -1,0 +1,10 @@
+{
+  "name": "us-ri-legal-corpus",
+  "description": "Comprehensive corpus of Rhode Island state law \u2014 Rhode Island General Laws (RIGL), state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "rhode island",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
