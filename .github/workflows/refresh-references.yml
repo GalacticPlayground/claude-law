@@ -435,245 +435,245 @@ jobs:
       # next cron run. When a state-specific puller is added (e.g.
       # scripts/pull_texas_statutes.py), the corresponding `run:` line
       # below can be updated to invoke it.
-      - name: AK — scaffolded plugin (no puller yet)
+      - name: AK — pull state codes
         if: matrix.target == 'us-ak'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ak-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ak --max-titles 10
 
-      - name: AL — scaffolded plugin (no puller yet)
+      - name: AL — pull state codes
         if: matrix.target == 'us-al'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-al-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state al --max-titles 10
 
-      - name: AR — scaffolded plugin (no puller yet)
+      - name: AR — pull state codes
         if: matrix.target == 'us-ar'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ar-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ar --max-titles 10
 
-      - name: CT — scaffolded plugin (no puller yet)
+      - name: CT — pull state codes
         if: matrix.target == 'us-ct'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ct-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ct --max-titles 10
 
-      - name: DE — scaffolded plugin (no puller yet)
+      - name: DE — pull state codes
         if: matrix.target == 'us-de'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-de-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state de --max-titles 10
 
-      - name: FL — scaffolded plugin (no puller yet)
+      - name: FL — pull state codes
         if: matrix.target == 'us-fl'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-fl-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state fl --max-titles 10
 
-      - name: GA — scaffolded plugin (no puller yet)
+      - name: GA — pull state codes
         if: matrix.target == 'us-ga'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ga-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ga --max-titles 10
 
-      - name: HI — scaffolded plugin (no puller yet)
+      - name: HI — pull state codes
         if: matrix.target == 'us-hi'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-hi-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state hi --max-titles 10
 
-      - name: IA — scaffolded plugin (no puller yet)
+      - name: IA — pull state codes
         if: matrix.target == 'us-ia'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ia-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ia --max-titles 10
 
-      - name: ID — scaffolded plugin (no puller yet)
+      - name: ID — pull state codes
         if: matrix.target == 'us-id'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-id-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state id --max-titles 10
 
-      - name: IL — scaffolded plugin (no puller yet)
+      - name: IL — pull state codes
         if: matrix.target == 'us-il'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-il-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state il --max-titles 10
 
-      - name: KS — scaffolded plugin (no puller yet)
+      - name: KS — pull state codes
         if: matrix.target == 'us-ks'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ks-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ks --max-titles 10
 
-      - name: KY — scaffolded plugin (no puller yet)
+      - name: KY — pull state codes
         if: matrix.target == 'us-ky'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ky-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ky --max-titles 10
 
-      - name: LA — scaffolded plugin (no puller yet)
+      - name: LA — pull state codes
         if: matrix.target == 'us-la'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-la-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state la --max-titles 10
 
-      - name: MA — scaffolded plugin (no puller yet)
+      - name: MA — pull state codes
         if: matrix.target == 'us-ma'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ma-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ma --max-titles 10
 
-      - name: MD — scaffolded plugin (no puller yet)
+      - name: MD — pull state codes
         if: matrix.target == 'us-md'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-md-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state md --max-titles 10
 
-      - name: ME — scaffolded plugin (no puller yet)
+      - name: ME — pull state codes
         if: matrix.target == 'us-me'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-me-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state me --max-titles 10
 
-      - name: MN — scaffolded plugin (no puller yet)
+      - name: MN — pull state codes
         if: matrix.target == 'us-mn'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-mn-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state mn --max-titles 10
 
-      - name: MO — scaffolded plugin (no puller yet)
+      - name: MO — pull state codes
         if: matrix.target == 'us-mo'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-mo-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state mo --max-titles 10
 
-      - name: MS — scaffolded plugin (no puller yet)
+      - name: MS — pull state codes
         if: matrix.target == 'us-ms'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ms-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ms --max-titles 10
 
-      - name: MT — scaffolded plugin (no puller yet)
+      - name: MT — pull state codes
         if: matrix.target == 'us-mt'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-mt-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state mt --max-titles 10
 
-      - name: NC — scaffolded plugin (no puller yet)
+      - name: NC — pull state codes
         if: matrix.target == 'us-nc'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-nc-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state nc --max-titles 10
 
-      - name: ND — scaffolded plugin (no puller yet)
+      - name: ND — pull state codes
         if: matrix.target == 'us-nd'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-nd-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state nd --max-titles 10
 
-      - name: NE — scaffolded plugin (no puller yet)
+      - name: NE — pull state codes
         if: matrix.target == 'us-ne'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ne-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ne --max-titles 10
 
-      - name: NH — scaffolded plugin (no puller yet)
+      - name: NH — pull state codes
         if: matrix.target == 'us-nh'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-nh-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state nh --max-titles 10
 
-      - name: NJ — scaffolded plugin (no puller yet)
+      - name: NJ — pull state codes
         if: matrix.target == 'us-nj'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-nj-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state nj --max-titles 10
 
-      - name: NM — scaffolded plugin (no puller yet)
+      - name: NM — pull state codes
         if: matrix.target == 'us-nm'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-nm-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state nm --max-titles 10
 
-      - name: NV — scaffolded plugin (no puller yet)
+      - name: NV — pull state codes
         if: matrix.target == 'us-nv'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-nv-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state nv --max-titles 10
 
-      - name: OK — scaffolded plugin (no puller yet)
+      - name: OK — pull state codes
         if: matrix.target == 'us-ok'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ok-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ok --max-titles 10
 
-      - name: PA — scaffolded plugin (no puller yet)
+      - name: PA — pull state codes
         if: matrix.target == 'us-pa'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-pa-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state pa --max-titles 10
 
-      - name: RI — scaffolded plugin (no puller yet)
+      - name: RI — pull state codes
         if: matrix.target == 'us-ri'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ri-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ri --max-titles 10
 
-      - name: SC — scaffolded plugin (no puller yet)
+      - name: SC — pull state codes
         if: matrix.target == 'us-sc'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-sc-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state sc --max-titles 10
 
-      - name: SD — scaffolded plugin (no puller yet)
+      - name: SD — pull state codes
         if: matrix.target == 'us-sd'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-sd-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state sd --max-titles 10
 
-      - name: TX — scaffolded plugin (no puller yet)
+      - name: TX — pull state codes
         if: matrix.target == 'us-tx'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-tx-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state tx --max-titles 10
 
-      - name: UT — scaffolded plugin (no puller yet)
+      - name: UT — pull state codes
         if: matrix.target == 'us-ut'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-ut-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state ut --max-titles 10
 
-      - name: VA — scaffolded plugin (no puller yet)
+      - name: VA — pull state codes
         if: matrix.target == 'us-va'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-va-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state va --max-titles 10
 
-      - name: VT — scaffolded plugin (no puller yet)
+      - name: VT — pull state codes
         if: matrix.target == 'us-vt'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-vt-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state vt --max-titles 10
 
-      - name: WI — scaffolded plugin (no puller yet)
+      - name: WI — pull state codes
         if: matrix.target == 'us-wi'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-wi-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state wi --max-titles 10
 
-      - name: WV — scaffolded plugin (no puller yet)
+      - name: WV — pull state codes
         if: matrix.target == 'us-wv'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-wv-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state wv --max-titles 10
 
-      - name: WY — scaffolded plugin (no puller yet)
+      - name: WY — pull state codes
         if: matrix.target == 'us-wy'
         continue-on-error: true
-        timeout-minutes: 5
-        run: echo "us-wy-legal-corpus is scaffolded but no puller yet"
+        timeout-minutes: 10
+        run: python3 scripts/pull_state_codes.py --state wy --max-titles 10
 
       # ---- FINALIZE ----
 
