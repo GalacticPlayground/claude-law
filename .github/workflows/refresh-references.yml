@@ -397,7 +397,17 @@ jobs:
           case "$T" in
             federal)     path='plugins/us-federal-debt-corpus/references/**' ;;
             immigration) path='plugins/us-federal-immigration-corpus/references/**' ;;
-            *)           path="plugins/${T}-court-docs/skills/${T}-law-references/references/**" ;;
+            wa)          path='plugins/us-wa-legal-corpus/references/**' ;;
+            or)          path='plugins/us-or-legal-corpus/references/**' ;;
+            ca)          path='plugins/us-ca-legal-corpus/references/**' ;;
+            co)          path='plugins/us-co-legal-corpus/references/**' ;;
+            in)          path='plugins/us-in-legal-corpus/references/**' ;;
+            ny)          path='plugins/us-ny-legal-corpus/references/**' ;;
+            oh)          path='plugins/us-oh-legal-corpus/references/**' ;;
+            tn)          path='plugins/us-tn-legal-corpus/references/**' ;;
+            mi)          path='plugins/us-mi-legal-corpus/references/**' ;;
+            az)          path='plugins/us-az-legal-corpus/references/**' ;;
+            *)           echo "unexpected target: $T" >&2; exit 1 ;;
           esac
           echo "path=$path" >> "$GITHUB_OUTPUT"
 
