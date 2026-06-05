@@ -1,57 +1,26 @@
 # AL — Title 7
 
-**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/alabama/title-7/>
+**Source:** <https://law.justia.com/codes/alabama/title-7/>
 **Plugin:** `us-al-legal-corpus`
 **Pulled:** 2026-06-05
 
 ---
 
-Alabama Code Title 7 (2024) - Commercial Code. :: 2024 Code of Alabama :: U.S. Codes and Statutes :: U.S. Law :: Justia
-
-2 captures
-16 Jul 2024 - 29 Apr 2025
-
-Mar |
-APR |
-May |
-
-|
-29 |
-|
-
-2024 |
-2025 |
-2026 |
-
-success
-
-fail
-
-About this capture
-
-COLLECTED BY
-
-Collection: Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-The Wayback Machine - https://web.archive.org/web/20250429020518/https://law.justia.com/codes/alabama/title-7/
+Alabama Code Title 7 (2025) - Commercial Code. :: 2025 Code of Alabama :: U.S. Codes and Statutes :: U.S. Law :: Justia
 
 Go to Previous Versions
 of
 this Title
 
-2024 Code of Alabama (here)
+2025 Code of Alabama (here)
+
+2024 Code of Alabama
 
 2023 Code of Alabama
 
-2022 Code of Alabama
-
 View All Versions
 
-2024 Code of Alabama
+2025 Code of Alabama
 Title 7 - Commercial Code.
 
 Previous
@@ -62,7 +31,7 @@ Article 1 - General Provisions.
 
 Article 2 - Sales.
 
-Article 2A - Leases
+Article 2A - Leases.
 
 Article 3 - Negotiable Instruments.
 
@@ -78,7 +47,7 @@ Article 8 - Investment Securities.
 
 Article 9 - Secured Transactions; Sales of Accounts and Chattel Paper.
 
-Article 9A - Secured Transactions
+Article 9A - Secured Transactions.
 
 Article 10 - Effective Date and Repealer.
 
@@ -93,10 +62,6 @@ Previous
 Next
 
 Disclaimer: These codes may not be the most recent version. Alabama may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
-
-This site is protected by reCAPTCHA and the Google
-Privacy Policy and
-Terms of Service apply.
 
 Toggle button
 
@@ -252,7 +217,7 @@ Testimonials
 
 More...
 
-© 2025 Justia
+© 2026 Justia
 
 Justia Connect
 Legal Portal

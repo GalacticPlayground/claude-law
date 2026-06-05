@@ -1,41 +1,12 @@
 # MS — Title 29 (Justia)
 
-**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/mississippi/title-29/>
+**Source:** <https://law.justia.com/codes/mississippi/title-29/>
 **Plugin:** `us-ms-legal-corpus`
 **Pulled:** 2026-06-05
 
 ---
 
 Mississippi Code Title 29 (2024) - PUBLIC LANDS, BUILDINGS AND PROPERTY :: 2024 Mississippi Code :: U.S. Codes and Statutes :: U.S. Law :: Justia
-
-3 captures
-09 Sep 2024 - 05 Jul 2025
-
-Mar |
-APR |
-May |
-
-|
-05 |
-|
-
-2024 |
-2025 |
-2026 |
-
-success
-
-fail
-
-About this capture
-
-COLLECTED BY
-
-Collection: Save Page Now Outlinks
-
-TIMESTAMPS
-
-The Wayback Machine - https://web.archive.org/web/20250405064403/https://law.justia.com/codes/mississippi/title-29/
 
 Go to Previous Versions
 of
@@ -81,10 +52,6 @@ Previous
 Next
 
 Disclaimer: These codes may not be the most recent version. Mississippi may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
-
-This site is protected by reCAPTCHA and the Google
-Privacy Policy and
-Terms of Service apply.
 
 Toggle button
 
@@ -240,7 +207,7 @@ Testimonials
 
 More...
 
-© 2025 Justia
+© 2026 Justia
 
 Justia Connect
 Legal Portal

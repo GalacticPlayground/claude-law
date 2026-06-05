@@ -1,60 +1,26 @@
 # AL — Title 1
 
-**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/alabama/title-1/>
+**Source:** <https://law.justia.com/codes/alabama/title-1/>
 **Plugin:** `us-al-legal-corpus`
 **Pulled:** 2026-06-05
 
 ---
 
-Alabama Code Title 1 (2023) - General Provisions. :: 2023 Code of Alabama :: US Codes and Statutes :: US Law :: Justia
+Alabama Code Title 1 (2025) - General Provisions. :: 2025 Code of Alabama :: U.S. Codes and Statutes :: U.S. Law :: Justia
 
-1 capture
-30 Sep 2024
-
-Aug |
-SEP |
-Oct |
-
-|
-30 |
-|
-
-2023 |
-2024 |
-2025 |
-
-success
-
-fail
-
-About this capture
-
-COLLECTED BY
-
-Collection: Save Page Now Outlinks
-
-TIMESTAMPS
-
-The Wayback Machine - https://web.archive.org/web/20240930201549/https://law.justia.com/codes/alabama/title-1/
-
-Go to previous versions
+Go to Previous Versions
 of
 this Title
 
-2023
-(you are here)
+2025 Code of Alabama (here)
 
-2022
-
-2021
-
-2020
-
-2019
-
-Other previous versions
+2024 Code of Alabama
 
 2023 Code of Alabama
+
+View All Versions
+
+2025 Code of Alabama
 Title 1 - General Provisions.
 
 Next
@@ -72,10 +38,6 @@ Chapter 3 - Miscellaneous Provisions.
 Next
 
 Disclaimer: These codes may not be the most recent version. Alabama may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
-
-This site is protected by reCAPTCHA and the Google
-Privacy Policy and
-Terms of Service apply.
 
 Toggle button
 
@@ -159,11 +121,11 @@ Employment
 
 More...
 
-US Federal Law
+U.S. Federal Law
 
-US Constitution
+U.S. Constitution
 
-US Code
+U.S. Code
 
 Regulations
 
@@ -177,7 +139,7 @@ Dockets & Filings
 
 More...
 
-US State Law
+U.S. State Law
 
 State Constitutions
 
@@ -231,7 +193,7 @@ Testimonials
 
 More...
 
-© 2024 Justia
+© 2026 Justia
 
 Justia Connect
 Legal Portal

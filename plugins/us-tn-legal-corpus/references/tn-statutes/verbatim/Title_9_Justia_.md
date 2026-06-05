@@ -1,57 +1,26 @@
 # TN — Title 9 (Justia)
 
-**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/tennessee/title-9/>
+**Source:** <https://law.justia.com/codes/tennessee/title-9/>
 **Plugin:** `us-tn-legal-corpus`
 **Pulled:** 2026-06-05
 
 ---
 
-Tennessee Code Title 9 (2023) - PUBLIC FINANCES :: 2023 Tennessee Code :: U.S. Codes and Statutes :: U.S. Law :: Justia
-
-2 captures
-09 Feb 2012 - 20 Jan 2025
-
-Dec |
-JAN |
-Feb |
-
-|
-20 |
-|
-
-2024 |
-2025 |
-2026 |
-
-success
-
-fail
-
-About this capture
-
-COLLECTED BY
-
-Collection: Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-The Wayback Machine - https://web.archive.org/web/20250120203744/https://law.justia.com/codes/tennessee/title-9/
+Tennessee Code Title 9 (2024) - PUBLIC FINANCES :: 2024 Tennessee Code :: U.S. Codes and Statutes :: U.S. Law :: Justia
 
 Go to Previous Versions
 of
 this Title
 
-2023 Tennessee Code (here)
+2024 Tennessee Code (here)
+
+2023 Tennessee Code
 
 2021 Tennessee Code
 
-2020 Tennessee Code
-
 View All Versions
 
-2023 Tennessee Code
+2024 Tennessee Code
 Title 9 - PUBLIC FINANCES (§§ 9-1-101 — 9-24-106)
 
 Previous
@@ -107,10 +76,6 @@ Previous
 Next
 
 Disclaimer: These codes may not be the most recent version. Tennessee may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
-
-This site is protected by reCAPTCHA and the Google
-Privacy Policy and
-Terms of Service apply.
 
 Toggle button
 
@@ -266,7 +231,7 @@ Testimonials
 
 More...
 
-© 2025 Justia
+© 2026 Justia
 
 Justia Connect
 Legal Portal

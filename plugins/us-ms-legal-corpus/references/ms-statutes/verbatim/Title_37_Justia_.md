@@ -1,70 +1,31 @@
 # MS — Title 37 (Justia)
 
-**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/mississippi/title-37/>
+**Source:** <https://law.justia.com/codes/mississippi/title-37/>
 **Plugin:** `us-ms-legal-corpus`
 **Pulled:** 2026-06-05
 
 ---
 
-Mississippi Code Title 37 (2023) - EDUCATION :: 2023 Mississippi Code :: US Codes and Statutes :: US Law :: Justia
-
-7 captures
-27 Aug 2024 - 08 Apr 2026
-
-Nov |
-DEC |
-Jan |
-
-|
-05 |
-|
-
-2023 |
-2024 |
-2025 |
-
-success
-
-fail
-
-About this capture
-
-COLLECTED BY
-
-Collection: Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-The Wayback Machine - https://web.archive.org/web/20241205005619/https://law.justia.com/codes/mississippi/title-37/
+Mississippi Code Title 37 (2024) - EDUCATION :: 2024 Mississippi Code :: U.S. Codes and Statutes :: U.S. Law :: Justia
 
 Go to Previous Versions
 of
 this Title
 
-2023 Mississippi Code (here)
+2024 Mississippi Code (here)
+
+2023 Mississippi Code
 
 2020 Mississippi Code
 
-2019 Mississippi Code
-
 View All Versions
 
-Mississippi Code 1972 (2023)
-Title 37 - EDUCATION (§§ 37-NEW-001 — 37-NEW01-004)
+Mississippi Code 1972 (2024)
+Title 37 - EDUCATION (§§ 37-1-1 — 37-189-1)
 
 Previous
 
 Next
-
-Section 37-NEW-001 - [Newly enacted section not yet numbered] ["Seizure action plan" defined]
-
-Section 37-NEW-002 - [Newly enacted section not yet numbered] [Staff training - Administration or assistance with self-administration of seizure rescue medication - Authorization from parents - Seizure action plan]
-
-Section 37-NEW-003 - [Newly enacted section not yet numbered] [Qualified immunity]
-
-Section 37-NEW-010 - [Newly enacted section not yet numbered] [Interstate Teacher Mobility Compact]
 
 Chapter 1 - STATE BOARD OF EDUCATION (§§ 37-1-1 — 37-1-13)
 
@@ -80,7 +41,7 @@ Chapter 7 - SCHOOL DISTRICTS; BOARDS OF TRUSTEES OF SCHOOL DISTRICTS (§§ 37-7-
 
 Chapter 9 - DISTRICT SUPERINTENDENTS, PRINCIPALS, TEACHERS, AND OTHER EMPLOYEES (§§ 37-9-1 — 37-9-251)
 
-Chapter 11 - GENERAL PROVISIONS PERTAINING TO EDUCATION (§§ 37-11-1 — 37-11-NEW-002)
+Chapter 11 - GENERAL PROVISIONS PERTAINING TO EDUCATION (§§ 37-11-1 — 37-11-87)
 
 Chapter 12 - MISSISSIPPI STUDENT RELIGIOUS LIBERTIES ACT OF 2013 (§§ 37-12-1 — 37-12-15)
 
@@ -142,7 +103,7 @@ Chapter 51 - FINANCIAL ASSISTANCE TO CHILDREN ATTENDING NONSECTARIAN PRIVATE SCH
 
 Chapter 53 - SUMMER NORMALS [Repealed] (§ 37-53-1)
 
-Chapter 55 - SCHOOL LIBRARIES (§ 37-55-1)
+Chapter 55 - SCHOOL LIBRARIES[Repealed] (§ 37-55-1)
 
 Chapter 57 - TAXATION (§§ 37-57-1 — 37-57-133)
 
@@ -190,7 +151,7 @@ Chapter 110 - MISSISSIPPI PUBLIC MANAGEMENT GRADUATE INTERN PROGRAM (§§ 37-110
 
 Chapter 111 - FRATERNITIES, SORORITIES AND OTHER SOCIETIES (§§ 37-111-1 — 37-111-13)
 
-Chapter 113 - MISSISSIPPI STATE UNIVERSITY OF AGRICULTURE AND APPLIED SCIENCE (§§ 37-113-1 — 37-113-NEW-006)
+Chapter 113 - MISSISSIPPI STATE UNIVERSITY OF AGRICULTURE AND APPLIED SCIENCE (§§ 37-113-1 — 37-113-81)
 
 Chapter 115 - UNIVERSITY OF MISSISSIPPI (§§ 37-115-1 — 37-115-131)
 
@@ -198,9 +159,9 @@ Chapter 117 - MISSISSIPPI UNIVERSITY FOR WOMEN (§§ 37-117-1 — 37-117-11)
 
 Chapter 119 - UNIVERSITY OF SOUTHERN MISSISSIPPI (§§ 37-119-1 — 37-119-11)
 
-Chapter 121 - ALCORN STATE UNIVERSITY (§§ 37-121-1 — 37-121-19)
+Chapter 121 - ALCORN STATE UNIVERSITY (§§ 37-121-1 — 37-121-21)
 
-Chapter 123 - DELTA STATE UNIVERSITY (§§ 37-123-1 — 37-123-5)
+Chapter 123 - DELTA STATE UNIVERSITY (§§ 37-123-1 — 37-123-7)
 
 Chapter 125 - JACKSON STATE UNIVERSITY (§§ 37-125-1 — 37-125-7)
 
@@ -244,7 +205,7 @@ Chapter 151 - MISSISSIPPI ACCOUNTABILITY AND ADEQUATE EDUCATION PROGRAM ACT OF 1
 
 Chapter 152 - COMMISSION ON RESTRUCTURING THE MISSISSIPPI ADEQUATE EDUCATION PROGRAM (MAEP)
 
-Chapter 153 - WORKFORCE DEVELOPMENT, TRAINING, EDUCATION AND RETENTION (§§ 37-153-1 — 37-153-223)
+Chapter 153 - WORKFORCE DEVELOPMENT, TRAINING, EDUCATION AND RETENTION (§§ 37-153-1 — 37-153-239)
 
 Chapter 154 - STATE LONGITUDINAL DATA SYSTEM (§§ 37-154-1 — 37-154-3)
 
@@ -268,7 +229,7 @@ Chapter 169 - MISSISSIPPI AUTISM ADVISORY COMMITTEE (§§ 37-169-1 — 37-169-5)
 
 Chapter 171 - USE OF SCHOOL PROPERTY BY PUBLIC FOR RECREATION AND SPORTS (§§ 37-171-1 — 37-171-7)
 
-Chapter 173 - DYSLEXIA THERAPY SCHOLARSHIP FOR STUDENTS WITH DYSLEXIA PROGRAM (§§ 37-173-1 — 37-173-NEW)
+Chapter 173 - DYSLEXIA THERAPY SCHOLARSHIP FOR STUDENTS WITH DYSLEXIA PROGRAM (§§ 37-173-1 — 37-173-31)
 
 Chapter 175 - MISSISSIPPI SPEECH-LANGUAGE THERAPY SCHOLARSHIP FOR STUDENTS WITH SPEECH-LANGUAGE IMPAIRMENTS PROGRAM (§§ 37-175-1 — 37-175-29)
 
@@ -284,17 +245,13 @@ Chapter 185 - GRANT PROGRAMS FOR INDEPENDENT PRIMARY AND SECONDARY SCHOOLS, COLL
 
 Chapter 187 - MISSISSIPPI PANDEMIC RESPONSE BROADBAND AVAILABILITY (§§ 37-187-1 — 37-187-7)
 
-Chapter NEW - PARAMEDICS RECRUITMENT AND RETENTION SCHOLARSHIP PROGRAM ACT (§§ 37-NEW01-001 — 37-NEW01-004)
+Chapter 189 - INTERSTATE TEACHER MOBILITY COMPACT (§ 37-189-1)
 
 Previous
 
 Next
 
 Disclaimer: These codes may not be the most recent version. Mississippi may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
-
-This site is protected by reCAPTCHA and the Google
-Privacy Policy and
-Terms of Service apply.
 
 Toggle button
 
@@ -378,11 +335,11 @@ Employment
 
 More...
 
-US Federal Law
+U.S. Federal Law
 
-US Constitution
+U.S. Constitution
 
-US Code
+U.S. Code
 
 Regulations
 
@@ -396,7 +353,7 @@ Dockets & Filings
 
 More...
 
-US State Law
+U.S. State Law
 
 State Constitutions
 
@@ -450,7 +407,7 @@ Testimonials
 
 More...
 
-© 2024 Justia
+© 2026 Justia
 
 Justia Connect
 Legal Portal

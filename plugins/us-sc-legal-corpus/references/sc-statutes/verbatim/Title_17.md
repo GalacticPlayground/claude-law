@@ -1,0 +1,546 @@
+# SC — Title 17
+
+**Source:** <https://www.scstatehouse.gov/code/t17c001.php>
+**Plugin:** `us-sc-legal-corpus`
+**Pulled:** 2026-06-05
+
+---
+
+﻿
+
+
+
+
+
+
+
+
+Code of Laws - Title 17 - Chapter 1- - CRIMINAL PROCEDURES 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser does not support JavaScript! This page will not render correctly. 
+
+
+
+
+
+
+
+
+
+* Recipient of
+the Notable State Documents Award
+by the
+South Carolina
+State Library.
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+Searches and data queries will be unavailable beginning Friday, August 19, 2016, from 8:00 PM until Saturday, August 20th at 8:00 AM
+due to scheduled maintenance.
+-->
+
+
+In order to improve your experience using this website, please upgrade your browser .
+
+
+
+
+
+
+
+Home
+
+Senate
+
+House
+
+Committee Postings and Reports
+
+Legislative Council
+
+Citizens' Interest
+
+Publications
+
+
+
+
+
+ Staff Portal -->
+ Staff Portal -->
+ Staff Portal 
+ Staff Portal -->
+
+
+
+
+
+-->
+
+Chamber Video
+
+Senate
+(Audio Only)
+
+House
+(Audio Only)
+
+Video Schedule Video Archives
+
+How do I...
+
+Quick Search
+
+Search for:
+
+All
+-->
+ Full Site Search
+
+ Bill Number
+
+ Legislation
+
+ Budget
+
+ Code of Laws
+
+ Code of Regulations
+
+ Constitution
+
+ House Journals
+
+ Senate Journals
+
+ LSA Bill Summary
+
+Find Your Legislators
+
+Contact Your Legislator
+
+Legislation
+
+Track Legislation
+
+Multi-Criteria Search
+
+Multi-Criteria Search
+-->
+Multi-Criteria Search
+-->
+Research
+
+South Carolina Law
+
+Ratifications & Acts
+
+Code of Laws
+
+Code of Regulations
+
+Constitution
+
+State Register
+
+Legislative Manual
+
+Purchase Manual
+-->
+
+Purchase Manual
+-->
+Purchase Manual
+
+View Manual Online
+
+Student Connection
+
+Visiting the State House
+
+Archives
+
+State Agency Websites
+
+State Agency Websites
+-->
+Media Links
+
+
+
+South Carolina Law > Code of Laws > Title 17 
+
+
+
+South Carolina Code of Laws
+
+Unannotated
+
+
+
+
+
+Title 17 - CRIMINAL PROCEDURES
+
+
+
+
+CHAPTER 1
+
+General Provisions
+
+
+SECTION 17-1-10. Manner of prosecuting criminal action.
+
+
+A criminal action is prosecuted by the State, as a party, against a person charged with a public offense, for the punishment thereof.
+
+
+HISTORY: 1962 Code SECTION 17-1; 1952 Code SECTION 17-1; 1942 Code SECTION 5; 1932 Code SECTION 5; Civ. P. '22 SECTION 5; Civ. P. '12 SECTION 5; Civ. P. '02 SECTION 5; 1870 (14) 423.
+
+
+SECTION 17-1-20. Prosecuting officer shall not accept fees or rewards, nor act in a civil case as counsel for either party.
+
+
+No prosecuting officer shall receive any fee or reward from or in behalf of a prosecutor for services in any prosecution or business to which it is his official business to attend, nor be concerned as counsel or attorney for either party in a civil action depending upon the same state of facts.
+
+
+HISTORY: 1962 Code SECTION 17-2; 1952 Code SECTION 17-2; 1942 Code SECTION 3123; 1932 Code SECTION 3123; Civ. C. '22 SECTION 805; Civ. C. '12 SECTION 720; Civ. C. '02 SECTION 648; G. S. 505; R. S. 565; 1868 (14) 88.
+
+
+SECTION 17-1-30. Rule of strict construction is inapplicable to this title.
+
+
+The rule of the common law that statutes in derogation of that law are to be strictly construed has no application to this title.
+
+
+HISTORY: 1962 Code SECTION 17-3; 1960 (51) 1744.
+
+
+SECTION 17-1-40. Expungement; retention of certain information by law enforcement or prosecution agencies.
+
+
+(A) For purposes of this section, "under seal" means not subject to disclosure other than to a law enforcement or prosecution agency, and attorneys representing a law enforcement or prosecution agency, unless disclosure is allowed by court order.
+
+
+(B)(1) If a person's record is expunged pursuant to Article 9, Title 17, Chapter 22, because the person was charged with a criminal offense, or was issued a courtesy summons pursuant to Section 22-3-330 or another provision of law, and the charge was discharged, proceedings against the person were dismissed, or the person was found not guilty of the charge, then the arrest and booking record, associated bench warrants, mug shots, and fingerprints of the person must be destroyed and no evidence of the record pertaining to the charge or associated bench warrants may be retained by any municipal, county, or state agency. Provided, however, that:
+
+
+(a) Law enforcement and prosecution agencies shall retain the arrest and booking record, associated bench warrants, mug shots, and fingerprints of the person under seal for three years and one hundred twenty days. A law enforcement or prosecution agency may retain the information indefinitely for purposes of ongoing or future investigations and prosecution of the offense, administrative hearings, and to defend the agency and the agency's employees during litigation proceedings. The information must remain under seal. The information is not a public document and is exempt from disclosure, except by court order.
+
+
+(b) Detention and correctional facilities shall retain booking records, identifying documentation and materials, and other institutional reports and files under seal, on all persons who have been processed, detained, or incarcerated, for a period not to exceed three years and one hundred twenty days from the date of the expungement order to manage the facilities' statistical and professional information needs, and to defend the facilities and the facilities' employees during litigation proceedings, except that when an action, complaint, or inquiry has been initiated, the records, documentation and materials, and other reports and files may be retained as needed to address the action, complaint, or inquiry. The information is not a public document and is exempt from disclosure, except by court order. At the end of the three years and one hundred twenty days from the date of the expungement order, the records must be destroyed unless they are being retained to address an action, complaint, or inquiry that has been initiated.
+
+
+(2) A municipal, county, or state agency, or an employee of a municipal, county, or state agency that intentionally violates this subsection is guilty of contempt of court.
+
+
+(3) Nothing in this subsection requires the South Carolina Department of Probation, Parole and Pardon Services to expunge the probation records of persons whose charges were dismissed by conditional discharge pursuant to Section 44-53-450.
+
+
+(4) If a person pleads guilty to a lesser included offense and the solicitor deems it appropriate, the solicitor shall notify the State Law Enforcement Division (SLED) and SLED shall request that the person's record contained in the National Crime Information Center (NCIC) database or other similar database reflects the lesser included offense rather than the offense originally charged.
+
+
+(C)(1) If a person's record is expunged pursuant to Article 9, Title 17, Chapter 22, because the person was charged with a criminal offense, or was issued a courtesy summons pursuant to Section 22-3-330 or another provision of law, and the charge was discharged, proceedings against the person were dismissed, or the person was found not guilty of the charge, then law enforcement and prosecution agencies shall retain the unredacted incident and supplemental reports, and investigative files under seal for three years and one hundred twenty days. A law enforcement or prosecution agency may retain the information indefinitely for purposes of ongoing or future investigations, other law enforcement or prosecution purposes, administrative hearings, and to defend the agency and the agency's employees during litigation proceedings. The information must remain under seal. The information is not a public document, is exempt from disclosure, except by court order, and is not subject to an order for destruction of arrest records.
+
+
+(2) If a request is made to inspect or obtain the incident reports pursuant to the South Carolina Freedom of Information Act, the law enforcement agency shall redact the name of the person whose record is expunged and other information which specifically identifies the person from copies of the reports provided to the person or entity making the request.
+
+
+(3) If a person other than the person whose record is expunged is charged with the offense, a prosecution agency may provide the attorney representing the other person with unredacted incident and supplemental reports. The attorney shall not provide copies of the reports to a person or entity nor share the contents of the reports with a person or entity, except during judicial proceedings or as allowed by court order.
+
+
+(4) A person who intentionally violates this subsection is guilty of a misdemeanor, and, upon conviction, must be fined not more than one hundred dollars or imprisoned not more than thirty days, or both.
+
+
+(5) Nothing in this subsection prohibits evidence gathered or information contained in incident reports or investigation and prosecution files from being used for the investigation and prosecution of a criminal case or for the defense of a law enforcement or prosecution agency or agency employee.
+
+
+(D) A municipal, county, or state agency may not collect a fee for the destruction of records pursuant to this section.
+
+
+(E) The State Law Enforcement Division is authorized to promulgate regulations that allow for the electronic transmission of information pursuant to this section.
+
+
+(F) Unless there is an act of gross negligence or intentional misconduct, nothing in this section gives rise to a claim for damages against the State, a state employee, a political subdivision of the State, an employee of a political subdivision of the State, a public officer, or other persons.
+
+
+HISTORY: 1962 Code SECTION 17-4; 1973 (58) 637; 2007 Act No. 82, SECTION 8, eff June 12, 2007; 2009 Act No. 36, SECTION 3, eff June 2, 2009; 2010 Act No. 167, SECTION 1, eff May 12, 2010; 2013 Act No. 75, SECTION 2, eff June 13, 2013; 2014 Act No. 276 (H.4560), SECTION 1, eff June 9, 2014; 2016 Act No. 132 (S.255), SECTION 1, eff May 16, 2016.
+
+
+Editor's Note
+
+
+2016 Act No. 132, SECTION 6, provides as follows:
+
+
+"SECTION 6. This act takes effect ninety days after approval by the Governor. This act applies retroactively to allow for the expungement of offenses charged, discharged, dismissed, or nolle prossed prior to the effective date of this act, and persons convicted or found not guilty prior to the effective date of this act."
+
+
+Effect of Amendment
+
+
+The 2013 amendment, in subsection (A), inserted designator (1), and added subsection (A)(2) and the following undesignated paragraph; added subsection (D); and redesignated former subsection (D) as (E).
+
+
+2014 Act No. 276, SECTION 1, rewrote the section.
+
+
+2016 Act No. 132, SECTION 1, in (B)(1)(a), inserted "administrative hearings," in the second sentence; in (B)(1)(b), inserted "that" following "except" in the first sentence, inserted the text following "initiated," at the end of the first sentence, and added the last sentence; added (B)(4); in (C)(1), deleted "evidence gathered," following "shall retain the" in the first sentence, and inserted "administrative hearings," in the second sentence; deleted former (E), relating to violations of Titles 50 and 56; and redesignated former (F) and (G) as (E) and (F).
+
+
+SECTION 17-1-45. Expungement notice requirement.
+
+
+South Carolina Court Administration shall include on all bond paperwork and courtesy summons the following notice: "If the charges that have been brought against you are discharged, dismissed, or nolle prossed or if you are found not guilty, you may have your record expunged."
+
+
+HISTORY: 2009 Act No. 36, SECTION 4, eff June 2, 2009.
+
+
+SECTION 17-1-50. Interpreters in criminal proceedings.
+
+
+(A) As used in this section:
+
+
+(1) "Certified interpreter" means an interpreter who meets the standards contained in subitem (A)(4) and is certified by the administrative office of the United States courts, by the office of the administrator for the state courts, or by a nationally recognized professional organization.
+
+
+(2) "Legal proceeding" means a proceeding in which a nonEnglish speaking person is a party or a witness.
+
+
+(3) "NonEnglish speaking person" means a party or a witness participating in a legal proceeding who has limited ability to speak or understand the English language.
+
+
+(4) "Qualified interpreter" means a person who:
+
+
+(a) is eighteen years of age or older;
+
+
+(b) is not a family member of a party or a witness;
+
+
+(c) is not a person confined to an institution; and
+
+
+(d) has education, training, or experience that enables him to speak English and a foreign language fluently, and is readily able to interpret simultaneously and consecutively and to sight-translate documents from English into the language of a nonEnglish speaking person, or from the language of that person into spoken English.
+
+
+(5) "Victim" means a victim as defined in Section 16-3-1110.
+
+
+(6) "Witness" means a person who testifies in a legal proceeding.
+
+
+(B)(1) Notwithstanding any other provision of law, whenever a party, witness, or victim in a criminal legal proceeding does not sufficiently understand or speak the English language to comprehend the proceeding or to testify, the court must appoint a certified or otherwise qualified interpreter to interpret the proceedings to the party or victim or to interpret the testimony of the witness.
+
+
+(2) However, the court may waive the use of a certified or otherwise qualified interpreter if the court finds that it is not necessary for the fulfillment of justice. The court must first make a finding on the record that the waiver of a certified or otherwise qualified interpreter is requested by a nonEnglish speaking party, witness, or victim in a legal proceeding; that the waiver has been made knowingly, voluntarily, and intelligently; and that granting the waiver is in the best interest of justice.
+
+
+(C) The selection, use, and reimbursement of interpreters must be determined under such guidelines as may be established by the Chief Justice of the Supreme Court. All fees for interpreting services must be paid out of the general fund of the State from funds appropriated to the Judicial Department for this purpose by the General Assembly.
+
+
+(D) The Division of Court Administration must maintain a centralized list of certified or otherwise qualified interpreters to interpret the proceedings to a party and testimony of a witness. A party or a witness is not precluded from using a qualified interpreter who is not on the centralized list as long as the interpreter meets the requirements of subitem (A)(4) and submits a sworn affidavit to the court specifying his qualifications or submits to a voir dire by the court.
+
+
+HISTORY: 1998 Act No. 390, SECTION 1; 2001 Act No. 103, SECTION 3.
+
+
+SECTION 17-1-60. Publication of arrest and booking records, unlawful under certain circumstances, procedures for removal of such information; penalties; civil cause of action.
+
+
+(A) For purposes of this section, a person or entity who publishes on the person's or entity's website or any other publication the arrest and booking records, including booking photographs, of a person who is arrested and booked in South Carolina is deemed to be transacting business in South Carolina.
+
+
+(B) It is unlawful for a person or entity to obtain, or attempt to obtain, the arrest and booking records, including booking photographs, of a person who is arrested and booked in South Carolina knowing:
+
+
+(1) the arrest and booking records will be published on a website or any other publication; and
+
+
+(2) removal or revision of the arrest or booking records requires the payment of a fee or other consideration.
+
+
+(C) It is unlawful for a person or entity to require the payment of a fee or other consideration to remove, revise, or refrain from posting to a website or any other publication the arrest and booking records, including booking photographs, of a person who is arrested and booked in South Carolina.
+
+
+(D)(1) A person or entity who publishes on the person or entity's website or any other publication the arrest and booking records, including booking photographs, of a person who is arrested and booked in South Carolina shall remove the arrest and booking records from the person or entity's website or any other publication without requiring the payment of a fee or other consideration within thirty days of the receipt of a request to remove the arrest and booking records, if the request:
+
+
+(a) is made in writing via certified mail, return receipt requested, to the registered agent, principal place of business, or primary residence of the person or entity who publishes the website or any other publication;
+
+
+(b) includes the person's name, date of arrest, and the name of the arresting law enforcement agency;
+
+
+(c) contains certified documentation that the original charges stemming from the arrest were discharged, dismissed, expunged, or the person was found not guilty; and
+
+
+(d) includes a complete and accurate description of where the arrest and booking records are located, including, but not limited to, the uniform resource locator (URL) and e-edition, if applicable.
+
+
+(2) If the original charges stemming from the arrest were discharged or dismissed as a result of the person pleading to a lesser included offense, or a different offense, the person or entity who publishes the website or any other publication is not required to remove the arrest and booking records from the person or entity's website or any other publication; however, the person or entity shall revise the arrest and booking records published on the person or entity's website or any other publication to reflect the lesser included offense, or different offense, instead of the original charges, without requiring the payment of a fee or other consideration within thirty days of the receipt of a request to remove the arrest and booking records pursuant to item (1).
+
+
+(3) This subsection does not apply to the following:
+
+
+(a) motion picture producers and distributors, and their products as released in theaters, to DVD, pay-per-view, broadcast, cable and satellite television, as well as Internet services;
+
+
+(b) acts done by the publisher, owner, agent, employee, or retailer of a newspaper, periodical, books, radio station, radio network, television station, television broadcast network, or cable television network in the publication or dissemination in print or electronically of:
+
+
+(i) news, history, entertainment, or commentary; or
+
+
+(ii) an advertisement of or for another person, when the publisher, owner, agent, or employee did not have actual knowledge of the false, misleading, or deceptive character of the advertisement, did not prepare the advertisement, or did not have a direct financial interest in the sale or distribution of the advertised product or service.
+
+
+(4) A person or entity who violates this subsection is not subject to the criminal penalty provided in subsection (F); however, the person or entity is subject to a civil cause of action as provided in subsection (G).
+
+
+(E)(1) This section does not apply to a state or local government agency.
+
+
+(2) Except as otherwise provided by state law, it is unlawful for an employee of a state or local government agency to provide the arrest or booking records, including booking photographs, of a person who is arrested and booked in South Carolina knowing:
+
+
+(a) the arrest and booking records will be published on a nongovernmental website or any other publication; and
+
+
+(b) removal or revision of the arrest or booking records requires the payment of a fee or other consideration.
+
+
+(F)(1) A person or entity who violates this section, except for subsection (D), is guilty of a misdemeanor, and, upon conviction, must be fined not more than one thousand dollars or be imprisoned not more than sixty days, or both.
+
+
+(2) Each arrest and booking record obtained, attempted to obtain, or provided, and each payment solicited or accepted in violation of this section constitutes a separate violation.
+
+
+(G)(1) Except as provided in item (2), a person who suffers a loss or harm as a result of a violation of this section may file a civil cause of action against a person or entity who violates this section for damages suffered, along with costs, attorney's fees, and any other legal or equitable relief.
+
+
+(2) A person who suffers a loss or harm as a result of a violation of this section may not file a civil cause of action against a state or local government agency pursuant to this section; however, the person may file a civil cause of action against an employee of a state or local government agency who violates subsection (E)(2) pursuant to the South Carolina Tort Claims Act. A state or local government agency may not be substituted for an employee of the state or local government agency in a civil cause of action against the employee.
+
+
+HISTORY: 2016 Act No. 132 (S.255), SECTION 2, eff May 16, 2016.
+
+
+Editor's Note
+
+
+2016 Act No. 132, SECTION 6, provides as follows:
+
+
+"SECTION 6. This act takes effect ninety days after approval by the Governor. This act applies retroactively to allow for the expungement of offenses charged, discharged, dismissed, or nolle prossed prior to the effective date of this act, and persons convicted or found not guilty prior to the effective date of this act."
+
+
+SECTION 17-1-65. Expungement of conviction for unlawful possession of a handgun.
+
+
+A person may apply for an expungement of one conviction for unlawful possession of a handgun as provided in Section 16-23-20, if the conviction occurred prior to the enactment of the S.C. Constitutional Carry/Second Amendment Preservation Act of 2024. An application under this section must be made within five years of the enactment of this section.
+
+
+HISTORY: 2024 Act No. 111 (H.3594), SECTION 20, eff March 7, 2024.
+
+
+Editor's Note
+
+
+2024 Act No. 111, SECTIONS 1 and 24, provide as follows:
+
+
+"SECTION 1. This act may be cited as the 'South Carolina Constitutional Carry/Second Amendment Preservation Act of 2024'."
+
+
+"SECTION 24. No provision in this act should be construed as the General Assembly discouraging responsible gun ownership; and the General Assembly, in fact, encourages all gun owners to pursue and receive appropriate gun safety training before carrying a firearm or weapon."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+South Carolina Legislative Services Agency * 223 Blatt Building * 1105 Pendleton Street * Columbia, SC 29201
+
+
+Disclaimer * Policies * Photo Credits * Contact Us 
+
+
+
+
+
+
+
+
+
+
+Legislative Services Agency
+
+
+h t t p : / / w w w . s c s t a t e h o u s e . g o v

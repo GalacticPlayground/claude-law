@@ -1,60 +1,26 @@
 # AL — Title 6
 
-**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/alabama/title-6/>
+**Source:** <https://law.justia.com/codes/alabama/title-6/>
 **Plugin:** `us-al-legal-corpus`
 **Pulled:** 2026-06-05
 
 ---
 
-Alabama Code Title 6 (2023) - Civil Practice. :: 2023 Code of Alabama :: US Codes and Statutes :: US Law :: Justia
+Alabama Code Title 6 (2025) - Civil Practice. :: 2025 Code of Alabama :: U.S. Codes and Statutes :: U.S. Law :: Justia
 
-4 captures
-15 Jun 2024 - 30 Apr 2025
-
-Sep |
-OCT |
-Nov |
-
-|
-01 |
-|
-
-2023 |
-2024 |
-2025 |
-
-success
-
-fail
-
-About this capture
-
-COLLECTED BY
-
-Collection: Save Page Now Outlinks
-
-TIMESTAMPS
-
-The Wayback Machine - https://web.archive.org/web/20241001222614/https://law.justia.com/codes/alabama/title-6/
-
-Go to previous versions
+Go to Previous Versions
 of
 this Title
 
-2023
-(you are here)
+2025 Code of Alabama (here)
 
-2022
-
-2021
-
-2020
-
-2019
-
-Other previous versions
+2024 Code of Alabama
 
 2023 Code of Alabama
+
+View All Versions
+
+2025 Code of Alabama
 Title 6 - Civil Practice.
 
 Previous
@@ -92,10 +58,6 @@ Previous
 Next
 
 Disclaimer: These codes may not be the most recent version. Alabama may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
-
-This site is protected by reCAPTCHA and the Google
-Privacy Policy and
-Terms of Service apply.
 
 Toggle button
 
@@ -179,11 +141,11 @@ Employment
 
 More...
 
-US Federal Law
+U.S. Federal Law
 
-US Constitution
+U.S. Constitution
 
-US Code
+U.S. Code
 
 Regulations
 
@@ -197,7 +159,7 @@ Dockets & Filings
 
 More...
 
-US State Law
+U.S. State Law
 
 State Constitutions
 
@@ -251,7 +213,7 @@ Testimonials
 
 More...
 
-© 2024 Justia
+© 2026 Justia
 
 Justia Connect
 Legal Portal

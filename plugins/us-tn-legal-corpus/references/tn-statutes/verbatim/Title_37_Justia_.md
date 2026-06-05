@@ -1,67 +1,33 @@
 # TN — Title 37 (Justia)
 
-**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/tennessee/title-37/>
+**Source:** <https://law.justia.com/codes/tennessee/title-37/>
 **Plugin:** `us-tn-legal-corpus`
 **Pulled:** 2026-06-05
 
 ---
 
-Tennessee Code Title 37 (2023) - JUVENILES :: 2023 Tennessee Code :: US Codes and Statutes :: US Law :: Justia
+Tennessee Code Title 37 (2024) - JUVENILES :: 2024 Tennessee Code :: U.S. Codes and Statutes :: U.S. Law :: Justia
 
-3 captures
-09 Feb 2012 - 21 May 2025
-
-Jul |
-AUG |
-Sep |
-
-|
-17 |
-|
-
-2023 |
-2024 |
-2025 |
-
-success
-
-fail
-
-About this capture
-
-COLLECTED BY
-
-Collection: Wikipedia Eventstream Outlinks
-
-TIMESTAMPS
-
-The Wayback Machine - https://web.archive.org/web/20240817065600/https://law.justia.com/codes/tennessee/title-37/
-
-Go to previous versions
+Go to Previous Versions
 of
 this Title
 
-2023
-(you are here)
-
-2021
-
-2020
-
-2019
-
-2018
-
-Other previous versions
+2024 Tennessee Code (here)
 
 2023 Tennessee Code
-Title 37 - JUVENILES (§§ 37-1-NEW — 37-11-103)
+
+2021 Tennessee Code
+
+View All Versions
+
+2024 Tennessee Code
+Title 37 - JUVENILES (§§ 37-1-101 — 37-11-103)
 
 Previous
 
 Next
 
-Chapter 1 - JUVENILE COURTS AND PROCEEDINGS (§§ 37-1-NEW — 37-1-910)
+Chapter 1 - JUVENILE COURTS AND PROCEEDINGS (§§ 37-1-101 — 37-1-910)
 
 Chapter 2 - PLACEMENT OF JUVENILES (§§ 37-2-101 — 37-2-605)
 
@@ -84,10 +50,6 @@ Previous
 Next
 
 Disclaimer: These codes may not be the most recent version. Tennessee may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
-
-This site is protected by reCAPTCHA and the Google
-Privacy Policy and
-Terms of Service apply.
 
 Toggle button
 
@@ -171,11 +133,11 @@ Employment
 
 More...
 
-US Federal Law
+U.S. Federal Law
 
-US Constitution
+U.S. Constitution
 
-US Code
+U.S. Code
 
 Regulations
 
@@ -189,7 +151,7 @@ Dockets & Filings
 
 More...
 
-US State Law
+U.S. State Law
 
 State Constitutions
 
@@ -243,7 +205,7 @@ Testimonials
 
 More...
 
-© 2024 Justia
+© 2026 Justia
 
 Justia Connect
 Legal Portal
