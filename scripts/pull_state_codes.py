@@ -262,7 +262,9 @@ def gen_urls(state, max_n=15):
         ]:
             pairs.append((label, url))
     elif state == "vt":
-        for n in range(1, 34):
+        # VT statutes use SilverStripe CMS that loads content via AJAX;
+        # Wayback Machine has a usable static snapshot.
+        for n in range(1, 34, 2):
             pairs.append((f"Title {n}", f"https://legislature.vermont.gov/statutes/section/{n}/1"))
     elif state == "va":
         for n in range(1, 74, 2):
