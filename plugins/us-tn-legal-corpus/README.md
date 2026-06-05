@@ -16,11 +16,25 @@ Covers Tennessee's three trial-court layers — **Circuit Court** (law), **Chanc
 
 ## Reference corpora
 
-Under `skills/tn-law-references/references/` (each corpus dir has its own README): `tn-statutes-debt/` (verbatim Tenn. Code Ann.; the statutory **text is public domain** — LexisNexis copyrights only the *annotations* — and is mirrored from Justia), `court-rules/`, plus the shared federal symlinks.
+The Tennessee source corpus lives under `references/`:
+
+- `tn_statutes/` — 25 targeted Tennessee Code chapter files plus `_manifest.json`. The statutory **text is public domain**; LexisNexis copyrights only the *annotations*. The puller targets the Justia Tennessee Code mirror and writes pointer stubs when the mirror cannot be fetched.
+- `tn_court_rules/` — 5 statewide/local-rule set files plus `_manifest.json`. The statewide rules target the Tennessee AOC `tncourts.gov` HTML mirror; local rules are pointer stubs to the AOC local-rules index.
+
+Population note: the 2026-06-04 run from this managed workspace used `HTTPS_PROXY=http://192.168.8.21:9091`, but outbound `urlopen` calls were blocked by the sandbox with `[Errno 1] Operation not permitted`. The directory shape, target files, and manifests were populated; generated content is pointer stubs rather than retrieved verbatim source text.
 
 ## Refresh
 
-`scripts/pull_tn_statutes.py` (curl_cffi; stubs on 403) · `scripts/pull_tn_court_rules.py`. Plugin scripts: `format-check.py` · `case-calendar.py`.
+From the repository root:
+
+```bash
+HTTPS_PROXY=http://192.168.8.21:9091 python3 scripts/pull_tn_statutes.py --out plugins/us-tn-legal-corpus/references/tn_statutes/
+HTTPS_PROXY=http://192.168.8.21:9091 python3 scripts/pull_tn_court_rules.py --out plugins/us-tn-legal-corpus/references/tn_court_rules/
+```
+
+The pullers use Python stdlib networking and accept `--out` for the output directory. Re-run them from an environment where `law.justia.com` and `tncourts.gov` are reachable to replace pointer stubs with verbatim retrieved text.
+
+Plugin scripts: `format-check.py` · `case-calendar.py`.
 
 ---
 Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
