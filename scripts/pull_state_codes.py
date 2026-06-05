@@ -49,9 +49,14 @@ def fetch(url, timeout=15, use_cc=False):
         return None, str(e)[:200]
 
 def fetch_with_wayback(url, timeout=15, year="2024"):
-    """Try direct URL, then fall back to Wayback Machine snapshot.
+    """Try direct URL via curl_cffi, then urllib, then Wayback Machine.
     Returns (status, body, source_url) or (None, None, None) on total failure."""
-    code, body = fetch(url, timeout=timeout)
+    # Try curl_cffi first (browser impersonation bypasses bot detection)
+    code, body = fetch(url, timeout=timeout, use_cc=True)
+    if code == 200 and body and len(body) > 500:
+        return code, body, url
+    # Try plain urllib
+    code, body = fetch(url, timeout=timeout, use_cc=False)
     if code == 200 and body and len(body) > 500:
         return code, body, url
     # Try Wayback Machine
