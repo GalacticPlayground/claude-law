@@ -1,0 +1,10 @@
+{
+  "name": "us-nj-legal-corpus",
+  "description": "Comprehensive corpus of New Jersey state law \u2014 New Jersey Statutes (NJS), state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "new jersey",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
