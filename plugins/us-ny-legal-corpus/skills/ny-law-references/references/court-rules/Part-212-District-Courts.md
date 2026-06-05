@@ -1,7 +1,7 @@
 # 22 NYCRR Part 212 — Uniform Civil Rules for the District Courts
 
 > **Source:** https://www.nycourts.gov/rules/part-212-uniform-civil-rules-district-courts
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-06-05
 > **Format:** verbatim conversion of the canonical HTML source published by the NY Unified Court System
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid; verify
@@ -19,7 +19,7 @@ New York State Unified Court System
 ## Main navigation
 - I am a ...
 - **Select** which user type you most identify with.
-- Court User / Litigant
+- Litigant / Self-Represented
 - Judge
 - Legal Professional
 - Juror
@@ -28,7 +28,7 @@ New York State Unified Court System
 - Supplier Looking for Bid Opportunities
 Featured
 
-Learn how to use our new website...
+Looking for Divorce Resources...
 
 - The Courts
 - The Courts The mission of the Unified Court System is to promote the rule of law and to serve the public by providing just and timely resolution of all matters before the courts.
@@ -37,8 +37,8 @@ Learn how to use our new website...
 - Upstate Courts
 - Specialized Courts
 - Appellate Courts
-- Town & Village Justice Courts
 - Rules
+- Town & Village Justice Courts
 - County Clerks, (NYC)
 Featured
 
@@ -47,6 +47,7 @@ eCourts: eFile (NYSCEF), eTrack, Pay Online & more...
 - Forms
 - CourtHelp
 - CourtHelp Get help when you don’t have a lawyer. Information here is constantly being updated to reflect changes in the law.
+- DIY Forms
 - Safety & Violence
 - Problems with Money
 - Guardianship
@@ -56,12 +57,8 @@ eCourts: eFile (NYSCEF), eTrack, Pay Online & more...
 - Homes & Evictions
 - When Someone Dies
 - Small Claims
-- Getting help at the courthouse
+- Getting Help at the Courthouse
 - Name Change and/or Sex Designation Change
-Featured
-
-DIY Forms
-
 - About Us
 - About Us The administration of the court system. Learn about our work and our structure.
 - Administration
@@ -70,11 +67,11 @@ DIY Forms
 - Civic Engagement
 - Contact Us
 - OCA Support Units
-- Bias & Misconduct Complaints
 - Publications
-- Special Events
-- Terms of Court Calendar & Holidays
 - Public Information
+- Special Events
+- Bias & Misconduct Complaints
+- Terms of Court Calendar & Holidays
 Featured
 
 Court Leadership
@@ -86,7 +83,7 @@ Court Leadership
 ## Main navigation
 - I am a ...
 - **Select** which user type you most identify with.
-- Court User / Litigant
+- Litigant / Self-Represented
 - Judge
 - Legal Professional
 - Juror
@@ -95,7 +92,7 @@ Court Leadership
 - Supplier Looking for Bid Opportunities
 Featured
 
-Learn how to use our new website...
+Looking for Divorce Resources...
 
 - The Courts
 - The Courts The mission of the Unified Court System is to promote the rule of law and to serve the public by providing just and timely resolution of all matters before the courts.
@@ -104,8 +101,8 @@ Learn how to use our new website...
 - Upstate Courts
 - Specialized Courts
 - Appellate Courts
-- Town & Village Justice Courts
 - Rules
+- Town & Village Justice Courts
 - County Clerks, (NYC)
 Featured
 
@@ -114,6 +111,7 @@ eCourts: eFile (NYSCEF), eTrack, Pay Online & more...
 - Forms
 - CourtHelp
 - CourtHelp Get help when you don’t have a lawyer. Information here is constantly being updated to reflect changes in the law.
+- DIY Forms
 - Safety & Violence
 - Problems with Money
 - Guardianship
@@ -123,12 +121,8 @@ eCourts: eFile (NYSCEF), eTrack, Pay Online & more...
 - Homes & Evictions
 - When Someone Dies
 - Small Claims
-- Getting help at the courthouse
+- Getting Help at the Courthouse
 - Name Change and/or Sex Designation Change
-Featured
-
-DIY Forms
-
 - About Us
 - About Us The administration of the court system. Learn about our work and our structure.
 - Administration
@@ -137,11 +131,11 @@ DIY Forms
 - Civic Engagement
 - Contact Us
 - OCA Support Units
-- Bias & Misconduct Complaints
 - Publications
-- Special Events
-- Terms of Court Calendar & Holidays
 - Public Information
+- Special Events
+- Bias & Misconduct Complaints
+- Terms of Court Calendar & Holidays
 Featured
 
 Court Leadership
