@@ -2,7 +2,7 @@
 
 The scaffolder generates a complete 21-skill directory tree
 with lint-clean SKILL.md stubs, a plugin.json, scripts copied
-from `or-court-docs`, and eval-directory scaffolding. After
+from `us-or-legal-corpus`, and eval-directory scaffolding. After
 the script runs, the agent (or a human) authors substantive
 content into each stub.
 
@@ -73,10 +73,10 @@ Run from the repo root.
 For state abbreviation `ca`, the script writes:
 
 ```
-plugins/ca-court-docs/
+plugins/us-ca-legal-corpus/
 ├── .claude-plugin/plugin.json     (NEW; from template)
 ├── scripts/
-│   ├── case-calendar.py           (COPIED from or-court-docs;
+│   ├── case-calendar.py           (COPIED from us-or-legal-corpus;
 │   │                                prefixed with TODO marker)
 │   └── format-check.py            (COPIED; prefixed with TODO)
 ├── skills/
@@ -93,8 +93,8 @@ plugins/ca-court-docs/
 │   │   ├── SKILL.md
 │   │   └── references/
 │   │       ├── court-rules/README.md          # real dir
-│   │       ├── federal-debt-laws -> ../../../../claude-legal-federal-laws/references/federal-debt-laws  (symlink)
-│   │       ├── ucc-model         -> ../../../../claude-legal-federal-laws/references/ucc-model          (symlink)
+│   │       ├── federal-debt-laws -> ../../../../us-federal-debt-corpus/references/federal-debt-laws  (symlink)
+│   │       ├── ucc-model         -> ../../../../us-federal-debt-corpus/references/ucc-model          (symlink)
 │   │       └── ca-statutes-debt/README.md     # real dir
 │   ├── ca-discovery/...
 │   ├── ca-hearings/...
@@ -125,9 +125,9 @@ plugins/ca-court-docs/
 That's 21 SKILL.md files, 2 corpus READMEs (only the state-specific
 corpora — `court-rules/` and `<state>-statutes-debt/` — get a real
 directory with a README; `federal-debt-laws` and `ucc-model` are
-created as symlinks into the shared `claude-legal-federal-laws`
+created as symlinks into the shared `us-federal-debt-corpus`
 plugin), 1 plugin.json declaring
-`"dependencies": ["claude-legal-federal-laws"]`, 1 evals README,
+`"dependencies": ["us-federal-debt-corpus"]`, 1 evals README,
 2 copied scripts, and ~30 empty directories.
 
 ## What the script does NOT do

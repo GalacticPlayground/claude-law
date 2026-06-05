@@ -7,14 +7,14 @@ description: >
   "scaffold a new state", "add Florida", "I want to cover Arizona",
   "build the New York plugin", "new state — same as Oregon but for
   [STATE]", "port the WA plugin to [STATE]". Generates the
-  complete 21-skill directory tree (mirroring wa-court-docs and
-  or-court-docs), authors SKILL.md files for every role, lays
+  complete 21-skill directory tree (mirroring us-wa-legal-corpus and
+  us-or-legal-corpus), authors SKILL.md files for every role, lays
   down the reference-corpus scaffolding (court-rules,
   federal-debt-laws, ucc-model, <state>-statutes-debt), copies
   the format-check and case-calendar scripts parameterized to
   the new state's holidays and format rule, registers the plugin
   in marketplace.json, and updates CLAUDE.md and README.md. The
-  scaffolder declares "dependencies: [claude-legal-federal-laws]"
+  scaffolder declares "dependencies: [us-federal-debt-corpus]"
   in the new plugin.json and lays down symlinks at references/
   federal-debt-laws and references/ucc-model pointing into the
   shared plugin — federal corpora are NOT duplicated per state.
@@ -28,7 +28,7 @@ version: 0.5.0
 
 Use this skill when adding a new state plugin to the
 `claude-legal` marketplace. The skill codifies the pattern
-established by `wa-court-docs` and `or-court-docs` so the
+established by `us-wa-legal-corpus` and `us-or-legal-corpus` so the
 addition stays consistent across states.
 
 > **Project-scoped skill**. This skill lives in `.claude/skills/`
@@ -307,11 +307,11 @@ dive. Each `<state>-law-references` skill needs:
     courts, justice / town / village courts, special civil
     parts, etc.)
 - `federal-debt-laws/` *(symlink)* — points into the shared
-  `claude-legal-federal-laws/references/federal-debt-laws/`
-  plugin via `../../../../claude-legal-federal-laws/...`. Do
+  `us-federal-debt-corpus/references/federal-debt-laws/`
+  plugin via `../../../../us-federal-debt-corpus/...`. Do
   NOT create a real directory here. The scaffold script lays
   this symlink down automatically; if you author the plugin by
-  hand, declare `"dependencies": ["claude-legal-federal-laws"]`
+  hand, declare `"dependencies": ["us-federal-debt-corpus"]`
   in plugin.json and run `ln -s` for the symlink.
 - `ucc-model/` *(symlink)* — same shared plugin; same symlink
   target convention. Same dependency.
@@ -664,7 +664,7 @@ deletion or rewording into a state-only statement:
 ```bash
 # In the new plugin's directory:
 grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
-|wa-court-docs|or-court-docs|ca-court-docs|co-court-docs|in-court-docs|ny-court-docs\
+|us-wa-legal-corpus|us-or-legal-corpus|us-ca-legal-corpus|us-co-legal-corpus|us-in-legal-corpus|us-ny-legal-corpus\
 |like (Oregon|California|Colorado|Indiana|Washington|New York)\
 |unlike (Oregon|California|Colorado|Indiana|Washington|New York)\
 |federal/(WA|OR|CA|CO|IN|NY)" plugins/<abbr>-court-docs/ \
@@ -678,7 +678,7 @@ grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
   most states' General Construction or Government Codes,
   **not** a cross-state comparison. Keep it.
 - **`in-person`** as a hyphenated phrase — matches the
-  `\bin-` pattern when looking for `in-court-docs`
+  `\bin-` pattern when looking for `us-in-legal-corpus`
   references. Keep it.
 - **`co-parents`, `co-counsel`, `co-defendant`** — match
   the `\bco-` pattern. Keep them.

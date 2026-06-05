@@ -12,25 +12,25 @@ A Claude Code / Cowork marketplace of plugins for preparing U.S. court documents
 
 | Plugin | What it covers |
 |---|---|
-| [`claude-legal-federal-laws`](plugins/claude-legal-federal-laws/README.md) | Canonical federal consumer-finance corpora (FDCPA / FCRA / TILA / ECOA / Reg B-Z, RESPA / SCRA / FHA / TSR), the Bankruptcy Code, and the model UCC — a dependency of every state plugin — plus a nationwide FCRA consumer credit-report-rights skills layer. |
-| [`claude-legal-immigration-laws`](plugins/claude-legal-immigration-laws/README.md) | U.S. immigration law (INA / 8 CFR / 22 CFR / FAM mirrored verbatim + EOIR court rules), an on-demand case-law index (circuits / BIA / AAO), and an 11-skill venue-independent self-help layer. |
+| [`us-federal-debt-corpus`](plugins/us-federal-debt-corpus/README.md) | Canonical federal consumer-finance corpora (FDCPA / FCRA / TILA / ECOA / Reg B-Z, RESPA / SCRA / FHA / TSR), the Bankruptcy Code, and the model UCC — a dependency of every state plugin — plus a nationwide FCRA consumer credit-report-rights skills layer. |
+| [`us-federal-immigration-corpus`](plugins/us-federal-immigration-corpus/README.md) | U.S. immigration law (INA / 8 CFR / 22 CFR / FAM mirrored verbatim + EOIR court rules), an on-demand case-law index (circuits / BIA / AAO), and an 11-skill venue-independent self-help layer. |
 
 ### State plugins
 
 | Plugin | Coverage |
 |---|---|
-| [`wa-court-docs`](plugins/wa-court-docs/README.md) | Washington — GR 14; 6 venues + 6 subject bundles + CPA + CEMA; 32 skills |
-| [`or-court-docs`](plugins/or-court-docs/README.md) | Oregon — UTCR 2.010; Multnomah + Washington Co + roll-up; consumer-debt (no-interrogatories quirk) |
-| [`ca-court-docs`](plugins/ca-court-docs/README.md) | California — CRC 2.100-2.119; LASC + SFSC + roll-up; consumer-debt |
-| [`co-court-docs`](plugins/co-court-docs/README.md) | Colorado — C.R.C.P. 10 + CJD 11-01; Denver + Arapahoe + roll-up; consumer-debt + family-law; 22 skills |
-| [`in-court-docs`](plugins/in-court-docs/README.md) | Indiana — T.R. 5(E); Marion + Lake + roll-up; consumer-debt + family-law; 23 skills |
-| [`ny-court-docs`](plugins/ny-court-docs/README.md) | New York — 22 NYCRR § 202.5 / NYSCEF; 5 flagship Supreme Courts + District / City / Justice / Family / Housing courts; 5 subject bundles; 35 skills |
-| [`oh-court-docs`](plugins/oh-court-docs/README.md) | Ohio — Civ. R. 10; 8 Common Pleas venues + municipal + family; consumer-debt + family-law; 30 skills |
-| [`tn-court-docs`](plugins/tn-court-docs/README.md) | Tennessee — local-rule format; Circuit / Chancery / General Sessions; 4 subject bundles; 29 skills |
-| [`mi-court-docs`](plugins/mi-court-docs/README.md) | Michigan — MCR 1.109 / 2.113; Wayne + Oakland + 36th District + family; 6 subject bundles; 29 skills |
-| [`az-court-docs`](plugins/az-court-docs/README.md) | Arizona — Ariz. R. Civ. P. 10 / 7.1; Maricopa + Pima + Justice + family; 6 subject bundles; 28 skills |
+| [`us-wa-legal-corpus`](plugins/us-wa-legal-corpus/README.md) | Washington — GR 14; 6 venues + 6 subject bundles + CPA + CEMA; 32 skills |
+| [`us-or-legal-corpus`](plugins/us-or-legal-corpus/README.md) | Oregon — UTCR 2.010; Multnomah + Washington Co + roll-up; consumer-debt (no-interrogatories quirk) |
+| [`us-ca-legal-corpus`](plugins/us-ca-legal-corpus/README.md) | California — CRC 2.100-2.119; LASC + SFSC + roll-up; consumer-debt |
+| [`us-co-legal-corpus`](plugins/us-co-legal-corpus/README.md) | Colorado — C.R.C.P. 10 + CJD 11-01; Denver + Arapahoe + roll-up; consumer-debt + family-law; 22 skills |
+| [`us-in-legal-corpus`](plugins/us-in-legal-corpus/README.md) | Indiana — T.R. 5(E); Marion + Lake + roll-up; consumer-debt + family-law; 23 skills |
+| [`us-ny-legal-corpus`](plugins/us-ny-legal-corpus/README.md) | New York — 22 NYCRR § 202.5 / NYSCEF; 5 flagship Supreme Courts + District / City / Justice / Family / Housing courts; 5 subject bundles; 35 skills |
+| [`us-oh-legal-corpus`](plugins/us-oh-legal-corpus/README.md) | Ohio — Civ. R. 10; 8 Common Pleas venues + municipal + family; consumer-debt + family-law; 30 skills |
+| [`us-tn-legal-corpus`](plugins/us-tn-legal-corpus/README.md) | Tennessee — local-rule format; Circuit / Chancery / General Sessions; 4 subject bundles; 29 skills |
+| [`us-mi-legal-corpus`](plugins/us-mi-legal-corpus/README.md) | Michigan — MCR 1.109 / 2.113; Wayne + Oakland + 36th District + family; 6 subject bundles; 29 skills |
+| [`us-az-legal-corpus`](plugins/us-az-legal-corpus/README.md) | Arizona — Ariz. R. Civ. P. 10 / 7.1; Maricopa + Pima + Justice + family; 6 subject bundles; 28 skills |
 
-All state plugins are architected the same way: matter-neutral civil-procedure skills (statewide format, civil + evidence rules, fees, local rules, citation, discovery, first-30-days, hearings, filing, post-judgment, fact-check, deadlines) plus subject-matter bundles, sharing federal / UCC / Bankruptcy content via the `claude-legal-federal-laws` dependency rather than copying it per plugin. The marketplace is organized one plugin per state; more can be added under `plugins/` as it grows.
+All state plugins are architected the same way: matter-neutral civil-procedure skills (statewide format, civil + evidence rules, fees, local rules, citation, discovery, first-30-days, hearings, filing, post-judgment, fact-check, deadlines) plus subject-matter bundles, sharing federal / UCC / Bankruptcy content via the `us-federal-debt-corpus` dependency rather than copying it per plugin. The marketplace is organized one plugin per state; more can be added under `plugins/` as it grows.
 
 ## Install
 
@@ -38,36 +38,36 @@ Add this marketplace to Claude Code or Cowork, then install the state plugins yo
 
 ```
 /plugin marketplace add https://github.com/codearranger/claude-legal
-/plugin install wa-court-docs@claude-legal
-/plugin install or-court-docs@claude-legal
-/plugin install ca-court-docs@claude-legal
-/plugin install co-court-docs@claude-legal
-/plugin install in-court-docs@claude-legal
-/plugin install ny-court-docs@claude-legal
-/plugin install oh-court-docs@claude-legal
-/plugin install tn-court-docs@claude-legal
-/plugin install mi-court-docs@claude-legal
-/plugin install az-court-docs@claude-legal
+/plugin install us-wa-legal-corpus@claude-legal
+/plugin install us-or-legal-corpus@claude-legal
+/plugin install us-ca-legal-corpus@claude-legal
+/plugin install us-co-legal-corpus@claude-legal
+/plugin install us-in-legal-corpus@claude-legal
+/plugin install us-ny-legal-corpus@claude-legal
+/plugin install us-oh-legal-corpus@claude-legal
+/plugin install us-tn-legal-corpus@claude-legal
+/plugin install us-mi-legal-corpus@claude-legal
+/plugin install us-az-legal-corpus@claude-legal
 ```
 
-Each state plugin declares `claude-legal-federal-laws` as a `dependencies:` entry, so the marketplace runtime installs the shared plugin automatically — no need to install it explicitly.
+Each state plugin declares `us-federal-debt-corpus` as a `dependencies:` entry, so the marketplace runtime installs the shared plugin automatically — no need to install it explicitly.
 
 ## Reference corpora at a glance
 
 | Plugin | Statutes | Court rules | Federal / UCC / Bankruptcy |
 |---|---|---|---|
-| `wa-court-docs` | 93 RCW chapters / 3,266 sections / ~5.5 MB | 1,233 rules / 35 sets / 4.6 MB | shared (20 + 4 + 8 chapters) |
-| `or-court-docs` | 35 ORS chapters / 5.6 MB | 7 rule sets / 2.3 MB | shared |
-| `ca-court-docs` | 32 files (CCP / Civ / Evid / Fam / Prob / Lab / B&P / Fin / Comm) | 9 CRC titles / 17 files | shared |
-| `co-court-docs` | 14 articles / 2.0 MB | 80 files (72 CJDs + 6 paywall stubs) | shared |
-| `in-court-docs` | 27 articles incl. full IC 31 family-law coverage (IGA SPA-blocked; stubs + API-key fallback) | 7 rule sets / 2.1 MB | shared |
-| `ny-court-docs` | 36 NY consolidated-laws targets / ~2.9 MB verbatim via NYSENATE API (CPLR 15 articles + GOB + GBS + RPAPL + RPL + UCC + DRL + FCT + EPT + GCN + BNK) | 20 rule sets via `pull_ny_court_rules.py`: 15 Parts of 22 NYCRR pulled verbatim / ~1.2 MB (Parts 100 / 104 / 125 / 130 / 202 incl. § 202.70 Comm Div / 205 / 206 / 207 / 208 incl. § 208.42 Housing / 210 / 212 / 214 / 216 / 220 / 221) + 5 pointer stubs (Part 1200 Rules of Prof Conduct, Tanbook, NYC Civil Court directives, Nassau / Suffolk DC local rules) | shared |
-| `oh-court-docs` | 20 R.C. chapters / 1,335 sections / ~2.7 MB verbatim from `codes.ohio.gov` (R.C. Chapter 1 holidays + 1302/1303/1309 UCC + 1345 CSPA + 2151/2305/2329/2333 civil enforcement + 3105/3109/3113/3115/3119/3127 family + 5321/1923 L&T + 1901/1907/1925 court-specific) | 14 rule sets via `pull_ohio_court_rules.py`: Civ. R. + Evid. R. + App. R. + Crim. R. + Juv. R. + Traffic R. + Sup. R. + Sup. Ct. Prac. R. + Prof. Cond. R. + Code of Jud. Cond. + Gov. Bar R. + Gov. Jud. R. + Rep. R. + Court of Claims local rules / ~4.8 MB | shared |
-| `tn-court-docs` | 25 Tenn. Code Ann. chapters via `pull_tn_statutes.py`; well-formed pointer stubs when Justia 403s the runner | 4 statewide rule sets / ~2.7 MB / 473 rule sub-pages verbatim via `pull_tn_court_rules.py` from tncourts.gov; county local rules as a pointer stub | shared |
-| `mi-court-docs` | verbatim MCL — 13 topic files / ~70 sections / ~211 KB via `pull_michigan_statutes.py` from legislature.mi.gov (objectName=mcl-600-5701 per-section scheme) | verbatim MCR (ch. 1-4) + MRE — 362 rules / ~1.4 MB via `pull_michigan_rules.py` (courtrules.net mirror; courts.michigan.gov gates its rule-asset URLs) + curated civil-rules / evidence-rules / fees / citation / key-cases / online-sources | shared |
-| `az-court-docs` | verbatim A.R.S. — 12 topic files / ~60 sections via `pull_arizona_statutes.py` from azleg.gov (ungated per-section .htm fragments) | verbatim ARCP + Ariz. R. Evid. + ARFLP + JCRCP — 4 files / ~406 rules via `pull_arizona_rules.py` (courtrules.net mirror; azcourts.gov is Cloudflare-gated) + curated civil-rules / evidence-rules / family-rules / fees / citation / key-cases / online-sources | shared |
-| `claude-legal-federal-laws` | n/a | n/a | **20 federal-debt-laws + 4 UCC + 8 Bankruptcy** |
-| `claude-legal-immigration-laws` | INA = 8 U.S.C. ch 12, 5 subchapters / ~1.6 MB verbatim via `pull_ina.py` (+ INA↔8 USC crosswalk) | 33 CFR parts / ~3.6 MB verbatim via `pull_immigration_cfr.py` (8 CFR DHS ch I + EOIR/BIA ch V + 22 CFR visa/passport); EOIR court-rules corpus (binding 8 CFR 1003/1240/1208 + ICPM / BIA-PM stubs via `pull_eoir_manuals.py`) | n/a — standalone; FAM ~3.6 MB verbatim via `pull_fam.py`; **11-skill self-help layer** (v0.3.0); case law (circuits / BIA / AAO) on-demand per `legal-data-apis.md` |
+| `us-wa-legal-corpus` | 93 RCW chapters / 3,266 sections / ~5.5 MB | 1,233 rules / 35 sets / 4.6 MB | shared (20 + 4 + 8 chapters) |
+| `us-or-legal-corpus` | 35 ORS chapters / 5.6 MB | 7 rule sets / 2.3 MB | shared |
+| `us-ca-legal-corpus` | 32 files (CCP / Civ / Evid / Fam / Prob / Lab / B&P / Fin / Comm) | 9 CRC titles / 17 files | shared |
+| `us-co-legal-corpus` | 14 articles / 2.0 MB | 80 files (72 CJDs + 6 paywall stubs) | shared |
+| `us-in-legal-corpus` | 27 articles incl. full IC 31 family-law coverage (IGA SPA-blocked; stubs + API-key fallback) | 7 rule sets / 2.1 MB | shared |
+| `us-ny-legal-corpus` | 36 NY consolidated-laws targets / ~2.9 MB verbatim via NYSENATE API (CPLR 15 articles + GOB + GBS + RPAPL + RPL + UCC + DRL + FCT + EPT + GCN + BNK) | 20 rule sets via `pull_ny_court_rules.py`: 15 Parts of 22 NYCRR pulled verbatim / ~1.2 MB (Parts 100 / 104 / 125 / 130 / 202 incl. § 202.70 Comm Div / 205 / 206 / 207 / 208 incl. § 208.42 Housing / 210 / 212 / 214 / 216 / 220 / 221) + 5 pointer stubs (Part 1200 Rules of Prof Conduct, Tanbook, NYC Civil Court directives, Nassau / Suffolk DC local rules) | shared |
+| `us-oh-legal-corpus` | 20 R.C. chapters / 1,335 sections / ~2.7 MB verbatim from `codes.ohio.gov` (R.C. Chapter 1 holidays + 1302/1303/1309 UCC + 1345 CSPA + 2151/2305/2329/2333 civil enforcement + 3105/3109/3113/3115/3119/3127 family + 5321/1923 L&T + 1901/1907/1925 court-specific) | 14 rule sets via `pull_ohio_court_rules.py`: Civ. R. + Evid. R. + App. R. + Crim. R. + Juv. R. + Traffic R. + Sup. R. + Sup. Ct. Prac. R. + Prof. Cond. R. + Code of Jud. Cond. + Gov. Bar R. + Gov. Jud. R. + Rep. R. + Court of Claims local rules / ~4.8 MB | shared |
+| `us-tn-legal-corpus` | 25 Tenn. Code Ann. chapters via `pull_tn_statutes.py`; well-formed pointer stubs when Justia 403s the runner | 4 statewide rule sets / ~2.7 MB / 473 rule sub-pages verbatim via `pull_tn_court_rules.py` from tncourts.gov; county local rules as a pointer stub | shared |
+| `us-mi-legal-corpus` | verbatim MCL — 13 topic files / ~70 sections / ~211 KB via `pull_michigan_statutes.py` from legislature.mi.gov (objectName=mcl-600-5701 per-section scheme) | verbatim MCR (ch. 1-4) + MRE — 362 rules / ~1.4 MB via `pull_michigan_rules.py` (courtrules.net mirror; courts.michigan.gov gates its rule-asset URLs) + curated civil-rules / evidence-rules / fees / citation / key-cases / online-sources | shared |
+| `us-az-legal-corpus` | verbatim A.R.S. — 12 topic files / ~60 sections via `pull_arizona_statutes.py` from azleg.gov (ungated per-section .htm fragments) | verbatim ARCP + Ariz. R. Evid. + ARFLP + JCRCP — 4 files / ~406 rules via `pull_arizona_rules.py` (courtrules.net mirror; azcourts.gov is Cloudflare-gated) + curated civil-rules / evidence-rules / family-rules / fees / citation / key-cases / online-sources | shared |
+| `us-federal-debt-corpus` | n/a | n/a | **20 federal-debt-laws + 4 UCC + 8 Bankruptcy** |
+| `us-federal-immigration-corpus` | INA = 8 U.S.C. ch 12, 5 subchapters / ~1.6 MB verbatim via `pull_ina.py` (+ INA↔8 USC crosswalk) | 33 CFR parts / ~3.6 MB verbatim via `pull_immigration_cfr.py` (8 CFR DHS ch I + EOIR/BIA ch V + 22 CFR visa/passport); EOIR court-rules corpus (binding 8 CFR 1003/1240/1208 + ICPM / BIA-PM stubs via `pull_eoir_manuals.py`) | n/a — standalone; FAM ~3.6 MB verbatim via `pull_fam.py`; **11-skill self-help layer** (v0.3.0); case law (circuits / BIA / AAO) on-demand per `legal-data-apis.md` |
 
 ## Repo layout
 
@@ -79,14 +79,14 @@ claude-legal/
 │   ├── lint-skills.yml               # CI: runs lint on every push/PR
 │   └── refresh-references.yml        # Quarterly cron + workflow_dispatch refresh
 ├── plugins/
-│   ├── claude-legal-federal-laws/    # SHARED data-only plugin
+│   ├── us-federal-debt-corpus/    # SHARED data-only plugin
 │   │   ├── .claude-plugin/plugin.json
 │   │   ├── README.md
 │   │   └── references/
 │   │       ├── federal-debt-laws/    # FDCPA, FCRA, TILA, ECOA, EFTA, Garnishment, RESPA, SCRA, FHA, TSR + Reg B/E/F/M/N/P/V/X/Z/DD
 │   │       ├── federal-bankruptcy/   # Title 11 U.S.C. chapters 1, 3, 5, 7, 11, 12, 13, 15
 │   │       └── ucc-model/            # Model UCC Articles 1, 2, 3, 9
-│   ├── claude-legal-immigration-laws/  # SHARED immigration plugin: reference corpora + 11-skill self-help layer (v0.3.0)
+│   ├── us-federal-immigration-corpus/  # SHARED immigration plugin: reference corpora + 11-skill self-help layer (v0.3.0)
 │   │   ├── .claude-plugin/plugin.json
 │   │   ├── skills/                        # 11 venue-independent skills (immigration-pro-se, eoir-immigration-courts, eoir-removal-defense, bia-appeals, circuit-petition-for-review, consular-visa-refusal, …)
 │   │   └── references/
@@ -96,16 +96,16 @@ claude-legal/
 │   │       ├── court-rules/               # EOIR ICPM + BIA Practice Manual stubs (binding rules = 8 CFR 1003/1240/1208)
 │   │       ├── legal-data-apis.md         # on-demand case law: circuits / BIA / AAO
 │   │       └── online-sources.md          # canonical human-facing URLs
-│   ├── wa-court-docs/                # Washington (30 skills — 6 venues incl. wa-family-court + 6 subject bundles: consumer-debt + family-law + landlord-tenant + personal-injury + employment + commercial-disputes)
-│   ├── or-court-docs/                # Oregon (21 skills)
-│   ├── ca-court-docs/                # California (21 skills)
-│   ├── co-court-docs/                # Colorado (22 skills — incl. co-family-law)
-│   ├── in-court-docs/                # Indiana (23 skills — adds in-family-court + in-family-law)
-│   ├── ny-court-docs/                # New York (35 skills — 5 flagship Supreme Court venues + 2 dedicated Long Island District Courts + 2 NYC Civil/Housing Court skills + upstate City Courts + Justice Courts + Family Court + 5 subject bundles)
-│   ├── oh-court-docs/                # Ohio (30 skills — 8 flagship Common Pleas + Common Pleas roll-up + Municipal Court layer + Family Court + 2 subject bundles)
-│   ├── tn-court-docs/                # Tennessee (29 skills — 4 flagship counties + General Sessions + county roll-up + split family/juvenile + 4 subject bundles)
-│   ├── mi-court-docs/                # Michigan (29 skills — Wayne/Oakland Circuit + 36th District + Circuit/District roll-ups + Family Division + 6 subject bundles)
-│   └── az-court-docs/                # Arizona (28 skills — Maricopa/Pima Superior + Justice Courts + Superior-courts roll-up + Family Department + 6 subject bundles)
+│   ├── us-wa-legal-corpus/                # Washington (30 skills — 6 venues incl. wa-family-court + 6 subject bundles: consumer-debt + family-law + landlord-tenant + personal-injury + employment + commercial-disputes)
+│   ├── us-or-legal-corpus/                # Oregon (21 skills)
+│   ├── us-ca-legal-corpus/                # California (21 skills)
+│   ├── us-co-legal-corpus/                # Colorado (22 skills — incl. co-family-law)
+│   ├── us-in-legal-corpus/                # Indiana (23 skills — adds in-family-court + in-family-law)
+│   ├── us-ny-legal-corpus/                # New York (35 skills — 5 flagship Supreme Court venues + 2 dedicated Long Island District Courts + 2 NYC Civil/Housing Court skills + upstate City Courts + Justice Courts + Family Court + 5 subject bundles)
+│   ├── us-oh-legal-corpus/                # Ohio (30 skills — 8 flagship Common Pleas + Common Pleas roll-up + Municipal Court layer + Family Court + 2 subject bundles)
+│   ├── us-tn-legal-corpus/                # Tennessee (29 skills — 4 flagship counties + General Sessions + county roll-up + split family/juvenile + 4 subject bundles)
+│   ├── us-mi-legal-corpus/                # Michigan (29 skills — Wayne/Oakland Circuit + 36th District + Circuit/District roll-ups + Family Division + 6 subject bundles)
+│   └── us-az-legal-corpus/                # Arizona (28 skills — Maricopa/Pima Superior + Justice Courts + Superior-courts roll-up + Family Department + 6 subject bundles)
 └── scripts/                          # Shared marketplace scripts
     ├── lint-skills.py                # Frontmatter + name/dir-match linter
     ├── hooks/pre-commit              # Symlink target for git hook
@@ -141,7 +141,7 @@ Each state plugin's directory mirrors the same shape:
 
 ```
 <state>-court-docs/
-├── .claude-plugin/plugin.json        # declares: dependencies: [claude-legal-federal-laws]
+├── .claude-plugin/plugin.json        # declares: dependencies: [us-federal-debt-corpus]
 ├── skills/                           # 21 SKILL.md files (22 for co with co-family-law)
 │   ├── <state>-statewide-format/     # state's format rule (GR 14 / UTCR 2.010 / CRC 2.100 / C.R.C.P. 10 / T.R. 5(E))
 │   ├── <state>-<primary-court>/      # high-volume court 1
