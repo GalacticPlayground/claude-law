@@ -14,15 +14,30 @@ Applies **C.R.C.P. 10 + Chief Justice Directive 11-01** formatting (two-block ca
 
 Colorado was the first state with two bundles at initial release. **22 SKILL.md files.**
 
-Statute corpus: 14 articles / 2.0 MB (UCC, UCCC, CFDCPA, CCPA, mediation, judgments, exemptions, garnishment, limitations, UDMA, UCCJEA, APA). Court-rules corpus: **80 files** — 72 verbatim Chief Justice Directives (CJDs) including the Jan-2026 statewide eFiling standards, plus pointer stubs for C.R.C.P. / CRE / C.A.R. / Colo. RPC. Those rule sets are **public-domain edicts of the Colorado Supreme Court** (only the West/Lexis *annotated compilations* are copyrighted), but Colorado publishes no free structured copy of the bare rule text — see the court-rules corpus README.
+Statute corpus: 14 articles / 2.0 MB (UCC, UCCC, CFDCPA, CCPA, mediation, judgments, exemptions, garnishment, limitations, UDMA, UCCJEA, APA). Court-rules corpus: **80 files** / 1.3 MB — 72 verbatim Chief Justice Directives (CJDs) including the Jan-2026 statewide eFiling standards, one repeal notice, plus pointer stubs for C.R.C.P. / CRE / C.A.R. / Colo. RPC. Those rule sets are **public-domain edicts of the Colorado Supreme Court** (only the West/Lexis *annotated compilations* are copyrighted), but Colorado publishes no free structured copy of the bare rule text — see the court-rules corpus README.
 
 ## Reference corpora
 
-Under `skills/co-law-references/references/` (each corpus dir has its own README): `co-statutes-debt/`, `court-rules/`, plus the shared federal symlinks.
+Under `references/` (each corpus dir has its own README):
+
+- `co_statutes/` — verbatim selected C.R.S. articles from the official Colorado General Assembly PDFs.
+- `co_court_rules/` — verbatim Chief Justice Directives plus stubs for paywalled consolidated rule sets.
+
+Legacy copies remain under `skills/co-law-references/references/` for existing skill references.
 
 ## Refresh
 
-`scripts/pull_co_statutes.py` · `scripts/pull_co_court_rules.py`. Plugin scripts: `format-check.py` (C.R.C.P. 10 + CJD 11-01) · `case-calendar.py` (C.R.C.P. 6 + C.R.S. § 24-11-101 holidays).
+Use the configured proxy for refreshes:
+
+```bash
+HTTPS_PROXY=http://192.168.8.21:9091 python3 scripts/pull_co_statutes.py \
+  --out plugins/us-co-legal-corpus/references/co_statutes/
+
+HTTPS_PROXY=http://192.168.8.21:9091 python3 scripts/pull_co_court_rules.py \
+  --out plugins/us-co-legal-corpus/references/co_court_rules/
+```
+
+Plugin scripts: `format-check.py` (C.R.C.P. 10 + CJD 11-01) · `case-calendar.py` (C.R.C.P. 6 + C.R.S. § 24-11-101 holidays).
 
 ---
 Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
