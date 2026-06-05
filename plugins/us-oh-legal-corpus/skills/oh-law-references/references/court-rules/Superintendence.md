@@ -1,7 +1,7 @@
 # Ohio Rules of Superintendence (Sup. R.)
 
 > **Source:** https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/Superintendence.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-06-05
 > **Format:** verbatim conversion of the official PDF source
 
 > **NOT LEGAL ADVICE.** Generated content is a drafting aid;
@@ -19,7 +19,8 @@ RULES
  3.02    Presiding Judge Service as Administrative Judge
  4       Designation or Election of Administrative Judge
  4.01    Powers and Duties of Administrative Judge
- 4.02    Modification or Vacation of Administrative Judge Actions
+ 4.02    Restrictions, Limitations, Modification, or Vacation of Administrative Judge
+         Actions
  4.03    Administrative Judge Relief From Case or Trial Duties
  4.04    Administrative Judge Service as Presiding Judge
  5       Local Rules
@@ -54,9 +55,9 @@ RULES
  16.06   Meetings
  16.07   Subcommittees
  16.08   Code of Ethics
- 16.09   Annual Report
 
 RULES
+ 16.09 Annual Report
  16.10 Work Product
  16.11 Budget
  16.12 Compensation
@@ -103,12 +104,12 @@ RULES
          to an Abortion Pursuant to R.C. 2919.121
  24      Notifying Physicians of Affidavits Alleging Abuse Pursuant to R.C. 2919.12
  25      Procedure on Appeals Pursuant to R.C. 2151.85, 2919.121, and 2505.073
- 26      Court Records Management and Retention
 
 RULES
- 26.01 Retention Schedule for the Administrative Records of the Courts
- 26.02 Courts of Appeals — Records Retention Schedule
- 26.03 General, Domestic Relations, and Juvenile Divisions of the Courts of Common
+ 26      Court Records Management and Retention
+ 26.01   Retention Schedule for the Administrative Records of the Courts
+ 26.02   Courts of Appeals — Records Retention Schedule
+ 26.03   General, Domestic Relations, and Juvenile Divisions of the Courts of Common
          Pleas Records Retention Schedule
  26.04 Retention schedule for Court of Common Pleas — Probate Jurisdiction Case
          Files
@@ -152,58 +153,58 @@ RULES
  36.25 Site Review
  36.26 Determination on Final Certification
  36.27 Specialized Docket Title
- 36.28 Maintenance of Certification
 
  RULES
-  36.29    Requests for Technical Assistance
-  36.30    Requests for Extension of Time
-  36.31    Decertification Process
-  36.32    Voluntary Discontinuance of Certification
-  36.33    Magistrate Authority
-  37       Statistical Reports and Information
-  37.01    Courts of Appeals Reports
-  37.02    Courts of Common Pleas Reports
-  37.03    Municipal and County Court Reports
-  37.04    Reporting Standards
-  37.05    RESERVED
-  37.06    Public Access to Submitted Reports and Information
-  37.07    Requests for Additional Information; Accuracy of Reports
-  38       Annual Case Inventory; New Judge Inventory
-  39       Case Time Limits
-  40       Review of Cases; Dismissal; Rulings on Motions and Submitted Cases
-  41       Conflict of Trial Court Assignment Dates, Continuances and Engaged Counsel
-  42       Complex Litigation--Court of Common Pleas
-  43       Case Numbering--Municipal and County Court
-  44       Court Records - Definitions
-  45       Court Records – Public Access
-  46       Court Records - Bulk Distribution
-  47       Court Records – Application, Remedies, and Liability
-  48       Application
-  48.01    Definitions
-  48.02    Appointment of Guardian Ad Litem
-  48.03    Responsibilities of Guardian Ad Litem
-  48.04    Pre-Service Education
-  48.05    Continuing Education
-  48.06    Guardian Ad Litem Reports
-  48.07    Responsibilities of the Court
-  49       Definitions
-  49.01    Establishment of Commercial Docket
-  49.02    Designation or Assignment of Commercial Docket Judges
-  49.03    Termination of Commercial Docket
-  49.04    Commercial Docket Judge Education
-  49.05    Cases Eligible for the Commercial Docket
-  49.06    Cases Not Eligible for the Commercial Docket
-  49.07    Assignment of Case to the Commercial Docket
-  49.08    Review of Transfer to the Commercial Docket
-  49.09    Commercial Docket Judge Workload
-  49.10    Dispute Resolution
-  49.11    Rulings on Motions and Submitted Cases
-  49.12    Commercial Docket Case Disposition Time Guideline
+  36.28   Maintenance of Certification
+  36.29   Requests for Technical Assistance
+  36.30   Requests for Extension of Time
+  36.31   Decertification Process
+  36.32   Voluntary Discontinuance of Certification
+  36.33   Magistrate Authority
+  37      Statistical Reports and Information
+  37.01   Courts of Appeals Reports
+  37.02   Courts of Common Pleas Reports
+  37.03   Municipal and County Court Reports
+  37.04   Reporting Standards
+  37.05   RESERVED
+  37.06   Public Access to Submitted Reports and Information
+  37.07   Requests for Additional Information; Accuracy of Reports
+  38      Annual Case Inventory; New Judge Inventory
+  39      Case Time Limits
+  40      Review of Cases; Dismissal; Rulings on Motions and Submitted Cases
+  41      Conflict of Trial Court Assignment Dates, Continuances and Engaged Counsel
+  42      Complex Litigation--Court of Common Pleas
+  43      Case Numbering--Municipal and County Court
+  44      Court Records - Definitions
+  45      Court Records – Public Access
+  46      Court Records - Bulk Distribution
+  47      Court Records – Application, Remedies, and Liability
+  48      Application
+  48.01   Definitions
+  48.02   Appointment of Guardian Ad Litem
+  48.03   Responsibilities of Guardian Ad Litem
+  48.04   Pre-Service Education
+  48.05   Continuing Education
+  48.06   Guardian Ad Litem Reports
+  48.07   Responsibilities of the Court
+  49      Definitions
+  49.01   Establishment of Commercial Docket
+  49.02   Designation or Assignment of Commercial Docket Judges
+  49.03   Termination of Commercial Docket
+  49.04   Commercial Docket Judge Education
+  49.05   Cases Eligible for the Commercial Docket
+  49.06   Cases Not Eligible for the Commercial Docket
+  49.07   Assignment of Case to the Commercial Docket
+  49.08   Review of Transfer to the Commercial Docket
+  49.09   Commercial Docket Judge Workload
+  49.10   Dispute Resolution
+  49.11   Rulings on Motions and Submitted Cases
+  49.12   Commercial Docket Case Disposition Time Guideline
 
 Probate Division
-   50       Definitions
 
 RULES
+  50       Definitions
   51       Standard Probate Forms
   52       Specifications for Printing Probate Forms
   53       Hours of the Court
@@ -250,9 +251,9 @@ RULES
           Qualified Foreign Language Interpreters
  81.01    Registered Foreign Language Interpreters
  82       Certification for Sign Language Interpreters
- 82.01    Registered Sign Language Interpreters
 
   RULES
+   82.01   Registered Sign Language Interpreters
    83      Revocation of Supreme Court Credentials
    84      Code of Professional Conduct for Court Interpreters and Translators
    85      Continuing Education
@@ -371,63 +372,90 @@ RULE 3.      Designation or Election of Presiding Judge.
 (A)   Single-judge courts
 
       In a single-judge court of common pleas or a single-judge municipal or county court, the
-      judge shall serve as the presiding judge of the court.
+      judge is designated and shall serve as the presiding judge of the court.
 
 (B)   Multi-judge courts
 
-      (1)    In a court of appeals, a multi-judge court of common pleas, or a multi-judge
-      municipal or county court, the judges of the court shall elect by a majority vote a presiding
-      judge of the court from the judges of the court.
+      (1)     In a court of appeals, a multi-judge court of common pleas, or a multi-judge
+      municipal or county court, the judges of the court shall elect by a majority vote the
+      presiding judge of the court from the judges of the court.
 
       (2)     If the judges of a court are unable to elect a presiding judge of the court pursuant to
       division (B)(1) of this rule, the presiding judge shall be determined as follows:
 
-             (a)     The judge having the longest total service on the court shall serve as the
-             presiding judge;
+             (a)     The judge having the longest total service on the court;
 
              (b)    If two or more judges have equal periods of total service on the court, the
-             judge having the longest total service as an Ohio judge shall serve as the presiding
-             judge;
+             judge having the longest total service as an Ohio judge;
 
              (c)    If two or more judges have equal periods of total service as an Ohio judge,
-             the judge having the earliest date of admittance to the practice of law in Ohio shall
-             serve as the presiding judge;
+             the judge having the earliest date of admittance to the practice of law in Ohio;
 
              (d)     If two or more judges were admitted to the practice of law in Ohio on the
              same date, the Chief Justice of the Supreme Court shall designate one of the judges
-             of the court to serve as the presiding judge.
+             of the court.
 
 (C)   Term
 
-      The term of a presiding judge of a court shall be one year, provided that a court may
-      establish by local rule a term of not less than one year and not more than three years. The
-      term of a presiding judge shall begin on January 1st of the year immediately following the
-      designation or election of the presiding judge. A presiding judge may serve consecutive
-      terms.
+      (1)     The term of a presiding judge of a court shall be one year and begin on January 1st
+      of the year immediately following the designation or election of the presiding judge.
 
-(D)   Designation or election date
+      (2)    A presiding judge may serve consecutive terms. A presiding judge of a two or three
+      judge court shall serve no more than two full consecutive terms, except by unanimous vote.
+
+(D)   Death, Resignation, Incapacity, or Ineligibility
+
+      (1)      In the event the presiding judge of a single-judge court dies, resigns, becomes
+      ineligible, or otherwise unable to perform the duties of the office of presiding judge, a
+      sitting or retired judge assigned by the Chief Justice shall serve as the presiding judge until
+      the vacancy is resolved.
+
+      (2)     In the event the presiding judge of a court with two judges dies, resigns, becomes
+      ineligible, or otherwise unable to perform the duties of the office of presiding judge, the
+
+      remaining judge is designated as the successor presiding judge and shall serve until the
+      inability or ineligibility resolves or the balance of the term, whichever occurs first.
+
+      (3)     In the event the presiding judge of a court with three or more judges dies, resigns,
+      becomes ineligible, or otherwise unable to perform the duties of the office of presiding
+      judge, a successor presiding judge shall be elected pursuant to division (B) of this rule
+      within fifteen days and shall serve until the inability or ineligibility resolves or the balance
+      of the term, whichever occurs first.
+
+(E)   Designation or election date
 
       The designation or election of a presiding judge of a court shall occur on or before
       December 31st of the year preceding the term.
 
-(E)   Notification of designation or election
+(F)   Notification of designation or election
 
-      A presiding judge of a court shall notify the Administrative Director of the Supreme Court
-      of judge’s designation or election as the presiding judge by January 15th of the year of the
-      term.
+      (1)     A presiding judge of a court shall notify the Administrative Director of the Supreme
+      Court of a judge’s designation or election as the presiding judge by January 15th of the
+      year of the term.
+
+      (2)    A presiding judge of a court shall notify the Administrative Director of the Supreme
+      Court of a judge’s mid-term designation or election as the presiding judge within three
+      business days of the designation or election.
 
 RULE 3.01.         Powers and Duties of Presiding Judge.
 
-In addition to the powers and duties set forth in the Revised Code that do not conflict with the
+In addition to the powers and duties set forth in the Ohio Constitution, Revised Code, the rules
+promulgated by the Supreme Court of Ohio, or local rules of the court that do not conflict with the
 powers and duties of the administrative judge of a court or division of a court set forth in Sup.R.
 4.01, a presiding judge of a court shall do all of the following:
 
-       (A)      Call and conduct an annual meeting, and other meetings as necessary, of the judges
+       (A)     Call and conduct an annual meeting, and other meetings as necessary, of the judges
        of the court for the purpose of discussing and resolving administrative problems common
-       to all divisions of the court;
+       to all divisions of the court. In the event the judges are unable to resolve administrative
+       problems, the presiding judge shall consider referring the matter to the Government
+       Conflict Resolution Services Program established under Sup.R. 16.40.
 
        (B)     Assign judges of the court on a temporary basis to serve in another division of the
        court as required by the business of the court.
+
+       (C)     Perform any other duties as required by the Ohio Constitution, Revised Code, the
+       rules promulgated by the Supreme Court of Ohio, local rules of the court or division, or the
+       Chief Justice.
 
 RULE 3.02.          Presiding Judge Service as Administrative Judge.
 
@@ -438,8 +466,8 @@ RULE 4.      Designation or Election of Administrative Judge.
 
 (A)   Single-judge courts and divisions
 
-      The judge of the following courts and divisions shall serve as the administrative judge of
-      that court or division:
+      The judge of the following courts and divisions of courts is designated and shall serve as
+      the administrative judge of that court or division:
 
              (1)     A single-judge court of common pleas;
 
@@ -453,8 +481,14 @@ RULE 4.      Designation or Election of Administrative Judge.
 
 (B)   Multi-judge courts and divisions
 
-      (1)    The judges of the following courts and divisions shall elect by a majority vote of
-      the judges of that court or division an administrative judge of the court or division:
+      (1)     In multi-judge courts or division, a judge must have served as an Ohio judge for
+      two (2) years in that court or division prior to being eligible to be elected as administrative
+      judge, except by majority vote.
+
+      (2)     Except as provided in R.C. 2301.03 and subject to the term limits provided in
+      division (C)(2) of this rule, the judges of the following courts and divisions shall elect by
+      a majority vote of the judges of that court or division an administrative judge of the court
+      or division:
 
              (a)     A court of appeals;
 
@@ -468,103 +502,244 @@ RULE 4.      Designation or Election of Administrative Judge.
 
              (f)     A multi-judge county court.
 
-      (2)    If the judges of a court or division are unable to elect an administrative judge of the
-      court or division pursuant to division (B)(1) of this rule, the administrative judge shall be
-      determined as follows:
+      (3)     In courts or divisions of two or three judges, if the judges are unable to elect an
+      administrative judge of the court or division pursuant to division (B)(1) and (B)(2) of this
+      rule, the administrative judge shall be determined by an order of rotation pursuant to
+      divisions (B)(4)(a) through (d) of this rule, commencing with the judge who is not currently
+      serving as administrative judge and subject to term limits provided in division (C)(2) of
+      this rule.
 
-             (a)     The judge of the court or division having the longest total service on the
-             court or in the division shall serve as the administrative judge;
+      (4)    In courts or divisions of four or more judges, if the judges are unable to elect an
+      administrative judge of the court or division pursuant to division (B)(1) of this rule, the
+      administrative judge shall be determined as follows:
 
-             (b)     If two or more judges have equal periods of total service on the court or in
-             the division, the judge of the court or division having the longest total service as an
-             Ohio judge shall serve as the administrative judge;
+             (a)     The judge having the longest total service on that court or in that division;
+
+             (b)     If two or more judges have equal periods of total service on that court or in
+             that division, the judge having the longest total service as an Ohio judge;
 
              (c)     If two or more judges have equal periods of total service as an Ohio judge,
-             the judge of the court or division having the earliest date of admittance to the
-             practice of law in Ohio shall serve as the administrative judge;
+             the judge of that court or in that division having the earliest date of admittance to
+             the practice of law in Ohio;
 
-             (d)     If two or more judges were admitted to the practice of law in Ohio on the
-             same date, the Chief Justice of the Supreme Court, for courts of appeals or multi-
-             judge municipal and county courts, or the presiding judge of the court of common
-             pleas, for multi-judge divisions of courts of common pleas, shall designate one of
-             the judges of the court or division to serve as the administrative judge.
+             (d)   If two or more judges were admitted to the practice of law in Ohio on the
+             same date, as follows:
+
+                     (i)    For courts of appeals or multi-judge municipal and county courts,
+                     the Chief Justice of the Supreme Court of Ohio shall designate one of the
+                     judges of the court or division;
+
+                     (ii)   For multi-judge divisions of court of common pleas, the presiding
+                     judge of the court shall designate one of the judges of the court or division.
 
 (C)   Term
 
-      The term of an administrative judge of a court or division shall be one year, provided that
-      a court or division may establish by local rule of that court or division a term of not less
-      than one year and not more than three years. The term of an administrative judge shall
-      begin on January 1st of the year immediately following the designation or election of the
-      administrative judge. An administrative judge may serve consecutive terms.
+      (1)     There shall be no term limit of an administrative judge of a single-judge court or
+      division.
 
-(D)   Designation or election date
+      (2)    In multi-judge courts or divisions, except as provided in R.C. 2301.03, the term of
+      an administrative judge of a court or division shall be six years unless otherwise agreed
+      and begin on January 1st of the year immediately following the designation or election of
+      the administrative judge.
 
-      The designation or election of an administrative judge of a court or division shall occur on
-      or before December 31st of the year preceding the term.
+             (a)     An administrative judge may serve consecutive terms.
 
-(E)   Notice of designation or election
+             (b)    An administrative judge of a multi-judge court or division with three or
+             fewer judges shall serve no more than one full term, except by unanimous vote.
 
-      An administrative judge of a court or division shall notify the Administrative Director of
-      the Supreme Court of the judge’s designation or election as the administrative judge by
-      January 15th of the year of the term.
+             (c)    An administrative judge of a multi-judge court or division with four or more
+             judges shall serve no more than one full term, except by majority vote.
 
-RULE 4.01.           Powers and Duties of Administrative Judge.
+(D)   Death, resignation, incapacity, or ineligibility
 
-An administrative judge of a court or a division of a court shall do all of the following:
+      (1)     In the event the administrative judge of a single-judge court or division dies,
+      resigns, becomes ineligible, or otherwise unable to perform the duties of the office of
 
-       (A)    Be responsible for and exercise control over the administration, docket, and
-       calendar of the court or division;
+        administrative judge, a sitting or retired judge assigned by the Chief Justice shall serve as
+        the administrative judge until the vacancy is resolved.
 
-       (B)    Be responsible to the Chief Justice of the Supreme Court in the discharge of the
-       administrative judge’s duties, for the observance of the Rules of Superintendence for the
-       Courts of Ohio, and for the termination of all cases in the court or division without undue
-       delay and in accordance with the time guidelines set forth in Sup.R. 39;
+        (2)     In the event the administrative judge of a court or division with two judges dies,
+        resigns, becomes ineligible, or otherwise unable to perform the duties of the office of
+        administrative judge, the remaining judge is designated as the successor administrative
+        judge and shall serve until the inability or ineligibility resolves or the balance of the term,
+        whichever occurs first.
 
-       (C)    Pursuant to Sup.R. 36, assign cases to individual judges of the court or division or
-       to panels of judges of the court in the court of appeals;
+        (3)     In the event the administrative judge of a court or division with three or more judges
+        dies, resigns, becomes ineligible, or otherwise unable to perform the duties of the office of
+        administrative judge, a successor administrative judge shall be elected pursuant to division
+        (B) of this rule within fifteen days and shall serve until the inability or ineligibility resolves
+        or the balance of the term, whichever occurs first.
 
-       (D)    In municipal and county courts, assign cases to particular sessions pursuant to
-       Sup.R. 36;
+(E)     Designation or election date
 
-       (E)    Require timely and accurate reports from each judge of the court or division
-       concerning the status of individually assigned cases and from judges and court personnel
-       concerning cases assigned to particular sessions;
+        Except as provided in R.C. 2301.03, the designation or election of an administrative judge
+        of a court or division shall occur on or before December 31st of the year preceding the term
+        that begins on January 1.
 
-       (F)    Timely file all administrative judge reports required by the Case Management
-       Section of the Supreme Court;
+(F)     Notice of designation or election
 
-       (G)     Develop accounting and auditing systems within the court or division and the office
-       of the clerk of the court that ensure the accuracy and completeness of all required reports;
+        (1)    An administrative judge of a court or division shall notify the Administrative
+        Director of the Supreme Court of Ohio of the judge’s designation or election as the
+        administrative judge by January 15th of the year of the term.
 
-       (H)     Request, as necessary, the assignment of judges to the court or division by the Chief
-       Justice or the presiding judge of the court;
+        (2)     An administrative judge of a court shall notify the Administrative Director and
+        Judicial Assignment Analyst of the Supreme Court of Ohio of a judge’s mid-term
+        designation or election as the administrative judge within three business days of the
+        designation or election.
 
-       (I)     Administer personnel policies established by the court or division;
+                                            Commentary (June 4, 2026)
 
-       (J)     Pursuant to Sup.R. 19(B), notify the Office of Attorney Services of the Supreme
-       Court of the appointment or termination of appointment of a magistrate of the court or
-       division;
+         In Ohio, the structure of the courts is governed by both the Ohio Constitution and the Revised Code.
+Article IV, Section 1 of the Ohio Constitution establishes the Supreme Court of Ohio, the courts of appeals,
+and the courts of common pleas. Meanwhile, the Revised Code establishes municipal courts (R.C.
+1901.01) and county courts (R.C. 1907.01).
 
-       (K)     Perform other duties as required by the Revised Code, the Rules of Superintendence
-       of the Courts of Ohio, local rules of the court or division, or the Chief Justice;
+         The Revised Code also delineates the divisions within the courts of common pleas and some
+municipal courts. R.C. 2301.03 generally creates the general, domestic relations, juvenile, and probate
+divisions for the courts of common pleas, though it allows for various combinations of these divisions in
+specific courts. R.C. 1901.011 establishes a housing division in the Cleveland and Toledo Municipal Courts
+and an environmental division in the Franklin County Municipal Court.
 
-       (L)    Perform any other duties in furtherance of the responsibilities of the administrative
-       judge.
+         Therefore, when electing or designating an administrative judge, it is crucial to consult the relevant
+sections of the Revised Code to understand the court’s structure and determine if it includes multiple
+divisions and, if so, the specific structure of those divisions.
 
-RULE 4.02.         Modification or Vacation of Administrative Judge Actions.
+        In courts and divisions with multiple judges, the rule prioritizes elections by majority vote to ensure
+that the administrative judge reflects the collective confidence of the bench. However, recognizing that
+consensus may not always be achievable, particularly in courts with only three or fewer judges, the rule
+provides a rotation mechanism to prevent deadlocks and ensure equitable distribution of administrative
+responsibilities. This rotation begins with the judge not currently serving and is subject to term limits,
+promoting shared leadership and reducing the potential for prolonged concentration of authority.
 
-The judges of a court or a division of a court, by majority vote, may modify or vacate the actions
-of the administrative judge of the court or division.
+RULE 4.01.         Powers and Duties of Administrative Judge.
+
+(A)   Compliance
+
+      (1)   All first-time administrative judges shall complete the Administrative Judge
+      Fundamentals course offered by the Supreme Court of Ohio Judge College.
+
+      (2)     An administrative judge of a court or division shall be responsible to the Chief
+      Justice of the Supreme Court of Ohio for the compliance by the court or division with the
+      requirements of the Ohio Constitution, Revised Code, and rules promulgated by the
+      Supreme Court.
+
+(B)   Powers and duties
+
+      An administrative judge of a court or division shall do all of the following:
+
+             (1)    Be responsible for and exercise control over the administration, docket, and
+             calendar of the court or division while taking into consideration the opinions and
+             concerns of judicial colleagues in the court or division pursuant to Sup.R. 4.02;
+
+             (2)     Pursuant to Sup.R. 39, ensure the timely and accurate termination of all
+             cases in the court or division without undue delay and in accordance with the time
+             guidelines;
+
+             (3)     Pursuant to Sup.R. 40, ensure the timely and accurate processing of all
+             cases, including those heard by assigned judges;
+
+             (4)    Pursuant to Sup.R. 41, undertake corrective actions regarding the use of
+             excessive continuances or extensions and report, as necessary, to the Case
+             Management Section of the Supreme Court of Ohio;
+
+             (5)     Pursuant to Sup.R. 36.011 through 36.013 and 36.020, assign cases to
+             individual judges of the court or division or to panels of judges of the court in the
+             court of appeals;
+
+             (6)    Pursuant to Sup.R. 36.014, assign cases to particular sessions in municipal
+             and county courts;
+
+             (7)    Require timely and accurate reports from each judge of the court or division
+             concerning the status of individually assigned cases and from judges and court
+             personnel concerning cases assigned to particular sessions;
+
+             (8)     Pursuant to Sup.R. 37.01 through 37.03, timely file all administrative judge
+             reports required by the Case Management Section of the Supreme Court of Ohio;
+
+(9)     Develop accounting and auditing systems within the court or division and
+the office of the clerk of the court that ensure the accuracy and completeness of all
+required reports;
+
+(10) Request, as necessary, the assignment of judges to the court or division by
+the Chief Justice or, if applicable, the presiding judge of the court pursuant to
+Sup.R. 3.01(B);
+
+(11) Administer personnel policies established by the court or division after
+consultation with judicial colleagues in the court or division pursuant to Sup.R.
+4.02;
+
+(12) Pursuant to Sup.R. 19(B), notify the Office of Attorney Services of the
+Supreme Court of Ohio of the appointment or termination of appointment of a
+magistrate of the court or division;
+
+(13) Pursuant to Gov.Jud.R. IV(5), ensure all acting judges and magistrates are
+registered with the Secretary of the Supreme Court of Ohio Commission on
+Continuing Legal Education and complete the required credit hours of continuing
+legal education for each biennial period;
+
+(14) On or before the 15th day of January of each year, file with the
+Administrative Director of the Supreme Court of Ohio an email address to be used
+by the Supreme Court in communicating official notifications to the clerk of the
+court or division, as applicable;
+
+(15)   Pursuant to Sup.R. 5, ensure the timely filing of a local rule of practice;
+
+(16) Pursuant to R.C. 117.103, ensure all required employees complete the
+auditor of state fraud training;
+
+(17) Pursuant to R.C. 2929.021, collaborate with the clerk of the court for timely
+notice of an indictment or dismissal of the indictment to the clerk of the Supreme
+Court of Ohio;
+
+(18) Pursuant to Sup.R. 5, develop and administer the following operational
+plans:
+
+       (a)     A case management plan in accordance with Sup.R. 5(D)(1);
+
+       (b)    A jury management plan, if applicable, in accordance with Sup.R.
+       5(D)(2);
+
+       (c)     A technology plan in accordance with Sup.R. 5(E);
+
+       (d)     A reporting plan, if applicable, in accordance with Sup.R. 5(F);
+
+(19)   Pursuant to Sup.R. 88(J), develop and administer a language access plan;
+
+(20) Perform other duties as required by the Ohio Constitution, Revised Code,
+the Rules of Superintendence for the Courts of Ohio, local rules of the court or
+division, or the Chief Justice;
+
+(21) Perform any other duties in furtherance of the responsibilities of the
+administrative judge.
+
+RULE 4.02.          Restrictions, Limitations, Modification, or Vacation of Administrative
+Judge Actions.
+
+(A)     In a multi-judge court or division of a court, the administrative judge has no authority over
+personal, fiduciary, or confidential judicial staff of individual judges, except in instances where
+budgetary, operational, or professional conduct affecting the court or division as a whole compel
+the intervention of the administrative judge.
+
+(B)    In a multi-judge court or division of a court, the administrative judge shall not terminate
+any staff shared by the court or division without taking into consideration the opinions and
+concerns of judicial colleagues, except in instances where budgetary, operational, or professional
+conduct affecting the court or division as a whole compel the intervention of the administrative
+judge.
+
+(C)    The judges of a multi-judge court or division of a court, by majority vote, may modify or
+vacate the actions of the administrative judge of the court or division. In the event of a tie, the
+judges may utilize the Government Conflict Resolution Services Program of the Supreme Court
+of Ohio.
 
 RULE 4.03.           Administrative Judge Relief From Case or Trial Duties.
 
 By local rule of the court or a division of the court, the administrative judge of a court or division
-may be relieved of a portion of the judge’s case or trial duties in order to manage the calendar and
-docket of the court or division.
+may be relieved of a portion of the judge’s case or trial duties to manage the calendar and docket
+of the court or division.
 
-RULE 4.04.           Administrative Judge Service as Presiding Judge.
+RULE 4.04.          Administrative Judge Service as Presiding Judge.
 
-An administrative judge of a court or a division of the court may serve as a presiding judge pursuant
+An administrative judge of a court or division of a court may serve as a presiding judge pursuant
 to Sup.R. 3.
 
 RULE 5.       Local Rules.
@@ -687,7 +862,7 @@ RULE 5.       Local Rules.
 
                                          Commentary (July 1, 1997)
 
-         This rule consolidates several former provisions relating to the adoption of local rules of court.
+          This rule consolidates several former provisions relating to the adoption of local rules of court.
 Division (A)(1) recognizes the rule-making authority granted to local courts by Article IV, Section 5(B) of the
 Ohio Constitution. Division (A)(2) incorporates provisions of the rules of practice and procedure adopted
 by the Supreme Court that mandate notice and an opportunity to comment prior to the adoption of local
@@ -779,7 +954,7 @@ RULE 8.      Court Appointments.
              “appointment” does not include the selection by a court or judicial officer of the
              following:
 
-                     (a)    An acting judge pursuant to R.C. 1901.121(A)(2)(a), (B)(1), or
+                     (a)     An acting judge pursuant to R.C. 1901.121(A)(2)(a), (B)(1), or
                      (C)(1) or R.C. 1907.141(A)(2)(a), (B)(1), or (C)(1);
 
                      (b)      A receiver pursuant to R.C. 2735.01;
@@ -970,15 +1145,15 @@ RULE 10.      Notification Regarding Criminal or Civil Protection Orders.
       to R.C. 2151.34, 2903.213, 2903.214, 2919.26, or 3113.31 or a no contact order in
       accordance to 18 U.S.C. 2266(5), the court shall do both of the following:
 
-             (1)     Follow the instructions in “Form 10-B” for thorough and accurate
-             completion of a form that is substantially similar to “Form 10-A” and to facilitate
-             the correct entry of the order or agreement into the “National Crime Information
-             Center” database;
+              (1)     Follow the instructions in “Form 10-B” for thorough and accurate
+              completion of a form that is substantially similar to “Form 10-A” and to facilitate
+              the correct entry of the order or agreement into the “National Crime Information
+              Center” database;
 
-             (2)     Send a completed form that is substantially similar to “Form 10-A” and a
-             copy of the order or agreement to the local law enforcement agency for entry of the
-             order or agreement into the “National Crime Information Center Protection Order
-             File” and to facilitate nationwide enforcement of the order or agreement.
+              (2)     Send a completed form that is substantially similar to “Form 10-A” and a
+              copy of the order or agreement to the local law enforcement agency for entry of the
+              order or agreement into the “National Crime Information Center Protection Order
+              File” and to facilitate nationwide enforcement of the order or agreement.
 
 (B)   Protection order notification
 
@@ -8077,7 +8252,7 @@ RULE 12.     Recording, Broadcasting, and Photographing Court Proceedings.
       provided that, if the normal lighting in the courtroom can be improved without becoming
       obtrusive, the judge may permit modification.
 
-        (3)    For audio recording or broadcast purposes, not more than one audio system shall
+        (3)     For audio recording or broadcast purposes, not more than one audio system shall
         be permitted in the courtroom. Where available and suitable, existing audio pickup systems
         in the court facility shall be used. If existing audio pickup systems are not available,
         microphones and other electronic equipment necessary for the audio pickup shall be as
@@ -8341,7 +8516,7 @@ Crim. R. 15(E).
 
         Rule 13(A)(2) Notice
 
-          Civ. R. 30(B)(3) provides that the notice must specify the manner of recording, preserving, and
+           Civ. R. 30(B)(3) provides that the notice must specify the manner of recording, preserving, and
 filing of the deposition taken by other than stenographic means. A complete statement of notice would be
 lengthy, serve no useful purpose, refer to procedures within the control of the court, and not be uniform.
 Division (A) specifies the manner of recording, preserving and filing; thus it is necessary in the notice to
@@ -8460,7 +8635,7 @@ suppression.
 
         Rule 13(A)(13) Storage
 
-        The provision is necessitated by Civ. R. 30(B)(3), which requires the notice to contain information
+         The provision is necessitated by Civ. R. 30(B)(3), which requires the notice to contain information
 as to the method of preserving the recording. Rule 12(A)(2) permits compliance by a reference to Civ. R.
 30(B)(3).
 
@@ -8544,7 +8719,7 @@ reasons expressed in the comment to division (D), the expense of the playback of
 general expense of the court not allocable as costs to the parties. All other expenses are costs to be
 charged or allocated as provided by law.
 
-        Rule 13(B)(4) Objections
+         Rule 13(B)(4) Objections
 
          The procedure differs significantly from the provision for objections relative to depositions as set
 forth in division (A). In a Civ. R. 40 proceeding, all objections must be ruled upon in advance of trial and
@@ -8553,7 +8728,7 @@ is not known upon the completion of the recording of all of the evidence. The vi
 the jury must exclude all nonadmissible testimony. The method of editing may be the creation of a second
 videotape or the suppression of the audio, or audio and video, relating to inadmissible evidence.
 
-        Rule 13(B)(5) Presence of counsel and trial judge
+         Rule 13(B)(5) Presence of counsel and trial judge
 
        The provision clarifies the practice and answers the questions as to the obligations of the judge
 and counsel during the playing of the testimony.
@@ -8894,7 +9069,7 @@ RULE 16.02.          Membership.
              (14) One member nominated by the President of the Ohio Mediation
              Association;
 
-             (15)      One at-large member.
+             (15)    One at-large member.
 
 (B)   Nominations
 
@@ -9862,7 +10037,7 @@ RULE 16.54.        Responsibilities of Court.
               (1)     Establish screening procedures for the capacity of parties to participate in
               neutral evaluation;
 
-              (2)    Establish procedures for monitoring and evaluating neutral evaluation to
+              (2)     Establish procedures for monitoring and evaluating neutral evaluation to
               ensure the quality of the evaluators and programs to which cases are referred;
 
               (3)     Develop a process and designate a person for accepting and considering
@@ -10144,7 +10319,7 @@ RULE 16.65.        Responsibilities of Court.
       and the requirements of Sup.R. 16.60 through 16.66 are met, a court of common pleas or
       division of a court that elects to use parenting coordination shall do all of the following:
 
-              (1)    Establish screening procedures for the capacity of the parties to participate
+              (1)     Establish screening procedures for the capacity of the parties to participate
               in parenting coordination;
 
               (2)    Establish procedures for monitoring and evaluating parenting coordination
@@ -10214,7 +10389,7 @@ RULE 16.65.        Responsibilities of Court.
              (7)    Addresses other provisions as the court considers necessary and
              appropriate;
 
-             (8)    Orders the parties to contact the parenting coordinator within the time
+             (8)     Orders the parties to contact the parenting coordinator within the time
              period specified by the court.
 
 RULE 16.66.         Public Access.
@@ -10542,11 +10717,11 @@ I swear or affirm that:
 5.        ___ I am sufficiently mature and well enough informed to intelligently decide whether to have an
               abortion without the notification of my parent, guardian, or custodian.
 
-          ___ One or both of my parents, my guardian, or my custodian has engaged in a pattern of physical,
+___       One or both of my parents, my guardian, or my custodian has engaged in a pattern of physical,
                sexual, or emotional abuse against me.
 
-          ___ Notification of my parent, guardian, or custodian of my desire to have an abortion is not in
-              my best interest.
+___       Notification of my parent, guardian, or custodian of my desire to have an abortion is not in my best
+                interest.
 
 [CHECK ONE OF THE FOLLOWING STATEMENTS.]
 
@@ -11014,7 +11189,7 @@ Consent to an Abortion Pursuant to R.C. 2919.121.
 
    6.      ___      I do not have a lawyer and ask that the court appoint a lawyer free of charge.
 
-           ___      I have a lawyer. The name, address, and telephone number of my lawyer are:
+   ___     I have a lawyer. The name, address, and telephone number of my lawyer are:
 
            Lawyer’s Name:                   ________________________________________
            Lawyer’s Address:                ________________________________________
@@ -11148,17 +11323,17 @@ on page 2.
 
 In re petition of Jane Doe                                                 Case No.___________
                                          JUDGMENT
-        This matter came on for hearing on the _____ day of __________, ______. Based upon
+         This matter came on for hearing on the _____ day of __________, ______. Based upon
 the testimony and evidence presented, this court finds:
 
 1.     The court:
 
        _____ Has jurisdiction over the petition.
 
-       _____ Does not have jurisdiction over the petition for the following reasons:
-             __________________________________________________________________
-             __________________________________________________________________
-             _________________________________________________________________.
+      _____ Does not have jurisdiction over the petition for the following reasons:
+__________________________________________________________________
+            __________________________________________________________________
+            _________________________________________________________________.
 
 2.     _____ The petitioner is an unemancipated minor.
 
@@ -11305,8 +11480,8 @@ I, ____________________________________________, being duly sworn, state as foll
 3.     I request instead that notice of my intention to have the abortion be given to one of the
        following [Select One]:
 
-       a.     ________________________________, a brother or sister 21 years of
-              Name                              age or older or,
+       a.   ________________________________, a brother or sister 21 years of
+       Name age or older or,
 
        b.     ________________________________, a stepparent or grandparent.
               Name
@@ -11425,11 +11600,11 @@ public if you want to complete the forms in the clerk’s office.
 
        4. Unemancipated, which means that any of the following apply:
 
-           • You have not entered the armed forces of the United States;
+       • You have not entered the armed forces of the United States;
 
-           • You do not have a job and support yourself;
+       • You do not have a job and support yourself;
 
-           • You are under the care and control of a parent, guardian, or custodian.
+       • You are under the care and control of a parent, guardian, or custodian.
 
        5. You fear, based on events that have happened in the past, physical, sexual, or severe
           emotional abuse if notice of the abortion is given to a parent, guardian, or custodian.
@@ -11504,7 +11679,7 @@ RULE 25.      Procedure on Appeals Pursuant to R.C. 2151.85, 2919.121, and 2505.
 
 (B)   General rule of expedition.
 
-      (1)    If a complainant or petitioner files a notice of appeal on the same day on which the
+      (1)     If a complainant or petitioner files a notice of appeal on the same day on which the
       juvenile court denies or dismisses her complaint or petition, the entire court process,
       including the court hearing, appeal, and decision, shall be completed in sixteen calendar
       days from the time the complaint or petition was filed.
@@ -11667,7 +11842,7 @@ RULE 26.     Court Records Management and Retention.
              (3)     “Case file” means the compendium of case documents filed in a judicial
              action or proceeding.
 
-             (4)    “Court” means courts of appeal; all common pleas courts and divisions,
+             (4)     “Court” means courts of appeal; all common pleas courts and divisions,
              including, but not limited to, general, domestic relations, juvenile, family, probate,
              or any combined divisions; and municipal and county courts.
 
@@ -12178,7 +12353,7 @@ Case Files.
              The probate division shall maintain an administrative journal for orders, entries, or
              judgments, including the following:
 
-                     (a)    Orders of appointment and oaths of office pursuant to R.C. 2101.11
+                     (a)     Orders of appointment and oaths of office pursuant to R.C. 2101.11
                      of court personnel and other nonfiduciary appointees;
 
                      (b)     Orders of reference to magistrates;
@@ -12386,7 +12561,7 @@ RULE 26.06.         Destruction of Court Records.
       26.05, exhibits may be destroyed at the conclusion of litigation, including times for direct
       appeal, if all of the following conditions are satisfied:
 
-              (a)    The party who tendered the exhibits is notified in writing, at their last known
+              (a)     The party who tendered the exhibits is notified in writing, at their last known
               address, that the party may retrieve exhibits, depositions, or transcripts within sixty
               days from the date of the written notification;
 
@@ -12895,9 +13070,9 @@ RULE 36.04.        Membership.
              (16) One member who shall be a juvenile probation officer nominated by the
              President of the Ohio Chief Probation Officers Association;
 
-             (17)      One program coordinator;
+             (17)    One program coordinator;
 
-             (18)      Two at-large members.
+             (18)    Two at-large members.
 
 (B)   Nominations
 
@@ -13838,7 +14013,7 @@ judge. Cases that have been on the docket for six months without any proceedings
 case, except cases awaiting trial assignment, shall be dismissed, after notice to counsel of record,
 for want of prosecution, unless good cause be shown to the contrary.
 
-       (2)     All cases submitted for determination after a court trial shall be decided within
+        (2)    All cases submitted for determination after a court trial shall be decided within
 ninety days from the date the case was submitted.
 
        (3)    All motions shall be ruled upon within one hundred twenty days from the date the
@@ -13991,7 +14166,7 @@ the court may require counsel to obtain the consent of the client and provide no
 parties to the action. The court may deny the requested continuance if either or both of the
 following apply:
 
-       (a)     Counsel has been granted prior continuances in the same case based on attendance
+        (a)    Counsel has been granted prior continuances in the same case based on attendance
 at scheduled voting sessions or committee meetings of the General Assembly;
 
        (b)      The court determines that further delay in the proceeding would result in substantial
@@ -14029,7 +14204,7 @@ by the party requesting the continuance, as well as their counsel. The requireme
 signed by the party may be waived by the trial judge, for good cause. If a continuance is granted, the court
 shall, at that time, reset the trial or hearing for a definite date.
 
-       If a continuance is requested because of the unavailability of a witness, the court is required to
+        If a continuance is requested because of the unavailability of a witness, the court is required to
 consider the feasibility of recording testimony as permitted by Civ. R. 30(B).
 
         The standards relating to court delay reduction adopted by the American Bar Association focus, to
@@ -14143,7 +14318,7 @@ court rule.
        (B)      Multiple defendants or charges in criminal cases. (1) In criminal cases,
 including traffic cases, all defendants shall be assigned separate case numbers.
 
-        (2)    Where a defendant is charged with a misdemeanor and a traffic offense, the
+        (2)     Where a defendant is charged with a misdemeanor and a traffic offense, the
 defendant shall be assigned separate case numbers pursuant to Sup. R. 37.04(C). The category
 selected for the case number and its case type designator shall be that of the offense having the
 greatest potential penalty.
@@ -14640,7 +14815,7 @@ RULE 47.     Court Records – Application, Remedies, and Liability.
       documents in actions commenced prior to July 1, 2009, shall be governed by federal and
       state law.
 
-      (2)   The provisions of Sup.R. 44 through 47 restricting public access to administrative
+      (2)  The provisions of Sup.R. 44 through 47 restricting public access to administrative
       documents shall apply to all documents regardless of when created.
 
       (3)    The provisions of Sup.R. 44(C)(2)(h) restricting public access to certain case
@@ -14747,7 +14922,7 @@ RULE 48.02.      Appointment of Guardian Ad Litem.
       A court shall appoint a guardian ad litem in abuse, neglect, dependency, unruly, and
       delinquency cases as required by rule or statute.
 
-(D)    Separate appointments in abuse, neglect, dependency, unruly, and delinquency cases
+(D)   Separate appointments in abuse, neglect, dependency, unruly, and delinquency cases
 and cases of conflict
 
       (1)   A court shall appoint a separate attorney to represent a child in abuse, neglect,
@@ -14778,20 +14953,20 @@ unruly, and delinquency cases
       court should consider all of the circumstances of the case, including but not limited to all
       of the following factors:
 
-              (1)     Allegations of abuse and neglect of the child;
+             (1)     Allegations of abuse and neglect of the child;
 
-              (2)    Consideration of extraordinary remedies, such as supervised visitation,
-              terminating or suspending parenting time, or awarding custody or visitation to a
-              non-parent;
+             (2)    Consideration of extraordinary remedies, such as supervised visitation,
+             terminating or suspending parenting time, or awarding custody or visitation to a
+             non-parent;
 
-              (3)     Relocation that could substantially reduce the time of a child with a parent
-              or sibling;
+             (3)     Relocation that could substantially reduce the time of a child with a parent
+             or sibling;
 
-              (4)     The wishes and concerns of the child;
+             (4)     The wishes and concerns of the child;
 
-             (5)      Harm to the child from drug or alcohol abuse by the party;
+             (5)     Harm to the child from drug or alcohol abuse by the party;
 
-             (6)      Past or present child abduction or risk of future abduction;
+             (6)     Past or present child abduction or risk of future abduction;
 
               (7)     Past or present family violence;
 
@@ -14875,7 +15050,7 @@ and responsibilities
              (b)   Enforce the payment of fees and expenses of the guardian ad litem through
              contempt of court proceedings;
 
-             (c)   Enforce any order regarding the payment of guardian ad litem fees and
+             (c)    Enforce any order regarding the payment of guardian ad litem fees and
              expenses in any other manner authorized by law.
 
       (2)     A court shall not delay or dismiss a proceeding solely because of the failure of a
@@ -15148,7 +15323,7 @@ reports
       requesting a change in disposition. The court may alter the seven-day period as may be
       necessary for the administration of justice.
 
-      (2)    A court shall review all guardian ad litem reports, written or oral, to ensure that the
+      (2)     A court shall review all guardian ad litem reports, written or oral, to ensure that the
       guardian ad litem has performed those responsibilities required by R.C. 2151.281.
 
 (C)   Guardian ad litem reports in allocation of parental rights and responsibilities cases
@@ -15769,7 +15944,7 @@ bold face type is expressly indicated on a standard form in Sup. R. 51.
 
         (d)    The form number and repeat of the main heading at the foot of the first page;
 
-        (e)      Any matter not covered in division (D)(3)(a) to (d) of this rule, for which the use
+         (e)     Any matter not covered in division (D)(3)(a) to (d) of this rule, for which the use
 of all capital letters is expressly indicated on a standard form in Sup. R. 51.
 
         (E)    Type sizes.
@@ -15951,7 +16126,7 @@ specifications for standard forms stated in this rule. A court may accept for fi
 computer generated forms for the receipts and disbursements attached to a standard account form
 or the schedule of assets attached to a standard inventory and appraisal form.
 
-        (f)   All forms may include suitable coding for optical or magnetic scanning, or similar
+         (f)  All forms may include suitable coding for optical or magnetic scanning, or similar
 system designed to aid docketing, indexing, cost accounting, or other administrative or clerical
 activities.
 
@@ -15966,7 +16141,7 @@ accommodate the correct year.
 
        (1)     This rule takes effect July 1, 1977.
 
-        (2)     On and after January 1, 1978, any pleading, application, entry, waiver, notice, or
+        (2)      On and after January 1, 1978, any pleading, application, entry, waiver, notice, or
 other filing, prepared using a blank form to which this rule applies, shall not be accepted for filing
 
 by the probate division of a court of common pleas of this state unless such blank form complies
@@ -16110,7 +16285,7 @@ were interrelated. There were no substantive changes made.
 
 RULE 58.       Deposit for Court Costs.
 
-       (A)     Deposits in the amount set forth in a local rule shall be required upon the filing of
+        (A)    Deposits in the amount set forth in a local rule shall be required upon the filing of
 any action or proceeding and additional deposits may be required.
 
        (B)     The deposit may be applied as filings occur.
@@ -16593,7 +16768,7 @@ I, ___________________________ affirm the following:
            I have no pending misdemeanor or felony cases and have not been convicted of or
        pleaded guilty to any misdemeanor or felony offense; OR
 
-           I have pending misdemeanor or felony cases or have been convicted of or pleaded
+            I have pending misdemeanor or felony cases or have been convicted of or pleaded
        guilty to a misdemeanor or felony offense. (List below any pending cases or convictions
        that have not been sealed pursuant to R.C. 2953.31-2953.62.)
 
@@ -16900,7 +17075,7 @@ RULE 67.         Estates of Minors of Not More Than Twenty-Five Thousand Dollars
         (A)    Each application relating to a minor shall be submitted by the parent or parents or
 by the person having custody of the minor and shall be captioned in the name of the minor.
 
-         (B)    Each application shall indicate the amount of money or property to which the minor
+         (B)     Each application shall indicate the amount of money or property to which the minor
 is entitled and to whom such money or property shall be paid or delivered. Unless the court
 otherwise orders, if no guardian has been appointed for either the receipt of an estate of a minor or
 the receipt of a settlement for injury to a minor, the attorney representing the interests of the minor
@@ -16975,7 +17150,7 @@ claims to minors and bifurcated the claims into claims brought by the guardian a
 $10,000 where there was no guardian. The former rules were virtually identical and thus the issues relating
 to minors have been consolidated into Sup. R. 68 to avoid duplication.
 
-        Division (A) has been amended to incorporate the provisions of former C.P. Sup. R. 37(A). In
+         Division (A) has been amended to incorporate the provisions of former C.P. Sup. R. 37(A). In
 addition, the rule has been amended to require notice to the parents of the minor regardless of their county
 of residence and to increase the notice time requirement to the parents from three days to seven days in
 order that the notice is more meaningful.
@@ -17185,7 +17360,7 @@ RULE 74.         Trustee’s Compensation.
 
         (A)      Trustee’s compensation shall be set by local rule.
 
-       (B)      Additional compensation for extraordinary services may be allowed upon
+        (B)     Additional compensation for extraordinary services may be allowed upon
 application setting forth an itemized statement of the services rendered and the amount of
 compensation requested. The court may require that the application be set for hearing with notice
 given to interested parties in accordance with Civil Rule 73(E).
@@ -18671,7 +18846,7 @@ RULE 91.09.      Custody Evaluator Continuing Education.
       pleas shall complete a minimum of six hours of continuing education that meets all of the
       following requirements:
 
-              (1)   Is provided by the Supreme Court or other provider that has received prior
+              (1)    Is provided by the Supreme Court or other provider that has received prior
               approval of the Supreme Court;
 
               (2)   Is comprised of approved continuing education topics detailed in the
@@ -18688,7 +18863,7 @@ RULE 91.09.      Custody Evaluator Continuing Education.
               complete the initial training program pursuant to Sup.R. 91.08(B) to qualify again
               for appointment.
 
-              (2)    If the custody evaluator is currently conducting an evaluation at the time of
+              (2)     If the custody evaluator is currently conducting an evaluation at the time of
               noncompliance, the appointing court may allow the custody evaluator to complete
               the evaluation and fulfill the requirements within the order of appointment.
 
@@ -18746,7 +18921,7 @@ RULES 97-98 are reserved for future use
 
 RULE 99.       Effective Date.
 
-        (A)     Except as otherwise provided in this rule, the Rules of Superintendence, adopted
+        (A)    Except as otherwise provided in this rule, the Rules of Superintendence, adopted
 by the Supreme Court of Ohio on April 15, 1997, shall take effect on July 1, 1997. The rules
 govern all proceedings in actions brought on or after the effective date and to further proceedings
 in actions then pending, except to the extent that application in a particular pending action would
@@ -18937,18 +19112,18 @@ adopted by the Supreme Court of Ohio on April 11, 2013, shall take effect on Jul
        (EEE) The amendments to Sup.R. 49, 49.02, 49.03, and 49.09, adopted by the Supreme
 Court of Ohio on May 21, 2013, shall take effect on July 1, 2013.
 
-     (FFF) New Sup.R. 95 and new Form 95, adopted by the Supreme Court of Ohio on
+(FFF) New Sup.R. 95 and new Form 95, adopted by the Supreme Court of Ohio on
 December 12, 2013, shall take effect on January 1, 2014.
 
-       (GGG) The amendments to Sup.R. 10.03 and Protection Order Forms 10-A - 10.05(F),
+(GGG) The amendments to Sup.R. 10.03 and Protection Order Forms 10-A - 10.05(F),
 adopted by the Supreme Court of Ohio on December 12, 2013, shall take effect on March 1,
 2014. Form 10.03-A was repealed.
 
-        (HHH) The amendments to standard probate forms 12.0 and 12.1 and new forms 19.2
+(HHH) The amendments to standard probate forms 12.0 and 12.1 and new forms 19.2
 and 19.3 and 25.0-25.6, adopted by the Supreme Court of Ohio on January 9, 2014, shall take
 effect on March 1, 2014.
 
-       (III)     The amendments to Sup.R. 90 – 90.12, adopted by the Supreme Court of Ohio on
+(III) The amendments to Sup.R. 90 – 90.12, adopted by the Supreme Court of Ohio on
 January 9, 2014, shall take effect on April 1, 2014.
 
       (JJJ)    The amendments to Sup.R. 80 through 88 and Appendix J adopted by the
@@ -19019,7 +19194,7 @@ July 11, 2017, shall take effect on August 1, 2017.
        (EEEE) The amendments to Sup.R. 4.01, 19, and 19.1, adopted by the Supreme Court
 of Ohio on July 11, 2017, shall take effect on January 1, 2018.
 
-       (FFFF)    The amendments to Sup.R. 36 and new Sup.R. 36.01 through 36.019, adopted
+        (FFFF)   The amendments to Sup.R. 36 and new Sup.R. 36.01 through 36.019, adopted
 by the Supreme Court of Ohio on September 26, 2017, shall take effect on January 1, 2018.
 
        (GGGG) The amendments to Sup.R. 5 and 27, adopted by the Supreme Court of Ohio on
@@ -19040,7 +19215,7 @@ shall take effect on January 29, 2019.
        (LLLL) New Sup.R. 36.020, adopted by the Supreme Court of Ohio on February 19,
 2019, shall take effect on January 1, 2020.
 
-       (MMMM) The amendments to Sup.R. 16 through 16.14, 16.40 through 16.43, and
+      (MMMM) The amendments to Sup.R. 16 through 16.14, 16.40 through 16.43, and
 Appendices F and G, and new Sup.R. 16.20 through 16.25, adopted by the Supreme Court of
 Ohio on September 10, 2019, shall take effect on January 1, 2020.
 
@@ -19115,13 +19290,13 @@ shall take effect on January 1, 2023.
 through 21.4, 21.6A through 21.14, 22.0, 22.2, and 22.4, adopted by the Supreme Court of Ohio
 on December 13, 2022, shall take effect on January 1, 2023.
 
-       (IIIII)    The amendments to Sup.R. 16.02 and 16.03, adopted by the Supreme Court of
+      (IIIII)     The amendments to Sup.R. 16.02 and 16.03, adopted by the Supreme Court of
 Ohio on February 9, 2023, shall take effect on April 1, 2023.
 
        (JJJJJ)     The amendments to Sup.R. 80, 82.01, 85, 88 and 89 and Appendices G and H,
 adopted by the Supreme Court of Ohio on February 9, 2023, shall take effect on July 1, 2023.
 
-       (KKKKK)         The repeal of Sup.R. 5.02, adopted by the Supreme Court of Ohio on June
+       (KKKKK)          The repeal of Sup.R. 5.02, adopted by the Supreme Court of Ohio on June
 29, 2023, shall take effect on July 1, 2023.
 
      (LLLLL)         The amendments to Sup.R. 39, adopted by the Supreme Court of Ohio on
@@ -19155,6 +19330,9 @@ October 30, 2025, shall take effect on November 13, 2025.
 
         (TTTTT)         The amendments to Sup.R. 39 adopted by the Supreme Court of Ohio on
 April 3, 2025, shall take effect on January 1, 2026.
+
+       (UUUUU)       The amendments to Sup.R. 3 through 4.04 adopted by the Supreme Court
+of Ohio on May 19, 2026, shall take effect on June 4, 2026.
 
          APPENDIX A
 STATISTICAL REPORTING FORMS
@@ -19485,7 +19663,7 @@ Court Rules
 Civ. R. 47               Jurors.
 Crim. R. 24              Trial jurors.
 
-                                                    22
+                                                     22
 
 STANDARD 9              PEREMPTORY CHALLENGES
 
@@ -19899,7 +20077,7 @@ Court Rules
 
 Crim. R. 24             Trial jurors.
 
-                                                  34
+                                                   34
 
 OHIO COURT SECURITY STANDARDS
 
@@ -19984,7 +20162,7 @@ issues in a cooperative and constructive manner.
 emergency management agencies, and funding authorities, and may include representatives from
 each entity within the court facility and the community.
 
-STANDARD 2.              SECURITY           POLICY        AND      PROCEDURES             MANUAL
+STANDARD 2.               SECURITY          POLICY        AND      PROCEDURES              MANUAL
 
 (A)     Adoption of manual
 
@@ -19993,15 +20171,15 @@ STANDARD 2.              SECURITY           POLICY        AND      PROCEDURES   
         ensure consistent, appropriate, and adequate security procedures. The manual shall
         include each of the following:
 
-                 (1)     A physical security plan;
+                 (1)      A physical security plan;
 
-                 (2)     Routine security operations;
+                 (2)      Routine security operations;
 
                  (3)     An emergency action plan that addresses events such as a hostage
                  situation, an escaped prisoner, violence in the courtroom, a bomb threat, and
                  fire;
 
-                 (4)     A high risk trial plan.
+                 (4)      A high risk trial plan.
 
 (B)     Review of manual
 
@@ -20019,7 +20197,7 @@ STANDARD 2.              SECURITY           POLICY        AND      PROCEDURES   
 facility, are an excellent primary safeguard, it is important that courts have a written Security Policy
 and Procedures Manual addressing the items listed above.
 
-        To ensure a thorough knowledge of the court's Security Policy and Procedures Manual, all
+         To ensure a thorough knowledge of the court's Security Policy and Procedures Manual, all
 court security officers should review the manual as a part of their orientation and as a component
 of regular, continuing education for retained court security officers.
 
@@ -20111,12 +20289,12 @@ STANDARD 6.             COURT SECURITY OFFICERS
 
                                           Commentary
 
-        For the purpose of these standards, “court security officer” means an individual employed
+         For the purpose of these standards, “court security officer” means an individual employed
 or contracted to perform security duties or functions at a court facility and includes a law
 enforcement officer assigned to court security and a bailiff who performs court security duties or
 functions. “Court security officer” does not include an administrative bailiff who does not perform
 court security duties or functions.
-        Law enforcement officers who are present within the court facility for purposes other than
+         Law enforcement officers who are present within the court facility for purposes other than
 court security, such as testifying at a trial, should not be considered a component of the court
 security system. These law enforcement officers' full attention should be directed to the duties to
 which they are assigned. The security of the court should not be reliant upon these law
@@ -20219,7 +20397,7 @@ structural elements necessary for court security and, therefore, require greater
 devices. Closed-circuit video surveillance is secondary to security searches of entrants to a court
 facility.
 
-STANDARD 11.            RESTRICTED ACCESS TO OFFICES
+STANDARD 11.             RESTRICTED ACCESS TO OFFICES
 
 To ensure safe and secure work areas and to protect against inappropriate interaction
 between judges and participants in the judicial process, an effective secondary security
@@ -20512,7 +20690,7 @@ materials, including electronic media, considered necessary by the court.
        (E)     Magistrate. Magistrates should have courtroom and office facilities similar to
 those of a judge.
 
-       (F)     Juror and witness facilities. Each trial courtroom shall have a soundproof jury
+        (F)    Juror and witness facilities. Each trial courtroom shall have a soundproof jury
 deliberation room located in a quiet area as near the courtroom as possible. Access from the jury
 deliberation room to the courtroom should be private. Private personal convenience facilities
 should be available for the jurors.
@@ -20730,10 +20908,10 @@ local rule regarding fees that your court would already have in place. ]
 
 8.00 Time to Compliance
 
-       8.01 Courts which choose to offer facsimile filing shall submit local rules for
-       approval by the Supreme Court of Ohio. Courts offering facsimile filing at the time
-       this standard is adopted shall submit their local rule for approval within six months
-       of the adoption of this standard.
+8.01 Courts which choose to offer facsimile filing shall submit local rules for approval by
+       the Supreme Court of Ohio. Courts offering facsimile filing at the time this standard
+       is adopted shall submit their local rule for approval within six months of the
+       adoption of this standard.
 
                                           APPENDIX
 
@@ -20801,25 +20979,24 @@ As used in these rules, unless the context requires otherwise:
 4.01   The person filing a document by fax shall also provide therewith a
        cover page containing the following information: [See appendix for
        sample cover page form.]
-       (I)    the name of the court;
-       (II)   the title of the case;
-       (III) the case number;
-       (IV) the assigned judge;
-       (V)    the title of the document being filed (e.g. Defendant Jones’
-       Answer to Amended Complaint; Plaintiff Smith’s Response to
-       Defendants’ Motion to Dismiss; Plaintiff Smith’s Notice of Filing
-       Exhibit “G” to Plaintiff Smith’s Response to Defendants’ Motion to
-       Dismiss) ;
-       (VI) the date of transmission;
-       (VII) the transmitting fax number;
-       (VIII) an indication of the number of pages included in the
-       transmission, including the cover page;
-       (IX) if a judge or case number has not been assigned, state that fact
-       on the cover page;
-       (X)    the name, address, telephone number, fax number, Supreme
-       Court registration number, if applicable, and e-mail address of the
-       person filing the fax document if available; and
-       (XI) if applicable, a statement explaining how costs are being submitted.
+(I)    the name of the court;
+(II)   the title of the case;
+(III) the case number;
+(IV) the assigned judge;
+(V)    the title of the document being filed (e.g. Defendant Jones’ Answer to
+       Amended Complaint; Plaintiff Smith’s Response to Defendants’
+       Motion to Dismiss; Plaintiff Smith’s Notice of Filing Exhibit “G” to
+       Plaintiff Smith’s Response to Defendants’ Motion to Dismiss) ;
+(VI) the date of transmission;
+(VII) the transmitting fax number;
+(VIII) an indication of the number of pages included in the transmission,
+       including the cover page;
+(IX) if a judge or case number has not been assigned, state that fact on the
+       cover page;
+(X)    the name, address, telephone number, fax number, Supreme Court
+       registration number, if applicable, and e-mail address of the person
+       filing the fax document if available; and
+(XI) if applicable, a statement explaining how costs are being submitted.
 
 4.02   If a document is sent by fax to the Clerk of Court without the cover
        page information listed above, the Clerk may, at its discretion:
@@ -20827,9 +21004,9 @@ As used in these rules, unless the context requires otherwise:
        (I)     enter the document in the Case Docket and file the document;
                or
 
-              (II)   deposit the document in a file of failed faxed documents with a
-              notation of the reason for the failure; in this instance, the document
-              shall not be considered filed with the Clerk of Courts.
+       (II)   deposit the document in a file of failed faxed documents with a notation
+              of the reason for the failure; in this instance, the document shall not be
+              considered filed with the Clerk of Courts.
 
        4.03   The Clerk of Court is not required to send any form of notice to the
               sending party of a failed fax filing. However, if practicable, the Clerk
@@ -20841,9 +21018,9 @@ As used in these rules, unless the context requires otherwise:
 
               (I)    fax a copy of the signed source document; or
 
-              (II)   fax a copy of the document without the signature but with the
-              notation "/s/" followed by the name of the signing person where the
-              signature appears in the signed source document.
+       (II)   fax a copy of the document without the signature but with the notation "/s/"
+              followed by the name of the signing person where the signature appears in
+              the signed source document.
 
        5.02   A party who files a signed document by fax represents that the physically
               signed source document is in his/her possession or control.
@@ -20957,13 +21134,13 @@ for which other standards will apply.]
 
 3. Sample Credit Card Payment Form
 
-                             FACSIMILE FILING COVER PAGE
+                              FACSIMILE FILING COVER PAGE
 
 RECIPIENT INFORMATION:
 
 NAME OF COURT: ______________________________________________________
 
-FAX NUMBER:               ______________________________________________________
+FAX NUMBER:                ______________________________________________________
 
 SENDING PARTY INFORMATION:
 
@@ -20971,39 +21148,38 @@ NAME:     ____________________________________________________________
 SUPREME COURT
 REGISTRATION NO. (if applicable): ____________________________________
 
-OFFICE/FIRM:              ______________________________________________________
+OFFICE/FIRM:               ______________________________________________________
 
-ADDRESS:         ____________________________________________________________
+ADDRESS:          ____________________________________________________________
 
-TELEPHONE NO.             ______________________________________________________
+TELEPHONE NO.              ______________________________________________________
 
-FAX NUMBER:               ______________________________________________________
+FAX NUMBER:                ______________________________________________________
 
-E-MAIL ADDRESS (if available):               __________________________________________
+E-MAIL ADDRESS (if available):                __________________________________________
 
 CASE INFORMATION:
 
 TITLE OF THE CASE:                  ________________________________________________
 
-CASE NUMBER *:            ______________________________________________________
+CASE NUMBER *:             ______________________________________________________
 
 TITLE OF THE DOCUMENT:        __________________________________________
 ________________________________________________________________________
 
-JUDGE *:         ____________________________________________________________
+JUDGE *:          ____________________________________________________________
 
 FILING INFORMATION:
 
 DATE OF FAX TRANSMISSION: _________________________________________
 
-NUMBER OF PAGES (including this page):                         ______________________________
+NUMBER OF PAGES (including this page):                          ______________________________
 
 STATEMENT EXPLAINING HOW COSTS ARE BEING SUBMITTED, IF
 APPLICABLE:___________________________________________________________
 _______________________________________________________________________
 
-If a judge or case number has not been assigned, please state that fact in the space provided.
-*
+*If a judge or case number has not been assigned, please state that fact in the space provided.
 
                             IN THE COURT OF COMMON PLEAS
                                _____________ COUNTY, OHIO
@@ -21490,7 +21666,7 @@ explaining the statements of the original speaker or writer.
 
                                                 Commentary
 
-        In order to preserve the record of the court and assist in the administration of justice, interpreters
+         In order to preserve the record of the court and assist in the administration of justice, interpreters
 should completely and accurately interpret the exact meaning of what is said or written without embellishing,
 explaining, omitting, adding, altering, or summarizing anything. This includes maintaining accuracy of style
 or register of speech, as well as not distorting the meaning of the source language, even if it appears
@@ -21667,7 +21843,7 @@ the standards seek to create a minimum level of uniform practices for specialize
 still allow local specialized dockets to innovate and tailor their specialized docket to respond to
 local needs and resources.
 
-Standard 1.    Planning Process.
+Standard 1. Planning Process.
 
 A specialized docket shall utilize a comprehensive and collaborative planning process that
 includes all of the following:
@@ -21733,7 +21909,7 @@ includes all of the following:
        pursuing justice and protecting public safety and victim’s rights and the distinct role of a
        defense counsel in preserving the constitutional rights of a specialized docket participant.
 
-Standard 2.    Legal and Clinical Eligibility.
+Standard 2. Legal and Clinical Eligibility.
 
 A specialized docket shall identify its target population and establish written legal and clinical
 eligibility criteria that have been collaboratively developed, reviewed, and agreed upon by the
@@ -21871,7 +22047,7 @@ Standard 4. Treatment and Rehabilitation.
 
              (9)     Language Services pursuant to Sup. R. 89.
 
-Standard 5.   Docket Progression.
+Standard 5. Docket Progression.
 
 (A)   General
 
@@ -21884,18 +22060,18 @@ Standard 5.   Docket Progression.
       A specialized docket shall include a clearly defined structure for progression through the
       docket. The progression shall include all of the following:
 
-              (1)     The minimum length of time, if any, that shall be spent achieving any
-              particular phase;
+             (1)     The minimum length of time, if any, that shall be spent achieving any
+             particular phase;
 
-              (2)    The nature and frequency of specialized docket appearances, supervision
-              meetings, and other attendance requirements;
+             (2)    The nature and frequency of specialized docket appearances, supervision
+             meetings, and other attendance requirements;
 
-              (3)    Realistic and concrete behavioral based requirements for the docket, case
-              management, substance monitoring, and treatment objectives that shall be satisfied
-              before advancing;
+             (3)    Realistic and concrete behavioral based requirements for the docket, case
+             management, substance monitoring, and treatment objectives that shall be satisfied
+             before advancing;
 
-              (4)     The process for advancing to the next phase, including any applications, if
-              any, that shall be completed.
+             (4)     The process for advancing to the next phase, including any applications, if
+             any, that shall be completed.
 
 (C)   Sequence and timing
 
@@ -21907,7 +22083,7 @@ Standard 5.   Docket Progression.
       The structure of a specialized docket should include productive activities, such as
       employment, education, or attendance in peer support groups.
 
-Standard 6.   Treatment Team.
+Standard 6. Treatment Team.
 
 (A)   Composition
 
@@ -21915,7 +22091,7 @@ Standard 6.   Treatment Team.
       to implement the daily operations of the specialized docket. Treatment team members may
       include, but are not limited to, the following:
 
-              (1)    The specialized docket judge;
+             (1)     The specialized docket judge;
 
              (2)     Probation staff / community control staff;
 
@@ -21967,16 +22143,16 @@ Standard 6.   Treatment Team.
       For consistency and stability in specialized docket operations, treatment team members
       should serve on the treatment team for a minimum of one year.
 
-Standard 7.   Participant Monitoring.
+Standard 7. Participant Monitoring.
 
 (A)   General
 
-      (1)     A specialized docket shall monitor each participant’s performance and progress.
+      (1)    A specialized docket shall monitor each participant’s performance and progress.
 
       (2)   Participants shall be placed under reporting supervision as soon as possible to
       monitor compliance with docket requirements.
 
-      (3)     A specialized docket shall maintain a current treatment plan and record of activities.
+      (3)    A specialized docket shall maintain a current treatment plan and record of activities.
 
 (B)   Ongoing judicial interaction
 
@@ -22026,7 +22202,7 @@ Standard 8. Incentives, Sanctions, and Therapeutic Adjustments.
       mutual support meetings, should be based upon the clinically informed needs of the
       participant.
 
-Standard 9.   Substance Monitoring.
+Standard 9. Substance Monitoring.
 
 (A)   General
 
@@ -22034,19 +22210,19 @@ Standard 9.   Substance Monitoring.
       frequent, and observed alcohol and other drug testing protocols that include all of the
       following:
 
-              (1)     Written policies and procedures for sample collection, sample analysis, and
-              result reporting. The testing policies and procedures shall address elements that
-              contribute to the reliability and validity of the testing process.
+             (1)     Written policies and procedures for sample collection, sample analysis, and
+             result reporting. The testing policies and procedures shall address elements that
+             contribute to the reliability and validity of the testing process.
 
-              (2)    Individualized drug and alcohol testing plans;
+             (2)     Individualized drug and alcohol testing plans;
 
-              (3)     Testing protocols that ensure that all testing is random, frequent, and
-              observed. Random testing shall be implemented in a manner so that the odds of
-              being tested are the same on any given day of the week. Drug and alcohol testing
-              shall be performed frequently enough to ensure substance use is detected quickly
-              and reliably. The collection of test specimens shall be witnessed directly by a staff
-              person who has been trained to prevent tampering and substitution of fraudulent
-              specimens.
+             (3)     Testing protocols that ensure that all testing is random, frequent, and
+             observed. Random testing shall be implemented in a manner so that the odds of
+             being tested are the same on any given day of the week. Drug and alcohol testing
+             shall be performed frequently enough to ensure substance use is detected quickly
+             and reliably. The collection of test specimens shall be witnessed directly by a staff
+             person who has been trained to prevent tampering and substitution of fraudulent
+             specimens.
 
 (B)   Positive tests
 
@@ -22217,7 +22393,7 @@ Standard 2.            When Telephonic Interpretation Should Not be Used.
 A court should not use telephonic interpretation in a case or court function if any of the following
 apply:
 
-        (A)    A Supreme Court certified foreign language interpreter, provisionally qualified
+        (A)     A Supreme Court certified foreign language interpreter, provisionally qualified
         foreign language interpreter, or language-skilled foreign language interpreter is reasonably
         available to serve on-site;
 
