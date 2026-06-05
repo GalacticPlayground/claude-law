@@ -1,0 +1,10 @@
+{
+  "name": "us-ks-legal-corpus",
+  "description": "Comprehensive corpus of Kansas state law \u2014 Kansas Statutes, state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "kansas",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
