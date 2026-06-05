@@ -1,43 +1,34 @@
-# us-co-legal-corpus — Colorado
+# Colorado — Legal Corpus Overview
 
-Draft and format pleadings, declarations, motions, and proposed orders for Colorado district and county courts.
+**Code Name:** Colorado Revised Statutes
+**Capital:** Denver
+**Court System:** Colorado Judicial Branch
+**Highest Court:** Colorado Supreme Court
+**Plugin:** `us-co-legal-corpus`
+**Pulled:** 2026-06-05
 
-> **NOT LEGAL ADVICE.** Output is a drafting aid; verify every rule, deadline, and citation against current law before filing.
+## What this corpus contains
 
-## What it covers
+- **Statutes:** Canonical links to the Colorado Revised Statutes at official and mirrored sources, with a sample of verbatim text pulled for representative titles.
+- **Court rules:** Canonical links to the Colorado court rules (rules of civil/criminal/appellate procedure, evidence, local rules, etc.).
+- **Case law:** On-demand indexes — see `references/co-case-law.md`.
 
-Applies **C.R.C.P. 10 + Chief Justice Directive 11-01** formatting (two-block caption with case-number / division / courtroom box); covers Denver District Court (2nd JD — Lindsey-Flanigan Courthouse), Arapahoe County District Court (18th JD — Centennial / Aurora / Littleton), and the most-populous-counties roll-up (Jefferson, El Paso, Adams, Boulder, Larimer, Douglas, Weld, Pueblo, Mesa, Broomfield).
+## Sources
 
-**Two subject-matter bundles** ship in the initial release:
-- `co-consumer-debt` — FDCPA, Reg F, CFDCPA, CCPA, UCCC, chain-of-title, 6-year SOL on liquidated debt.
-- `co-family-law` — UDMA (dissolution, parental responsibilities, § 14-10-115 income-shares child support with the 93-overnight rule, maintenance, common-law marriage under *Hogsett & Neale*).
+### Statutes
+- **Colorado Revised Statutes** — <https://leg.colorado.gov/colorado-revised-statutes>
 
-Colorado was the first state with two bundles at initial release. **22 SKILL.md files.**
+### Court Rules
+- **Colorado Judicial Branch** — <https://www.courts.state.co.us/Courts/Supreme_Court/Index.cfm>
 
-Statute corpus: 14 articles / 2.0 MB (UCC, UCCC, CFDCPA, CCPA, mediation, judgments, exemptions, garnishment, limitations, UDMA, UCCJEA, APA). Court-rules corpus: **80 files** / 1.3 MB — 72 verbatim Chief Justice Directives (CJDs) including the Jan-2026 statewide eFiling standards, one repeal notice, plus pointer stubs for C.R.C.P. / CRE / C.A.R. / Colo. RPC. Those rule sets are **public-domain edicts of the Colorado Supreme Court** (only the West/Lexis *annotated compilations* are copyrighted), but Colorado publishes no free structured copy of the bare rule text — see the court-rules corpus README.
+## Architecture
 
-## Reference corpora
+This plugin follows the `*-legal-corpus/` convention. It is consumable by any cross-jurisdiction `*-consumer-debt`, `*-family-law`, or `*-pro-se` skills layer that wants the Colorado corpus as its venue-specific reference.
 
-Under `references/` (each corpus dir has its own README):
+## Coverage targets
 
-- `co_statutes/` — verbatim selected C.R.S. articles from the official Colorado General Assembly PDFs.
-- `co_court_rules/` — verbatim Chief Justice Directives plus stubs for paywalled consolidated rule sets.
-
-Legacy copies remain under `skills/co-law-references/references/` for existing skill references.
-
-## Refresh
-
-Use the configured proxy for refreshes:
-
-```bash
-HTTPS_PROXY=http://192.168.8.21:9091 python3 scripts/pull_co_statutes.py \
-  --out plugins/us-co-legal-corpus/references/co_statutes/
-
-HTTPS_PROXY=http://192.168.8.21:9091 python3 scripts/pull_co_court_rules.py \
-  --out plugins/us-co-legal-corpus/references/co_court_rules/
-```
-
-Plugin scripts: `format-check.py` (C.R.C.P. 10 + CJD 11-01) · `case-calendar.py` (C.R.C.P. 6 + C.R.S. § 24-11-101 holidays).
-
----
-Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
+- [x] Canonical statute index (links to all titles/chapters)
+- [ ] Verbatim statute text (sample for the most-litigated titles; expand quarterly)
+- [x] Court rules canonical link
+- [ ] Verbatim court rules (sample for the rules most-cited in consumer-debt / family-law / housing matters)
+- [x] Case law API index

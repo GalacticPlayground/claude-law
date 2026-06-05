@@ -1,25 +1,34 @@
-# Rhode Island State Legal Corpus
+# Rhode Island — Legal Corpus Overview
 
-Comprehensive, curated corpus of **Rhode Island** state law.
+**Code Name:** Rhode Island General Laws
+**Capital:** Providence
+**Court System:** Rhode Island Judiciary
+**Highest Court:** Rhode Island Supreme Court
+**Plugin:** `us-ri-legal-corpus`
+**Pulled:** 2026-06-05
 
-## Coverage
-- **Rhode Island General Laws (RIGL)** — the state's statutory code
-- State-level administrative regulations
-- State precedent: Rhode Island Supreme Court + Court of Appeals
-- All embedded county/municipal law layers (Rhode Island county-by-county)
+## What this corpus contains
 
-## Structure
+- **Statutes:** Canonical links to the Rhode Island General Laws at official and mirrored sources, with a sample of verbatim text pulled for representative titles.
+- **Court rules:** Canonical links to the Rhode Island court rules (rules of civil/criminal/appellate procedure, evidence, local rules, etc.).
+- **Case law:** On-demand indexes — see `references/ri-case-law.md`.
 
-```
-us-ri-legal-corpus/
-  references/
-    ri_statutes/             # Rhode Island General Laws (RIGL) organized by chapter
-    ri_court_rules/          # Statewide + county-specific court rules
-  skills/                     # Subject matter + procedural + venue skills
-  .claude-plugin              # Plugin manifest
-  README.md
-```
+## Sources
 
-## How this works
-This plugin provides reference corpora for legal research and document production.
-All statutory/textual content is kept in `references/` as curated, sourced documents.
+### Statutes
+- **R.I. Gen. Laws** — <https://webserver.rilegislature.gov/Statutes/title1/1-1/1-1-1.htm>
+
+### Court Rules
+- **Rhode Island Judiciary** — <https://www.courts.ri.gov/Courts/SupremeCourt/Pages/Rules.aspx>
+
+## Architecture
+
+This plugin follows the `*-legal-corpus/` convention. It is consumable by any cross-jurisdiction `*-consumer-debt`, `*-family-law`, or `*-pro-se` skills layer that wants the Rhode Island corpus as its venue-specific reference.
+
+## Coverage targets
+
+- [x] Canonical statute index (links to all titles/chapters)
+- [ ] Verbatim statute text (sample for the most-litigated titles; expand quarterly)
+- [x] Court rules canonical link
+- [ ] Verbatim court rules (sample for the rules most-cited in consumer-debt / family-law / housing matters)
+- [x] Case law API index
