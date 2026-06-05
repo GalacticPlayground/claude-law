@@ -54,8 +54,8 @@ template:
   court's local rules
 
 Refer to:
-- `plugins/wa-court-docs/skills/wa-<role>/SKILL.md`
-- `plugins/or-court-docs/skills/or-<role>/SKILL.md`
+- `plugins/us-wa-legal-corpus/skills/wa-<role>/SKILL.md`
+- `plugins/us-or-legal-corpus/skills/or-<role>/SKILL.md`
 
 These are concrete, complete examples that have been
 substantively reviewed for the WA / OR legal context.

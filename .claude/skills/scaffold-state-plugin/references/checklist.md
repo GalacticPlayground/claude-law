@@ -153,9 +153,9 @@ for the full puller-design discipline.
 
 - [ ] Create `plugins/<abbr>-court-docs/.claude-plugin/plugin.json`
 - [ ] Set `name`, `version: "0.1.0"`, `description`, keywords
-- [ ] **Add `"dependencies": ["claude-legal-federal-laws"]`** —
+- [ ] **Add `"dependencies": ["us-federal-debt-corpus"]`** —
       the new plugin reaches federal-debt-laws / ucc-model via
-      symlinks into the shared `claude-legal-federal-laws`
+      symlinks into the shared `us-federal-debt-corpus`
       plugin. Without this declaration, the marketplace runtime
       won't auto-install the shared plugin and the symlinks
       won't resolve at install time.
@@ -177,10 +177,10 @@ for the full puller-design discipline.
   - [ ] `<abbr>-law-references/references/`
     - [ ] `court-rules/` (real directory)
     - [ ] `federal-debt-laws` — **SYMLINK** pointing to
-          `../../../../claude-legal-federal-laws/references/federal-debt-laws`.
+          `../../../../us-federal-debt-corpus/references/federal-debt-laws`.
           Do NOT create a real directory here.
     - [ ] `ucc-model` — **SYMLINK** pointing to
-          `../../../../claude-legal-federal-laws/references/ucc-model`.
+          `../../../../us-federal-debt-corpus/references/ucc-model`.
           Do NOT create a real directory here.
     - [ ] `<state>-statutes-debt/` (e.g., `ca-statutes-debt/`)
   - [ ] `<abbr>-discovery/references/`
@@ -542,7 +542,7 @@ hit needs to be resolved before the plugin ships:
 
 ```bash
 grep -rnE "\b(Washington|Oregon|California|Colorado|Indiana|New York)\b\
-|wa-court-docs|or-court-docs|ca-court-docs|co-court-docs|in-court-docs|ny-court-docs\
+|us-wa-legal-corpus|us-or-legal-corpus|us-ca-legal-corpus|us-co-legal-corpus|us-in-legal-corpus|us-ny-legal-corpus\
 |like (Oregon|California|Colorado|Indiana|Washington|New York)\
 |unlike (Oregon|California|Colorado|Indiana|Washington|New York)\
 |federal/(WA|OR|CA|CO|IN|NY)" plugins/<abbr>-court-docs/ \
