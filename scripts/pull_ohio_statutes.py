@@ -439,7 +439,7 @@ def update_manifest(out_dir: Path, fetched_iso: str,
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument(
-        "--out",
+        "--out", "--output",
         type=Path,
         default=Path(
             "plugins/us-oh-legal-corpus/skills/oh-law-references/"

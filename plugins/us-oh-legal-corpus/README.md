@@ -16,11 +16,23 @@ Applies **Ohio Civ. R. 10 + per-court local rules** (Ohio has no statewide plead
 
 ## Reference corpora
 
-Under `skills/oh-law-references/references/` (each corpus dir has its own README): `oh-statutes-debt/`, `court-rules/`, plus the shared federal symlinks.
+Full Ohio primary-law corpora are stored under `references/`:
+
+- `oh_statutes/` — verbatim Ohio Revised Code chapter pulls for civil practice, consumer debt, landlord-tenant, family law, juvenile, municipal, county, and small-claims practice.
+- `oh_court_rules/` — verbatim PDF-to-text pulls of statewide Ohio court rules, Supreme Court practice rules, conduct rules, bar/judiciary governance rules, reporting rules, and Court of Claims local rules.
+
+Legacy copies also remain under `skills/oh-law-references/references/` for skill-local lookup compatibility.
 
 ## Refresh
 
-`scripts/pull_ohio_statutes.py` · `scripts/pull_ohio_court_rules.py`. Plugin scripts: `format-check.py` · `case-calendar.py`.
+Refresh the plugin-level corpus with:
+
+```sh
+python3 scripts/pull_ohio_statutes.py --output plugins/us-oh-legal-corpus/references/oh_statutes/
+python3 scripts/pull_ohio_court_rules.py --output plugins/us-oh-legal-corpus/references/oh_court_rules/
+```
+
+Plugin scripts: `format-check.py` · `case-calendar.py`.
 
 ---
 Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
