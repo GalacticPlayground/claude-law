@@ -2,7 +2,7 @@
 
 - Citation: Cal. Rules of Court, Probate Rules
 - Source: https://courts.ca.gov/cms/rules/index/seven
-- Pulled: 2026-05-14
+- Pulled: 2026-06-05
 - Rules: 115
 
 > Verbatim rule text scraped from courts.ca.gov.

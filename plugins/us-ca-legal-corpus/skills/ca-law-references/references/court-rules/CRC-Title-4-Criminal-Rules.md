@@ -2,7 +2,7 @@
 
 - Citation: Cal. Rules of Court, Criminal Rules
 - Source: https://courts.ca.gov/cms/rules/index/four
-- Pulled: 2026-05-14
+- Pulled: 2026-06-05
 - Rules: 99
 
 > Verbatim rule text scraped from courts.ca.gov.

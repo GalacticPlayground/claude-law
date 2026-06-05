@@ -2,7 +2,7 @@
 
 - Citation: Cal. Rules of Court, Rules Applicable in All Trial Courts
 - Source: https://courts.ca.gov/cms/rules/index/two
-- Pulled: 2026-05-14
+- Pulled: 2026-06-05
 - Rules: 145
 
 > Verbatim rule text scraped from courts.ca.gov.

@@ -2,7 +2,7 @@
 
 - Citation: Cal. Rules of Court, Appellate Rules
 - Source: https://courts.ca.gov/cms/rules/index/eight
-- Pulled: 2026-05-14
+- Pulled: 2026-06-05
 - Rules: 336
 
 > Verbatim rule text scraped from courts.ca.gov.
