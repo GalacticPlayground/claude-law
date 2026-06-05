@@ -1,0 +1,10 @@
+{
+  "name": "us-tx-legal-corpus",
+  "description": "Comprehensive corpus of Texas state law \u2014 Texas Statutes (Tex.), state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "texas",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
