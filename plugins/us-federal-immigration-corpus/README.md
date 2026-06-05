@@ -19,7 +19,14 @@ Snapshots the canonical **rules** verbatim:
 
 ## Reference corpora
 
-Each lives under `references/` with its own README (scope, pull mechanics, access posture): `immigration-statutes/`, `immigration-regulations/`, `foreign-affairs-manual/`, `court-rules/`, plus `legal-data-apis.md` (the on-demand case-law index) and `online-sources.md`.
+Each lives under `references/` with its own README (scope, pull mechanics, access posture). The current puller output directories are:
+
+- `ina/` — INA / 8 U.S.C. Chapter 12, one file per subchapter.
+- `cfr/` — curated immigration-related 8 CFR and 22 CFR parts.
+- `fam/` — immigration-relevant Foreign Affairs Manual excerpts.
+- `eoir/` — EOIR practice-manual pointer stubs and practice-rule notes.
+
+The older descriptive directory names remain present for compatibility: `immigration-statutes/`, `immigration-regulations/`, `foreign-affairs-manual/`, and `court-rules/`. The corpus also includes `legal-data-apis.md` (the on-demand case-law index) and `online-sources.md`.
 
 ## Refresh
 
