@@ -1,0 +1,10 @@
+{
+  "name": "us-ms-legal-corpus",
+  "description": "Comprehensive corpus of Mississippi state law \u2014 Mississippi Code, state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "mississippi",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
