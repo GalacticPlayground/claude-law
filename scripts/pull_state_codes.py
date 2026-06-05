@@ -48,19 +48,44 @@ def fetch(url, timeout=15, use_cc=False):
     except Exception as e:
         return None, str(e)[:200]
 
+def fetch_with_wayback(url, timeout=15, year="2024"):
+    """Try direct URL, then fall back to Wayback Machine snapshot.
+    Returns (status, body, source_url) or (None, None, None) on total failure."""
+    code, body = fetch(url, timeout=timeout)
+    if code == 200 and body and len(body) > 500:
+        return code, body, url
+    # Try Wayback Machine
+    wb_url = f"https://web.archive.org/web/{year}/{url}"
+    try:
+        code, body = fetch(wb_url, timeout=30)
+        if code == 200 and body and len(body) > 500:
+            return code, body, wb_url
+    except Exception:
+        pass
+    return None, None, None
+
 def html_to_text(html):
     """Crude HTML to text conversion."""
-    html = re.sub(r'<(script|style|nav|header|footer|aside)[^>]*>.*?</\1>', '', html, flags=re.S|re.I)
-    html = re.sub(r'<br[^>]*>', '\n', html, flags=re.I)
+    import html as h
+    # Remove script/style/nav/header/footer/aside blocks (each non-greedy)
+    for tag in ('script', 'style', 'nav', 'header', 'footer', 'aside'):
+        html = re.sub(rf'<{tag}\b[^>]*>.*?</{tag}>', '', html, flags=re.S|re.I)
+    # Insert newlines at block boundaries
+    html = re.sub(r'<br\s*/?>', '\n', html, flags=re.I)
     html = re.sub(r'</p>', '\n\n', html, flags=re.I)
+    html = re.sub(r'</div>', '\n', html, flags=re.I)
+    html = re.sub(r'</section>', '\n', html, flags=re.I)
     html = re.sub(r'</h[1-6]>', '\n\n', html, flags=re.I)
     html = re.sub(r'</li>', '\n', html, flags=re.I)
     html = re.sub(r'</tr>', '\n', html, flags=re.I)
+    html = re.sub(r'</td>', ' | ', html, flags=re.I)
+    # Strip remaining tags
     html = re.sub(r'<[^>]+>', ' ', html)
-    import html as h
     html = h.unescape(html)
+    # Normalize whitespace
     html = re.sub(r'[ \t]+', ' ', html)
-    html = re.sub(r'\n\s*\n\s*\n+', '\n\n', html)
+    html = re.sub(r' *\n *', '\n', html)
+    html = re.sub(r'\n{3,}', '\n\n', html)
     return html.strip()
 
 def save_verbatim(state, label, source_url, text, subdir):
@@ -85,7 +110,7 @@ def gen_urls(state, max_n=15):
     pairs = []
     if state == "al":
         for n in range(1, max_n+1):
-            pairs.append((f"Title {n}", f"https://alison.legislature.state.al.us/code-of-alabama/title-{n:02d}"))
+            pairs.append((f"Title {n}", f"https://law.justia.com/codes/alabama/title-{n}/"))
     elif state == "ak":
         for n in range(1, 48):
             pairs.append((f"AS Title {n}", f"https://www.akleg.gov/basis/statutes.asp#{n}"))
@@ -142,8 +167,9 @@ def gen_urls(state, max_n=15):
         for n in [1, 2, 6, 8, 12, 14, 15, 17, 18, 20, 21, 24, 25, 26, 27, 30, 31, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 61, 64, 65, 67, 121, 131, 132, 134, 138, 139, 141, 150, 151, 154, 158, 160, 162, 164, 165, 166, 167, 168, 171, 174, 175, 177, 178, 186, 188, 189, 190, 194, 197, 199, 200, 201, 205, 208, 209, 210, 211, 213, 214, 216, 218, 220, 222, 224, 226, 229, 230, 232, 234, 235, 237, 239, 241, 242, 243, 244, 245, 246, 247, 248, 250, 251, 253, 254, 255, 256, 257, 258, 260, 261, 262, 263, 264, 266, 267, 271, 272, 273, 274, 275, 276, 277, 278, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 299, 301, 304, 306, 307, 311, 312, 314, 315, 316, 317, 318, 320, 321, 322, 323, 324, 325, 326, 327, 330, 331, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520]:
             pairs.append((f"Chapter {n}", f"https://apps.legislature.ky.gov/law/statutes/chapter/{n}"))
     elif state == "la":
-        for n in range(1, 70):
-            pairs.append((f"Title {n}", f"https://www.legis.la.gov/legis/Law_Toc.aspx?folder={n}"))
+        # LA uses Laws_Toc.aspx?folder=N (note plural "Laws" and case)
+        for n in [66, 67, 68, 69, 70, 71, 72, 73, 75, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95]:
+            pairs.append((f"Code Title {n}", f"https://www.legis.la.gov/legis/Laws_Toc.aspx?folder={n}"))
     elif state == "me":
         for n in range(1, 37):
             pairs.append((f"Title {n}", f"https://legislature.maine.gov/statutes/{n}/title{n}ch0sec0.html"))
@@ -163,7 +189,7 @@ def gen_urls(state, max_n=15):
         for n in range(1, 33):
             pairs.append((f"Title {n}", f"https://revisor.mo.gov/main/OneChapter.aspx?chapter={n}"))
     elif state == "ms":
-        for n in range(1, 100, 2):
+        for n in range(1, 100, 4):
             pairs.append((f"Title {n} (Justia)", f"https://law.justia.com/codes/mississippi/title-{n}/"))
     elif state == "mt":
         for n in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 32, 33, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91]:
@@ -181,8 +207,10 @@ def gen_urls(state, max_n=15):
         for n in range(0, 200, 3):
             pairs.append((f"NRS {n:03d}", f"https://www.leg.state.nv.us/NRS/NRS-{n:03d}.html"))
     elif state == "nh":
-        for n in range(1, 60):
-            pairs.append((f"Title {n}", f"https://www.gencourt.state.nh.us/rsa/html/{n}/"))
+        # NH RSA uses Roman numerals for title numbers
+        roman = ["I","II","III","IV","V","VI","VII","VIII","IX","X","XI","XII","XIII","XIV","XV","XVI","XVII","XVIII","XIX","XX","XXI","XXII","XXIII","XXIV","XXV"]
+        for n, r in enumerate(roman, 1):
+            pairs.append((f"Title {n}", f"https://www.gencourt.state.nh.us/rsa/html/{r}/1/1-1.htm"))
     elif state == "nj":
         for n in range(1, 60, 2):
             pairs.append((f"Title {n} (Justia)", f"https://law.justia.com/codes/new-jersey/title-{n}/"))
@@ -195,7 +223,7 @@ def gen_urls(state, max_n=15):
             pairs.append((c, f"https://www.nysenate.gov/legislation/laws/{c}"))
     elif state == "oh":
         for n in range(1, 59, 2):
-            pairs.append((f"Title {n}", f"https://codes.ohio.gov/orc/title-{n}"))
+            pairs.append((f"Title {n}", f"https://codes.ohio.gov/ohio-revised-code/title-{n}"))
     elif state == "ok":
         for n in range(1, 86, 2):
             pairs.append((f"Title {n}", f"https://www.oscn.net/applications/oscn/index.asp?level=1&ftdb=STOKST{n:02d}"))
@@ -215,8 +243,8 @@ def gen_urls(state, max_n=15):
         for n in range(1, 62, 2):
             pairs.append((f"Title {n}", f"https://sdlegislature.gov/Statutes/{n}-1"))
     elif state == "tn":
-        for n in range(1, 72, 2):
-            pairs.append((f"Title {n}", f"https://www.tncourts.gov/Tennessee%20Code/title-{n}"))
+        for n in range(1, 72, 4):
+            pairs.append((f"Title {n} (Justia)", f"https://law.justia.com/codes/tennessee/title-{n}/"))
     elif state == "tx":
         for c in ["AGRIC","ALCO","BUS","BUSORG","CPRC","EDUC","ELEC","EST","FAM","FIN","GOVT","HUM","INS","LAB","LGC","LOC","MTRV","NAT","OCC","PEN","PERS","PROB","PROP","REC","REV","SPEC","TAX","TRAN","UTIL","WAT","WEL"]:
             pairs.append((c, f"https://statutes.capitol.texas.gov/Docs/{c}/htm/{c}.1.htm"))
@@ -254,11 +282,11 @@ def pull_state(state, max_titles=15):
     urls = gen_urls(state, max_titles)
     n = 0
     for label, url in urls:
-        code, body = fetch(url, timeout=12)
+        code, body, src = fetch_with_wayback(url, timeout=12)
         if code == 200 and body and len(body) > 500:
             text = html_to_text(body)
-            if len(text) > 250:
-                save_verbatim(state, label, url, text, f"{state}-statutes")
+            if len(text) > 300:
+                save_verbatim(state, label, src, text, f"{state}-statutes")
                 n += 1
                 if n < 3:
                     print(f"  [ok]   {label[:30]:30}  {len(text)} chars")
