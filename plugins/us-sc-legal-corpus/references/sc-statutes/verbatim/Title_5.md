@@ -1,0 +1,409 @@
+# SC — Title 5
+
+**Source:** <https://www.scstatehouse.gov/code/t05c001.php>
+**Plugin:** `us-sc-legal-corpus`
+**Pulled:** 2026-06-05
+
+---
+
+﻿
+
+ Code of Laws - Title 5 - Chapter 1- - MUNICIPAL CORPORATIONS 
+
+ -->
+
+ Your browser does not support JavaScript! This page will not render correctly. 
+
+ * Recipient of
+the Notable State Documents Award
+by the
+South Carolina
+State Library. -->
+
+Searches and data queries will be unavailable beginning Friday, August 19, 2016, from 8:00 PM until Saturday, August 20th at 8:00 AM
+due to scheduled maintenance. -->
+
+ In order to improve your experience using this website, please upgrade your browser . 
+
+ Home 
+
+ Senate 
+
+ House 
+
+ Committee Postings and Reports 
+
+ Legislative Council 
+
+ Citizens' Interest 
+
+ Publications 
+
+  Staff Portal -->
+  Staff Portal -->
+  Staff Portal 
+  Staff Portal -->
+
+ -->
+ 
+ Chamber Video
+
+ Senate 
+ (Audio Only) 
+
+ House 
+ (Audio Only) 
+
+ Video Schedule Video Archives 
+
+ How do I... 
+
+ Quick Search 
+
+ Search for: 
+ All -->
+  Full Site Search 
+  Bill Number 
+  Legislation 
+  Budget 
+  Code of Laws 
+  Code of Regulations 
+  Constitution 
+  House Journals 
+  Senate Journals 
+  LSA Bill Summary 
+
+ Find Your Legislators 
+
+ Contact Your Legislator 
+
+ Legislation 
+
+ Track Legislation 
+
+ Multi-Criteria Search 
+
+ Multi-Criteria Search 
+-->
+ Multi-Criteria Search 
+-->
+ Research 
+
+ South Carolina Law 
+ 
+ Ratifications & Acts 
+ Code of Laws 
+ Code of Regulations 
+ Constitution 
+ State Register 
+
+ Legislative Manual 
+
+ Purchase Manual -->
+ 
+ Purchase Manual -->
+ Purchase Manual 
+ View Manual Online 
+
+ Student Connection 
+
+ Visiting the State House 
+
+ Archives 
+
+ State Agency Websites 
+
+ State Agency Websites 
+-->
+ Media Links 
+
+ South Carolina Law > Code of Laws > Title 5 
+
+ South Carolina Code of Laws
+
+ Unannotated
+
+ Title 5 - MUNICIPAL CORPORATIONS 
+
+ CHAPTER 1 
+ Incorporation 
+
+ SECTION 5-1-10. Certified municipalities and established townships declared perpetual bodies politic and corporate.
+
+ (A) A municipality having a certificate of incorporation issued by the Secretary of State and a township established by act of the General Assembly are declared to be perpetual bodies, politic and corporate, entitled to exercise all the powers and privileges provided for municipal corporations in this State, and subject to all the limitations and liabilities provided for municipal corporations in this State.
+
+ (B) The incorporation or corporate capacity of a municipality or township established by act of the General Assembly must not be attacked in any court in this State except as provided by statute.
+
+HISTORY: 1962 Code SECTION 47-1; 1975 (59) 692; 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+Effect of Amendment
+
+ The 2005 amendment designated subsections (A) and (B); in subsection (A), added "provided for municipal corporations in this State" following "privileges"; and made nonsubstantive language changes throughout.
+
+ SECTION 5-1-20. Definitions.
+
+ As used in Chapters 1 through 17 of this title, unless the context clearly indicates otherwise:
+
+ (1) "Municipality" means a city or town issued a certificate of incorporation, or township created by act of the General Assembly.
+
+ (2) "Publicly-owned property" means any federally-owned, state-owned, or county-owned land or water area.
+
+HISTORY: 1962 Code SECTION 47-10.1; 1975 (59) 692; 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+Effect of Amendment
+
+ The 2005 amendment rewrote the introductory statement, designated paragraphs (1) and (2), made nonsubstantive language changes in paragraph (1), and added paragraph (2).
+
+ SECTION 5-1-22. Public policy for incorporation of publicly-owned property established.
+
+ The General Assembly finds and declares the following to be the public policy of the State of South Carolina:
+
+ (1) publicly-owned property may be incorporated or annexed by a municipality as provided by the state's statutory law; however, publicly-owned property is for the benefit of all citizens of the State and is not the exclusive territory of any one municipality; and
+
+ (2) incorporation or annexation of publicly-owned property does not confer or convey to a municipality control over the publicly-owned property that in any way:
+
+ (a) interferes with the superior authority of the federal, state, or county government; or
+
+ (b) prevents an area seeking to be incorporated from using the publicly- owned property to establish contiguity as provided in Section 5-1-30(A)(4).
+
+HISTORY: 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+ SECTION 5-1-24. Application for incorporation; contents; review.
+
+ (A) After June 30, 2005, citizens of an area seeking municipal incorporation shall file an application for incorporation with the Secretary of State's office containing:
+
+ (1) a petition setting out the corporate limits proposed for the municipality and the number of inhabitants residing within the proposed corporate limits, and signed by fifteen percent of the qualified electors who reside within the proposed municipality; and
+
+ (2) documentation concerning the minimum service standard incorporation requirements as provided in Section 5-1-30.
+
+ (B) Upon receipt of a filing for a proposed municipal incorporation, the Secretary of State shall transfer a copy of the filing to the Joint Legislative Committee on Municipal Incorporation for review.
+
+HISTORY: 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+ SECTION 5-1-26. Joint Legislative Committee on Municipal Incorporation created; membership; terms; chairman; committee staff.
+
+ (A) The Joint Legislative Committee on Municipal Incorporation is created to review the petition and documentation submitted by an area seeking municipal incorporation and to make a recommendation to the Secretary of State whether the area meets the minimum service standard incorporation requirements as provided in Section 5-1-30.
+
+ (B) The committee consists of seven members:
+
+ (1) two Senators appointed by the President of the Senate;
+
+ (2) two members of the House of Representatives appointed by the Speaker of the House of Representatives;
+
+ (3) one person appointed by the Governor;
+
+ (4) one city manager or elected city official appointed by the President of the Senate from a list of three persons recommended by the Municipal Association of South Carolina; and
+
+ (5) one county council member or county manager or administrator appointed by the Speaker of the House of Representatives from a list of three persons recommended by the South Carolina Association of Counties.
+
+ (C) The members are appointed to serve terms of two years, initially beginning on July 1, 2005, and until their successors are appointed and qualify. A vacancy must be filled in the same manner as the original appointment for the unexpired term.
+
+ (D) The committee shall elect a chairman from its membership for a one-year term. The position of chairman rotates among the members.
+
+ (E) The committee meets at times and places as it may determine.
+
+ (F) Staff for the committee must be provided by the President of the Senate and Speaker of the House of Representatives.
+
+HISTORY: 2005 Act No. 77, SECTION 1, eff July 1, 2005; 2019 Act No. 1 (S.2), SECTIONS 29.A, 29.B, 30, eff January 31, 2019.
+
+Editor's Note
+
+ 2005 Act No. 77, SECTION 3, provides as follows:
+
+ "The provisions of this act take effect July 1, 2005; however, the appointment of the members of the Joint Legislative Committee on Municipal Incorporation may be made upon signature by the Governor."
+
+Effect of Amendment
+
+ 2019 Act No. 1, SECTION 29.A, in (B)(1), substituted "President of the Senate" for "President Pro Tempore of the Senate".
+
+ 2019 Act No. 1, SECTION 29.B, in (B)(4), substituted "President of the Senate" for "President Pro Tempore of the Senate".
+
+ 2019 Act No. 1, SECTION 30, in (F), substituted "President of the Senate" for "President Pro Tempore of the Senate".
+
+ SECTION 5-1-30. Prerequisites to issuance of corporate certificate to proposed municipality.
+
+ (A) Before issuing a corporate certificate to a proposed municipality, the Secretary of State shall determine based on the filing submitted and the recommendation of the Joint Legislative Committee on Municipal Incorporation whether the proposed municipality meets the following requirements:
+
+ (1) the area seeking to be incorporated has a population density of at least three hundred persons a square mile according to the latest official United States Census, except as provided in subsections (B) through (E);
+
+ (2) no part of the area is within five miles of the boundary of an active incorporated municipality, except as provided in subsections (B) through (E);
+
+ (3) the area seeking to be incorporated has filed a service feasibility study that has been reviewed by the Joint Legislative Committee on Municipal Incorporation and approved by the Secretary of State;
+
+ (4) the area proposed to be incorporated is contiguous as defined and as described in this item. "Contiguous" means adjacent properties that share a continuous border. If a publicly-owned property intervenes between two areas proposed to be incorporated together, which but for the intervening publicly-owned property would be adjacent and share a continuous border, the intervening publicly-owned property does not destroy contiguity;
+
+ (5) the area seeking to be incorporated has filed a proposal for providing either directly or indirectly a substantially similar level of law enforcement services to the area's existing law enforcement coverage prior to seeking incorporation; and
+
+ (6) the area seeking to be incorporated has filed a proposal demonstrating that at least three of the following services, either directly or by contract, will be provided to the incorporated area no later than the first day of the third fiscal year following the effective date of incorporation:
+
+ (a) fire protection at a minimum service level required in regulations promulgated by the South Carolina Fire Marshal;
+
+ (b) solid waste collection and disposal;
+
+ (c) water supply, water distribution, or both;
+
+ (d) wastewater collection and treatment;
+
+ (e) storm water collection and disposal;
+
+ (f) enforcement of building, housing, plumbing, and electrical codes;
+
+ (g) planning and zoning;
+
+ (h) recreational facilities and programs; or
+
+ (i) street lighting.
+
+ (B)(1) When an area seeking incorporation has petitioned pursuant to Chapter 17 the nearest incorporated municipality to be annexed to the municipality, and has been refused annexation by the municipality for six months, or when the population of the area seeking incorporation exceeds seven thousand persons, then the provision of the five-mile limitation of this section does not apply to the area.
+
+ (2) For purposes of item (1) of this subsection, a refusal to annex the area by the municipality includes a statement from the municipality that the area does not meet the statutory requirements for annexation.
+
+ (C) The five-mile limit does not apply when the boundaries of the area seeking incorporation are within five miles of the boundaries of two different incorporated municipalities in two separate counties other than the county within which the area seeking incorporation lies, and when the boundaries of the proposed municipality are more than five miles from the boundaries of the nearest incorporated municipality that lies within the same county within which the proposed municipality lies, and when the land area of the territory seeking incorporation exceeds one-fourth of the land area of the nearest incorporated municipality.
+
+ (D) The population requirements do not apply to areas bordering on and being within two miles of the Atlantic Ocean and to all sea islands bounded on at least one side by the Atlantic Ocean, both of which have a minimum of one hundred fifty dwelling units and at least an average of one dwelling unit for each three acres of land within the area and for which petitions for incorporation contain the signatures of at least fifteen percent of the qualified electors of the respective areas seeking incorporation.
+
+ (E) The five-mile limit does not apply to counties with a population according to the latest official United States Census of less than fifty-one thousand.
+
+HISTORY: 1962 Code SECTION 47-2; 1975 (59) 692; 1991 Act No. 7, SECTION 1; 2000 Act No. 250, SECTION 1; 2005 Act No. 77, SECTION 1, eff July 1, 2005; 2006 Act No. 239, SECTION 1, eff March 15, 2006.
+
+Editor's Note
+
+ 2006 Act No. 239, SECTION 2, provides as follows:
+
+ "By passing this act, the General Assembly intends and declares that any regulations passed by the State Law Enforcement Division to comply with the requirements of Act 77 of 2005 do not for any past, present, or future time represent or establish any minimum level of law enforcement service requirements for existing municipalities or towns or areas seeking to incorporate as municipalities or towns."
+
+Effect of Amendment
+
+ The 2005 amendment rewrote this section.
+
+ The 2006 amendment rewrote subsection (A)(5) to require a proposal for a substantially similar level of law enforcement.
+
+ SECTION 5-1-40. Joint Legislative Committee on Municipal Incorporation recommendation; submission of subsequent application.
+
+ (A) The Joint Legislative Committee on Municipal Incorporation shall return the copy of filing to the Secretary of State with a written decision of its recommendation concerning the application for municipal incorporation.
+
+ (B) The Secretary of State shall provide the applicant with a copy of the committee's written decision.
+
+ (C) A recommendation by the committee or a determination by the Secretary of State that the requirements of Section 5-1-30 have not been met does not preclude the area seeking from submitting a subsequent application.
+
+HISTORY: 1962 Code SECTION 47-3; 1975 (59) 692; 2000 Act No. 250, SECTION 2; 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+Effect of Amendment
+
+ The 2005 amendment rewrote this section.
+
+ SECTION 5-1-50. Issuance of commission by Secretary of State authorizing incorporation election; questions to be voted on; initial governing body.
+
+ (A)(1) After receipt of a recommendation from the Joint Legislative Committee on Municipal Incorporation, the Secretary of State shall determine whether the requirements of Section 5-1-30 have been met. If the Secretary of State determines that the requirements of Section 5-1-30 have been met, he shall issue to three or more persons residing in the area of the proposed municipality, a commission empowering them to:
+
+ (a) hold an election not less than twenty days nor more than ninety days after the issuance of the commission; and
+
+ (b) appoint three managers of election who shall conduct the election.
+
+ (2) Notice of the election must be published in a newspaper of general circulation in the community or by posting in three public places within the area sought to be incorporated which contains detailed information concerning the election. The notice must be published or posted not less than five nor more than fifteen days before the date of the election.
+
+ (B)(1) At such election, all registered electors living in the area sought to be incorporated must be allowed to vote on the following questions:
+
+ (a) incorporation;
+
+ (b) name of the municipality;
+
+ (c) the form of government;
+
+ (d) method of election as prescribed in Section 5-15-20;
+
+ (e) whether the election is partisan or nonpartisan; and
+
+ (f) the terms of the mayor and council members.
+
+ (2) When any of the above questions proposed in an election contain more than two options, the option receiving the highest number of votes will prevail.
+
+ (3) If a community votes in favor of incorporation pursuant to this section and selects a form of government in an election, notwithstanding the results of the selections made by the voters as to questions (d), (e), and (f) in item (1) of this subsection, the initial governing body of the incorporated municipality consists of four council members and a mayor, all elected at large in a nonpartisan election for terms of two years.
+
+ (C) The managers of election shall conduct the election, unless otherwise provided for in this chapter, according to the general law governing the conduct of special elections mutatis mutandi.
+
+HISTORY: 1962 Code SECTION 47-4; 1975 (59) 692; 1977 Act No. 152; 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+Editor's Note
+
+ It would appear that the word "or" should appear in the second sentence of the first paragraph of this section between the words "community by."
+
+Effect of Amendment
+
+ The 2005 amendment designated the subsections; rewrote subsection (A)(1) to provide for the recommendation of the Joint Legislative Committee on Municipal Incorporation and determination by the Secretary of State as to whether the requirements of SECTION 5-1-30 have been met; and made nonsubstantive language changes throughout.
+
+ SECTION 5-1-60. Election managers' sworn returns of election results.
+
+ The managers of the election shall make their sworn returns of the result of the election to the commissioners. The returns must show the total number of those voting in the election, together with the number of those voting on each question proposed.
+
+HISTORY: 1962 Code SECTION 47-5; 1975 (59) 692; 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+Effect of Amendment
+
+ The 2005 amendment made nonsubstantive changes.
+
+ SECTION 5-1-70. Certification of results by commissioners; issuance of certificate of incorporation by Secretary of State.
+
+ The commissioners shall certify the result of the election under oath to the Secretary of State, and if the result is in favor of incorporation, the Secretary of State shall issue a certificate of incorporation to the municipality and the municipality has all the privileges, powers, and immunities and are subject to the limitations provided by law.
+
+HISTORY: 1962 Code SECTION 47-6; 1975 (59) 692; 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+Effect of Amendment
+
+ The 2005 amendment made nonsubstantive changes.
+
+ SECTION 5-1-80. Incorporation fees.
+
+ Before delivery of a certificate of incorporation, the Secretary of State shall require the production of a receipt from the State Treasurer for the payment of the following incorporation fees for municipalities with a population:
+
+ (1) of one thousand or less, one hundred dollars;
+
+ (2) between one thousand and five thousand, three hundred dollars;
+
+ (3) over five thousand, six hundred dollars.
+
+HISTORY: 1962 Code SECTION 47-7; 1975 (59) 692; 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+Effect of Amendment
+
+ The 2005 amendment made nonsubstantive language and format changes.
+
+ SECTION 5-1-90. Certificate of incorporation effective upon election of municipal officers.
+
+ The certificate of incorporation must be issued to the commissioners who immediately shall provide for the election of municipal officers pursuant to Chapter 15 and in accordance with the certificate as to form of government. Until the municipal officers are elected and qualify, the certificate of incorporation does not become effective and the powers of the municipality must be exercised only by the municipal council when the municipal council is created by election.
+
+HISTORY: 1962 Code SECTION 47-8; 1975 (59) 692; 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+Effect of Amendment
+
+ The 2005 amendment made nonsubstantive changes.
+
+ SECTION 5-1-100. Forfeiture, surrender or cancellation of certificate.
+
+ (A) When following its incorporation a municipality's population has decreased to less than fifty inhabitants, the certificate of the municipality must be automatically forfeited and void. If a majority of the registered electors of a municipality files a petition requesting the municipal certificate be surrendered with the municipal council, the council shall order an election to determine the question, at which election all qualified electors of the municipality must be permitted to vote, and if two-thirds of those voting vote in favor of surrendering the certificate, the council shall certify the result to the Secretary of State, who shall cancel the certificate issued to the municipality.
+
+ (B) If the Secretary of State determines that any previously incorporated municipality is neither performing municipal services nor collecting taxes or other revenues and has not held an election during the past four years, he shall cancel the certificate of the municipality.
+
+HISTORY: 1962 Code SECTION 47-9; 1975 (59) 692; 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+Effect of Amendment
+
+ The 2005 amendment made nonsubstantive language changes.
+
+ SECTION 5-1-110. Time limit for bringing suit challenging incorporation procedures of municipal corporation.
+
+ A suit to challenge the incorporation procedures of a municipal corporation pursuant to the provisions of Chapters 1 through 17 must be brought within sixty days after the issuance of the certificate of incorporation.
+
+HISTORY: 1962 Code SECTION 47-10; 1975 (59) 692; 2005 Act No. 77, SECTION 1, eff July 1, 2005.
+
+Effect of Amendment
+
+ The 2005 amendment made nonsubstantive changes.
+
+ South Carolina Legislative Services Agency * 223 Blatt Building * 1105 Pendleton Street * Columbia, SC 29201 
+
+ Disclaimer * Policies * Photo Credits * Contact Us 
+
+ Legislative Services Agency
+
+ h t t p : / / w w w . s c s t a t e h o u s e . g o v
