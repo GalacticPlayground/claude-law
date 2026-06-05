@@ -1,0 +1,327 @@
+# Revised Code of Washington - Major Chapter Index
+
+Official source: <https://apps.leg.wa.gov/rcw/>
+
+The RCW is organized by title and chapter. This index prioritizes titles and chapters most likely to recur in Washington civil, consumer, family, criminal, housing, administrative, and local-government work. Verify current text and effective dates against the official RCW site.
+
+## Core Government, Interpretation, and Courts
+
+- Title 1 - General Provisions
+  - Chapter 1.04 - Rules of construction
+  - Chapter 1.08 - Statute Law Committee and Code Reviser
+  - Chapter 1.12 - Statutes, generally
+  - Chapter 1.16 - General definitions
+  - Chapter 1.20 - General provisions
+- Title 2 - Courts of Record
+  - Chapter 2.04 - Supreme Court
+  - Chapter 2.06 - Court of Appeals
+  - Chapter 2.08 - Superior courts
+  - Chapter 2.12 - Superior court judges
+  - Chapter 2.20 - Magistrates
+  - Chapter 2.24 - Court commissioners
+  - Chapter 2.28 - Powers of courts and judicial officers
+  - Chapter 2.32 - Clerks of court
+  - Chapter 2.36 - Juries
+  - Chapter 2.40 - Interpreters
+  - Chapter 2.42 - Interpreters in legal proceedings
+  - Chapter 2.48 - State Bar Act
+  - Chapter 2.50 - Legal aid
+- Title 3 - District Courts
+  - Chapter 3.02 - District court organization
+  - Chapter 3.30 - District court districts and judges
+  - Chapter 3.34 - District judges
+  - Chapter 3.46 - Municipal departments
+  - Chapter 3.50 - Municipal courts
+  - Chapter 3.62 - Court costs
+  - Chapter 3.66 - Jurisdiction and venue
+  - Chapter 3.70 - Small claims
+  - Chapter 3.74 - Civil procedure
+- Title 5 - Evidence
+  - Chapter 5.40 - Proof; general provisions
+  - Chapter 5.44 - Public documents and records
+  - Chapter 5.45 - Uniform Business Records as Evidence Act
+  - Chapter 5.46 - Uniform Photographic Copies of Business and Public Records as Evidence Act
+  - Chapter 5.50 - Witnesses; competency
+  - Chapter 5.56 - Compelling attendance of witnesses
+  - Chapter 5.60 - Witnesses; privilege
+  - Chapter 5.64 - Depositions
+  - Chapter 5.66 - Uniform Judicial Notice of Foreign Law Act
+
+## Civil Procedure, Remedies, and Enforcement
+
+- Title 4 - Civil Procedure
+  - Chapter 4.04 - General provisions
+  - Chapter 4.08 - Parties to actions
+  - Chapter 4.12 - Venue
+  - Chapter 4.16 - Limitation of actions
+  - Chapter 4.20 - Survival and wrongful death
+  - Chapter 4.22 - Contributory fault
+  - Chapter 4.24 - Special rights of action and special immunities
+  - Chapter 4.28 - Commencement of actions
+  - Chapter 4.32 - Pleadings
+  - Chapter 4.36 - General rules of pleading
+  - Chapter 4.40 - Trial
+  - Chapter 4.44 - Trial before court
+  - Chapter 4.48 - Trial by jury
+  - Chapter 4.52 - Referees
+  - Chapter 4.56 - Judgments
+  - Chapter 4.64 - Entry of judgments
+  - Chapter 4.68 - Costs
+  - Chapter 4.72 - Vacation and modification of judgments
+  - Chapter 4.84 - Costs
+  - Chapter 4.88 - Appeals
+  - Chapter 4.92 - Actions and claims against state
+  - Chapter 4.96 - Actions against political subdivisions
+  - Chapter 4.100 - Wrongly convicted persons
+  - Chapter 4.105 - Uniform Public Expression Protection Act
+- Title 6 - Enforcement of Judgments
+  - Chapter 6.01 - General provisions
+  - Chapter 6.13 - Homesteads
+  - Chapter 6.15 - Personal property exemptions
+  - Chapter 6.17 - Executions
+  - Chapter 6.21 - Sales under execution
+  - Chapter 6.25 - Attachment
+  - Chapter 6.27 - Garnishment
+  - Chapter 6.32 - Proceedings supplemental to execution
+  - Chapter 6.36 - Uniform Enforcement of Foreign Judgments Act
+  - Chapter 6.40 - Uniform Foreign-Country Money Judgments Recognition Act
+- Title 7 - Special Proceedings and Actions
+  - Chapter 7.04A - Uniform Arbitration Act
+  - Chapter 7.05 - Uniform Mediation Act
+  - Chapter 7.06 - Mandatory arbitration of civil actions
+  - Chapter 7.07 - Uniform Collaborative Law Act
+  - Chapter 7.08 - Trial of contested election
+  - Chapter 7.16 - Certiorari, mandamus, and prohibition
+  - Chapter 7.21 - Contempt of court
+  - Chapter 7.24 - Uniform Declaratory Judgments Act
+  - Chapter 7.28 - Ejectment and quieting title
+  - Chapter 7.40 - Injunctions
+  - Chapter 7.48 - Nuisance
+  - Chapter 7.60 - Receivers
+  - Chapter 7.64 - Uniform Correction or Clarification of Defamation Act
+  - Chapter 7.68 - Crime victims compensation
+  - Chapter 7.70 - Medical malpractice
+  - Chapter 7.75 - Dispute resolution centers
+  - Chapter 7.90 - Sexual assault protection orders
+  - Chapter 7.92 - Stalking protection orders
+  - Chapter 7.94 - Extreme risk protection orders
+  - Chapter 7.105 - Civil protection orders
+  - Chapter 7.120 - Uniform Public Expression Protection Act cross-reference workflows
+- Title 12 - District Court Civil Procedure
+  - Chapter 12.04 - Commencement of actions
+  - Chapter 12.08 - Pleadings
+  - Chapter 12.12 - Trial
+  - Chapter 12.16 - Judgment
+  - Chapter 12.20 - Appeals
+  - Chapter 12.28 - Small claims
+  - Chapter 12.36 - Costs
+  - Chapter 12.40 - Small claims
+
+## Commercial, Consumer, Labor, and Business Law
+
+- Title 19 - Business Regulations; Miscellaneous
+  - Chapter 19.16 - Collection agencies
+  - Chapter 19.36 - Contracts and credit agreements requiring writing
+  - Chapter 19.52 - Interest; usury
+  - Chapter 19.86 - Consumer Protection Act
+  - Chapter 19.105 - Credit services organizations
+  - Chapter 19.108 - Uniform Trade Secrets Act
+  - Chapter 19.122 - Underground utilities
+  - Chapter 19.134 - Unclaimed property in utility deposits
+  - Chapter 19.146 - Mortgage Broker Practices Act
+  - Chapter 19.148 - Mortgage loan servicing
+  - Chapter 19.150 - Self-service storage facilities
+  - Chapter 19.182 - Fair Credit Reporting Act
+  - Chapter 19.190 - Commercial electronic mail
+  - Chapter 19.200 - Data breach notification
+  - Chapter 19.230 - Uniform Money Services Act
+  - Chapter 19.255 - Personal information
+  - Chapter 19.290 - Consumer data privacy and related protections
+- Title 23B - Washington Business Corporation Act
+- Title 24 - Corporations and Associations
+- Title 25 - Partnerships
+- Title 30A - Washington Commercial Bank Act
+- Title 31 - Miscellaneous Loan Agencies
+- Title 33 - Savings and Loan Associations
+- Title 49 - Labor Regulations
+  - Chapter 49.12 - Industrial welfare
+  - Chapter 49.17 - Washington Industrial Safety and Health Act
+  - Chapter 49.46 - Minimum wage
+  - Chapter 49.48 - Wages; payment; collection
+  - Chapter 49.52 - Wages; deductions; contributions; rebates
+  - Chapter 49.60 - Washington Law Against Discrimination
+  - Chapter 49.76 - Domestic violence leave
+  - Chapter 49.78 - Family leave
+- Title 62A - Uniform Commercial Code
+  - Article 1 - General provisions
+  - Article 2 - Sales
+  - Article 2A - Leases
+  - Article 3 - Negotiable instruments
+  - Article 4 - Bank deposits and collections
+  - Article 4A - Funds transfers
+  - Article 5 - Letters of credit
+  - Article 7 - Documents of title
+  - Article 8 - Investment securities
+  - Article 9A - Secured transactions
+
+## Family, Probate, Property, Housing, and Real Estate
+
+- Title 11 - Probate and Trust Law
+  - Chapter 11.04 - Descent and distribution
+  - Chapter 11.12 - Wills
+  - Chapter 11.20 - Custody, proof, and probate of wills
+  - Chapter 11.28 - Letters testamentary and administration
+  - Chapter 11.40 - Claims against estate
+  - Chapter 11.48 - Personal representatives
+  - Chapter 11.76 - Settlement of estates
+  - Chapter 11.88 - Guardianship
+  - Chapter 11.96A - Trust and estate dispute resolution
+  - Chapter 11.98 - Trusts
+  - Chapter 11.130 - Uniform Guardianship, Conservatorship, and Other Protective Arrangements Act
+- Title 13 - Juvenile Courts and Juvenile Offenders
+  - Chapter 13.04 - Basic juvenile court act
+  - Chapter 13.32A - Family reconciliation
+  - Chapter 13.34 - Dependency and termination
+  - Chapter 13.40 - Juvenile Justice Act
+  - Chapter 13.50 - Records
+- Title 26 - Domestic Relations
+  - Chapter 26.04 - Marriage
+  - Chapter 26.09 - Dissolution, legal separation, parenting, and support
+  - Chapter 26.10 - Nonparental actions for child custody
+  - Chapter 26.12 - Family court
+  - Chapter 26.16 - Rights and liabilities of married persons
+  - Chapter 26.18 - Child support enforcement
+  - Chapter 26.19 - Child support schedule
+  - Chapter 26.21A - Uniform Interstate Family Support Act
+  - Chapter 26.23 - State support registry
+  - Chapter 26.26A - Uniform Parentage Act
+  - Chapter 26.27 - Uniform Child Custody Jurisdiction and Enforcement Act
+  - Chapter 26.33 - Adoption
+  - Chapter 26.44 - Abuse of children
+  - Chapter 26.50 - Domestic violence prevention
+  - Chapter 26.55 - Uniform Recognition and Enforcement of Canadian Domestic Violence Protection Orders Act
+- Title 58 - Boundaries and Plats
+- Title 59 - Landlord and Tenant
+  - Chapter 59.04 - Tenancies
+  - Chapter 59.12 - Forcible entry and detainer
+  - Chapter 59.18 - Residential Landlord-Tenant Act
+  - Chapter 59.20 - Manufactured/Mobile Home Landlord-Tenant Act
+  - Chapter 59.21 - Mobile home relocation assistance
+  - Chapter 59.22 - Mobile home parks
+  - Chapter 59.28 - Federally assisted housing
+  - Chapter 59.30 - Manufactured housing communities dispute resolution
+  - Chapter 59.34 - Landlord mitigation program
+- Title 60 - Liens
+  - Chapter 60.04 - Mechanics' and materialmen's liens
+  - Chapter 60.08 - Chattel liens
+  - Chapter 60.10 - Personal property liens
+  - Chapter 60.11 - Crop liens
+  - Chapter 60.40 - Attorney liens
+  - Chapter 60.44 - Hospital liens
+  - Chapter 60.72 - Landlord lien for rent
+- Title 61 - Mortgages, Deeds of Trust, and Real Estate Contracts
+  - Chapter 61.12 - Foreclosure of real estate mortgages
+  - Chapter 61.16 - Assignment and satisfaction of mortgages
+  - Chapter 61.24 - Deeds of trust
+  - Chapter 61.30 - Real estate contracts
+  - Chapter 61.34 - Distressed property conveyances
+- Title 64 - Real Property and Conveyances
+  - Chapter 64.04 - Conveyances
+  - Chapter 64.06 - Seller disclosures
+  - Chapter 64.08 - Acknowledgments
+  - Chapter 64.12 - Waste and trespass
+  - Chapter 64.28 - Joint tenancy
+  - Chapter 64.32 - Horizontal property regimes
+  - Chapter 64.34 - Condominium Act
+  - Chapter 64.38 - Homeowners' associations
+  - Chapter 64.50 - Construction defect actions
+  - Chapter 64.55 - Qualified warranty
+  - Chapter 64.90 - Washington Uniform Common Interest Ownership Act
+
+## Criminal, Traffic, Public Safety, and Corrections
+
+- Title 9 - Crimes and Punishments
+  - Chapter 9.41 - Firearms and dangerous weapons
+  - Chapter 9.68A - Sexual exploitation of children
+  - Chapter 9.73 - Privacy, violating right of
+  - Chapter 9.94A - Sentencing Reform Act
+  - Chapter 9.96 - Restoration of civil rights
+- Title 9A - Washington Criminal Code
+  - Chapter 9A.04 - Preliminary provisions
+  - Chapter 9A.08 - Principles of liability
+  - Chapter 9A.16 - Defenses
+  - Chapter 9A.20 - Classification and designation of crimes
+  - Chapter 9A.28 - Anticipatory offenses
+  - Chapter 9A.32 - Homicide
+  - Chapter 9A.36 - Assault
+  - Chapter 9A.40 - Kidnapping, unlawful imprisonment, custodial interference
+  - Chapter 9A.44 - Sex offenses
+  - Chapter 9A.46 - Harassment
+  - Chapter 9A.48 - Arson, reckless burning, malicious mischief
+  - Chapter 9A.52 - Burglary and trespass
+  - Chapter 9A.56 - Theft and robbery
+  - Chapter 9A.60 - Fraud
+  - Chapter 9A.72 - Perjury and interference with official proceedings
+  - Chapter 9A.76 - Obstructing government operations
+  - Chapter 9A.82 - Criminal profiteering
+  - Chapter 9A.84 - Public disturbance
+- Title 10 - Criminal Procedure
+  - Chapter 10.01 - General provisions
+  - Chapter 10.05 - Deferred prosecution
+  - Chapter 10.14 - Harassment
+  - Chapter 10.19 - Bail and appearance bonds
+  - Chapter 10.21 - Bail determinations
+  - Chapter 10.31 - Warrants and arrest
+  - Chapter 10.37 - Accusatory pleadings
+  - Chapter 10.40 - Arraignment
+  - Chapter 10.43 - Former jeopardy
+  - Chapter 10.46 - Evidence and witnesses
+  - Chapter 10.52 - Trial
+  - Chapter 10.55 - Search and seizure
+  - Chapter 10.58 - Evidence
+  - Chapter 10.61 - Verdicts
+  - Chapter 10.64 - Judgments and sentences
+  - Chapter 10.73 - Criminal appeals
+  - Chapter 10.77 - Criminally insane
+  - Chapter 10.82 - Collection and disposition of fines and costs
+  - Chapter 10.97 - Criminal records privacy
+  - Chapter 10.99 - Domestic violence
+- Title 46 - Motor Vehicles
+  - Chapter 46.12 - Certificates of title
+  - Chapter 46.16A - Registration
+  - Chapter 46.20 - Drivers' licenses
+  - Chapter 46.29 - Financial responsibility
+  - Chapter 46.30 - Mandatory liability insurance
+  - Chapter 46.52 - Accidents
+  - Chapter 46.55 - Towing and impoundment
+  - Chapter 46.61 - Rules of the road
+  - Chapter 46.63 - Disposition of traffic infractions
+  - Chapter 46.64 - Enforcement
+  - Chapter 46.65 - Habitual traffic offenders
+
+## Administrative, Public Records, Municipal, and Land Use
+
+- Title 34 - Administrative Law
+  - Chapter 34.05 - Administrative Procedure Act
+  - Chapter 34.12 - Office of Administrative Hearings
+- Title 35 - Cities and Towns
+- Title 35A - Optional Municipal Code
+- Title 36 - Counties
+- Title 39 - Public Contracts and Indebtedness
+- Title 40 - Public Documents, Records, and Publications
+  - Chapter 40.14 - Preservation and destruction of public records
+- Title 42 - Public Officers and Agencies
+  - Chapter 42.17A - Campaign disclosure and contribution
+  - Chapter 42.20 - Misconduct of public officers
+  - Chapter 42.23 - Code of ethics for municipal officers
+  - Chapter 42.30 - Open Public Meetings Act
+  - Chapter 42.40 - State employee whistleblower protection
+  - Chapter 42.52 - Ethics in public service
+  - Chapter 42.56 - Public Records Act
+  - Chapter 42.62 - Public records exemptions accountability committee
+- Title 43 - State Government
+- Title 70 - Public Health and Safety
+- Title 70A - Environmental Health and Safety
+- Title 82 - Excise Taxes
+- Title 84 - Property Taxes
+- Title 90 - Water Rights; Environment

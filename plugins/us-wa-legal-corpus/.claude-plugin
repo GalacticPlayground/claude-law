@@ -1,0 +1,7 @@
+{
+  "name": "us-wa-legal-corpus",
+  "venue_scope": "washington-state",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
