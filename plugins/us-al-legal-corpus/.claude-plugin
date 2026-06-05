@@ -1,0 +1,10 @@
+{
+  "name": "us-al-legal-corpus",
+  "description": "Comprehensive corpus of Alabama state law \u2014 Code of Alabama, state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "alabama",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
