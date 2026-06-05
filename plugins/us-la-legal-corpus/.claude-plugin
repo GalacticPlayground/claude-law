@@ -1,0 +1,10 @@
+{
+  "name": "us-la-legal-corpus",
+  "description": "Comprehensive corpus of Louisiana state law \u2014 Louisiana Revised Statutes (LRS), state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "louisiana",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
