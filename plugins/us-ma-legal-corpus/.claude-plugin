@@ -1,0 +1,10 @@
+{
+  "name": "us-ma-legal-corpus",
+  "description": "Comprehensive corpus of Massachusetts state law \u2014 Massachusetts General Laws (MGL), state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "massachusetts",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
