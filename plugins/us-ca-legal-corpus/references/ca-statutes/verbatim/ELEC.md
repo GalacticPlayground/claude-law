@@ -1,0 +1,145 @@
+# CA — ELEC
+
+**Source:** <https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=ELEC>
+**Plugin:** `us-ca-legal-corpus`
+**Pulled:** 2026-06-05
+
+---
+
+California Codes: Codes Tree - Elections Code - ELEC 
+
+ skip to content 
+
+ home 
+
+ accessibility 
+
+ FAQ 
+
+ feedback 
+
+ sitemap 
+
+ login 
+
+ x 
+
+ Quick Search: 
+ 
+ Bill Number 
+ Bill Keyword 
+
+ Home 
+
+ Bill Information 
+
+ California Law 
+
+ Publications 
+
+ Other Resources 
+
+ My Subscriptions 
+
+ My Favorites 
+
+ California Law 
+ >>
+
+ Code Search 
+ >>
+
+ ELEC
+
+ ELEC
+
+ Code: Select Code 
+ Article: Section: 
+
+ Code: Select Code 
+ All 
+ BPC 
+ CIV 
+ CCP 
+ COM 
+ CORP 
+ EDC 
+ ELEC 
+ EVID 
+ FAM 
+ FIN 
+ FGC 
+ FAC 
+ GOV 
+ HNC 
+ HSC 
+ INS 
+ LAB 
+ MVC 
+ PEN 
+ PROB 
+ PCC 
+ PRC 
+ PUC 
+ RTC 
+ SHC 
+ UIC 
+ VEH 
+ WAT 
+ WIC 
+ Section: 
+ Keyword(s): 
+
+ Code Search 
+ 
+ Text Search 
+
+ Expand all 
+
+ Elections Code - ELEC
+ 
+ ELECTIONS CODE 
+ 
+ DIVISION 0.5. PRELIMINARY PROVISIONS [ 1 - 362 ] 
+ 
+ DIVISION 1. ESTABLISHED ELECTION DATES [ 1000 - 1500 ] 
+ 
+ DIVISION 2. VOTERS [ 2000 - 2700 ] 
+ 
+ DIVISION 3. VOTE BY MAIL VOTING, NEW RESIDENT, AND NEW CITIZEN VOTING [ 3000 - 3123 ] 
+ 
+ DIVISION 4. MAIL BALLOT ELECTIONS [ 4000 - 4108 ] 
+ 
+ DIVISION 5. POLITICAL PARTY QUALIFICATIONS [ 5000 - 5200 ] 
+ 
+ DIVISION 6. PRESIDENTIAL ELECTIONS [ 6000 - 6954 ] 
+ 
+ DIVISION 7. POLITICAL PARTY ORGANIZATION AND CENTRAL COMMITTEE ELECTIONS [ 7000 - 7928 ] 
+ 
+ DIVISION 8. NOMINATIONS [ 8000 - 8903 ] 
+ 
+ DIVISION 9. MEASURES SUBMITTED TO THE VOTERS [ 9000 - 9611 ] 
+ 
+ DIVISION 10. LOCAL, SPECIAL, VACANCY, AND CONSOLIDATED ELECTIONS [ 10000 - 10735 ] 
+ 
+ DIVISION 11. RECALL ELECTIONS [ 11000 - 11386 ] 
+ 
+ DIVISION 12. PREELECTION PROCEDURES [ 12000 - 12327 ] 
+ 
+ DIVISION 13. BALLOTS, SAMPLE BALLOTS, AND VOTER PAMPHLETS [ 13000 - 13600 ] 
+ 
+ DIVISION 14. ELECTION DAY PROCEDURES [ 14000 - 14443 ] 
+ 
+ DIVISION 15. SEMIFINAL OFFICIAL CANVASS, OFFICIAL CANVASS, RECOUNT, AND TIE VOTE PROCEDURES [ 15000 - 15702 ] 
+ 
+ DIVISION 16. ELECTIONS CONTESTS [ 16000 - 16940 ] 
+ 
+ DIVISION 17. RETENTION AND PRESERVATION OF ELECTION RECORDS [ 17000 - 17603 ] 
+ 
+ DIVISION 18. PENAL PROVISIONS [ 18000 - 18700 ] 
+ 
+ DIVISION 19. CERTIFICATION OF VOTING SYSTEMS [ 19001 - 19402 ] 
+ 
+ DIVISION 20. ELECTION CAMPAIGNS [ 20000 - 20520 ] 
+ 
+ DIVISION 21. STATE AND LOCAL REAPPORTIONMENT [ 21000 - 23004 ]
