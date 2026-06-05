@@ -1,0 +1,10 @@
+{
+  "name": "us-id-legal-corpus",
+  "description": "Comprehensive corpus of Idaho state law \u2014 Idaho Statutes, state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "idaho",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
