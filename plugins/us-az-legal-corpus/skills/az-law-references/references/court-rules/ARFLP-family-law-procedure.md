@@ -4,7 +4,7 @@
 - Canonical authority: https://www.azcourts.gov/rules/Recent-Amendments/Rules-of-Family-Law-Procedure
 - Fetched from: https://www.courtrules.net/arizona/az-family-law (courtrules.net mirror)
 - Rules: 146
-- Pulled: 2026-05-31
+- Pulled: 2026-06-05
 
 > Verbatim rule text mirrored from courtrules.net. The canonical publisher is the Arizona Supreme Court (azcourts.gov); verify against the current official text before filing.
 

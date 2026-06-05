@@ -4,7 +4,7 @@
 - Canonical authority: https://www.azcourts.gov/rules/Recent-Amendments/Justice-Court-Rules-of-Civil-Procedure
 - Fetched from: https://www.courtrules.net/arizona/az-justice-court-civil (courtrules.net mirror)
 - Rules: 53
-- Pulled: 2026-05-31
+- Pulled: 2026-06-05
 
 > Verbatim rule text mirrored from courtrules.net. The canonical publisher is the Arizona Supreme Court (azcourts.gov); verify against the current official text before filing.
 

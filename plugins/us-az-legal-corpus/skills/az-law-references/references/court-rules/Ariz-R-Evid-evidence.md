@@ -4,7 +4,7 @@
 - Canonical authority: https://www.azcourts.gov/rules/Recent-Amendments/Rules-of-Evidence
 - Fetched from: https://www.courtrules.net/arizona/az-evidence (courtrules.net mirror)
 - Rules: 71
-- Pulled: 2026-05-31
+- Pulled: 2026-06-05
 
 > Verbatim rule text mirrored from courtrules.net. The canonical publisher is the Arizona Supreme Court (azcourts.gov); verify against the current official text before filing.
 
