@@ -1,7 +1,7 @@
 # UTCR — Uniform Trial Court Rules
 
 > **Source:** https://www.courts.oregon.gov/rules/UTCR/2025_UTCR_including_amendments_effective_2026-03-09.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-06-05
 > **Format:** verbatim conversion of the official PDF source
 
 ---

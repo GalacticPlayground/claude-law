@@ -1,7 +1,7 @@
 # OEC — Oregon Evidence Code (ORS Chapter 40)
 
 > **Source:** https://www.oregonlegislature.gov/bills_laws/ors/ors040.html
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-06-05
 > **Format:** verbatim conversion of the official HTML source
 
 ---

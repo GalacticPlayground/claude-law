@@ -1,7 +1,7 @@
 # ORPC — Oregon Rules of Professional Conduct
 
 > **Source:** https://www.osbar.org/_docs/rulesregs/orpc.pdf
-> **Fetched:** 2026-05-14
+> **Fetched:** 2026-06-05
 > **Format:** verbatim conversion of the official PDF source
 
 ---
