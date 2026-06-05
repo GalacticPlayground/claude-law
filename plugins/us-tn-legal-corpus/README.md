@@ -16,11 +16,21 @@ Covers Tennessee's three trial-court layers — **Circuit Court** (law), **Chanc
 
 ## Reference corpora
 
-Under `skills/tn-law-references/references/` (each corpus dir has its own README): `tn-statutes-debt/` (verbatim Tenn. Code Ann.; the statutory **text is public domain** — LexisNexis copyrights only the *annotations* — and is mirrored from Justia), `court-rules/`, plus the shared federal symlinks.
+Reference files live under `references/`:
+
+- `tn_statutes/` — 25 targeted Tennessee Code chapter files plus `_manifest.json`. The statutory **text is public domain**; LexisNexis copyrights only the annotations. The puller targets Justia's structured free mirror and writes pointer stubs when the source cannot be fetched.
+- `tn_court_rules/` — 5 Tennessee rule-set files plus `_manifest.json`: Rules of Civil Procedure, Evidence, Appellate Procedure, Supreme Court Rules, and a pointer file for county local rules.
 
 ## Refresh
 
-`scripts/pull_tn_statutes.py` (curl_cffi; stubs on 403) · `scripts/pull_tn_court_rules.py`. Plugin scripts: `format-check.py` · `case-calendar.py`.
+From the repository root:
+
+```bash
+python3 scripts/pull_tn_statutes.py --out plugins/us-tn-legal-corpus/references/tn_statutes/
+python3 scripts/pull_tn_court_rules.py --out plugins/us-tn-legal-corpus/references/tn_court_rules/
+```
+
+`pull_tn_statutes.py` uses `curl_cffi` when available and falls back to stubs on blocked fetches. `pull_tn_court_rules.py` walks Tennessee AOC HTML rule pages and writes stubs when fetches fail. Plugin scripts: `format-check.py` · `case-calendar.py`.
 
 ---
 Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
