@@ -591,6 +591,8 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument(
         "--out",
+        "--output",
+        dest="out",
         type=Path,
         default=Path(
             "plugins/us-co-legal-corpus/skills/co-law-references/"

@@ -365,7 +365,7 @@ def process_title(title: int, articles: List[Tuple[str, str]],
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--out", type=Path, default=Path(
+    ap.add_argument("--out", "--output", dest="out", type=Path, default=Path(
         "plugins/us-co-legal-corpus/skills/co-law-references/"
         "references/co-statutes-debt"
     ))
