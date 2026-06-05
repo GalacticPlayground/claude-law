@@ -3,7 +3,7 @@
 from the Indiana General Assembly's authoritative publication site and
 convert each (title, article) pair to verbatim Markdown.
 
-Output: plugins/us-in-legal-corpus/skills/in-law-references/references/in-statutes-debt/
+Output: plugins/us-in-legal-corpus/references/in_statutes/
 One MD file per (title, article) pair, named `IC-<title>-<article>.md`
 (e.g. `IC-34-11.md` for Title 34 Article 11 — Limitations).
 
@@ -42,7 +42,7 @@ Dependencies: Python 3.10+ stdlib only. No third-party libs.
 
 Usage:
     python3 scripts/pull_indiana_statutes.py \\
-        --out plugins/us-in-legal-corpus/skills/in-law-references/references/in-statutes-debt \\
+        --out plugins/us-in-legal-corpus/references/in_statutes/ \\
         --workers 4
 
     # Refresh one (title, article) pair:
@@ -568,10 +568,8 @@ def write_article_md(out_dir: Path, year: int, result: ArticleResult) -> Path:
             "`scripts/pull_indiana_statutes.py` will replace it with "
             "verbatim section text once upstream access is restored "
             "or an `IGA_API_KEY` secret is wired into the refresh "
-            "workflow. See "
-            "`plugins/us-in-legal-corpus/skills/in-law-references/"
-            "references/in-statutes-debt/README.md` for the "
-            "current corpus status."
+            "workflow. See `plugins/us-in-legal-corpus/README.md` "
+            "for the current corpus status."
         )
     else:
         if result.error:
@@ -631,8 +629,7 @@ def process_one(
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--out", type=Path, default=Path(
-        "plugins/us-in-legal-corpus/skills/in-law-references/"
-        "references/in-statutes-debt"
+        "plugins/us-in-legal-corpus/references/in_statutes"
     ))
     ap.add_argument("--year", type=int, default=DEFAULT_YEAR,
                     help=f"Indiana Code edition year (default {DEFAULT_YEAR}).")

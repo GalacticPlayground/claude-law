@@ -2,7 +2,7 @@
 """Pull Indiana court-rule canonical sources and convert each to a
 verbatim Markdown file.
 
-Output: plugins/us-in-legal-corpus/skills/in-law-references/references/court-rules/
+Output: plugins/us-in-legal-corpus/references/in_court_rules/
 
 Seven outputs total:
 
@@ -42,7 +42,7 @@ poppler-utils`) for `pdftotext`. Stdlib for everything else.
 
 Usage:
     python3 scripts/pull_indiana_rules.py \\
-        --out plugins/us-in-legal-corpus/skills/in-law-references/references/court-rules
+        --out plugins/us-in-legal-corpus/references/in_court_rules/
 
     # Refresh one rule set:
     python3 scripts/pull_indiana_rules.py --only Evidence-Rules
@@ -330,10 +330,7 @@ def main() -> int:
     ap.add_argument(
         "--out",
         type=Path,
-        default=Path(
-            "plugins/us-in-legal-corpus/skills/in-law-references/"
-            "references/court-rules"
-        ),
+        default=Path("plugins/us-in-legal-corpus/references/in_court_rules"),
         help="Output directory for the corpus (default matches the "
              "canonical IN plugin location).",
     )
