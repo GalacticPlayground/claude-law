@@ -1,0 +1,10 @@
+{
+  "name": "us-ga-legal-corpus",
+  "description": "Comprehensive corpus of Georgia state law \u2014 Official Code of Georgia (O.C.G.A.), state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "georgia",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
