@@ -1,24 +1,34 @@
-# us-or-legal-corpus — Oregon
+# Oregon — Legal Corpus Overview
 
-Draft and format pleadings, declarations, motions, and proposed orders for Oregon circuit courts.
+**Code Name:** Oregon Revised Statutes
+**Capital:** Salem
+**Court System:** Oregon Judicial Department
+**Highest Court:** Oregon Supreme Court
+**Plugin:** `us-or-legal-corpus`
+**Pulled:** 2026-06-05
 
-> **NOT LEGAL ADVICE.** Output is a drafting aid; verify every rule, deadline, and citation against current law before filing.
+## What this corpus contains
 
-## What it covers
+- **Statutes:** Canonical links to the Oregon Revised Statutes at official and mirrored sources, with a sample of verbatim text pulled for representative titles.
+- **Court rules:** Canonical links to the Oregon court rules (rules of civil/criminal/appellate procedure, evidence, local rules, etc.).
+- **Case law:** On-demand indexes — see `references/or-case-law.md`.
 
-Applies **UTCR 2.010** formatting; covers Multnomah County Circuit Court (Portland / Central Courthouse), Washington County Circuit Court (Hillsboro), and the most-populous counties' roll-up (Clackamas, Lane, Marion, Jackson, Deschutes, Linn, Benton, Yamhill, Polk, Douglas). The `or-consumer-debt` bundle covers FDCPA / Reg F / Oregon UTPA (ORS 646.605) / ORS 697 Collection Agency Registration / chain-of-title.
+## Sources
 
-Statute corpus: **35 ORS chapters / 5.6 MB**.
+### Statutes
+- **ORS** — <https://www.oregonlegislature.gov/bills_laws/ors/ors001.html>
 
-**Notable Oregon quirk:** no written interrogatories under ORCP without court order.
+### Court Rules
+- **Oregon Judicial Department** — <https://www.courts.oregon.gov/programs/utcr/Pages/index.aspx>
 
-## Reference corpora
+## Architecture
 
-Under `skills/or-law-references/references/` (each corpus dir has its own README): `or-ors-debt/` (ORS chapters), `court-rules/`, plus the shared `federal-debt-laws/` / `federal-bankruptcy/` / `ucc-model/` symlinks into `us-federal-debt-corpus`.
+This plugin follows the `*-legal-corpus/` convention. It is consumable by any cross-jurisdiction `*-consumer-debt`, `*-family-law`, or `*-pro-se` skills layer that wants the Oregon corpus as its venue-specific reference.
 
-## Refresh
+## Coverage targets
 
-`scripts/pull_oregon_ors.py` · `scripts/pull_oregon_rules.py`. Plugin scripts: `format-check.py` (UTCR 2.010) · `case-calendar.py` (ORCP 10 + ORS 187 holidays).
-
----
-Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
+- [x] Canonical statute index (links to all titles/chapters)
+- [ ] Verbatim statute text (sample for the most-litigated titles; expand quarterly)
+- [x] Court rules canonical link
+- [ ] Verbatim court rules (sample for the rules most-cited in consumer-debt / family-law / housing matters)
+- [x] Case law API index

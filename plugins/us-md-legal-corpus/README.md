@@ -1,25 +1,34 @@
-# Maryland State Legal Corpus
+# Maryland — Legal Corpus Overview
 
-Comprehensive, curated corpus of **Maryland** state law.
+**Code Name:** Maryland Code
+**Capital:** Annapolis
+**Court System:** Maryland Judicial Branch
+**Highest Court:** Maryland Supreme Court
+**Plugin:** `us-md-legal-corpus`
+**Pulled:** 2026-06-05
 
-## Coverage
-- **Maryland Code** — the state's statutory code
-- State-level administrative regulations
-- State precedent: Maryland Supreme Court + Court of Appeals
-- All embedded county/municipal law layers (Maryland county-by-county)
+## What this corpus contains
 
-## Structure
+- **Statutes:** Canonical links to the Maryland Code at official and mirrored sources, with a sample of verbatim text pulled for representative titles.
+- **Court rules:** Canonical links to the Maryland court rules (rules of civil/criminal/appellate procedure, evidence, local rules, etc.).
+- **Case law:** On-demand indexes — see `references/md-case-law.md`.
 
-```
-us-md-legal-corpus/
-  references/
-    md_statutes/             # Maryland Code organized by chapter
-    md_court_rules/          # Statewide + county-specific court rules
-  skills/                     # Subject matter + procedural + venue skills
-  .claude-plugin              # Plugin manifest
-  README.md
-```
+## Sources
 
-## How this works
-This plugin provides reference corpora for legal research and document production.
-All statutory/textual content is kept in `references/` as curated, sourced documents.
+### Statutes
+- **MD Code** — <https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&section=1-101>
+
+### Court Rules
+- **Maryland Judicial Branch** — <https://www.mdcourts.gov/rules>
+
+## Architecture
+
+This plugin follows the `*-legal-corpus/` convention. It is consumable by any cross-jurisdiction `*-consumer-debt`, `*-family-law`, or `*-pro-se` skills layer that wants the Maryland corpus as its venue-specific reference.
+
+## Coverage targets
+
+- [x] Canonical statute index (links to all titles/chapters)
+- [ ] Verbatim statute text (sample for the most-litigated titles; expand quarterly)
+- [x] Court rules canonical link
+- [ ] Verbatim court rules (sample for the rules most-cited in consumer-debt / family-law / housing matters)
+- [x] Case law API index

@@ -1,36 +1,34 @@
-# us-az-legal-corpus — Arizona
+# Arizona — Legal Corpus Overview
 
-Draft and format pleadings, declarations, motions, and proposed orders for Arizona Superior and Justice Courts.
+**Code Name:** Arizona Revised Statutes
+**Capital:** Phoenix
+**Court System:** Arizona Judicial Branch
+**Highest Court:** Arizona Supreme Court
+**Plugin:** `us-az-legal-corpus`
+**Pulled:** 2026-06-05
 
-> **NOT LEGAL ADVICE.** Output is a drafting aid; verify every rule, deadline, and citation against current law before filing.
+## What this corpus contains
 
-## What it covers
+- **Statutes:** Canonical links to the Arizona Revised Statutes at official and mirrored sources, with a sample of verbatim text pulled for representative titles.
+- **Court rules:** Canonical links to the Arizona court rules (rules of civil/criminal/appellate procedure, evidence, local rules, etc.).
+- **Case law:** On-demand indexes — see `references/az-case-law.md`.
 
-Applies **Ariz. R. Civ. P. 10 / 7.1** formatting (the Superior Court of Arizona caption, AZTurboCourt e-filing, line-numbering). Covers a dedicated **Maricopa County Superior Court** skill (Phoenix — the state's largest court, a designated Commercial Court program + compulsory-arbitration limit), a **Pima County Superior Court** skill (Tucson), and a Superior Court roll-up (`az-superior-courts`, the other 13 counties); the `az-justice-courts` skill for the limited-jurisdiction Justice Courts (limited civil + small claims + residential eviction "special detainer" under the separate **JCRCP** rule set — the high-volume consumer-debt + eviction forum); and `az-family-court` for the Family Department (separate **Arizona Rules of Family Law Procedure (ARFLP)**).
+## Sources
 
-**Six subject-matter bundles:** `az-consumer-debt` (FDCPA / Reg F / Arizona Consumer Fraud Act A.R.S. § 44-1521 / collection-agency licensing A.R.S. Title 32 ch. 9 / chain of title; *Mertola v. Santos* acceleration SOL; two-way fee-shifting A.R.S. § 12-341.01), `az-family-law` (community property A.R.S. § 25-211/§ 25-318, no-fault dissolution, covenant marriage § 25-901, legal decision-making/parenting time § 25-403, Arizona Child Support Guidelines, 2023 Spousal Maintenance Guidelines, no common-law marriage), `az-landlord-tenant` (ARLTA A.R.S. § 33-1301, special-detainer eviction § 33-1377, 5/10-day notices § 33-1368, security deposits § 33-1321, RPEA), `az-personal-injury` (pure comparative negligence § 12-2505, several liability / nonparty-at-fault § 12-2506, the constitutional prohibition on damages caps, public-entity 180-day notice § 12-821.01, med-mal expert affidavit § 12-2603), `az-employment` (Arizona Employment Protection Act § 23-1501, Arizona Civil Rights Act § 41-1461, Wage Act treble damages § 23-355, minimum wage § 23-363, non-compete under *Valley Medical Specialists v. Farber*, workers'-comp exclusive remedy § 23-1022; right-to-work), `az-commercial-disputes` (Maricopa Commercial Court, UCC, 2019 Arizona LLC Act § 29-3101, Arizona Uniform Trade Secrets Act § 44-401, UFTA § 44-1001, civil racketeering § 13-2314.04, fee-shifting § 12-341.01).
+### Statutes
+- **Arizona Revised Statutes** — <https://www.azleg.gov/arsDetail/?title=1>
 
-**28 SKILL.md files.** Follows the thin-skill architecture.
+### Court Rules
+- **Arizona Judicial Branch** — <https://www.azcourts.gov/rules/>
 
-## Reference corpora
+## Architecture
 
-Top-level generated corpora live under `references/`:
+This plugin follows the `*-legal-corpus/` convention. It is consumable by any cross-jurisdiction `*-consumer-debt`, `*-family-law`, or `*-pro-se` skills layer that wants the Arizona corpus as its venue-specific reference.
 
-- `az_statutes/` — 12 curated Arizona Revised Statutes topic files plus `_manifest.json`. Current files are pointer stubs because the June 4, 2026 pull could not retrieve verbatim text from `azleg.gov` in this runtime.
-- `az_court_rules/` — ARCP, Ariz. R. Evid., ARFLP, and JCRCP files plus `_manifest.json`. Current files are pointer stubs because the June 4, 2026 pull could not retrieve rule text from the `courtrules.net` mirror in this runtime; `azcourts.gov` remains the canonical authority.
+## Coverage targets
 
-The skill-hosted `skills/az-law-references/references/` directory contains curated Arizona reference maps and shared federal symlinks used by `az-law-references`.
-
-## Refresh
-
-Populate the generated corpora with:
-
-```bash
-HTTPS_PROXY=http://192.168.8.21:9091 python3 scripts/pull_arizona_statutes.py --out plugins/us-az-legal-corpus/references/az_statutes/
-HTTPS_PROXY=http://192.168.8.21:9091 python3 scripts/pull_arizona_rules.py --out plugins/us-az-legal-corpus/references/az_court_rules/
-```
-
-Plugin scripts: `format-check.py` (Ariz. R. Civ. P. 10 / 7.1) · `case-calendar.py` (Ariz. R. Civ. P. 6 + A.R.S. § 1-301 holidays).
-
----
-Part of the [claude-legal](../../README.md) marketplace. Skills are indexed in [CLAUDE.md](../../CLAUDE.md).
+- [x] Canonical statute index (links to all titles/chapters)
+- [ ] Verbatim statute text (sample for the most-litigated titles; expand quarterly)
+- [x] Court rules canonical link
+- [ ] Verbatim court rules (sample for the rules most-cited in consumer-debt / family-law / housing matters)
+- [x] Case law API index

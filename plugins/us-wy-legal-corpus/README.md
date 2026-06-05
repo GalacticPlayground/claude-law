@@ -1,25 +1,34 @@
-# Wyoming State Legal Corpus
+# Wyoming — Legal Corpus Overview
 
-Comprehensive, curated corpus of **Wyoming** state law.
+**Code Name:** Wyoming Statutes
+**Capital:** Cheyenne
+**Court System:** Wyoming Judicial Branch
+**Highest Court:** Wyoming Supreme Court
+**Plugin:** `us-wy-legal-corpus`
+**Pulled:** 2026-06-05
 
-## Coverage
-- **Wyoming Statutes** — the state's statutory code
-- State-level administrative regulations
-- State precedent: Wyoming Supreme Court + Court of Appeals
-- All embedded county/municipal law layers (Wyoming county-by-county)
+## What this corpus contains
 
-## Structure
+- **Statutes:** Canonical links to the Wyoming Statutes at official and mirrored sources, with a sample of verbatim text pulled for representative titles.
+- **Court rules:** Canonical links to the Wyoming court rules (rules of civil/criminal/appellate procedure, evidence, local rules, etc.).
+- **Case law:** On-demand indexes — see `references/wy-case-law.md`.
 
-```
-us-wy-legal-corpus/
-  references/
-    wy_statutes/             # Wyoming Statutes organized by chapter
-    wy_court_rules/          # Statewide + county-specific court rules
-  skills/                     # Subject matter + procedural + venue skills
-  .claude-plugin              # Plugin manifest
-  README.md
-```
+## Sources
 
-## How this works
-This plugin provides reference corpora for legal research and document production.
-All statutory/textual content is kept in `references/` as curated, sourced documents.
+### Statutes
+- **Wyo. Stat.** — <https://wyoleg.gov/statutes/compress/title1.pdf>
+
+### Court Rules
+- **Wyoming Judicial Branch** — <https://www.courts.state.wy.us/CRT/courtrules.html>
+
+## Architecture
+
+This plugin follows the `*-legal-corpus/` convention. It is consumable by any cross-jurisdiction `*-consumer-debt`, `*-family-law`, or `*-pro-se` skills layer that wants the Wyoming corpus as its venue-specific reference.
+
+## Coverage targets
+
+- [x] Canonical statute index (links to all titles/chapters)
+- [ ] Verbatim statute text (sample for the most-litigated titles; expand quarterly)
+- [x] Court rules canonical link
+- [ ] Verbatim court rules (sample for the rules most-cited in consumer-debt / family-law / housing matters)
+- [x] Case law API index

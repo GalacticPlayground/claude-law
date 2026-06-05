@@ -1,25 +1,34 @@
-# Iowa State Legal Corpus
+# Iowa — Legal Corpus Overview
 
-Comprehensive, curated corpus of **Iowa** state law.
+**Code Name:** Iowa Code
+**Capital:** Des Moines
+**Court System:** Iowa Judicial Branch
+**Highest Court:** Iowa Supreme Court
+**Plugin:** `us-ia-legal-corpus`
+**Pulled:** 2026-06-05
 
-## Coverage
-- **Iowa Code** — the state's statutory code
-- State-level administrative regulations
-- State precedent: Iowa Supreme Court + Court of Appeals
-- All embedded county/municipal law layers (Iowa county-by-county)
+## What this corpus contains
 
-## Structure
+- **Statutes:** Canonical links to the Iowa Code at official and mirrored sources, with a sample of verbatim text pulled for representative titles.
+- **Court rules:** Canonical links to the Iowa court rules (rules of civil/criminal/appellate procedure, evidence, local rules, etc.).
+- **Case law:** On-demand indexes — see `references/ia-case-law.md`.
 
-```
-us-ia-legal-corpus/
-  references/
-    ia_statutes/             # Iowa Code organized by chapter
-    ia_court_rules/          # Statewide + county-specific court rules
-  skills/                     # Subject matter + procedural + venue skills
-  .claude-plugin              # Plugin manifest
-  README.md
-```
+## Sources
 
-## How this works
-This plugin provides reference corpora for legal research and document production.
-All statutory/textual content is kept in `references/` as curated, sourced documents.
+### Statutes
+- **Iowa Code** — <https://www.legis.iowa.gov/law/statutory>
+
+### Court Rules
+- **Iowa Judicial Branch** — <https://www.iowacourts.gov/iowa-courts/supreme-court/rules/>
+
+## Architecture
+
+This plugin follows the `*-legal-corpus/` convention. It is consumable by any cross-jurisdiction `*-consumer-debt`, `*-family-law`, or `*-pro-se` skills layer that wants the Iowa corpus as its venue-specific reference.
+
+## Coverage targets
+
+- [x] Canonical statute index (links to all titles/chapters)
+- [ ] Verbatim statute text (sample for the most-litigated titles; expand quarterly)
+- [x] Court rules canonical link
+- [ ] Verbatim court rules (sample for the rules most-cited in consumer-debt / family-law / housing matters)
+- [x] Case law API index
