@@ -1,0 +1,24 @@
+{
+  "name": "us-federal-legal-corpus",
+  "version": "0.2.0",
+  "venue_scope": "nation-wide",
+  "description": "Nationwide reference corpus for core United States federal legal materials, including the U.S. Constitution, an index of United States Code titles, and a CFR title-to-agency map.",
+  "author": {
+    "name": "codearranger",
+    "url": "https://github.com/codearranger"
+  },
+  "homepage": "https://github.com/codearranger/claude-legal",
+  "repository": "https://github.com/codearranger/claude-legal",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "federal-law",
+    "united-states-code",
+    "usc",
+    "code-of-federal-regulations",
+    "cfr",
+    "constitution",
+    "nationwide",
+    "reference-corpus"
+  ]
+}
