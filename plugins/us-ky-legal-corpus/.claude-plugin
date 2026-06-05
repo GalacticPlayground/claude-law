@@ -1,0 +1,10 @@
+{
+  "name": "us-ky-legal-corpus",
+  "description": "Comprehensive corpus of Kentucky state law \u2014 Kentucky Revised Statutes (KRS), state-level administrative regulations, state precedent, plus all embedded county/municipal layers.",
+  "version": "0.1.0",
+  "category": "corpus",
+  "venue_scope": "kentucky",
+  "dependencies": [
+    "us-federal-legal-corpus"
+  ]
+}
