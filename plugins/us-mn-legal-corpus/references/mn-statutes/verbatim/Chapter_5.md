@@ -8,237 +8,237 @@
 
 Ch. 5 MN Statutes
 
- Minnesota Legislature 
- 
- Advanced
- Search 
- Search Legislature 
- 
- Search 
+Minnesota Legislature
 
- Office of the Revisor of Statutes 
+Advanced
+Search
+Search Legislature
 
- Office of the Revisor of Statutes
+Search
 
- 2025 Minnesota Statutes 
+Office of the Revisor of Statutes
 
- CONSTITUTIONAL OFFICES AND DUTIES 
+Office of the Revisor of Statutes
 
- Chapter 5
+2025 Minnesota Statutes
 
- 2025 Minnesota Statutes
+CONSTITUTIONAL OFFICES AND DUTIES
 
- Authenticate 
+Chapter 5
 
- PDF 
+2025 Minnesota Statutes
 
- Resources
+Authenticate
 
- Search Minnesota Statutes 
+PDF
 
- About Minnesota Statutes 
+Resources
 
- 2025 Statutes New, Amended or Repealed 
+Search Minnesota Statutes
 
- 2025 Table of Chapters 
+About Minnesota Statutes
 
- 2025 Statutes Topics (Index) 
+2025 Statutes New, Amended or Repealed
 
- Chapter 5
+2025 Table of Chapters
 
- Table of Sections 
+2025 Statutes Topics (Index)
 
- Full Chapter Text 
+Chapter 5
 
- Version List 
+Table of Sections
 
- This chapter has been affected by law enacted during the 2026 Regular Session. More info... 
+Full Chapter Text
 
- 5.08 has been amended by Chapter 119, Article 2, Section 5 
+Version List
 
- 5.31 has been repealed by Chapter 102, Section 18 
+This chapter has been affected by law enacted during the 2026 Regular Session. More info...
 
- Note: see session law sections for effective dates.
+5.08 has been amended by Chapter 119, Article 2, Section 5
 
- CHAPTER 5. SECRETARY OF STATE
+5.31 has been repealed by Chapter 102, Section 18
 
- Table of Sections 
+Note: see session law sections for effective dates.
 
- Section 
- Headnote 
+CHAPTER 5. SECRETARY OF STATE
 
- 5.001 
- 
- DEFINITIONS. 
+Table of Sections
 
- 5.002 
- 
- EMAIL ADDRESSES. 
+Section
+Headnote
 
- 5.01 
- 
- CUSTODIAN OF RECORDS AND STATE SEAL. 
+5.001
+|
+DEFINITIONS. |
 
- 5.02 
- 
- ASSISTANTS. 
+5.002
+|
+EMAIL ADDRESSES. |
 
- 5.03 
- 
- [Repealed, 2009 c 98 s 36 ] 
+5.01
+|
+CUSTODIAN OF RECORDS AND STATE SEAL. |
 
- 5.04 
- 
- [Repealed, 1961 c 561 s 17 ] 
+5.02
+|
+ASSISTANTS. |
 
- 5.05 
- 
- DUTIES OF SECRETARY. 
+5.03
+|
+[Repealed, 2009 c 98 s 36 ] |
 
- 5.06 
- 
- AMENDMENT TO UNITED STATES CONSTITUTION; RATIFICATION, NOTICE. 
+5.04
+|
+[Repealed, 1961 c 561 s 17 ] |
 
- 5.07 
- 
- OATHS, ACKNOWLEDGMENTS. 
+5.05
+|
+DUTIES OF SECRETARY. |
 
- 5.071 
- 
- SECRETARY OF STATE'S DUTIES. 
+5.06
+|
+AMENDMENT TO UNITED STATES CONSTITUTION; RATIFICATION, NOTICE. |
 
- 5.08 
- 
- LEGISLATIVE MANUAL. 
-
- 5.09 
- 
- LEGISLATIVE MANUAL, STUDENTS' EDITION. 
-
- 5.11 
- 
- [Repealed, 1984 c 618 s 61 ] 
-
- 5.12 
- 
- CERTIFICATES AND CERTIFICATIONS. 
-
- 5.13 
- 
- [Repealed, 1988 c 686 art 5 s 10 ] 
-
- 5.14 
- 
- TRANSACTION SURCHARGE. 
-
- 5.15 
- 
- ONLINE SIGNATURES, ACKNOWLEDGMENT OR NOTARIZATION ON DOCUMENTS; PENALTIES OF PERJURY. 
-
- 5.16 
- 
- CORRECTION OF DOCUMENTS. 
-
- 5.17 
- 
- SUBSTANTIAL COMPLIANCE. 
+5.07
+|
+OATHS, ACKNOWLEDGMENTS. |
 
- 5.18 
- 
- [Repealed, 1989 c 236 s 12 ] 
+5.071
+|
+SECRETARY OF STATE'S DUTIES. |
 
- 5.19 
- 
- RETURN OF DOCUMENTS. 
+5.08
+|
+LEGISLATIVE MANUAL. |
+
+5.09
+|
+LEGISLATIVE MANUAL, STUDENTS' EDITION. |
+
+5.11
+|
+[Repealed, 1984 c 618 s 61 ] |
+
+5.12
+|
+CERTIFICATES AND CERTIFICATIONS. |
+
+5.13
+|
+[Repealed, 1988 c 686 art 5 s 10 ] |
+
+5.14
+|
+TRANSACTION SURCHARGE. |
+
+5.15
+|
+ONLINE SIGNATURES, ACKNOWLEDGMENT OR NOTARIZATION ON DOCUMENTS; PENALTIES OF PERJURY. |
+
+5.16
+|
+CORRECTION OF DOCUMENTS. |
+
+5.17
+|
+SUBSTANTIAL COMPLIANCE. |
 
- 5.21 
- 
- [Repealed, 1980 c 615 s 61 ] 
+5.18
+|
+[Repealed, 1989 c 236 s 12 ] |
 
- 5.22 
- 
- [Repealed, 2008 c 203 s 14 ] 
+5.19
+|
+RETURN OF DOCUMENTS. |
 
- 5.23 
- 
- REMOVAL OF DOCUMENTS FROM PUBLIC RECORD. 
+5.21
+|
+[Repealed, 1980 c 615 s 61 ] |
 
- 5.24 
- 
- SUPPLEMENTAL FILING AND INFORMATION SERVICES. 
+5.22
+|
+[Repealed, 2008 c 203 s 14 ] |
 
- 5.25 
- 
- SERVICE OF PROCESS. 
+5.23
+|
+REMOVAL OF DOCUMENTS FROM PUBLIC RECORD. |
 
- 5.26 
- 
- GOOD STANDING. 
+5.24
+|
+SUPPLEMENTAL FILING AND INFORMATION SERVICES. |
 
- 5.29 
- 
- GLOBAL FILINGS. 
+5.25
+|
+SERVICE OF PROCESS. |
 
- 5.30 
- 
- HELP AMERICA VOTE ACT ACCOUNT. 
+5.26
+|
+GOOD STANDING. |
 
- 5.305 
- 
- VOTING OPERATIONS, TECHNOLOGY, AND ELECTION RESOURCES ACCOUNT. 
+5.29
+|
+GLOBAL FILINGS. |
 
- 5.31 
- 
- STATEWIDE VOTER REGISTRATION SYSTEM. 
+5.30
+|
+HELP AMERICA VOTE ACT ACCOUNT. |
 
- 5.32 
- 
- MS 2010 [Expired, 2007 c 148 art 2 s 6 ; 2009 c 101 art 2 s 13 ] 
+5.305
+|
+VOTING OPERATIONS, TECHNOLOGY, AND ELECTION RESOURCES ACCOUNT. |
 
- 5.33 
- 
- RETURNING COMBAT VETERANS. 
+5.31
+|
+STATEWIDE VOTER REGISTRATION SYSTEM. |
 
- 5.34 
- 
- ANNUAL RENEWAL FILINGS. 
+5.32
+|
+MS 2010 [Expired, 2007 c 148 art 2 s 6 ; 2009 c 101 art 2 s 13 ] |
 
- 5.35 
- 
- AUTOMATIC NAME RESERVATION. 
+5.33
+|
+RETURNING COMBAT VETERANS. |
 
- 5.36 
- 
- REGISTERED AGENT FOR SERVICE OF PROCESS. 
+5.34
+|
+ANNUAL RENEWAL FILINGS. |
 
- 5.37 
- 
- NAMES INCLUDING WORDS: BANK, TRUST, INSURANCE. 
+5.35
+|
+AUTOMATIC NAME RESERVATION. |
 
- 5.38 
- 
- AUTHORITY TO ACCEPT FUNDS. 
+5.36
+|
+REGISTERED AGENT FOR SERVICE OF PROCESS. |
 
- 5.39 
- 
- PREFILING DOCUMENT REVIEW. 
+5.37
+|
+NAMES INCLUDING WORDS: BANK, TRUST, INSURANCE. |
 
- 5.41 
- 
- STUDY ABROAD PROGRAMS. 
+5.38
+|
+AUTHORITY TO ACCEPT FUNDS. |
 
- 5.50 
- 
- EXECUTIVE ORDER LIST SERVE. 
+5.39
+|
+PREFILING DOCUMENT REVIEW. |
 
- 5.51 
- 
- EXPENSES OF SECRETARY OF STATE-ELECT. 
+5.41
+|
+STUDY ABROAD PROGRAMS. |
 
- 5.60 
- 
- LATE RENEWAL PENALTY. 
+5.50
+|
+EXECUTIVE ORDER LIST SERVE. |
 
- Official Publication of the State of Minnesota
+5.51
+|
+EXPENSES OF SECRETARY OF STATE-ELECT. |
 
- Revisor of Statutes
+5.60
+|
+LATE RENEWAL PENALTY. |
+
+Official Publication of the State of Minnesota
+
+Revisor of Statutes
