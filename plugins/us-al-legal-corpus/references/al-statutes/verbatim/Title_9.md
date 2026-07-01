@@ -1,26 +1,57 @@
 # AL — Title 9
 
-**Source:** <https://law.justia.com/codes/alabama/title-9/>
+**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/alabama/title-9/>
 **Plugin:** `us-al-legal-corpus`
 **Pulled:** 2026-06-05
 
 ---
 
-Alabama Code Title 9 (2025) - Conservation and Natural Resources. :: 2025 Code of Alabama :: U.S. Codes and Statutes :: U.S. Law :: Justia
+Alabama Code Title 9 (2023) - Conservation and Natural Resources. :: 2023 Code of Alabama :: US Codes and Statutes :: US Law :: Justia
+
+3 captures
+24 May 2024 - 10 Jun 2026
+
+Dec |
+JAN |
+Feb |
+
+|
+13 |
+|
+
+2024 |
+2025 |
+2026 |
+
+success
+
+fail
+
+About this capture
+
+COLLECTED BY
+
+Collection: Common Crawl
+
+Web crawl data from Common Crawl.
+
+TIMESTAMPS
+
+The Wayback Machine - https://web.archive.org/web/20250113214633/https://law.justia.com/codes/alabama/title-9/
 
 Go to Previous Versions
 of
 this Title
 
-2025 Code of Alabama (here)
+2023 Code of Alabama (here)
 
-2024 Code of Alabama
+2022 Code of Alabama
 
-2023 Code of Alabama
+2021 Code of Alabama
 
 View All Versions
 
-2025 Code of Alabama
+2023 Code of Alabama
 Title 9 - Conservation and Natural Resources.
 
 Previous
@@ -77,8 +108,6 @@ Chapter 14D - Sale and Lease of State Park Property.
 
 Chapter 14E - Gulf State Park Projects.
 
-Chapter 14F - Alabama State Parks and Historical Facilities.
-
 Chapter 15 - Public Lands.
 
 Chapter 16 - Mineral Resources.
@@ -100,6 +129,10 @@ Previous
 Next
 
 Disclaimer: These codes may not be the most recent version. Alabama may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
+
+This site is protected by reCAPTCHA and the Google
+Privacy Policy and
+Terms of Service apply.
 
 Toggle button
 
@@ -183,11 +216,11 @@ Employment
 
 More...
 
-U.S. Federal Law
+US Federal Law
 
-U.S. Constitution
+US Constitution
 
-U.S. Code
+US Code
 
 Regulations
 
@@ -201,7 +234,7 @@ Dockets & Filings
 
 More...
 
-U.S. State Law
+US State Law
 
 State Constitutions
 
@@ -255,7 +288,7 @@ Testimonials
 
 More...
 
-© 2026 Justia
+© 2025 Justia
 
 Justia Connect
 Legal Portal
