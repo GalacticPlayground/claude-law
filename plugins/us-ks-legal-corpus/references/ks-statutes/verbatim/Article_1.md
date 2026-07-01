@@ -6,24 +6,24 @@
 
 ---
 
-Kansas Statutes 
+Kansas Statutes
 
- Skip to main content 
+Skip to main content
 
- 2026 Kansas Statutes
+2026 Kansas Statutes
 
- search 
- Search
+search
+Search
 
- Article 2. - STATE BOARD OF ACCOUNTANCY 
+Article 2. - STATE BOARD OF ACCOUNTANCY |
 
- Article 3. - LICENSURE, EXAMINATION AND REGISTRATION 
+Article 3. - LICENSURE, EXAMINATION AND REGISTRATION |
 
- Article 4. - GENERAL PROVISIONS 
+Article 4. - GENERAL PROVISIONS |
 
- Article 5. - QUALITY REVIEW OR PEER REVIEW PROGRAM 
+Article 5. - QUALITY REVIEW OR PEER REVIEW PROGRAM |
 
- © 2026 Revisor of Statutes, State of Kansas
+© 2026 Revisor of Statutes, State of Kansas
 
- arrow_upward 
- Top
+arrow_upward
+Top
