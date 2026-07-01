@@ -8,139 +8,154 @@
 
 OCIS Document Index 
 
- Index of Available Documents 
 
- Up One Level 
- Show 
- 1 2 3 4 5 Levels 
- Title 7. Blind Persons (STOKST07) Search 
 
- Chapter 1 - Services to the Blind
 
- 1. Repealed 
 
- 2. Repealed 
 
- 3. Repealed 
 
- 4. Repealed 
 
- 5. Repealed 
 
- 6. Repealed 
 
- 6.1. Repealed 
 
- 6.2. Repealed 
 
- 6.3. Repealed 
 
- 6.4. Repealed 
 
- 6.5. Repealed 
+Index of Available Documents
 
- 7. Repealed 
+| |
+Up One Level
+| Show 
+1 2 3 4 5 Levels | |
+Title 7. Blind Persons (STOKST07)
+Search
 
- 8. Special Library Services to Blind and Physically Handicapped Persons 
+Chapter 1 - Services to the Blind
 
- 11. Blind Persons - Canes, Color 
+1. Repealed
 
- 12. Duty of Drivers of Vehicles 
+2. Repealed
 
- 13. Penalty 
+3. Repealed
 
- 15. Blind Applicant - First Fifty Dollars of Income not Deemed Income 
+4. Repealed
 
- 16. Earned Income - What Included - Deductions 
+5. Repealed
 
- 17. Repealed 
+6. Repealed
 
- 19.1. Public Conveyances - Public Accommodations - Owner - Dog 
+6.1. Repealed
 
- 19.2. Penalty 
+6.2. Repealed
 
- Chapter 2 - Revolving Funds
+6.3. Repealed
 
- 21. Repealed 
+6.4. Repealed
 
- 22. Adult Blind Market Revolving Fund - Use - Expenditures 
+6.5. Repealed
 
- Chapter 3 - Relief
+7. Repealed
 
- 31. Repealed 
+8. Special Library Services to Blind and Physically Handicapped Persons
 
- 32. Repealed 
+11. Blind Persons - Canes, Color
 
- 33. Repealed 
+12. Duty of Drivers of Vehicles
 
- 34. Repealed 
+13. Penalty
 
- 35. Repealed 
+15. Blind Applicant - First Fifty Dollars of Income not Deemed Income
 
- 36. Repealed 
+16. Earned Income - What Included - Deductions
 
- 37. Repealed 
+17. Repealed
 
- 38. Repealed 
+19.1. Public Conveyances - Public Accommodations - Owner - Dog
 
- 39. Repealed 
+19.2. Penalty
 
- 40. Repealed 
+Chapter 2 - Revolving Funds
 
- 41. Repealed 
+21. Repealed
 
- 42. Repealed 
+22. Adult Blind Market Revolving Fund - Use - Expenditures
 
- 43. Repealed 
+Chapter 3 - Relief
 
- 44. Repealed 
+31. Repealed
 
- 45. Repealed 
+32. Repealed
 
- 46. Repealed 
+33. Repealed
 
- Chapter 4 - Employment
+34. Repealed
 
- 71. Activities to Promote Business Opportunities - Vending Facilities - No Gambling Machine 
+35. Repealed
 
- 72. Definitions 
+36. Repealed
 
- 73. Operation of Vending Facilities on State or County Property - Licenses - Free Space 
+37. Repealed
 
- 74. Repealed 
+38. Repealed
 
- 75. Set-aside Fund 
+39. Repealed
 
- 76. Repealed 
+40. Repealed
 
- 77. Repealed 
+41. Repealed
 
- 78. State Committee of Blind Vendors 
+42. Repealed
 
- 81. Repealed 
+43. Repealed
 
- 82. Repealed 
+44. Repealed
 
- 101. Repealed 
+45. Repealed
 
- 102. Repealed 
+46. Repealed
 
- 103. Repealed 
+Chapter 4 - Employment
 
- 104. Repealed 
+71. Activities to Promote Business Opportunities - Vending Facilities - No Gambling Machine
 
- 105. Repealed 
+72. Definitions
 
- 106. Repealed 
+73. Operation of Vending Facilities on State or County Property - Licenses - Free Space
 
- 107. Repealed 
+74. Repealed
 
- 108. Repealed 
+75. Set-aside Fund
 
- 109. Repealed 
+76. Repealed
 
- 110. Repealed 
+77. Repealed
 
- 111. Repealed 
+78. State Committee of Blind Vendors
 
- 112. Repealed
+81. Repealed
+
+82. Repealed
+
+101. Repealed
+
+102. Repealed
+
+103. Repealed
+
+104. Repealed
+
+105. Repealed
+
+106. Repealed
+
+107. Repealed
+
+108. Repealed
+
+109. Repealed
+
+110. Repealed
+
+111. Repealed
+
+112. Repealed

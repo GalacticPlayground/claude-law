@@ -8,263 +8,278 @@
 
 OCIS Document Index 
 
- Index of Available Documents 
 
- Up One Level 
- Show 
- 1 2 3 4 5 Levels 
- Title 13. Common Carriers (STOKST13) Search 
 
- Chapter 1 - General Provisions
 
- 1. Contract of Carriage 
 
- 2. Rules Governing Carriers without Reward 
 
- 3. Completion of Performance by Carrier without Reward 
 
- 4. Definition of Common Carrier 
 
- 5. Accept and Carry 
 
- 6. Preference in Time and Price to United States and State 
 
- 7. Start Time and Place 
 
- 8. Reasonable Compensation - Refusal 
 
- 9. Agents of Railroad and Express Companies Not to Knowingly Charge in Excess of Regular Rates 
 
- 10. Telegraph and Telephone Companies - Prohibition of Excessive Rate 
 
- 11. Rate Schedules - Inspection 
+Index of Available Documents
 
- 12. Violations - Misdemeanor 
+| |
+Up One Level
+| Show 
+1 2 3 4 5 Levels | |
+Title 13. Common Carriers (STOKST13)
+Search
 
- 13. Failure or Refusal to Show Rate Schedule - Misdemeanor 
+Chapter 1 - General Provisions
 
- 14. Obligations Cannot be Limited 
+1. Contract of Carriage
 
- 15. Common Carrier Can't be Exonerated by Any Agreement 
+2. Rules Governing Carriers without Reward
 
- 16. Accepting Same as Assenting 
+3. Completion of Performance by Carrier without Reward
 
- Chapter 2 - Carriers of Persons
+4. Definition of Common Carrier
 
- 31. Care Required of Gratuitous Carriers 
+5. Accept and Carry
 
- 32. Care and Skill Required for Carriers for Reward 
+6. Preference in Time and Price to United States and State
 
- 33. Safe and Fit Vehicles 
+7. Start Time and Place
 
- 34. Prohibition of Overcrowding Vehicle 
+8. Reasonable Compensation - Refusal
 
- 35. Usual and Reasonable Accommodations for Passengers 
+9. Agents of Railroad and Express Companies Not to Knowingly Charge in Excess of Regular Rates
 
- 36. Reasonable Rate of Speed - No Unreasonable Delay or Deviation from Route 
+10. Telegraph and Telephone Companies - Prohibition of Excessive Rate
 
- 37. Duty to Carry Reasonable Amount of Luggage - Charges for Excess Weight 
+11. Rate Schedules - Inspection
 
- 38. Definition of Luggage 
+12. Violations - Misdemeanor
 
- 39. Liability of Carrier for Luggage 
+13. Failure or Refusal to Show Rate Schedule - Misdemeanor
 
- 40. Delivery of Luggage 
+14. Obligations Cannot be Limited
 
- 41. Sufficient Number of Vehicles Required to Accommodate Passengers 
+15. Common Carrier Can't be Exonerated by Any Agreement
 
- 42. Every Passenger to be Provided a Seat - Overloading 
+16. Accepting Same as Assenting
 
- 43. Rules for Conduct - Enforcement of Same 
+Chapter 2 - Carriers of Persons
 
- 44. Demand for Fare 
+31. Care Required of Gratuitous Carriers
 
- 45. Procedure for Ejection of Passengers 
+32. Care and Skill Required for Carriers for Reward
 
- 46. Lien on Luggage for Payment of Entitled Fare 
+33. Safe and Fit Vehicles
 
- Chapter 3 - Carriers of Property
+34. Prohibition of Overcrowding Vehicle
 
- In General
+35. Usual and Reasonable Accommodations for Passengers
 
- 61. Definitions 
+36. Reasonable Rate of Speed - No Unreasonable Delay or Deviation from Route
 
- 62. Care and Diligence in Performance of Duties 
+37. Duty to Carry Reasonable Amount of Luggage - Charges for Excess Weight
 
- 63. Repealed 
+38. Definition of Luggage
 
- 64. Repealed 
+39. Liability of Carrier for Luggage
 
- 65. Repealed 
+40. Delivery of Luggage
 
- 66. Place of Delivery 
+41. Sufficient Number of Vehicles Required to Accommodate Passengers
 
- 67. Notice to Consignee - Warehouseman to Keep Pending Removal 
+42. Every Passenger to be Provided a Seat - Overloading
 
- 68. Exoneration from Liability 
+43. Rules for Conduct - Enforcement of Same
 
- 69. Repealed 
+44. Demand for Fare
 
- 70. Repealed 
+45. Procedure for Ejection of Passengers
 
- 71. Hotel Keepers and Warehousemen 
+46. Lien on Luggage for Payment of Entitled Fare
 
- Bills of Lading
+Chapter 3 - Carriers of Property
 
- 91. Repealed 
+In General
 
- 92. Repealed 
+61. Definitions
 
- 93. Repealed 
+62. Care and Diligence in Performance of Duties
 
- 94. Repealed 
+63. Repealed
 
- 95. Repealed 
+64. Repealed
 
- 96. Repealed 
+65. Repealed
 
- 97. Repealed 
+66. Place of Delivery
 
- Freightage
+67. Notice to Consignee - Warehouseman to Keep Pending Removal
 
- 111. Time for Payment 
+68. Exoneration from Liability
 
- 112. Liability of Consignor of Freight 
+69. Repealed
 
- 113. Liability of Consignee of Freight 
+70. Repealed
 
- 114. Natural Increase 
+71. Hotel Keepers and Warehousemen
 
- 115. Apportionment of Freightage 
+Bills of Lading
 
- 116. Apportionment on Acceptance of Part of Freight 
+91. Repealed
 
- 117. Apportionment According to Distance 
+92. Repealed
 
- 118. No Additional Compensation 
+93. Repealed
 
- Loss, Injury, or Delay
+94. Repealed
 
- 131. Liability of Consignor for Loss or Injury - Exception 
+95. Repealed
 
- 132. Liability for Negligence for Common Carrier 
+96. Repealed
 
- 133. Liability of Common Carrier for Delays 
+97. Repealed
 
- 134. Liability for Precious Metals and Other Valuables 
+Freightage
 
- 135. Repealed 
+111. Time for Payment
 
- 136. Repealed 
+112. Liability of Consignor of Freight
 
- Shipments of Coal
+113. Liability of Consignee of Freight
 
- 151. Shipment of Coal - Common Carrier to Issue Bill of Lading 
+114. Natural Increase
 
- 152. Weighing of Coal - Reweighing - Liability for Deficiency or Shortage 
+115. Apportionment of Freightage
 
- 153. Weight of Coal on Bill of Lading - Measure of Damages 
+116. Apportionment on Acceptance of Part of Freight
 
- 154. Weighing of Coal - Liability of Carrier 
+117. Apportionment According to Distance
 
- 155. Failure or Refusal to Weigh - False Weights - Penalties - Misdemeanor 
+118. No Additional Compensation
 
- 156. Coal Brought into State to be Weighed by Carrier at Nearest Track Scales 
+Loss, Injury, or Delay
 
- 157. Procedure to Weigh 
+131. Liability of Consignor for Loss or Injury - Exception
 
- Chapter 4 - Carriers of Messages
+132. Liability for Negligence for Common Carrier
 
- 171. Repealed 
+133. Liability of Common Carrier for Delays
 
- 172. Repealed 
+134. Liability for Precious Metals and Other Valuables
 
- 173. Repealed 
+135. Repealed
 
- 174. Repealed 
+136. Repealed
 
- 175. Repealed 
+Shipments of Coal
 
- 176. Repealed 
+151. Shipment of Coal - Common Carrier to Issue Bill of Lading
 
- Security of Communications Act
+152. Weighing of Coal - Reweighing - Liability for Deficiency or Shortage
 
- 176.1. Short Title 
+153. Weight of Coal on Bill of Lading - Measure of Damages
 
- 176.2. Definitions 
+154. Weighing of Coal - Liability of Carrier
 
- 176.3. Prohibited Acts - Felonies 
+155. Failure or Refusal to Weigh - False Weights - Penalties - Misdemeanor
 
- 176.4. Acts Not Prohibited 
+156. Coal Brought into State to be Weighed by Carrier at Nearest Track Scales
 
- 176.5. Seizure and Forfeiture of Certain Devices 
+157. Procedure to Weigh
 
- 176.6. Use of Certain Intercepted Communications as Evidence Prohibited 
+Chapter 4 - Carriers of Messages
 
- 176.7. Court Order Authorizing Interception of Wire, Oral or Electronic Communications 
+171. Repealed
 
- 176.8. Disclosure of Information 
+172. Repealed
 
- 176.9. Application for Court Order - Contents - Additional Evidence - Ex Parte Order - Specifications of Order - Time Limitations - Reports 
+173. Repealed
 
- 176.10. Recording Intercepted Communication - Seal - Inventory - Inspection - Violation 
+174. Repealed
 
- 176.11. Reports 
+175. Repealed
 
- 176.12. Conditions for Use of Intercepted Communication as Evidence or Disclosure at Trial 
+176. Repealed
 
- 176.13. Suppression of Intercepted Communication or Evidence Derived Therefrom 
+Security of Communications Act
 
- 176.14. State's Right to Appeal Certain Orders 
+176.1. Short Title
 
- Pen Registers or Trap and Trace Devices
+176.2. Definitions
 
- 177.1. Definitions 
+176.3. Prohibited Acts - Felonies
 
- 177.2. Pen Register and Trap and Trace Device Prohibited without Court Order - Exceptions - Penalty. 
+176.4. Acts Not Prohibited
 
- 177.3. Application for Order or Extension of Order - Contents 
+176.5. Seizure and Forfeiture of Certain Devices
 
- 177.4. Order of Court - Contents - Authorization, Approval of Installation of Pen Register 
+176.6. Use of Certain Intercepted Communications as Evidence Prohibited
 
- 177.5. Necessary Assistance of Service Provider, Landlord, Custodian or Other Person - Installation - Reasonable Compensation - Liability - Defense 
+176.7. Court Order Authorizing Interception of Wire, Oral or Electronic Communications
 
- 177.6. Search Warrant Authorizing Installation or Use of Tracking Device in Moveable Item, Container, Vehicle, or Other Vessel 
+176.8. Disclosure of Information
 
- Kelsey Smith Act
+176.9. Application for Court Order - Contents - Additional Evidence - Ex Parte Order - Specifications of Order - Time Limitations - Reports
 
- 178. Wireless Carriers Provide Call Location Information During Emergency, Notice to Users, Carrier Submit Emergency Contact Information to OSBI, Liability of Carrier 
+176.10. Recording Intercepted Communication - Seal - Inventory - Inspection - Violation
 
- Chapter 5 - Separate Coaches or Compartments and Waiting Rooms
+176.11. Reports
 
- 181. Repealed 
+176.12. Conditions for Use of Intercepted Communication as Evidence or Disclosure at Trial
 
- 182. Repealed 
+176.13. Suppression of Intercepted Communication or Evidence Derived Therefrom
 
- 183. Repealed 
+176.14. State's Right to Appeal Certain Orders
 
- 184. Repealed 
+Pen Registers or Trap and Trace Devices
 
- 185. Repealed 
+177.1. Definitions
 
- 186. Repealed 
+177.2. Pen Register and Trap and Trace Device Prohibited without Court Order - Exceptions - Penalty.
 
- 187. Repealed 
+177.3. Application for Order or Extension of Order - Contents
 
- 188. Repealed 
+177.4. Order of Court - Contents - Authorization, Approval of Installation of Pen Register
 
- 189. Repealed 
+177.5. Necessary Assistance of Service Provider, Landlord, Custodian or Other Person - Installation - Reasonable Compensation - Liability - Defense
 
- 190. Repealed 
+177.6. Search Warrant Authorizing Installation or Use of Tracking Device in Moveable Item, Container, Vehicle, or Other Vessel
 
- 191. Repealed 
+Kelsey Smith Act
 
- Chapter 6 - Bonds of Employees
+178. Wireless Carriers Provide Call Location Information During Emergency, Notice to Users, Carrier Submit Emergency Contact Information to OSBI, Liability of Carrier
 
- 201. Employees' Free Choice Regarding Sureties 
+Chapter 5 - Separate Coaches or Compartments and Waiting Rooms
 
- 202. Sureties 
+181. Repealed
 
- 203. Definite Term - Cancellation without Consent of All Parties - Notice - Nothing to Affect Breach of Contract Right 
+182. Repealed
 
- 204. Violation a Misdemeanor - Fine, Imprisonment
+183. Repealed
+
+184. Repealed
+
+185. Repealed
+
+186. Repealed
+
+187. Repealed
+
+188. Repealed
+
+189. Repealed
+
+190. Repealed
+
+191. Repealed
+
+Chapter 6 - Bonds of Employees
+
+201. Employees' Free Choice Regarding Sureties
+
+202. Sureties
+
+203. Definite Term - Cancellation without Consent of All Parties - Notice - Nothing to Affect Breach of Contract Right
+
+204. Violation a Misdemeanor - Fine, Imprisonment

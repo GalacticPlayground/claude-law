@@ -8,3255 +8,3272 @@
 
 OCIS Document Index 
 
- Index of Available Documents 
 
- Up One Level 
- Show 
- 1 2 3 4 5 Levels 
- Title 19. Counties and County Officers (STOKST19) Search 
 
- Chapter 1 - Status and Power of Counties
 
- 1. Organized Counties to be Empowered for the Following Purposes 
 
- 2. Definition of Property of County 
 
- 3. County's Powers Exercised by Board of Commissioners - Certain Contracts Void by Individual Commissioner 
 
- 4. Name in which a County Shall Sue or be Sued 
 
- 5. Service of Process 
 
- 6. Judgment against County - Payment 
 
- 7. County Government Council 
 
- 8. Provisions of Public Works Contracts 
 
- County Home Rule Charter Act
 
- 8.1. Short Title 
 
- 8.2. Counties that May Adopt or Amend County Home Rule Charter for County Government 
+Index of Available Documents
 
- 8.3. Designation of Members of Charter Commission - Submission to Voters 
+| |
+Up One Level
+| Show 
+1 2 3 4 5 Levels | |
+Title 19. Counties and County Officers (STOKST19)
+Search
 
- 8.4. Charter Provisions 
+Chapter 1 - Status and Power of Counties
 
- 8.5. Provisions Contrary to or Inconsistent with Sovereignty and Established Public Policy 
+1. Organized Counties to be Empowered for the Following Purposes
 
- Chapter 2 - Creation and Modification of Counties
+2. Definition of Property of County
 
- 11. Creation and Division of Counties - Vote by People - Taxable Property - Area - Population 
+3. County's Powers Exercised by Board of Commissioners - Certain Contracts Void by Individual Commissioner
 
- 12. Petition - Proclamation and Election - Limitations 
+4. Name in which a County Shall Sue or be Sued
 
- 13. Form of Petition 
+5. Service of Process
 
- 14. Form of Ballot - Election of Officers 
+6. Judgment against County - Payment
 
- 15. Election Supplies - How Furnished 
+7. County Government Council
 
- 16. Election Commissioners - Qualifications - Oath 
+8. Provisions of Public Works Contracts
 
- 17. Duties of Commissioners - Substitutes 
+County Home Rule Charter Act
 
- 18. Election Officers - How Appointed - Fees 
+8.1. Short Title
 
- 19. Voting - Electors' Affidavit - Form 
+8.2. Counties that May Adopt or Amend County Home Rule Charter for County Government
 
- 20. Count - Canvas of Returns 
+8.3. Designation of Members of Charter Commission - Submission to Voters
 
- 21. Returns and Ballot Boxes - Custody of Same - Report to Governor 
+8.4. Charter Provisions
 
- 22. Proclamation of Governor - Designation of County Seat - Officers 
+8.5. Provisions Contrary to or Inconsistent with Sovereignty and Established Public Policy
 
- 23. Selection of Permanent County Seats 
+Chapter 2 - Creation and Modification of Counties
 
- 24. Supreme Court to Decide Controversies 
+11. Creation and Division of Counties - Vote by People - Taxable Property - Area - Population
 
- 25. Given Precedence in Court 
+12. Petition - Proclamation and Election - Limitations
 
- 26. Election Expenses - How Paid - Commissioners' Compensation 
+13. Form of Petition
 
- 27. Challengers - Watchers - Poll Book Holders - How Appointed 
+14. Form of Ballot - Election of Officers
 
- 28. Official Neglect - Felony 
+15. Election Supplies - How Furnished
 
- 29. Bribery - What Constitutes 
+16. Election Commissioners - Qualifications - Oath
 
- 30. Repealed 
+17. Duties of Commissioners - Substitutes
 
- 31. Vote 
+18. Election Officers - How Appointed - Fees
 
- 32. Acceptance of New Territory - Vote 
+19. Voting - Electors' Affidavit - Form
 
- 33. Transfer of Territory 
+20. Count - Canvas of Returns
 
- 34. Duty of County Commissioners to Settle Differences 
+21. Returns and Ballot Boxes - Custody of Same - Report to Governor
 
- 35. Meetings of Boards of County Commissioners to Settle Differences 
+22. Proclamation of Governor - Designation of County Seat - Officers
 
- 36. Change in Watercourse Bounding Counties as not Changing Taxable Situs of Property 
+23. Selection of Permanent County Seats
 
- Chapter 3 - Assets and Liabilities Among Constitutional Counties
+24. Supreme Court to Decide Controversies
 
- 61. Jurisdiction - Supreme Court 
+25. Given Precedence in Court
 
- 62. Property, Assets and Liabilities of Counties - Division 
+26. Election Expenses - How Paid - Commissioners' Compensation
 
- 63. Suit Brought in Name of Board of Interested County - District Attorney to Prosecute or Defend 
+27. Challengers - Watchers - Poll Book Holders - How Appointed
 
- 64. Right and Power of Commissioners to Institute Certain Actions 
+28. Official Neglect - Felony
 
- 65. Withholding and Failure to Pay is Penalized 
+29. Bribery - What Constitutes
 
- Chapter 4 - Relocating County Seats
+30. Repealed
 
- 71. General Election Laws Govern Counties Desiring to Hold Special Election 
+31. Vote
 
- 72. Election 
+32. Acceptance of New Territory - Vote
 
- 73. Form for Petition Filed with Governor 
+33. Transfer of Territory
 
- 74. Public Notice of Election - Names of Places on Tickets - Candidates 
+34. Duty of County Commissioners to Settle Differences
 
- 75. Form for Petition Filed with Governor 
+35. Meetings of Boards of County Commissioners to Settle Differences
 
- 76. Election for Relocation of County Seat - Appointment of Members of Special Election Board 
+36. Change in Watercourse Bounding Counties as not Changing Taxable Situs of Property
 
- 77. Special Election Board's Duties 
+Chapter 3 - Assets and Liabilities Among Constitutional Counties
 
- 78. Oath of Special Election Commissioners 
+61. Jurisdiction - Supreme Court
 
- 79. Qualifications and Eligibility 
+62. Property, Assets and Liabilities of Counties - Division
 
- 80. Duties and Assignments of Commissioners - Vacancies 
+63. Suit Brought in Name of Board of Interested County - District Attorney to Prosecute or Defend
 
- 81. Duty to See that Voting Places are Supplied with Booths and Necessary Conveniences and Select Judges and Clerks for Special Election 
+64. Right and Power of Commissioners to Institute Certain Actions
 
- 82. Voter to Permit Clerk to Fill Out Affidavit - Form of Affidavit 
+65. Withholding and Failure to Pay is Penalized
 
- 83. Precinct Board to Canvass Vote - Return to Governor - Canvassing of Returns - Result Declared 
+Chapter 4 - Relocating County Seats
 
- 84. Requisite Proportion of Votes - Second Election 
+71. General Election Laws Govern Counties Desiring to Hold Special Election
 
- 85. Intervals between Elections not Less than Ten Years 
+72. Election
 
- 86. Special Commissioners Duties 
+73. Form for Petition Filed with Governor
 
- 87. Original Jurisdiction Conferred upon Supreme Court 
+74. Public Notice of Election - Names of Places on Tickets - Candidates
 
- 88. Duty to Make Matter Special and Give Precedence 
+75. Form for Petition Filed with Governor
 
- 89. Compensation for Special Election Commissioners - Expenses 
+76. Election for Relocation of County Seat - Appointment of Members of Special Election Board
 
- 90. Appointment of Challengers - Special Watchers - Authority 
+77. Special Election Board's Duties
 
- 91. Knowing and Willful Failure or Refusal to Perform Required Duties - Felony 
+78. Oath of Special Election Commissioners
 
- 92. Definition of Bribery 
+79. Qualifications and Eligibility
 
- 93. Repealed 
+80. Duties and Assignments of Commissioners - Vacancies
 
- Chapter 5 - County Depositories
+81. Duty to See that Voting Places are Supplied with Booths and Necessary Conveniences and Select Judges and Clerks for Special Election
 
- 111. Repealed 
+82. Voter to Permit Clerk to Fill Out Affidavit - Form of Affidavit
 
- 112. Violation of Act - Felony 
+83. Precinct Board to Canvass Vote - Return to Governor - Canvassing of Returns - Result Declared
 
- 113. County Treasurer's Bondsmen Liability - Approval of Securities 
+84. Requisite Proportion of Votes - Second Election
 
- 114. County Treasurers - Securities - Deposit with State Treasurer 
+85. Intervals between Elections not Less than Ten Years
 
- 115. Duplicate Ticket of Deposits or Receipts - Filing with County Clerk 
+86. Special Commissioners Duties
 
- 116. Duty of County Clerk to Charge the Bank and Fiscal Agents and Credit County Treasurer 
+87. Original Jurisdiction Conferred upon Supreme Court
 
- 117. Fiscal Agent - Statement of Accounts 
+88. Duty to Make Matter Special and Give Precedence
 
- 118. Purpose of Payment to be Shown on Face of Treasurer's Checks and Drafts - Duplicate Attached to Voucher 
+89. Compensation for Special Election Commissioners - Expenses
 
- 119. County Clerk to Charge Treasurer and Fiscal Agent and Credit the Bank 
+90. Appointment of Challengers - Special Watchers - Authority
 
- 120. Willful Disregard as a Penalty 
+91. Knowing and Willful Failure or Refusal to Perform Required Duties - Felony
 
- 121. Daily Deposit by County Treasurer in Designated Depository - Security Required 
+92. Definition of Bribery
 
- 122. Duties of State Auditor and Inspector - Deposit in Banks Outside County - Deposits with State Treasurer 
+93. Repealed
 
- 123. Use of Bank in Which County Treasurer or Commissioner Has Interest, Unlawful 
+Chapter 5 - County Depositories
 
- 124. Cumulative Provisions 
+111. Repealed
 
- Chapter 6 - Officers
+112. Violation of Act - Felony
 
- General Provisions
+113. County Treasurer's Bondsmen Liability - Approval of Securities
 
- 130.1. Commission on County Government Personnel Education and Training - Creation - Membership 
+114. County Treasurers - Securities - Deposit with State Treasurer
 
- 130.1. Commission on County Government Personnel Education and Training - Creation - Membership 
+115. Duplicate Ticket of Deposits or Receipts - Filing with County Clerk
 
- 130.2. Duties of Commission 
+116. Duty of County Clerk to Charge the Bank and Fiscal Agents and Credit County Treasurer
 
- 130.3. Chair - Meetings - Quorum - Mileage and Per Diem 
+117. Fiscal Agent - Statement of Accounts
 
- 130.4. Advisory Boards 
+118. Purpose of Payment to be Shown on Face of Treasurer's Checks and Drafts - Duplicate Attached to Voucher
 
- 130.5. Objectives of Education and Training Programs 
+119. County Clerk to Charge Treasurer and Fiscal Agent and Credit the Bank
 
- 130.6. Support Staff - Other Training Programs 
+120. Willful Disregard as a Penalty
 
- 130.7. Certain County Officials to Participate in Training Programs and Educational Seminars - Expenses 
+121. Daily Deposit by County Treasurer in Designated Depository - Security Required
 
- 131. Enumeration of County Officers - Election and Term of Office - Limitation on Running for Other Office 
+122. Duties of State Auditor and Inspector - Deposit in Banks Outside County - Deposits with State Treasurer
 
- 131.1. Registration Requirements for Candidates for County Offices 
+123. Use of Bank in Which County Treasurer or Commissioner Has Interest, Unlawful
 
- 132. Eligible Persons 
+124. Cumulative Provisions
 
- 133. Office and Records at County Seat 
+Chapter 6 - Officers
 
- 134. Repealed 
+General Provisions
 
- 134a. Repealed 
+130.1. Commission on County Government Personnel Education and Training - Creation - Membership
 
- 134b. Repealed 
+130.2. Duties of Commission
 
- 134b-1. Repealed 
+130.3. Chair - Meetings - Quorum - Mileage and Per Diem
 
- 134c. Repealed 
+130.4. Advisory Boards
 
- 134d. Repealed 
+130.5. Objectives of Education and Training Programs
 
- 134e. Repealed 
+130.6. Support Staff - Other Training Programs
 
- 135. Repealed 
+130.7. Certain County Officials to Participate in Training Programs and Educational Seminars - Expenses
 
- 135a. Repealed 
+131. Enumeration of County Officers - Election and Term of Office - Limitation on Running for Other Office
 
- 135b. Repealed 
+131.1. Registration Requirements for Candidates for County Offices
 
- 135c. Repealed 
+132. Eligible Persons
 
- 135d. Repealed 
+133. Office and Records at County Seat
 
- 136. Office Hours - County Clerk 
+134. Repealed
 
- 137.1. Unconstitutional 
+134a. Repealed
 
- 137.2. Appointment by County Commissioners upon Certain Recommendation - Assistants - Salary 
+134b. Repealed
 
- 137.3. Liability Insurance - Counties of 300,000 Population 
+134b-1. Repealed
 
- Public Defender - Counties Over 200,000 Population
+134c. Repealed
 
- 138.1. Repealed 
+134d. Repealed
 
- 138.1a. Creation of Office of Public Defender - Office Space and Equipment - Training and Continuing Legal Education - Tort Liability 
+134e. Repealed
 
- 138.2. Appointment of County Indigent Defender - Assistants 
+135. Repealed
 
- 138.3. Determination of Need for County Indigent Defender 
+135a. Repealed
 
- 138.4. Compensation - Private Practice 
+135b. Repealed
 
- 138.5. Duties of County Indigent Defender 
+135c. Repealed
 
- 138.6. Secretaries - Investigators - Salary 
+135d. Repealed
 
- 138.7. Reassignment of Case Upon Conflict of Interest 
+136. Office Hours - County Clerk
 
- 138.7a. Maximum Statutory Attorney Fees in Death Penalty Cases 
+137.1. Unconstitutional
 
- 138.8. Compensation of Expert Witness 
+137.2. Appointment by County Commissioners upon Certain Recommendation - Assistants - Salary
 
- 138.9. Counties of 300,000 or More 
+137.3. Liability Insurance - Counties of 300,000 Population
 
- 138.10. Costs of Representation of Indigent Defender 
+Public Defender - Counties Over 200,000 Population
 
- County Campaign Finance and Financial Disclosure Act
+138.1. Repealed
 
- 138.11. Short Title 
+138.1a. Creation of Office of Public Defender - Office Space and Equipment - Training and Continuing Legal Education - Tort Liability
 
- 138.12. Definitions 
+138.2. Appointment of County Indigent Defender - Assistants
 
- 138.13. Duty of Campaign Committee to File Statement of Organization 
+138.3. Determination of Need for County Indigent Defender
 
- 138.14. Duty of County Political Committee to File Statement of Organization 
+138.4. Compensation - Private Practice
 
- 138.15. Duty of Campaign Committee and County Political Committee to File Report of Contributions and Expenditures 
+138.5. Duties of County Indigent Defender
 
- 138.16. Public Records - Retention and Destruction of Documents 
+138.6. Secretaries - Investigators - Salary
 
- 138.17. Duty of Candidates and Elected Officers to File Statements of Financial Interests 
+138.7. Reassignment of Case Upon Conflict of Interest
 
- 138.18. Public Nature of Statements of Financial Interests - Retention and Destruction of Documents 
+138.7a. Maximum Statutory Attorney Fees in Death Penalty Cases
 
- 138.19. Enforcement - Complaints - Investigations - Penalties - Protest 
+138.8. Compensation of Expert Witness
 
- Salaries, Expenses, and Deputies
+138.9. Counties of 300,000 or More
 
- 141. Repealed 
+138.10. Costs of Representation of Indigent Defender
 
- 142. Repealed 
+County Campaign Finance and Financial Disclosure Act
 
- 143. Repealed 
+138.11. Short Title
 
- 144. Repealed 
+138.12. Definitions
 
- 145. Repealed 
+138.13. Duty of Campaign Committee to File Statement of Organization
 
- 146. Repealed 
+138.14. Duty of County Political Committee to File Statement of Organization
 
- 147. Repealed 
+138.15. Duty of Campaign Committee and County Political Committee to File Report of Contributions and Expenditures
 
- 148. How Population Determined 
+138.16. Public Records - Retention and Destruction of Documents
 
- 149. Repealed 
+138.17. Duty of Candidates and Elected Officers to File Statements of Financial Interests
 
- 149a. Repealed 
+138.18. Public Nature of Statements of Financial Interests - Retention and Destruction of Documents
 
- 150. Repealed 
+138.19. Enforcement - Complaints - Investigations - Penalties - Protest
 
- 151. Repealed 
+Salaries, Expenses, and Deputies
 
- 152. Repealed 
+141. Repealed
 
- 153. Salaries of County Officers, Clerks and Deputies 
+142. Repealed
 
- 153.1. Fee to Recipients of Revenue from Designated County Sales Tax for Costs - Estimate of Needs 
+143. Repealed
 
- 154. Surety Bonds - Premiums - Payment by County 
+144. Repealed
 
- 155. Repealed 
+145. Repealed
 
- 155.1. Destruction of Certain Records Filed in County Assessor's Offices 
+146. Repealed
 
- 155.2. Destruction of Certain Old Records in Clerk's Office 
+147. Repealed
 
- 155.2A. Authorization to Destroy Certain Workbooks, Reports and Records 
+148. How Population Determined
 
- 155.3. Intangible Tax Records - Destruction 
+149. Repealed
 
- 155.4. Destruction of Certain Types of Work Books, Reports and Records after Certain Length of Time 
+149a. Repealed
 
- 155.5. Destruction of Certain Records after Reproduction and Storage 
+150. Repealed
 
- 155.6. Request by State Library 
+151. Repealed
 
- 155.7. Records - Reproduced or Stored - Digital Signature System 
+152. Repealed
 
- 156. Repealed 
+153. Salaries of County Officers, Clerks and Deputies
 
- 157. Repealed 
+153.1. Fee to Recipients of Revenue from Designated County Sales Tax for Costs - Estimate of Needs
 
- 158. Repealed 
+154. Surety Bonds - Premiums - Payment by County
 
- 159. Repealed 
+155. Repealed
 
- 160. Extra Help and Travel Expenses - Payment from Separate Budget Items 
+155.1. Destruction of Certain Records Filed in County Assessor's Offices
 
- 161. Definitions 
+155.2. Destruction of Certain Old Records in Clerk's Office
 
- 162. Deputies - Appointment - Compensation and Salaries - Appropriations 
+155.2A. Authorization to Destroy Certain Workbooks, Reports and Records
 
- 163. Reimbursement for Traveling Expenses 
+155.3. Intangible Tax Records - Destruction
 
- 164. Private Automobiles - Reimbursement for Use 
+155.4. Destruction of Certain Types of Work Books, Reports and Records after Certain Length of Time
 
- 165. Travel Allowance in Lieu of Traveling Expenses 
+155.5. Destruction of Certain Records after Reproduction and Storage
 
- 166. Forfeiture of Travel Allowance - Membership Organizations - Attending Conferences, etc. - Traveling Expenses 
+155.6. Request by State Library
 
- 167. Blanket Bond 
+155.7. Records - Reproduced or Stored - Digital Signature System
 
- 168. Volunteers to Enjoy Protection of Sovereign Immunity - Travel and Training Expenses 
+156. Repealed
 
- 169. Performance-based Adjustment Programs 
+157. Repealed
 
- Audits
+158. Repealed
 
- 171. Audit by State Auditor and Inspector - When Required - Scope of Audit - Requirements for Financial Statements 
+159. Repealed
 
- 172. Repealed 
+160. Extra Help and Travel Expenses - Payment from Separate Budget Items
 
- 173. Special Audit Fund - Payments Made from 
+161. Definitions
 
- 174. Reports - Copies - Officers Filed with 
+162. Deputies - Appointment - Compensation and Salaries - Appropriations
 
- 174.1. Publication of Notice of Filing of Audit Report - Posting of Certificate of Completion 
+163. Reimbursement for Traveling Expenses
 
- 174.2. Cost 
+164. Private Automobiles - Reimbursement for Use
 
- 175. Repealed 
+165. Travel Allowance in Lieu of Traveling Expenses
 
- 176. Intention of Legislature 
+166. Forfeiture of Travel Allowance - Membership Organizations - Attending Conferences, etc. - Traveling Expenses
 
- 177.1. Purpose of Law 
+167. Blanket Bond
 
- 177.2. Use of Ad Valorem Levy for County Audit - Lapse and Cancellation of Unexpended Balance 
+168. Volunteers to Enjoy Protection of Sovereign Immunity - Travel and Training Expenses
 
- 177.3. Repealed 
+169. Performance-based Adjustment Programs
 
- 177.4. General Fund Audit Appropriation, When Sufficient, to Bear Cost of All Audits 
+Audits
 
- 177.5. Annual Defined - Audit of Current Accounts 
+171. Audit by State Auditor and Inspector - When Required - Scope of Audit - Requirements for Financial Statements
 
- 177.6. Property Accounting, When Required, to be Included in Audit 
+172. Repealed
 
- 177.7. Purveyors of Services, Goods, Wares or Merchandise to County - Verification of Accounts - Privileged Information - Inspection of Accounts 
+173. Special Audit Fund - Payments Made from
 
- 177.8. Repealed 
+174. Reports - Copies - Officers Filed with
 
- Inventory and Equipment
+174.1. Publication of Notice of Filing of Audit Report - Posting of Certificate of Completion
 
- 178.1. Inventory - Continuous Inventory - Accounting 
+174.2. Cost
 
- 178.2. Duties of County Officers and Employees 
+175. Repealed
 
- 178.3. County Clerk Custodian of Inventory Records 
+176. Intention of Legislature
 
- 178.4. Systems and Forms - Audit and Verification of Accounts 
+177.1. Purpose of Law
 
- 178.5. Penalties 
+177.2. Use of Ad Valorem Levy for County Audit - Lapse and Cancellation of Unexpended Balance
 
- Chapter 6A - Salaries and Compensation
+177.3. Repealed
 
- General Provisions
+177.4. General Fund Audit Appropriation, When Sufficient, to Bear Cost of All Audits
 
- 179.1. Repealed 
+177.5. Annual Defined - Audit of Current Accounts
 
- 179.2. Repealed 
+177.6. Property Accounting, When Required, to be Included in Audit
 
- 179.3. Repealed 
+177.7. Purveyors of Services, Goods, Wares or Merchandise to County - Verification of Accounts - Privileged Information - Inspection of Accounts
 
- 179.4. Repealed 
+177.8. Repealed
 
- 179.5. Repealed 
+Inventory and Equipment
 
- 179.6. Repealed 
+178.1. Inventory - Continuous Inventory - Accounting
 
- 179.7. Repealed 
+178.2. Duties of County Officers and Employees
 
- 179.8. Repealed 
+178.3. County Clerk Custodian of Inventory Records
 
- 179.9. Repealed 
+178.4. Systems and Forms - Audit and Verification of Accounts
 
- 179.10. Repealed 
+178.5. Penalties
 
- 179.11. Repealed 
+Chapter 6A - Salaries and Compensation
 
- 179.12. Repealed 
+General Provisions
 
- 179.13. Repealed 
+179.1. Repealed
 
- 179.14. Repealed 
+179.2. Repealed
 
- 179.15. Repealed 
+179.3. Repealed
 
- 179.16. Repealed 
+179.4. Repealed
 
- 179.17. Repealed 
+179.5. Repealed
 
- 179.18. Repealed 
+179.6. Repealed
 
- 179.19. Repealed 
+179.7. Repealed
 
- 179.20. Repealed 
+179.8. Repealed
 
- 179.21. Repealed 
+179.9. Repealed
 
- 180.1. Repealed 
+179.10. Repealed
 
- 180.2. Repealed 
+179.11. Repealed
 
- 180.3. Repealed 
+179.12. Repealed
 
- 180.4. Repealed 
+179.13. Repealed
 
- 180.5. Repealed 
+179.14. Repealed
 
- 180.6. Repealed 
+179.15. Repealed
 
- 180.7. Repealed 
+179.16. Repealed
 
- 180.8. Repealed 
+179.17. Repealed
 
- 180.9. Repealed 
+179.18. Repealed
 
- 180.10. Repealed 
+179.19. Repealed
 
- 180.11. Repealed 
+179.20. Repealed
 
- 180.12. Repealed 
+179.21. Repealed
 
- 180.12a. Repealed 
+180.1. Repealed
 
- 180.12b. Repealed 
+180.2. Repealed
 
- 180.13. Repealed 
+180.3. Repealed
 
- 180.14. Repealed 
+180.4. Repealed
 
- 180.15. Repealed 
+180.5. Repealed
 
- 180.16. Repealed 
+180.6. Repealed
 
- 180.16a. Repealed 
+180.7. Repealed
 
- 180.17. Repealed 
+180.8. Repealed
 
- 180.18. Repealed 
+180.9. Repealed
 
- 180.19. Repealed 
+180.10. Repealed
 
- 180.20. Repealed 
+180.11. Repealed
 
- 180.21. Repealed 
+180.12. Repealed
 
- 180.22. Repealed 
+180.12a. Repealed
 
- 180.23. Repealed 
+180.12b. Repealed
 
- 180.24. Repealed 
+180.13. Repealed
 
- 180.25. Repealed 
+180.14. Repealed
 
- 180.26. Repealed 
+180.15. Repealed
 
- 180.27. Repealed 
+180.16. Repealed
 
- 180.28. Repealed 
+180.16a. Repealed
 
- 180.29. Repealed 
+180.17. Repealed
 
- 180.30. Repealed 
+180.18. Repealed
 
- 180.31. Repealed 
+180.19. Repealed
 
- 180.32. Repealed 
+180.20. Repealed
 
- 180.33. Repealed 
+180.21. Repealed
 
- 180.34. Repealed 
+180.22. Repealed
 
- 180.35. Repealed 
+180.23. Repealed
 
- 180.36. Repealed 
+180.24. Repealed
 
- 180.37. Repealed 
+180.25. Repealed
 
- 180.37a. Repealed 
+180.26. Repealed
 
- 180.37b. Repealed 
+180.27. Repealed
 
- 180.38. Repealed 
+180.28. Repealed
 
- 180.38a. Repealed 
+180.29. Repealed
 
- 180.39. Repealed 
+180.30. Repealed
 
- 180.40. Repealed 
+180.31. Repealed
 
- 180.41. Repealed 
+180.32. Repealed
 
- 180.42. Repealed 
+180.33. Repealed
 
- 180.42a. Repealed 
+180.34. Repealed
 
- 180.42b. Repealed 
+180.35. Repealed
 
- 180.42c. Repealed 
+180.36. Repealed
 
- 180.42d. Repealed 
+180.37. Repealed
 
- 180.42e. Repealed 
+180.37a. Repealed
 
- 180.42f. Repealed 
+180.37b. Repealed
 
- 180.42g. Repealed 
+180.38. Repealed
 
- 180.42h. Repealed 
+180.38a. Repealed
 
- 180.42i. Repealed 
+180.39. Repealed
 
- 180.43. Keeping, Feeding and Maintenance of Prisoners - Expenses - Reports - Purchase of Automobiles - Private Use - Automobile Allowance - Travel Expenses - Violations 
+180.40. Repealed
 
- 180.43. Keeping, Feeding and Maintenance of Prisoners - Expenses - Reports - Purchase of Automobiles - Private Use - Automobile Allowance - Travel Expenses - Violations 
+180.41. Repealed
 
- 180.44. Repealed 
+180.42. Repealed
 
- 180.45. Repealed 
+180.42a. Repealed
 
- 180.46. Repealed 
+180.42b. Repealed
 
- 180.47. Repealed 
+180.42c. Repealed
 
- 180.48. Repealed 
+180.42d. Repealed
 
- 180.49. Repealed 
+180.42e. Repealed
 
- 180.50. Repealed 
+180.42f. Repealed
 
- 180.51. Additional Help for County Officers 
+180.42g. Repealed
 
- 180.52. Repealed 
+180.42h. Repealed
 
- 180.53. Repealed 
+180.42i. Repealed
 
- 180.54. Repealed 
+180.43. Keeping, Feeding and Maintenance of Prisoners - Expenses - Reports - Purchase of Automobiles - Private Use - Automobile Allowance - Travel Expenses - Violations
 
- 180.55. Repealed 
+180.43. Keeping, Feeding and Maintenance of Prisoners - Expenses - Reports - Purchase of Automobiles - Private Use - Automobile Allowance - Travel Expenses - Violations
 
- 180.56. Repealed 
+180.44. Repealed
 
- 180.57. Repealed 
+180.45. Repealed
 
- Salaries and Wages of County Officers, Deputies and Employees - Uniform Schedule
+180.46. Repealed
 
- 180.58. Purpose of Act - Determination by Legislature 
+180.47. Repealed
 
- 180.59. Determination of Gross Total Tangible Property Valuation 
+180.48. Repealed
 
- 180.60. Determination of Population 
+180.49. Repealed
 
- 180.61. Classification of Officers 
+180.50. Repealed
 
- 180.62. Basic Salaries 
+180.51. Additional Help for County Officers
 
- 180.63. Increase to Basic Salary 
+180.52. Repealed
 
- 180.63a. Repealed 
+180.53. Repealed
 
- 180.63b. Repealed 
+180.54. Repealed
 
- 180.63c. Repealed 
+180.55. Repealed
 
- 180.63d. Withholding of Salary Increase 
+180.56. Repealed
 
- 180.63e. Certain Officers are Prohibited from Receiving Increases or Decreases in Salaries 
+180.57. Repealed
 
- 180.64. Repealed 
+Salaries and Wages of County Officers, Deputies and Employees - Uniform Schedule
 
- 180.64A. Repealed 
+180.58. Purpose of Act - Determination by Legislature
 
- 180.64B. Appropriations and Payments 
+180.59. Determination of Gross Total Tangible Property Valuation
 
- 180.64C. Restrictions 
+180.60. Determination of Population
 
- 180.64D. Repealed 
+180.61. Classification of Officers
 
- 180.64E. Repealed 
+180.62. Basic Salaries
 
- 180.64F. Definition of a Major Fraction Thereof 
+180.63. Increase to Basic Salary
 
- 180.65. Deputies and Other Help 
+180.63a. Repealed
 
- 180.66. Repealed 
+180.63b. Repealed
 
- 180.67. Salary Other Than as Provided - Percentage of Revenue for Salary and Wages 
+180.63c. Repealed
 
- 180.68. Changes in Salaries and Rates of Pay 
+180.63d. Withholding of Salary Increase
 
- 180.69. Repealed 
+180.63e. Certain Officers are Prohibited from Receiving Increases or Decreases in Salaries
 
- 180.70. Repealed 
+180.64. Repealed
 
- 180.71. Repealed 
+180.64A. Repealed
 
- 180.72. Repealed 
+180.64B. Appropriations and Payments
 
- 180.73. Repealed 
+180.64C. Restrictions
 
- 180.74. Repealed 
+180.64D. Repealed
 
- 180.75. Repealed 
+180.64E. Repealed
 
- 180.76. Repealed 
+180.64F. Definition of a Major Fraction Thereof
 
- 180.77. Repealed 
+180.65. Deputies and Other Help
 
- 180.78. Repealed 
+180.66. Repealed
 
- 180.79. Repealed 
+180.67. Salary Other Than as Provided - Percentage of Revenue for Salary and Wages
 
- 180.80. Repealed 
+180.68. Changes in Salaries and Rates of Pay
 
- 180.81. Repealed 
+180.69. Repealed
 
- 180.82. Repealed 
+180.70. Repealed
 
- 180.83. Repealed 
+180.71. Repealed
 
- Longevity Pay Program for County Employees
+180.72. Repealed
 
- 180.84. Authorization 
+180.73. Repealed
 
- Direct Deposit Payment
+180.74. Repealed
 
- 180.87. County Commissioners may Establish Direct Deposit Payment System 
+180.75. Repealed
 
- National Disaster Leave
+180.76. Repealed
 
- 180.90. Leave With Pay for Presidentially Declared National Disaster 
+180.77. Repealed
 
- Chapter 7 - County Attorneys
+180.78. Repealed
 
- In General
+180.79. Repealed
 
- 181. Repealed 
+180.80. Repealed
 
- 182. Repealed 
+180.81. Repealed
 
- 183. Repealed 
+180.82. Repealed
 
- 184. Repealed 
+180.83. Repealed
 
- 185. Repealed 
+Longevity Pay Program for County Employees
 
- 185a. Repealed 
+180.84. Authorization
 
- 185b. Repealed 
+Direct Deposit Payment
 
- 186. Repealed 
+180.87. County Commissioners may Establish Direct Deposit Payment System
 
- 187. Repealed 
+National Disaster Leave
 
- 188. Repealed 
+180.90. Leave With Pay for Presidentially Declared National Disaster
 
- 189. Repealed 
+Chapter 7 - County Attorneys
 
- 190. Repealed 
+In General
 
- 191. Repealed 
+181. Repealed
 
- Deputies and Assistants
+182. Repealed
 
- 201. Repealed 
+183. Repealed
 
- 202. Repealed 
+184. Repealed
 
- 203. Repealed 
+185. Repealed
 
- 204. Repealed 
+185a. Repealed
 
- 205. Repealed 
+185b. Repealed
 
- 206. Repealed 
+186. Repealed
 
- 207. Repealed 
+187. Repealed
 
- Land Office Suits
+188. Repealed
 
- 211. District Attorney - Suits Brought by Commissioners of Land Office 
+189. Repealed
 
- 212. Duties - Instructions of Commissioners 
+190. Repealed
 
- 213. Attorney General - Failure of District Attorney 
+191. Repealed
 
- Chapter 7A - District Attorneys
+Deputies and Assistants
 
- 215.1. Office Created - Method of Filling - Number 
+201. Repealed
 
- 215.2. Qualifications 
+202. Repealed
 
- 215.3. Bond 
+203. Repealed
 
- 215.4. Duties 
+204. Repealed
 
- 215.5. Advice to County Officers 
+205. Repealed
 
- 215.6. Repealed 
+206. Repealed
 
- 215.7. Private Practice 
+207. Repealed
 
- 215.8. Candidate for Other Office 
+Land Office Suits
 
- 215.9. Temporary Appointments - Vacancies 
+211. District Attorney - Suits Brought by Commissioners of Land Office
 
- 215.10. Receipts for Monies Received 
+212. Duties - Instructions of Commissioners
 
- 215.11. Annual Accounting - Payments to County Treasurer 
+213. Attorney General - Failure of District Attorney
 
- 215.12. Failure to Account or Pay Over 
+Chapter 7A - District Attorneys
 
- 215.13. Grand Jury 
+215.1. Office Created - Method of Filling - Number
 
- 215.14. Repealed 
+215.2. Qualifications
 
- 215.15. Repealed 
+215.3. Bond
 
- 215.15a. Renumbered as 19 O.S. § 215.33 by Laws 1982, SB 444, c. 340, § 25, emerg. eff. June 2, 1982 
+215.4. Duties
 
- 215.16. Powers and Duties of District Attorney 
+215.5. Advice to County Officers
 
- 215.17. Repealed 
+215.6. Repealed
 
- 215.18. Repealed 
+215.7. Private Practice
 
- 215.19. Office of County Attorney Abolished 
+215.8. Candidate for Other Office
 
- 215.20. Election of District Attorney - Tenure 
+215.9. Temporary Appointments - Vacancies
 
- 215.21. Repealed 
+215.10. Receipts for Monies Received
 
- 215.22. Destruction of Certain Office Records - Authorization to Reproduce Records 
+215.11. Annual Accounting - Payments to County Treasurer
 
- 215.23. District Attorney's Payroll Clerk - Assistant - Duties 
+215.12. Failure to Account or Pay Over
 
- 215.24. Repealed 
+215.13. Grand Jury
 
- 215.25. County Officer or Employee - Legal Defense Services 
+215.14. Repealed
 
- 215.26. Defense Duties - Evidence 
+215.15. Repealed
 
- 215.27. Repealed 
+215.15a. Renumbered as 19 O.S. § 215.33 by Laws 1982, SB 444, c. 340, § 25, emerg. eff. June 2, 1982
 
- 215.28. Creation of District Attorneys Council 
+215.16. Powers and Duties of District Attorney
 
- 215.29. Authority of District Attorney and Assistant District Attorney to Carry Firearm for Personal Protection 
+215.17. Repealed
 
- 215.30. Salaries and Expenses 
+215.18. Repealed
 
- 215.31. Retirement and Pensions - Staff and Other Personnel Salaries - Leave Time Payments 
+215.19. Office of County Attorney Abolished
 
- 215.32. Repealed 
+215.20. Election of District Attorney - Tenure
 
- 215.33. Victims and Witnesses Services 
+215.21. Repealed
 
- 215.34. Assistant District Attorneys - Salaries and Qualifications 
+215.22. Destruction of Certain Office Records - Authorization to Reproduce Records
 
- 215.35. Repealed 
+215.23. District Attorney's Payroll Clerk - Assistant - Duties
 
- 215.35A. Services of District Attorney Investigators - Certification as Peace Officers - Jurisdiction 
+215.24. Repealed
 
- 215.35B. Payroll and Other Claims Administered by District Attorneys Council 
+215.25. County Officer or Employee - Legal Defense Services
 
- 215.35C. Compensation of District Attorney Personnel 
+215.26. Defense Duties - Evidence
 
- 215.36. Boards of County Commissioners to Provide Certain Facilities and Services 
+215.27. Repealed
 
- 215.37. Repealed 
+215.28. Creation of District Attorneys Council
 
- 215.37A. Financial Responsibilities for Maintenance and Operating Expenses 
+215.29. Authority of District Attorney and Assistant District Attorney to Carry Firearm for Personal Protection
 
- 215.37B. Funds Made Available for Operation of District Attorney's Office - Certification of 
+215.30. Salaries and Expenses
 
- 215.37C. Estimate of Needs - Filing - Sections 
+215.31. Retirement and Pensions - Staff and Other Personnel Salaries - Leave Time Payments
 
- 215.37D. Incorporation of District Attorney's Requested Estimate of Needs to General Fund's Estimate of Needs 
+215.32. Repealed
 
- 215.37E. Appropriation Requests - Approval of 
+215.33. Victims and Witnesses Services
 
- 215.37F. Certification of Changes in Funds Amount Available for Operating Expenses - Appropriations Transfer - Lapse of County Funds 
+215.34. Assistant District Attorneys - Salaries and Qualifications
 
- 215.37G. Purchases Made from District Attorney Appropriations 
+215.35. Repealed
 
- 215.37H. Requirements for Temporary Appropriations - Availability of Certified Amount 
+215.35A. Services of District Attorney Investigators - Certification as Peace Officers - Jurisdiction
 
- 215.37I. County Clerk to Report to Council Amount Expended or Encumbered from State Reimbursable Appropriations - Report - Contents 
+215.35B. Payroll and Other Claims Administered by District Attorneys Council
 
- 215.37J. Inapplicability of Reimbursement Provisions 
+215.35C. Compensation of District Attorney Personnel
 
- 215.37K. Costs and Necessary Expenses - Claims - Audits 
+215.36. Boards of County Commissioners to Provide Certain Facilities and Services
 
- 215.37L. Duty to Prescribe Necessary Forms and Procedures 
+215.37. Repealed
 
- 215.37M. Contracts with Private Attorneys - Costs - Prosecution of Criminal Matter 
+215.37A. Financial Responsibilities for Maintenance and Operating Expenses
 
- 215.38. Travel Expenses - Allocation of Funds 
+215.37B. Funds Made Available for Operation of District Attorney's Office - Certification of
 
- 215.39. Preparation and Contents of Narrative Report Describing Commission of Offenses and Any Factors Which Might Enhance or Diminish Gravity of Offender's Conduct 
+215.37C. Estimate of Needs - Filing - Sections
 
- 215.40. District Attorneys Evidence Fund 
+215.37D. Incorporation of District Attorney's Requested Estimate of Needs to General Fund's Estimate of Needs
 
- 215.41. Sexual Assault Nurse Examiner (SANE) Statewide Coordinator 
+215.37E. Appropriation Requests - Approval of
 
- 215.41. Sexual Assault Nurse Examiner (SANE) Statewide Coordinator 
+215.37F. Certification of Changes in Funds Amount Available for Operating Expenses - Appropriations Transfer - Lapse of County Funds
 
- Chapter 8 - County Clerk and Court Clerk
+215.37G. Purchases Made from District Attorney Appropriations
 
- 220. Court Clerk's Revolving Fund - District Court Revolving Fund 
+215.37H. Requirements for Temporary Appropriations - Availability of Certified Amount
 
- 221. Offices - Clerks of Courts - Consolidated 
+215.37I. County Clerk to Report to Council Amount Expended or Encumbered from State Reimbursable Appropriations - Report - Contents
 
- 221.1. Repealed 
+215.37J. Inapplicability of Reimbursement Provisions
 
- 221.2. Renumbered as 12 O.S. § 36 by Laws 1970, HB 1627, c. 107, § 2, emerg. eff. April 1, 1970 
+215.37K. Costs and Necessary Expenses - Claims - Audits
 
- 222. Renumbered as 12 O.S. § 37 by Laws 1970, HB 1627, c. 107, § 2, emerg. eff. April 1, 1970 
+215.37L. Duty to Prescribe Necessary Forms and Procedures
 
- 223. Repealed 
+215.37M. Contracts with Private Attorneys - Costs - Prosecution of Criminal Matter
 
- 224. Repealed 
+215.38. Travel Expenses - Allocation of Funds
 
- 225. Register of Deeds Consolidated with County Clerk 
+215.39. Preparation and Contents of Narrative Report Describing Commission of Offenses and Any Factors Which Might Enhance or Diminish Gravity of Offender's Conduct
 
- 226. Repealed 
+215.40. District Attorneys Evidence Fund
 
- 227. Repealed 
+215.41. Sexual Assault Nurse Examiner (SANE) Statewide Coordinator
 
- 228. Repealed 
+215.41. Sexual Assault Nurse Examiner (SANE) Statewide Coordinator
 
- 229. Repealed 
+Chapter 8 - County Clerk and Court Clerk
 
- 230. Repealed 
+220. Court Clerk's Revolving Fund - District Court Revolving Fund
 
- 231. Repealed 
+221. Offices - Clerks of Courts - Consolidated
 
- 232. Repealed 
+221.1. Repealed
 
- 233. Repealed 
+221.2. Renumbered as 12 O.S. § 36 by Laws 1970, HB 1627, c. 107, § 2, emerg. eff. April 1, 1970
 
- 234. Repealed 
+222. Renumbered as 12 O.S. § 37 by Laws 1970, HB 1627, c. 107, § 2, emerg. eff. April 1, 1970
 
- 235. Repealed 
+223. Repealed
 
- County Clerk
+224. Repealed
 
- 241. Repealed 
+225. Register of Deeds Consolidated with County Clerk
 
- 241.1. Tax List Provided for Building Permit Applicants - Registration with Oklahoma Business Registration System - Proof of Registration - Applicability 
+226. Repealed
 
- 242. Appointment of Deputies - Filing of Appointments - Authority 
+227. Repealed
 
- 243. County Clerk - Duties 
+228. Repealed
 
- 244. Duty to Record and Account 
+229. Repealed
 
- 245. Duties of Clerk as to Audited Accounts - Fees for Records 
+230. Repealed
 
- 246. Attestation of County Orders 
+231. Repealed
 
- 247. Allowance of Accounts Against County - Exception 
+232. Repealed
 
- 248. Duty when New Township Organized 
+233. Repealed
 
- 249. Repealed 
+234. Repealed
 
- 250. County Clerk to Keep Record of Accounts 
+235. Repealed
 
- 251. County Clerk in Keeping Accounts with County Treasurer 
+County Clerk
 
- 252. How Charges, Credits, and Entries are Stated 
+241. Repealed
 
- 253. Repealed 
+241.1. Tax List Provided for Building Permit Applicants - Registration with Oklahoma Business Registration System - Proof of Registration - Applicability
 
- 254. Repealed 
+242. Appointment of Deputies - Filing of Appointments - Authority
 
- 255. Repealed 
+243. County Clerk - Duties
 
- 256. Warrants that Remain in the Office Unclaimed 
+244. Duty to Record and Account
 
- 257. List of County Officers and Signatures of Officers 
+245. Duties of Clerk as to Audited Accounts - Fees for Records
 
- 258. Repealed 
+246. Attestation of County Orders
 
- 259. Repealed 
+247. Allowance of Accounts Against County - Exception
 
- 260. Repealed 
+248. Duty when New Township Organized
 
- 261. Instruments - Typed Signatures 
+249. Repealed
 
- 262. Bankruptcy - Orders and Decrees - File and Index 
+250. County Clerk to Keep Record of Accounts
 
- 263. Copies - Constructive Notice of Contents 
+251. County Clerk in Keeping Accounts with County Treasurer
 
- 264. Release of Filed Information over Telephone - Fees 
+252. How Charges, Credits, and Entries are Stated
 
- 265. Creation of County Clerk's Lien Fee Account 
+253. Repealed
 
- 266. County Clerk to Charge to State Governmental Entities - Fees 
+254. Repealed
 
- 267. County Clerk Refusal to File for Sham Legal Process 
+255. Repealed
 
- 268. Refusal of Liens Against Government Officials or Employees 
+256. Warrants that Remain in the Office Unclaimed
 
- 269. Sales Tax Question on Ballot Sent to State Auditor and Inspector 
+257. List of County Officers and Signatures of Officers
 
- 270. Department of Defense Forms 214 Not Available to Public - Exceptions 
+258. Repealed
 
- 271. Authority to Employ Outside Counsel 
+259. Repealed
 
- Chapter 9 - Records and Deeds
+260. Repealed
 
- 281. Repealed 
+261. Instruments - Typed Signatures
 
- 282. Repealed 
+262. Bankruptcy - Orders and Decrees - File and Index
 
- 283. Repealed 
+263. Copies - Constructive Notice of Contents
 
- 284. Register of Deeds - Care and Custody of Records - Fixtures and Furniture 
+264. Release of Filed Information over Telephone - Fees
 
- 285. Register of Deeds to Keep Seal 
+265. Creation of County Clerk's Lien Fee Account
 
- 286. Maintenance of Records 
+266. County Clerk to Charge to State Governmental Entities - Fees
 
- 287. Indexes of Deeds 
+267. County Clerk Refusal to File for Sham Legal Process
 
- 288. Plat Record 
+268. Refusal of Liens Against Government Officials or Employees
 
- 288.1. Duty to File and Index Plats 
+269. Sales Tax Question on Ballot Sent to State Auditor and Inspector
 
- 288.2. Filing Plats Containing any Lot of Less than 2 1/2 Acres Located Outside Corporate Limits of City or Town 
+270. Department of Defense Forms 214 Not Available to Public - Exceptions
 
- 288.3. Plats May Be Filed in Digital Electronic Format at Option of County Assessor 
+270. Department of Defense Forms 214 Not Available to Public - Exceptions
 
- 289. Receiving Book 
+271. Authority to Employ Outside Counsel
 
- 290. Record of Chattel Mortgage 
+Chapter 9 - Records and Deeds
 
- 291. Numerical Index 
+281. Repealed
 
- 292. Performance of Duties Conditioned on Payment of Fee 
+282. Repealed
 
- 293. Notation on Instrument when Instrument is Presented for Record 
+283. Repealed
 
- 294. Duty to Index Old Records 
+284. Register of Deeds - Care and Custody of Records - Fixtures and Furniture
 
- 295. Repealed 
+285. Register of Deeds to Keep Seal
 
- 296. Repealed 
+286. Maintenance of Records
 
- 297. County Clerks - Certificates - Recordation 
+287. Indexes of Deeds
 
- 298. Instruments to Contain Information Necessary for Indexing - Duty of Register of Deeds 
+288. Plat Record
 
- 298.1. UETA-Compliant Documents Acceptable for Filing 
+288.1. Duty to File and Index Plats
 
- 299. Land Parcel Identifier System 
+288.2. Filing Plats Containing any Lot of Less than 2 1/2 Acres Located Outside Corporate Limits of City or Town
 
- 300. Master Form - Definition - Labeling - Filing - Recording - Incorporation by Reference - Unrecordable Matters 
+288.3. Plats May Be Filed in Digital Electronic Format at Option of County Assessor
 
- Chapter 10 - County Commissioners
+289. Receiving Book
 
- General Provisions
+290. Record of Chattel Mortgage
 
- 321. County Commissioners' Districts - Reapportionment 
+291. Numerical Index
 
- 322. Repealed 
+292. Performance of Duties Conditioned on Payment of Fee
 
- 323. Repealed 
+293. Notation on Instrument when Instrument is Presented for Record
 
- 324. Repealed 
+294. Duty to Index Old Records
 
- 324a. Repealed 
+295. Repealed
 
- 324b. Repealed 
+296. Repealed
 
- 325. Board of County Commissioners Duty Regarding County Seal 
+297. County Clerks - Certificates - Recordation
 
- 326. Meetings 
+298. Instruments to Contain Information Necessary for Indexing - Duty of Register of Deeds
 
- 327. Annual Election of Chairman 
+298.1. UETA-Compliant Documents Acceptable for Filing
 
- 328. Duties and Powers of Chairman 
+299. Land Parcel Identifier System
 
- 329. Deferral of Decision When Equal Divided 
+300. Master Form - Definition - Labeling - Filing - Recording - Incorporation by Reference - Unrecordable Matters
 
- 330. Copies of Proceedings - Certified and Attested 
+Chapter 10 - County Commissioners
 
- 331. Powers of Board to Punish Contempts and Issue Process 
+General Provisions
 
- 332. Commissioners to Keep Account with County Treasurer 
+321. County Commissioners' Districts - Reapportionment
 
- 333. Record of Orders and Decisions - Commissioner not Succeeding Himself - Duties 
+322. Repealed
 
- 333.1. Violation a Felony 
+323. Repealed
 
- 334. Records for Entry of All Proceedings and Adjudications Relating to Bridges and Roads 
+324. Repealed
 
- 335. Warrant Book - Numbering of Warrants 
+324a. Repealed
 
- 336. Uncalled for Warrants to be Canceled 
+324b. Repealed
 
- 336.1. Juvenile Curfew - Penalties 
+325. Board of County Commissioners Duty Regarding County Seal
 
- 337. Minutes of Proceedings Entered Before Canceling Warrants 
+326. Meetings
 
- 338. Lease of County Buildings or Lands for Airports or Public Uses 
+327. Annual Election of Chairman
 
- 339. General Powers of Board 
+328. Duties and Powers of Chairman
 
- 339.1. Sale of County-Owned Property to Oklahoma Historical Society 
+329. Deferral of Decision When Equal Divided
 
- 339.2. Purchase Price 
+330. Copies of Proceedings - Certified and Attested
 
- 339.3. Disposition of Funds 
+331. Powers of Board to Punish Contempts and Issue Process
 
- 339.4. Use of Funds for Environmental Remediation of Land 
+332. Commissioners to Keep Account with County Treasurer
 
- 339.5. Regulations to Restrict and Control Noise, Dust and Traffic Associated With Landfills 
+333. Record of Orders and Decisions - Commissioner not Succeeding Himself - Duties
 
- 339.6. Curfews 
+333.1. Violation a Felony
 
- 339.7. Community Service Programs - Assessment - Community Service Program Assessment Revolving Funds 
+334. Records for Entry of All Proceedings and Adjudications Relating to Bridges and Roads
 
- 339.8. Authority to Contract for Services to Collect Debts and Accounts Receivable Due to County - Collection Fees 
+335. Warrant Book - Numbering of Warrants
 
- 339.9. Counties - Multi-County Library System - Accounting of Budget and Needs Procedure 
+336. Uncalled for Warrants to be Canceled
 
- 340. Investigation of Accounts, Disbursements, Bills and Expenses of Any County, District, or Township Officer 
+336.1. Juvenile Curfew - Penalties
 
- 341. Repealed 
+337. Minutes of Proceedings Entered Before Canceling Warrants
 
- 342. Authorization to Sell Unused Lands 
+338. Lease of County Buildings or Lands for Airports or Public Uses
 
- 343. Notice of Sale 
+339. General Powers of Board
 
- 344. Bids - Sale Regulations 
+339.1. Sale of County-Owned Property to Oklahoma Historical Society
 
- 345. Annual Statement of Assessments, Receipts and Expenditures to be Published 
+339.2. Purchase Price
 
- 346. Authorization to Procure Copy of Field Notes and Have Map Constructed 
+339.3. Disposition of Funds
 
- 347. Limit of Annual Expenditure or Indebtedness - Warrants 
+339.4. Use of Funds for Environmental Remediation of Land
 
- 348. Hearing of all Matters Pertaining to the Interest of the County 
+339.5. Regulations to Restrict and Control Noise, Dust and Traffic Associated With Landfills
 
- 349. Conveyance of Lands to United States or Cities and Towns for Forest and Game Preserves, Parks, etc. 
+339.6. Curfews
 
- 350. Holidays County Offices to Close - Designation 
+339.7. Community Service Programs - Assessment - Community Service Program Assessment Revolving Funds
 
- Fire Protection
+339.8. Authority to Contract for Services to Collect Debts and Accounts Receivable Due to County - Collection Fees
 
- 351. Fire Fighting Service - Authority to Provide 
+339.9. Counties - Multi-County Library System - Accounting of Budget and Needs Procedure
 
- 351.1. Agreements for Fire Protection and Emergency Services by Municipalities - Arbitration to Determine Boundary Lines 
+340. Investigation of Accounts, Disbursements, Bills and Expenses of Any County, District, or Township Officer
 
- 351.2. Exclusions 
+341. Repealed
 
- 351.3. Agreements with Nonprofit Volunteer or Full-time Fire Department 
+342. Authorization to Sell Unused Lands
 
- 352. Repealed 
+343. Notice of Sale
 
- Senior Citizen Center Services
+344. Bids - Sale Regulations
 
- 352.1. Agreements with Senior Citizen Centers to Provide Certain Services to Certain Individuals 
+345. Annual Statement of Assessments, Receipts and Expenditures to be Published
 
- Fire Fighting Equipment
+346. Authorization to Procure Copy of Field Notes and Have Map Constructed
 
- 353. Repealed 
+347. Limit of Annual Expenditure or Indebtedness - Warrants
 
- Counseling Services
+348. Hearing of all Matters Pertaining to the Interest of the County
 
- 353.1. Authorization to Provide Counseling Services for Certain Persons - Definitions 
+349. Conveyance of Lands to United States or Cities and Towns for Forest and Game Preserves, Parks, etc.
 
- Use of County Owned Vehicles
+350. Holidays County Offices to Close - Designation
 
- 354. Transportation and Distribution of Commodities Donated to County or School District 
+Fire Protection
 
- 355. Repealed 
+351. Fire Fighting Service - Authority to Provide
 
- 356. Repealed 
+351.1. Agreements for Fire Protection and Emergency Services by Municipalities - Arbitration to Determine Boundary Lines
 
- 357. Provisions Cumulative 
+351.2. Exclusions
 
- 358. Transportation of Scouts and Supervisors 
+351.3. Agreements with Nonprofit Volunteer or Full-time Fire Department
 
- 359. Improvements upon School Grounds 
+352. Repealed
 
- Dilapidated Buildings
+Senior Citizen Center Services
 
- 360. Tearing Down and Removal of Dilapidated Buildings in Unincorporated Areas 
+352.1. Agreements with Senior Citizen Centers to Provide Certain Services to Certain Individuals
 
- Vacancies
+Fire Fighting Equipment
 
- 361. Repealed 
+353. Repealed
 
- 362. Repealed 
+Counseling Services
 
- 363. Repealed 
+353.1. Authorization to Provide Counseling Services for Certain Persons - Definitions
 
- 364. Repealed 
+Use of County Owned Vehicles
 
- 365. State Regulation to Manage Solid Waste for the Protection of Public Health, Safety, and Welfare 
+354. Transportation and Distribution of Commodities Donated to County or School District
 
- Ambulance Service
+355. Repealed
 
- 371. Authorization to Contract for Ambulance Service - Liability Insurance - Immunity - Pension Benefits 
+356. Repealed
 
- 372. Minimum Standards for Operation and Equipment - Personnel - Charges - Audits 
+357. Provisions Cumulative
 
- Data Processing
+358. Transportation of Scouts and Supervisors
 
- 376. Electronic Data Processing Equipment Authorized - Manner of Handling 
+359. Improvements upon School Grounds
 
- 377. Technician 
+Dilapidated Buildings
 
- 378. Contracts with Public Trust 
+360. Tearing Down and Removal of Dilapidated Buildings in Unincorporated Areas
 
- Submissions of Questions to Voters
+Vacancies
 
- 381. Questions to be Submitted to Popular Vote 
+361. Repealed
 
- 382. Additional Tax 
+362. Repealed
 
- 383. Mode of Submitting Questions to People Contemplated by the Last Two Sections 
+363. Repealed
 
- 384. Question Involving Borrowing or Expenditure of Money 
+364. Repealed
 
- 385. Propositions Submitted 
+365. State Regulation to Manage Solid Waste for the Protection of Public Health, Safety, and Welfare
 
- 386. Appropriation of Raised Money 
+Ambulance Service
 
- 387. Balance of Special Fund 
+371. Authorization to Contract for Ambulance Service - Liability Insurance - Immunity - Pension Benefits
 
- 388. Proposition to be Submitted for Approval by Registered Voters in County - Additional Duties of County Commissioners - Filing - Ballot Title - Review 
+372. Minimum Standards for Operation and Equipment - Personnel - Charges - Audits
 
- 389. Petitions - Requirements - Time Limits 
+Data Processing
 
- Quarters for Officers and Courts
+376. Electronic Data Processing Equipment Authorized - Manner of Handling
 
- 401. Provisions for Court Room Jail, and Offices - Rent 
+377. Technician
 
- 401.1. Provision of Suitable and Adequate Courtroom and Office Space 
+378. Contracts with Public Trust
 
- 402. Power to Rent Courtrooms 
+Submissions of Questions to Voters
 
- 403. Repealed 
+381. Questions to be Submitted to Popular Vote
 
- Claims Against County
+382. Additional Tax
 
- 410.1. Repealed 
+383. Mode of Submitting Questions to People Contemplated by the Last Two Sections
 
- 410.1a. Renumbered as 19 O.S. § 333.1 
+384. Question Involving Borrowing or Expenditure of Money
 
- 410.2. Repealed 
+385. Propositions Submitted
 
- 410.3. Repealed 
+386. Appropriation of Raised Money
 
- 410.4. Repealed 
+387. Balance of Special Fund
 
- 410.5. Repealed 
+388. Proposition to be Submitted for Approval by Registered Voters in County - Additional Duties of County Commissioners - Filing - Ballot Title - Review
 
- 410.6. Repealed 
+389. Petitions - Requirements - Time Limits
 
- 410.7. Repealed 
+Quarters for Officers and Courts
 
- 410.8. Repealed 
+401. Provisions for Court Room Jail, and Offices - Rent
 
- 410.9. Repealed 
+401.1. Provision of Suitable and Adequate Courtroom and Office Space
 
- 410.10. Repealed 
+402. Power to Rent Courtrooms
 
- 410.11. Repealed 
+403. Repealed
 
- 410.12. Repealed 
+Claims Against County
 
- 410.13. Repealed 
+410.1. Repealed
 
- 410.14. Repealed 
+410.1a. Renumbered as 19 O.S. § 333.1
 
- 410.15. Repealed 
+410.2. Repealed
 
- 410.16. Repealed 
+410.3. Repealed
 
- 410.17. Repealed 
+410.4. Repealed
 
- 410.18. Repealed 
+410.5. Repealed
 
- 411. Repealed 
+410.6. Repealed
 
- 412. Repealed 
+410.7. Repealed
 
- 413. Repealed 
+410.8. Repealed
 
- 414. Repealed 
+410.9. Repealed
 
- 415. Repealed 
+410.10. Repealed
 
- 416. Repealed 
+410.11. Repealed
 
- 417. Repealed 
+410.12. Repealed
 
- 418. Repealed 
+410.13. Repealed
 
- 419. Repealed 
+410.14. Repealed
 
- Sale, Trade, or Disposition of County Equipment
+410.15. Repealed
 
- 421. Disposition of Certain County Properties to be Entered in Minutes 
+410.16. Repealed
 
- 421.1. Procedures for Sale of Certain County Property 
+410.17. Repealed
 
- 421.2. Transfer of Surplus Machinery, Equipment, or Vehicles 
+410.18. Repealed
 
- 421.3. Circuit Engineering Districts - Obtaining Surplus Property 
+411. Repealed
 
- 422. Penalty 
+412. Repealed
 
- 423. Invalidity Clause 
+413. Repealed
 
- Appeals from Boards of Commissioners
+414. Repealed
 
- 431. Rights of Appeal - Necessary Acts 
+415. Repealed
 
- 432. Time and Manner of Taking Appeal - Folio of Papers 
+416. Repealed
 
- 433. When Appeal Shall be Filed and Tried 
+417. Repealed
 
- 434. Appeals - Docketing of - Determination De Novo 
+418. Repealed
 
- 435. Final Judgment of District Court 
+419. Repealed
 
- Miscellaneous Provisions
+Sale, Trade, or Disposition of County Equipment
 
- 441. Rendering and Settling of Accounts - Payments and Receipts 
+421. Disposition of Certain County Properties to be Entered in Minutes
 
- 442. Duty to Examine Treasurer's Tax Records 
+421.1. Procedures for Sale of Certain County Property
 
- 443. Refusal or Neglect to Render True Accounts or Settle 
+421.2. Transfer of Surplus Machinery, Equipment, or Vehicles
 
- 444. Publication of Proceedings Mandatory - Appropriation to Cover Cost Mandatory 
+421.3. Circuit Engineering Districts - Obtaining Surplus Property
 
- 445. Clerk to Make Report of Proceedings for Publication 
+422. Penalty
 
- 446. Duty of Publisher - Time Limit for Publication 
+423. Invalidity Clause
 
- 447. Board to Provide Suitable Cases and Furniture 
+Appeals from Boards of Commissioners
 
- 448. Penalty for Failure to Perform Duty 
+431. Rights of Appeal - Necessary Acts
 
- 449. Incapacity as Creating Vacancy 
+432. Time and Manner of Taking Appeal - Folio of Papers
 
- 450. District Court - District Attorney - Procedure to Determine Vacancy 
+433. When Appeal Shall be Filed and Tried
 
- 451. County Officers - Travel by Boat - Furnished by County 
+434. Appeals - Docketing of - Determination De Novo
 
- 452. Employees and Assistants in Certain Counties 
+435. Final Judgment of District Court
 
- 452.1. Director and Deputies to the Director of County Juvenile Facilities and Services 
+Miscellaneous Provisions
 
- 453. School Guards - Qualifications and Tenure - Salary 
+441. Rendering and Settling of Accounts - Payments and Receipts
 
- 454. Repealed 
+442. Duty to Examine Treasurer's Tax Records
 
- 455. Reward Fund for Information Relating to Theft or Defacing of Road Signs or Other County Property 
+443. Refusal or Neglect to Render True Accounts or Settle
 
- Oklahoma County and City Energy Conservation Act
+444. Publication of Proceedings Mandatory - Appropriation to Cover Cost Mandatory
 
- 456. Repealed 
+445. Clerk to Make Report of Proceedings for Publication
 
- 457. Repealed 
+446. Duty of Publisher - Time Limit for Publication
 
- 458. Repealed 
+447. Board to Provide Suitable Cases and Furniture
 
- Oklahoma Energy Independence Act
+448. Penalty for Failure to Perform Duty
 
- 460.1. Short Title 
+449. Incapacity as Creating Vacancy
 
- 460.2. County Energy District Authority 
+450. District Court - District Attorney - Procedure to Determine Vacancy
 
- 460.2a. County Energy District Authority - Circuit Engineering District 
+451. County Officers - Travel by Boat - Furnished by County
 
- 460.3. Trustees of County Energy District Authority - Meetings - Quorum 
+452. Employees and Assistants in Certain Counties
 
- 460.4. Trustees of County Energy District Authority - Duties 
+452.1. Director and Deputies to the Director of County Juvenile Facilities and Services
 
- 460.5. Property to Which Act Applies - Repayment of Loans - Lien - Improvements Eligible for Financing 
+453. School Guards - Qualifications and Tenure - Salary
 
- 460.6. Grants to Nonprofits for Energy Efficiency Retrofits 
+454. Repealed
 
- 460.7. Energy Audits 
+455. Reward Fund for Information Relating to Theft or Defacing of Road Signs or Other County Property
 
- Chapter 11 - Coroner
+Oklahoma County and City Energy Conservation Act
 
- 461. Repealed 
+456. Repealed
 
- 462. Repealed 
+457. Repealed
 
- 463. Repealed 
+458. Repealed
 
- 464. Repealed 
+Oklahoma Energy Independence Act
 
- 465. Repealed 
+460.1. Short Title
 
- 466. Repealed 
+460.2. County Energy District Authority
 
- 467. Repealed 
+460.2a. County Energy District Authority - Circuit Engineering District
 
- 468. Repealed 
+460.3. Trustees of County Energy District Authority - Meetings - Quorum
 
- 469. Repealed 
+460.4. Trustees of County Energy District Authority - Duties
 
- 470. Repealed 
+460.5. Property to Which Act Applies - Repayment of Loans - Lien - Improvements Eligible for Financing
 
- 471. Repealed 
+460.6. Grants to Nonprofits for Energy Efficiency Retrofits
 
- 472. Repealed 
+460.7. Energy Audits
 
- 473. Repealed 
+Chapter 11 - Coroner
 
- 474. Repealed 
+461. Repealed
 
- 475. Repealed 
+462. Repealed
 
- 476. Repealed 
+463. Repealed
 
- 477. Repealed 
+464. Repealed
 
- 478. Repealed 
+465. Repealed
 
- 479. Repealed 
+466. Repealed
 
- 480. Repealed 
+467. Repealed
 
- 481. Repealed 
+468. Repealed
 
- 482. Repealed 
+469. Repealed
 
- 483. Repealed 
+470. Repealed
 
- 484. Repealed 
+471. Repealed
 
- 485. Repealed 
+472. Repealed
 
- Chapter 12 - Sheriffs
+473. Repealed
 
- General Provisions
+474. Repealed
 
- 510. County Sheriff - Qualifications 
+475. Repealed
 
- 511. Repealed 
+476. Repealed
 
- 512. Repealed 
+477. Repealed
 
- 513. Sheriff to Have Charge and Custody of Jail 
+478. Repealed
 
- 513.1. Training for Jailers in Accordance with Jail Standards 
+479. Repealed
 
- 513.2. Duties of Public Trust, Private Owner or Management Entity Contracting to Operate Jail, Holding, or Detention Facility 
+480. Repealed
 
- 514. Service and Execution of Process, etc. 
+481. Repealed
 
- 514.1. Creation of Sheriff's Service Fee Account 
+482. Repealed
 
- 514.2. Creation of Sheriff's Commissary Account 
+483. Repealed
 
- 514.3. Sheriff May Charge Fingerprinting Fee 
+484. Repealed
 
- 514.4. Court Cost Compliance Program - Payment to Court or Liaison - Pay in Lieu of Appearance - Applicability 
+485. Repealed
 
- 514.5. Administrative Cost of Misdemeanor or Cost-Related Warrants or Cases Referred to Court Cost Compliance Liaison 
+Chapter 12 - Sheriffs
 
- 515. Repealed 
+General Provisions
 
- 515.1. Repealed 
+510. County Sheriff - Qualifications
 
- 516. Duty of Sheriff, Undersheriffs and Deputies 
+511. Repealed
 
- 517. Delivery of Jail and Other Property of County to New Sheriff 
+512. Repealed
 
- 517.1. Retention, Disposal, and Conversion of County Departmental Records - Body Camera Records 
+513. Sheriff to Have Charge and Custody of Jail
 
- 518. Execution and Return of Writs and Processes in Hands of Retiring Sheriff 
+513.1. Training for Jailers in Accordance with Jail Standards
 
- 519. Default or Misconduct in Office of Former Sheriff 
+513.2. Duties of Public Trust, Private Owner or Management Entity Contracting to Operate Jail, Holding, or Detention Facility
 
- 520. Prosecution Against Executors or Administrators of Sheriff 
+514. Service and Execution of Process, etc.
 
- 521. How Writs are Served on Sheriff 
+514.1. Creation of Sheriff's Service Fee Account
 
- 522. May not Suggest, Advise or Act as Attorney - List of Attorneys 
+514.2. Creation of Sheriff's Commissary Account
 
- 523. Liability of Sheriffs to Fines or Attachments 
+514.3. Sheriff May Charge Fingerprinting Fee
 
- 524. Repealed 
+514.4. Court Cost Compliance Program - Payment to Court or Liaison - Pay in Lieu of Appearance - Applicability
 
- 525. Repealed 
+514.5. Administrative Cost of Misdemeanor or Cost-Related Warrants or Cases Referred to Court Cost Compliance Liaison
 
- 526. Repealed 
+515. Repealed
 
- 527. Authority of County Officials to Employ General Counsel 
+515.1. Repealed
 
- 528. Authority of County Sheriff to Employ Attorney 
+516. Duty of Sheriff, Undersheriffs and Deputies
 
- 529. Law Enforcement Grants 
+517. Delivery of Jail and Other Property of County to New Sheriff
 
- 531. Designation of Inmate Trust Fund Checking Account 
+517.1. Retention, Disposal, and Conversion of County Departmental Records - Body Camera Records
 
- Debt to Society Act of 2016
+518. Execution and Return of Writs and Processes in Hands of Retiring Sheriff
 
- 532. Short Title 
+519. Default or Misconduct in Office of Former Sheriff
 
- 533. Authority to Establish Program - Reduction of Sentence - Earnings of Participants - Violation of Conditions 
+520. Prosecution Against Executors or Administrators of Sheriff
 
- Under-Sheriffs, Deputies, Jailers, and Baliffs
+521. How Writs are Served on Sheriff
 
- 541. Repealed 
+522. May not Suggest, Advise or Act as Attorney - List of Attorneys
 
- 542. Repealed 
+523. Liability of Sheriffs to Fines or Attachments
 
- 543. Repealed 
+524. Repealed
 
- 544. Repealed 
+525. Repealed
 
- 545. Service of District Court Work or Other Court Work - Service of Process 
+526. Repealed
 
- 546. Repealed 
+527. Authority of County Officials to Employ General Counsel
 
- 547. Sheriffs - Responsibility for Acts of Undersheriffs and Deputies - Deputing Certain Persons - Appointing Reserve Force - Contracting with Private Security Firm 
+528. Authority of County Sheriff to Employ Attorney
 
- 547.1. Officers Assigned Duties Outside of County of Employment 
+529. Law Enforcement Grants
 
- 547.2. Public Policy - Sheriffs' Personnel Task Force 
+531. Designation of Inmate Trust Fund Checking Account
 
- 548. Appointment and Revocation of Appointment of Deputy or Undersheriff - Writing Requirement 
+Debt to Society Act of 2016
 
- 549. Repealed 
+532. Short Title
 
- 550. Repealed 
+533. Authority to Establish Program - Reduction of Sentence - Earnings of Participants - Violation of Conditions
 
- 551. Repealed 
+Under-Sheriffs, Deputies, Jailers, and Baliffs
 
- 552. Renumbered as 20 O.S. § 125 by Laws 1971, SB 7, c. 309, § 3, emerg. eff. June 24, 1971 
+541. Repealed
 
- 553. Retiring Sheriffs and Deputies - Peace Officer Status - Firearms 
+542. Repealed
 
- 554. Retiring Officers - Request for Permission to Keep and Bear Arms - Issuance of Commission - Exemptions 
+543. Repealed
 
- 555. Retired Sheriffs and Deputies - Emergencies 
+544. Repealed
 
- 556. Corporations Authorized to Provide Assistance to Sheriffs 
+545. Service of District Court Work or Other Court Work - Service of Process
 
- Radio Systems
+546. Repealed
 
- 561. Repealed 
+547. Sheriffs - Responsibility for Acts of Undersheriffs and Deputies - Deputing Certain Persons - Appointing Reserve Force - Contracting with Private Security Firm
 
- 562. Repealed 
+547.1. Officers Assigned Duties Outside of County of Employment
 
- 563. Repealed 
+547.2. Public Policy - Sheriffs' Personnel Task Force
 
- 564. Appropriation 
+548. Appointment and Revocation of Appointment of Deputy or Undersheriff - Writing Requirement
 
- Bureau of Identification
+549. Repealed
 
- 565.1. Repealed 
+550. Repealed
 
- 565.2. Repealed 
+551. Repealed
 
- 565.3. Repealed 
+552. Renumbered as 20 O.S. § 125 by Laws 1971, SB 7, c. 309, § 3, emerg. eff. June 24, 1971
 
- Chapter 13 - County Surveyor
+553. Retiring Sheriffs and Deputies - Peace Officer Status - Firearms
 
- 570. Abolition of Office of County Surveyor 
+554. Retiring Officers - Request for Permission to Keep and Bear Arms - Issuance of Commission - Exemptions
 
- 571. Repealed 
+555. Retired Sheriffs and Deputies - Emergencies
 
- 571.1. Repealed 
+556. Corporations Authorized to Provide Assistance to Sheriffs
 
- 572. Repealed 
+Radio Systems
 
- 573. Repealed 
+561. Repealed
 
- 574. Repealed 
+562. Repealed
 
- 575. Repealed 
+563. Repealed
 
- 576. Repealed 
+564. Appropriation
 
- 577. Repealed 
+Bureau of Identification
 
- 578. Repealed 
+565.1. Repealed
 
- 579. Repealed 
+565.2. Repealed
 
- 580. Repealed 
+565.3. Repealed
 
- 581. Repealed 
+Chapter 13 - County Surveyor
 
- 582. Repealed 
+570. Abolition of Office of County Surveyor
 
- 583. Repealed 
+571. Repealed
 
- 584. Repealed 
+571.1. Repealed
 
- 585. Repealed 
+572. Repealed
 
- 586. Repealed 
+573. Repealed
 
- 587. Repealed 
+574. Repealed
 
- 588. Repealed 
+575. Repealed
 
- 589. Repealed 
+576. Repealed
 
- 590. Repealed 
+577. Repealed
 
- 591. Repealed 
+578. Repealed
 
- 591.1. Removing, Relocating, Changing, Obliterating or Making Unintelligible Survey Monument - Replacement - Recordation of Corners 
+579. Repealed
 
- 592. Repealed 
+580. Repealed
 
- Chapter 14 - County Treasurer
+581. Repealed
 
- 621. Repealed 
+582. Repealed
 
- 622. Bond of County Treasurer 
+583. Repealed
 
- 623. Duty to Receive Money - Direct Deposit System 
+584. Repealed
 
- 624. Receipts 
+585. Repealed
 
- 625. Other Duties of Treasurer 
+586. Repealed
 
- 626. Books, Accounts and Vouchers Subject to Inspection 
+587. Repealed
 
- 627. Insurance of Public Buildings 
+588. Repealed
 
- 628. Repealed 
+589. Repealed
 
- 629. Liquidation of Fictitious Assets - Procedure 
+590. Repealed
 
- 630. Amendment - Time of Transfer 
+591. Repealed
 
- 631. Penalty 
+591.1. Removing, Relocating, Changing, Obliterating or Making Unintelligible Survey Monument - Replacement - Recordation of Corners
 
- 632. Action for Neglect of County Treasurer 
+592. Repealed
 
- 633. Payment Register 
+Chapter 14 - County Treasurer
 
- 634. Repealed 
+621. Repealed
 
- 635. Action Against Treasurer Failing to Make Settlement 
+622. Bond of County Treasurer
 
- 636. Judge may Suspend Treasurer during Action 
+623. Duty to Receive Money - Direct Deposit System
 
- 637. Additional Securities 
+624. Receipts
 
- 638. Failure or Refusal to Give Additional Bond 
+625. Other Duties of Treasurer
 
- 639. Repealed 
+626. Books, Accounts and Vouchers Subject to Inspection
 
- 640. Repealed 
+627. Insurance of Public Buildings
 
- 641. Embezzlement 
+628. Repealed
 
- 642. Cash Book and Accounts 
+629. Liquidation of Fictitious Assets - Procedure
 
- 643. Treasurer's Receipts for Licenses, Fines, Etc., Except Taxes 
+630. Amendment - Time of Transfer
 
- 644. Repealed 
+631. Penalty
 
- 644.1. Clerk Shall Keep and Maintain Duplicate Copy of Daily Collections and Deposits 
+632. Action for Neglect of County Treasurer
 
- 645. County Treasurer - Official Treasurer of Town 
+633. Payment Register
 
- 646. Appropriation of Funds Authorized, to Reimburse County Treasurer for Uninsured Stolen Property 
+634. Repealed
 
- Clerks and Deputies
+635. Action Against Treasurer Failing to Make Settlement
 
- 671. Repealed 
+636. Judge may Suspend Treasurer during Action
 
- 672. Repealed 
+637. Additional Securities
 
- 673. Repealed 
+638. Failure or Refusal to Give Additional Bond
 
- 673a. Repealed 
+639. Repealed
 
- 674. Repealed 
+640. Repealed
 
- Official Depository for Other County Officers
+641. Embezzlement
 
- 681. County Treasurer Official Depository 
+642. Cash Book and Accounts
 
- 682. Duties of County Officers - Credits - Worthless Checks, etc. - Deposits by County Treasurer - Interest 
+643. Treasurer's Receipts for Licenses, Fines, Etc., Except Taxes
 
- 683. Monies How Credited 
+644. Repealed
 
- 684. Funds Paid - County Treasurer 
+644.1. Clerk Shall Keep and Maintain Duplicate Copy of Daily Collections and Deposits
 
- 685. County Treasurer May Bring Suit 
+645. County Treasurer - Official Treasurer of Town
 
- 686. Penalty for Violation 
+646. Appropriation of Funds Authorized, to Reimburse County Treasurer for Uninsured Stolen Property
 
- Refunds and Disbursements
+Clerks and Deputies
 
- 691. Refund of Moneys Erroneously Received 
+671. Repealed
 
- 692. Filing and Auditing of Claims 
+672. Repealed
 
- 693. Rules and Regulations 
+673. Repealed
 
- Chapter 15 - Public Weigher
+673a. Repealed
 
- 701. Repealed 
+674. Repealed
 
- 702. Repealed 
+Official Depository for Other County Officers
 
- 703. Repealed 
+681. County Treasurer Official Depository
 
- 704. Repealed 
+682. Duties of County Officers - Credits - Worthless Checks, etc. - Deposits by County Treasurer - Interest
 
- 705. Repealed 
+683. Monies How Credited
 
- 706. Repealed 
+684. Funds Paid - County Treasurer
 
- 707. Repealed 
+685. County Treasurer May Bring Suit
 
- 708. Repealed 
+686. Penalty for Violation
 
- 709. Repealed 
+Refunds and Disbursements
 
- 710. Repealed 
+691. Refund of Moneys Erroneously Received
 
- 711. Repealed 
+692. Filing and Auditing of Claims
 
- 712. Repealed 
+693. Rules and Regulations
 
- 713. Repealed 
+Chapter 15 - Public Weigher
 
- 714. Repealed 
+701. Repealed
 
- Chapter 16 - Courthouses, Jails, and Public Buildings
+702. Repealed
 
- General Provisions
+703. Repealed
 
- 731. Authority to Provide for Construction or Repair - Vote 
+704. Repealed
 
- 732. When Buildings can be Erected 
+705. Repealed
 
- 733. Advertisement for Bids - Bids - Bond of Contractor 
+706. Repealed
 
- 734. Contracts to Acquire Sites, Purchase, Erect, Repair, Remodel, Equip or Furnish - Bonds - Elections 
+707. Repealed
 
- 735. Statement Made on Records Prior to Election 
+708. Repealed
 
- 736. Notice of Election Upon Question of Issuing Bonds 
+709. Repealed
 
- 737. Majority of Legal Vote - Sale of Bonds 
+710. Repealed
 
- 738. Character of Bonds 
+711. Repealed
 
- 739. Repealed 
+712. Repealed
 
- 740. Board of County Commissioners 
+713. Repealed
 
- 741. Repealed 
+714. Repealed
 
- 742. Repealed 
+Chapter 16 - Courthouses, Jails, and Public Buildings
 
- 743. Repealed 
+General Provisions
 
- 744. Authority to Use of Private Prison Contractors 
+731. Authority to Provide for Construction or Repair - Vote
 
- 745. Sale of Courthouse and Real Property on which Courthouse is Located 
+732. When Buildings can be Erected
 
- 746. Custodial County's Liability for Cost of Medical Care when Defendant is in Custody of County Jail 
+733. Advertisement for Bids - Bids - Bond of Contractor
 
- 746.1. Medical Expense Liability Revolving Fund 
+734. Contracts to Acquire Sites, Purchase, Erect, Repair, Remodel, Equip or Furnish - Bonds - Elections
 
- Joint City and County Building
+735. Statement Made on Records Prior to Election
 
- 751. City Hall and Court House - Joint Building 
+736. Notice of Election Upon Question of Issuing Bonds
 
- 752. County Commissioners - Contract 
+737. Majority of Legal Vote - Sale of Bonds
 
- 753. Property - Use of for Building 
+738. Character of Bonds
 
- 754. Funds - Sale of Property - Combined With Other Funds 
+739. Repealed
 
- 755. Unconstitutionality of Any Section 
+740. Board of County Commissioners
 
- 756. Limitation on Powers of City or County 
+741. Repealed
 
- Destruction of Courthouse
+742. Repealed
 
- 761. Courthouse - Destroyed - Board of County Commissioners 
+743. Repealed
 
- 762. Insurance - Use of to Purchase Equipment and Supplies 
+744. Authority to Use of Private Prison Contractors
 
- 763. Funds - Use of Without Appropriation 
+745. Sale of Courthouse and Real Property on which Courthouse is Located
 
- 764. Assessment Lists and Rolls - Replacing - Deputy County Assessors 
+746. Custodial County's Liability for Cost of Medical Care when Defendant is in Custody of County Jail
 
- 765. Proclamation - Newspapers - Persons Holding Tax Receipts - Duty 
+746.1. Medical Expense Liability Revolving Fund
 
- 766. Taxes - Action to Foreclose Lien - District Attorney 
+Joint City and County Building
 
- 767. Audits - Destroyed Records - Apportionment of Cash on Hand 
+751. City Hall and Court House - Joint Building
 
- 768. State Auditor and Inspector - Budgets and Estimates - Delivery to County Clerk 
+752. County Commissioners - Contract
 
- 769. Courthouse Fund - Purchase of Material without Bids 
+753. Property - Use of for Building
 
- 770. Board of County Commissioners - Powers and Duties 
+754. Funds - Sale of Property - Combined With Other Funds
 
- County Courthouse Building Commission
+755. Unconstitutionality of Any Section
 
- 771. Repealed 
+756. Limitation on Powers of City or County
 
- 772. Repealed 
+Destruction of Courthouse
 
- 773. Repealed 
+761. Courthouse - Destroyed - Board of County Commissioners
 
- 774. Repealed 
+762. Insurance - Use of to Purchase Equipment and Supplies
 
- 775. Repealed 
+763. Funds - Use of Without Appropriation
 
- 776. Repealed 
+764. Assessment Lists and Rolls - Replacing - Deputy County Assessors
 
- 777. Repealed 
+765. Proclamation - Newspapers - Persons Holding Tax Receipts - Duty
 
- 778. Repealed 
+766. Taxes - Action to Foreclose Lien - District Attorney
 
- Chapter 17 - County Hospitals
+767. Audits - Destroyed Records - Apportionment of Cash on Hand
 
- 781. Bonds - County Hospitals 
+768. State Auditor and Inspector - Budgets and Estimates - Delivery to County Clerk
 
- 782. Election 
+769. Courthouse Fund - Purchase of Material without Bids
 
- 783. Ballots 
+770. Board of County Commissioners - Powers and Duties
 
- 784. Issuance and Sale of Bonds 
+County Courthouse Building Commission
 
- 785. Issuance of Bonds - Interest 
+771. Repealed
 
- 786. Tax Levy - Annual Report - Estimate of Needs - Issuance of Revenue Bonds 
+772. Repealed
 
- 787. Site and Building 
+773. Repealed
 
- 788. Contracts - Bids - Notice - Preference - Uncompleted Contracts - Payment of Personal Property Taxes 
+774. Repealed
 
- 789. Board of Control - Lease to Charitable Nonprofit Organization 
+775. Repealed
 
- 790. Repealed 
+776. Repealed
 
- 790.1. Oath - Organization and Meetings - Power and Duties - Funds Established - Facsimile Signature Machine - Management of Properties 
+777. Repealed
 
- 790a. Provisions not Applicable When 
+778. Repealed
 
- 791. Repealed 
+Chapter 17 - County Hospitals
 
- 792. Medical Staff - Admissions - Rules and Regulations 
+781. Bonds - County Hospitals
 
- 793. Purchase of Building - Gifts 
+782. Election
 
- 794. Audit of Financial Books and Records 
+783. Ballots
 
- 795. Violations and Penalties 
+784. Issuance and Sale of Bonds
 
- 796. Financial Assistance Programs 
+785. Issuance of Bonds - Interest
 
- Chapter 18 - County Law Libraries
+786. Tax Levy - Annual Report - Estimate of Needs - Issuance of Revenue Bonds
 
- 811. Repealed 
+787. Site and Building
 
- 812. Renumbered as 20 O.S. § 1201 by Laws 1968, HB 1155, c. 138, § 10 
+788. Contracts - Bids - Notice - Preference - Uncompleted Contracts - Payment of Personal Property Taxes
 
- 813. Renumbered as 20 O.S. § 1202 by Laws 1968, HB 1155, c. 138, § 10 
+789. Board of Control - Lease to Charitable Nonprofit Organization
 
- 814. Renumbered as 20 O.S. § 1203 by Laws 1968, HB 1155, c. 138, § 10 
+790. Repealed
 
- 815. Renumbered as 20 O.S. § 1204 by Laws 1968, HB 1155, c. 138, § 10 
+790.1. Oath - Organization and Meetings - Power and Duties - Funds Established - Facsimile Signature Machine - Management of Properties
 
- 816. Renumbered as 20 O.S. § 1205 by Laws 1968, HB 1155, c. 138, § 10 
+790a. Provisions not Applicable When
 
- 817. Renumbered as 20 O.S. § 1206 by Laws 1968, HB 1155, c. 138, § 10 
+791. Repealed
 
- 818. Renumbered as 20 O.S. § 1207 by Laws 1968, HB 1155, c. 138, § 10 
+792. Medical Staff - Admissions - Rules and Regulations
 
- 819. Renumbered as 20 O.S. § 1208 by Laws 1968, HB 1155, c. 138, § 10 
+793. Purchase of Building - Gifts
 
- 820. Renumbered as 20 O.S. § 1209 by Laws 1968, HB 1155, c. 138, § 10 
+794. Audit of Financial Books and Records
 
- 821. Renumbered as 20 O.S. § 1210 by Laws 1968, HB 1155, c. 138, § 10 
+795. Violations and Penalties
 
- 822. Renumbered as 20 O.S. § 1211 by Laws 1968, HB 1155, c. 138, § 10 
+796. Financial Assistance Programs
 
- 823. Renumbered as 20 O.S. § 1212 by Laws 1968, HB 1155, c. 138, § 10 
+Chapter 18 - County Law Libraries
 
- 824. Renumbered as 20 O.S. § 1213 by Laws 1968, HB 1155, c. 138, § 10 
+811. Repealed
 
- 825. Renumbered as 20 O.S. § 1214 by Laws 1968, HB 1155, c. 138, § 10 
+812. Renumbered as 20 O.S. § 1201 by Laws 1968, HB 1155, c. 138, § 10
 
- 826. Renumbered as 20 O.S. § 1215 by Laws 1968, HB 1155, c. 138, § 10 
+813. Renumbered as 20 O.S. § 1202 by Laws 1968, HB 1155, c. 138, § 10
 
- 827. Renumbered as 20 O.S. § 1216 by Laws 1968, HB 1155, c. 138, § 10 
+814. Renumbered as 20 O.S. § 1203 by Laws 1968, HB 1155, c. 138, § 10
 
- 828. Renumbered as 20 O.S. § 1217 by Laws 1968, HB 1155, c. 138, § 10 
+815. Renumbered as 20 O.S. § 1204 by Laws 1968, HB 1155, c. 138, § 10
 
- 829. Renumbered as 20 O.S. § 1218 by Laws 1968, HB 1155, c. 138, § 10 
+816. Renumbered as 20 O.S. § 1205 by Laws 1968, HB 1155, c. 138, § 10
 
- 830. Renumbered as 20 O.S. § 1219 by Laws 1968, HB 1155, c. 138, § 10 
+817. Renumbered as 20 O.S. § 1206 by Laws 1968, HB 1155, c. 138, § 10
 
- 831. Renumbered as 20 O.S. § 1220 by Laws 1968, HB 1155, c. 138, § 10 
+818. Renumbered as 20 O.S. § 1207 by Laws 1968, HB 1155, c. 138, § 10
 
- Chapter 19 - Regional Planning Commissions
+819. Renumbered as 20 O.S. § 1208 by Laws 1968, HB 1155, c. 138, § 10
 
- 841. Repealed 
+820. Renumbered as 20 O.S. § 1209 by Laws 1968, HB 1155, c. 138, § 10
 
- 842. Repealed 
+821. Renumbered as 20 O.S. § 1210 by Laws 1968, HB 1155, c. 138, § 10
 
- 843. Repealed 
+822. Renumbered as 20 O.S. § 1211 by Laws 1968, HB 1155, c. 138, § 10
 
- 844. Repealed 
+823. Renumbered as 20 O.S. § 1212 by Laws 1968, HB 1155, c. 138, § 10
 
- 845. Repealed 
+824. Renumbered as 20 O.S. § 1213 by Laws 1968, HB 1155, c. 138, § 10
 
- 846. Repealed 
+825. Renumbered as 20 O.S. § 1214 by Laws 1968, HB 1155, c. 138, § 10
 
- 847. Repealed 
+826. Renumbered as 20 O.S. § 1215 by Laws 1968, HB 1155, c. 138, § 10
 
- 848. Repealed 
+827. Renumbered as 20 O.S. § 1216 by Laws 1968, HB 1155, c. 138, § 10
 
- 849. Repealed 
+828. Renumbered as 20 O.S. § 1217 by Laws 1968, HB 1155, c. 138, § 10
 
- 850. Repealed 
+829. Renumbered as 20 O.S. § 1218 by Laws 1968, HB 1155, c. 138, § 10
 
- 851. Repealed 
+830. Renumbered as 20 O.S. § 1219 by Laws 1968, HB 1155, c. 138, § 10
 
- 852. Repealed 
+831. Renumbered as 20 O.S. § 1220 by Laws 1968, HB 1155, c. 138, § 10
 
- 853. Repealed 
+Chapter 19 - Regional Planning Commissions
 
- 854.1. Repealed 
+841. Repealed
 
- 854.2. Repealed 
+842. Repealed
 
- 854.3. Repealed 
+843. Repealed
 
- 854.4. Repealed 
+844. Repealed
 
- 854.5. Repealed 
+845. Repealed
 
- 854.6. Repealed 
+846. Repealed
 
- 854.7. Repealed 
+847. Repealed
 
- 854.8. Repealed 
+848. Repealed
 
- 854.9. Repealed 
+849. Repealed
 
- Chapter 19A - County Zoning and Planning
+850. Repealed
 
- Counties of 100,000 to 244,000 Population
+851. Repealed
 
- 861.1. Repealed 
+852. Repealed
 
- 861.2. Repealed 
+853. Repealed
 
- 861.3. Repealed 
+854.1. Repealed
 
- 861.4. Repealed 
+854.2. Repealed
 
- 861.5. Repealed 
+854.3. Repealed
 
- 861.6. Repealed 
+854.4. Repealed
 
- 861.7. Repealed 
+854.5. Repealed
 
- 861.8. Repealed 
+854.6. Repealed
 
- 861.9. Repealed 
+854.7. Repealed
 
- 861.10. Repealed 
+854.8. Repealed
 
- 861.11. Repealed 
+854.9. Repealed
 
- 861.12. Repealed 
+Chapter 19A - County Zoning and Planning
 
- 861.13. Repealed 
+Counties of 100,000 to 244,000 Population
 
- 861.14. Repealed 
+861.1. Repealed
 
- 861.15. Repealed 
+861.2. Repealed
 
- 861.16. Repealed 
+861.3. Repealed
 
- 861.17. Repealed 
+861.4. Repealed
 
- 861.18. Repealed 
+861.5. Repealed
 
- 861.19. Repealed 
+861.6. Repealed
 
- 861.20. Repealed 
+861.7. Repealed
 
- 861.21. Repealed 
+861.8. Repealed
 
- 861.22. Repealed 
+861.9. Repealed
 
- 861.23. Repealed 
+861.10. Repealed
 
- 861.24. Repealed 
+861.11. Repealed
 
- Counties Containing City of 180,000 to 240,000 Population
+861.12. Repealed
 
- 862.1. Repealed 
+861.13. Repealed
 
- 862.2. Repealed 
+861.14. Repealed
 
- 862.3. Repealed 
+861.15. Repealed
 
- 862.4. Repealed 
+861.16. Repealed
 
- 862.5. Repealed 
+861.17. Repealed
 
- 862.6. Repealed 
+861.18. Repealed
 
- 862.7. Repealed 
+861.19. Repealed
 
- 862.8. Repealed 
+861.20. Repealed
 
- 862.9. Repealed 
+861.21. Repealed
 
- 862.10. Repealed 
+861.22. Repealed
 
- 862.11. Repealed 
+861.23. Repealed
 
- 862.12. Repealed 
+861.24. Repealed
 
- 862.13. Repealed 
+Counties Containing City of 180,000 to 240,000 Population
 
- 862.14. Repealed 
+862.1. Repealed
 
- 862.15. Repealed 
+862.2. Repealed
 
- 862.16. Repealed 
+862.3. Repealed
 
- 862.17. Repealed 
+862.4. Repealed
 
- 862.18. Repealed 
+862.5. Repealed
 
- 862.19. Repealed 
+862.6. Repealed
 
- 862.20. Repealed 
+862.7. Repealed
 
- 862.21. Repealed 
+862.8. Repealed
 
- 862.22. Repealed 
+862.9. Repealed
 
- 862.23. Repealed 
+862.10. Repealed
 
- 862.24. Repealed 
+862.11. Repealed
 
- 862.25. Repealed 
+862.12. Repealed
 
- 862.26. Repealed 
+862.13. Repealed
 
- 862.27. Repealed 
+862.14. Repealed
 
- 862.28. Repealed 
+862.15. Repealed
 
- 862.29. Repealed 
+862.16. Repealed
 
- 862.30. Repealed 
+862.17. Repealed
 
- 862.31. Repealed 
+862.18. Repealed
 
- Counties Containing City of 180,000 Population
+862.19. Repealed
 
- 863.1. City-County Cooperative Planning Commission and County Board of Adjustment Created in Certain Counties. 
+862.20. Repealed
 
- 863.2. Counties and Cities to which Applicable - Metropolitan Area Planning Commission - Contributions. 
+862.21. Repealed
 
- 863.3. Method of Setting Up Metropolitan-Area Planning Commission 
+862.22. Repealed
 
- 863.4. Definitions 
+862.23. Repealed
 
- 863.5. Members of Commission - Appointment - Term - Vacancy - Removal - Ex Officio Members - Members to Serve without Compensation 
+862.24. Repealed
 
- 863.6. Organization - Meetings - Rules - Employees - Fees - Expenses 
+862.25. Repealed
 
- 863.7. Master Plan - Purposes - Public Hearing - Adoption 
+862.26. Repealed
 
- 863.8. After Adoption, Improvements to be Authorized - Report and Recommendations - Method of Overruling 
+862.27. Repealed
 
- 863.9. Rules and Regulations Governing Plats and Subdivisions - Violations of Act 
+862.28. Repealed
 
- 863.10. Rules and Regulations Governing Plats and Subdivisions - Violations of Act 
+862.29. Repealed
 
- 863.11. Building Lines on Major Highways 
+862.30. Repealed
 
- 863.12. Appeals - Modifications on Building Line Regulations 
+862.31. Repealed
 
- 863.13. Power to Regulate Type and Use of Buildings - Exceptions 
+Counties Containing City of 180,000 Population
 
- 863.13A. Enforcement of Regulations of Board of County Commissioners - Fines and Penalties - Procedure 
+863.1. City-County Cooperative Planning Commission and County Board of Adjustment Created in Certain Counties.
 
- 863.14. Districts - Uniformity of Regulations Within a District 
+863.2. Counties and Cities to which Applicable - Metropolitan Area Planning Commission - Contributions.
 
- 863.15. District Boundaries - Public Hearings 
+863.3. Method of Setting Up Metropolitan-Area Planning Commission
 
- 863.16. Use of Existing Buildings Though Not Conforming - Termination of Nonconformance. 
+863.4. Definitions
 
- 863.17. Amendment of Zoning Regulations 
+863.5. Members of Commission - Appointment - Term - Vacancy - Removal - Ex Officio Members - Members to Serve without Compensation
 
- 863.18. Enforcement by County Engineer 
+863.6. Organization - Meetings - Rules - Employees - Fees - Expenses
 
- 863.19. Repealed 
+863.7. Master Plan - Purposes - Public Hearing - Adoption
 
- 863.19A. Extraterritorial Application of Zoning Powers 
+863.8. After Adoption, Improvements to be Authorized - Report and Recommendations - Method of Overruling
 
- 863.20. County Board of Adjustment - Members - Meetings - Employees - Expenses - Fees 
+863.9. Rules and Regulations Governing Plats and Subdivisions - Violations of Act
 
- 863.21. Appeals to County Board of Adjustment 
+863.10. Rules and Regulations Governing Plats and Subdivisions - Violations of Act
 
- 863.22. Judicial Review of Rulings, Orders, Requirements, Etc. 
+863.11. Building Lines on Major Highways
 
- 863.23. Appeals to District Court from Acts of the Commission 
+863.12. Appeals - Modifications on Building Line Regulations
 
- 863.24. Authority of this Act to Govern 
+863.13. Power to Regulate Type and Use of Buildings - Exceptions
 
- 863.25. Fees 
+863.13A. Enforcement of Regulations of Board of County Commissioners - Fines and Penalties - Procedure
 
- 863.26. Publication of Notice of Public Hearings - Circumstances Requiring Mailed Notice to Nearby Real Property Owners 
+863.14. Districts - Uniformity of Regulations Within a District
 
- 863.27. Existing Plans Validated Until Amended or Withdrawn 
+863.15. District Boundaries - Public Hearings
 
- 863.28. Violation - Penalty 
+863.16. Use of Existing Buildings Though Not Conforming - Termination of Nonconformance.
 
- 863.29. Exclusive Control - Transfer of Records 
+863.17. Amendment of Zoning Regulations
 
- 863.30. County Electrical Code - Definitions 
+863.18. Enforcement by County Engineer
 
- 863.31. Examination and Certificate Fees - Renewals 
+863.19. Repealed
 
- 863.32. Joint Examining and Appeal Board - Creation - Powers and Duties - Appeals 
+863.19A. Extraterritorial Application of Zoning Powers
 
- 863.33. Certificate of Competency - Examinations - Exceptions 
+863.20. County Board of Adjustment - Members - Meetings - Employees - Expenses - Fees
 
- 863.34. Apprentices 
+863.21. Appeals to County Board of Adjustment
 
- 863.35. Classes of Licenses 
+863.22. Judicial Review of Rulings, Orders, Requirements, Etc.
 
- 863.36. Bonds Required 
+863.23. Appeals to District Court from Acts of the Commission
 
- 863.37. Operating Without License Unlawful - Applications for License - Violations and Penalties 
+863.24. Authority of this Act to Govern
 
- 863.38. Office of Electrical Inspector Created - Duties - Rules and Regulations 
+863.25. Fees
 
- 863.39. Strict Conformity with Electrical Standards of Safety Required 
+863.26. Publication of Notice of Public Hearings - Circumstances Requiring Mailed Notice to Nearby Real Property Owners
 
- 863.40. Strict Conformity with Plumbing Standards for Safety Required - Authority to Create Office of Plumbing Inspector - Duties - Rules and Regulations 
+863.27. Existing Plans Validated Until Amended or Withdrawn
 
- 863.41. Authority to Continue Operation of Act Though Population Exceeds Limitation 
+863.28. Violation - Penalty
 
- 863.42. Inspection of Electrical Work 
+863.29. Exclusive Control - Transfer of Records
 
- 863.43. Invalidity Clause 
+863.30. County Electrical Code - Definitions
 
- 863.44. Building and/or Fire Codes 
+863.31. Examination and Certificate Fees - Renewals
 
- High-Rise Safety Act of 1975
+863.32. Joint Examining and Appeal Board - Creation - Powers and Duties - Appeals
 
- 863.44A. Short Title 
+863.33. Certificate of Competency - Examinations - Exceptions
 
- 863.44B. Purpose 
+863.34. Apprentices
 
- 863.44C. Definitions 
+863.35. Classes of Licenses
 
- 863.44D. Sprinkler Systems Required - Exceptions 
+863.36. Bonds Required
 
- 863.44E. Penalties 
+863.37. Operating Without License Unlawful - Applications for License - Violations and Penalties
 
- 863.44F. Provisions as Cumulative 
+863.38. Office of Electrical Inspector Created - Duties - Rules and Regulations
 
- 863.45. County Building Inspector 
+863.39. Strict Conformity with Electrical Standards of Safety Required
 
- 863.46. Agreements with Cities 
+863.40. Strict Conformity with Plumbing Standards for Safety Required - Authority to Create Office of Plumbing Inspector - Duties - Rules and Regulations
 
- 863.47. Appeals 
+863.41. Authority to Continue Operation of Act Though Population Exceeds Limitation
 
- 863.48. Penalties - Injunction 
+863.42. Inspection of Electrical Work
 
- Counties Containing City of 180,000 or More Population
+863.43. Invalidity Clause
 
- 864.1. Joint City-County Electrical Examining and Appeals Board - Authorization 
+863.44. Building and/or Fire Codes
 
- 864.2. Definitions 
+High-Rise Safety Act of 1975
 
- 864.3. Creation - Board - Duties - Review of Decisions - Expenses of Operation 
+863.44A. Short Title
 
- 864.4. Certificates of Competency - Examinations 
+863.44B. Purpose
 
- 864.5. Examination Fees - Renewals 
+863.44C. Definitions
 
- 864.6. Apprentices - Registration - Limitations 
+863.44D. Sprinkler Systems Required - Exceptions
 
- 864.7. Classes of Licenses 
+863.44E. Penalties
 
- 864.8. Bond 
+863.44F. Provisions as Cumulative
 
- 864.9. License - Application 
+863.45. County Building Inspector
 
- 864.10. Electrical Inspector - Selection - Duties 
+863.46. Agreements with Cities
 
- 864.11. Manner of Installation 
+863.47. Appeals
 
- 864.12. Manufacturers and Assemblers 
+863.48. Penalties - Injunction
 
- 864.13. Annexed Territory 
+Counties Containing City of 180,000 or More Population
 
- 864.14. Exceptions 
+864.1. Joint City-County Electrical Examining and Appeals Board - Authorization
 
- 864.15. Violations 
+864.2. Definitions
 
- 864.16. Identification of Contractors 
+864.3. Creation - Board - Duties - Review of Decisions - Expenses of Operation
 
- Counties of 240,000 Population
+864.4. Certificates of Competency - Examinations
 
- 865.1. Repealed 
+864.5. Examination Fees - Renewals
 
- 865.2. Repealed 
+864.6. Apprentices - Registration - Limitations
 
- 865.3. Repealed 
+864.7. Classes of Licenses
 
- 865.4. Repealed 
+864.8. Bond
 
- 865.5. Repealed 
+864.9. License - Application
 
- 865.6. Repealed 
+864.10. Electrical Inspector - Selection - Duties
 
- 865.7. Repealed 
+864.11. Manner of Installation
 
- 865.8. Repealed 
+864.12. Manufacturers and Assemblers
 
- 865.9. Repealed 
+864.13. Annexed Territory
 
- 865.10. Repealed 
+864.14. Exceptions
 
- 865.11. Repealed 
+864.15. Violations
 
- 865.12. Repealed 
+864.16. Identification of Contractors
 
- 865.13. Repealed 
+Counties of 240,000 Population
 
- 865.14. Repealed 
+865.1. Repealed
 
- 865.15. Repealed 
+865.2. Repealed
 
- 865.16. Repealed 
+865.3. Repealed
 
- 865.17. Repealed 
+865.4. Repealed
 
- 865.18. Repealed 
+865.5. Repealed
 
- 865.19. Repealed 
+865.6. Repealed
 
- 865.20. Repealed 
+865.7. Repealed
 
- 865.21. Repealed 
+865.8. Repealed
 
- 865.22. Repealed 
+865.9. Repealed
 
- 865.23. Repealed 
+865.10. Repealed
 
- County Planning and Zoning
+865.11. Repealed
 
- 865.51. County Planning Commission and County Board of Adjustment Authorized 
+865.12. Repealed
 
- 865.52. Resolution of Board - Majority Vote of People 
+865.13. Repealed
 
- 865.53. Territorial Jurisdiction 
+865.14. Repealed
 
- 865.54. Definitions 
+865.15. Repealed
 
- 865.55. Commission Membership 
+865.16. Repealed
 
- 865.56. Cooperation and Assistance 
+865.17. Repealed
 
- 865.57. Coordinated Physical Development 
+865.18. Repealed
 
- 865.58. Adoption and Amendment of Plan - Notice and Hearing - Public Record 
+865.19. Repealed
 
- 865.59. Proposed Improvements - Recommendations by Commission 
+865.20. Repealed
 
- 865.60. Rules and Regulations for Enforcement 
+865.21. Repealed
 
- 865.61. Exemptions 
+865.22. Repealed
 
- 865.62. County Board of Adjustment 
+865.23. Repealed
 
- 865.63. Appeals to County Board of Adjustment 
+County Planning and Zoning
 
- 865.64. Appeals to District Court and Supreme Court 
+865.51. County Planning Commission and County Board of Adjustment Authorized
 
- 865.65. Schedule of Fees 
+865.52. Resolution of Board - Majority Vote of People
 
- 865.66. Publication of Notice of Public Hearings - Circumstances Requiring Mailed Notice to Nearby Real Property Owners 
+865.53. Territorial Jurisdiction
 
- 865.67. Repealed 
+865.54. Definitions
 
- 865.67A. Enforcement of Regulations of Board of County Commissioners - Fines and Penalties - Procedure 
+865.55. Commission Membership
 
- 865.68. Exclusive Control 
+865.56. Cooperation and Assistance
 
- 865.69. Existing County Planning Commissions - Advisory Agency 
+865.57. Coordinated Physical Development
 
- 865.70. Contingent County Real Estate Transaction 
+865.58. Adoption and Amendment of Plan - Notice and Hearing - Public Record
 
- City-County Planning and Zoning
+865.59. Proposed Improvements - Recommendations by Commission
 
- 866.1. City-County Planning and Zoning - Metropolitan Area Planning Commission - County Board of Adjustment - Act Expanded to Include Smaller Cities 
+865.60. Rules and Regulations for Enforcement
 
- 866.2. City and County Powers 
+865.61. Exemptions
 
- 866.3. Combination of City and County Funds 
+865.62. County Board of Adjustment
 
- 866.4. Territorial Jurisdiction 
+865.63. Appeals to County Board of Adjustment
 
- 866.5. Procedure for Setting Up Commission 
+865.64. Appeals to District Court and Supreme Court
 
- 866.6. Definitions 
+865.65. Schedule of Fees
 
- 866.7. Commission Membership - Appointment and Tenure - Compensation - Vacancies - Removal 
+865.66. Publication of Notice of Public Hearings - Circumstances Requiring Mailed Notice to Nearby Real Property Owners
 
- 866.8. Organization of Commission - Employees 
+865.67. Repealed
 
- 866.9. Cooperation with Other Agencies 
+865.67A. Enforcement of Regulations of Board of County Commissioners - Fines and Penalties - Procedure
 
- 866.10. Metropolitan Comprehensive Plan 
+865.68. Exclusive Control
 
- 866.11. Improvements to be Submitted to Commission 
+865.69. Existing County Planning Commissions - Advisory Agency
 
- 866.12. Plats and Subdivisions - Rules and Regulations 
+865.70. Contingent County Real Estate Transaction
 
- 866.13. Recording of Plats or Deeds - Approval 
+City-County Planning and Zoning
 
- 866.14. Building Line Regulations 
+866.1. City-County Planning and Zoning - Metropolitan Area Planning Commission - County Board of Adjustment - Act Expanded to Include Smaller Cities
 
- 866.15. Appeals and Exemptions from Building Line and Setback Regulations 
+866.2. City and County Powers
 
- 866.16. Zoning by Board of County Commissioners 
+866.3. Combination of City and County Funds
 
- 866.16A. Board of county commissioners may establish fines and penalties 
+866.4. Territorial Jurisdiction
 
- 866.17. Division into Districts or Zones 
+866.5. Procedure for Setting Up Commission
 
- 866.18. Procedure for Adoption of Zoning Regulations 
+866.6. Definitions
 
- 866.19. Nonconforming Uses 
+866.7. Commission Membership - Appointment and Tenure - Compensation - Vacancies - Removal
 
- 866.20. Amendments to Zoning Regulations 
+866.8. Organization of Commission - Employees
 
- 866.21. Enforcement by County Inspecting Officer 
+866.9. Cooperation with Other Agencies
 
- 866.22. Personnel and Procedure of County Board of Adjustment - Fees 
+866.10. Metropolitan Comprehensive Plan
 
- 866.23. Appeals to County Board of Adjustment 
+866.11. Improvements to be Submitted to Commission
 
- 866.24. Appeals to District and Supreme Court 
+866.12. Plats and Subdivisions - Rules and Regulations
 
- 866.25. Zoning Regulations to Govern 
+866.13. Recording of Plats or Deeds - Approval
 
- 866.26. Enforcement of Building and Construction Codes by County Inspecting Officer 
+866.14. Building Line Regulations
 
- 866.27. Housing Code 
+866.15. Appeals and Exemptions from Building Line and Setback Regulations
 
- 866.28. Fees 
+866.16. Zoning by Board of County Commissioners
 
- 866.29. Publication of Notice of Hearings - Circumstances Requiring Notice to Nearby Real Property Owners 
+866.16A. Board of county commissioners may establish fines and penalties
 
- 866.30. Exemptions from Zoning Regulations 
+866.17. Division into Districts or Zones
 
- 866.31. Validation of Existing Plans, Ordinances, etc. 
+866.18. Procedure for Adoption of Zoning Regulations
 
- 866.32. Violations and Penalties 
+866.19. Nonconforming Uses
 
- 866.33. Exclusive Control by Commission - Transfer of Records, etc. 
+866.20. Amendments to Zoning Regulations
 
- 866.34. Continuance of Operation 
+866.21. Enforcement by County Inspecting Officer
 
- 866.35. Contracts with City-County Planning Commissions 
+866.22. Personnel and Procedure of County Board of Adjustment - Fees
 
- 866.36. Repealed 
+866.23. Appeals to County Board of Adjustment
 
- General Provisions
+866.24. Appeals to District and Supreme Court
 
- 867.1. Dedications for Street or Highway Purposes not Required as Condition for Approval of Zoning Ordinance 
+866.25. Zoning Regulations to Govern
 
- 867.2. Counties Exempt 
+866.26. Enforcement of Building and Construction Codes by County Inspecting Officer
 
- Counties of Over 500,000
+866.27. Housing Code
 
- 868.1. Creation of County Planning Commission and Board of Adjustment 
+866.28. Fees
 
- 868.2. Personnel of County Planning Commission 
+866.29. Publication of Notice of Hearings - Circumstances Requiring Notice to Nearby Real Property Owners
 
- 868.3. Personnel and Procedure of County Board of Adjustment 
+866.30. Exemptions from Zoning Regulations
 
- 868.4. Staff and Finances - Fees 
+866.31. Validation of Existing Plans, Ordinances, etc.
 
- 868.5. Procedure of County Planning Commission 
+866.32. Violations and Penalties
 
- 868.6. Master Plan 
+866.33. Exclusive Control by Commission - Transfer of Records, etc.
 
- 868.7. Submission of Proposed Improvements to County Planning Commission 
+866.34. Continuance of Operation
 
- 868.8. Approval of Plat of Subdivided Lands - Rules and Regulations 
+866.35. Contracts with City-County Planning Commissions
 
- 868.9. Building Line Regulations 
+866.36. Repealed
 
- 868.10. Enforcement - Appeals - Modification 
+General Provisions
 
- 868.11. Zoning by Board of County Commissioners 
+867.1. Dedications for Street or Highway Purposes not Required as Condition for Approval of Zoning Ordinance
 
- 868.11A. Enforcement of Regulations of Board of County Commissioners - Fines and Penalties - Procedure 
+867.2. Counties Exempt
 
- 868.12. Zoning Regulations Defined 
+868.1. Creation of County Planning Commission and Board of Adjustment
 
- 868.13. Outdoor Advertising Structures 
+868.2. Personnel of County Planning Commission
 
- 868.14. Existing Uses 
+868.3. Personnel and Procedure of County Board of Adjustment - Retain Legal Counsel
 
- 868.15. Procedure for Adoption of Zoning Regulations 
+868.4. Staff and Finances - Fees
 
- 868.16. Amendment of Zoning Regulations 
+868.5. Procedure of County Planning Commission
 
- 868.17. Enforcement by County Engineer 
+868.6. Master Plan
 
- 868.17A. Building and Fire Codes 
+868.7. Submission of Proposed Improvements to County Planning Commission
 
- 868.18. Appeals to County Board of Adjustment 
+868.8. Approval of Plat of Subdivided Lands - Rules and Regulations
 
- 868.19. Appeals to District Court and Supreme Court 
+868.9. Building Line Regulations
 
- 868.20. Conflicts between Cities 
+868.10. Enforcement - Appeals - Modification
 
- 868.21. Violations 
+868.11. Zoning by Board of County Commissioners
 
- 868.22. Counties in which Applicable 
+868.11A. Enforcement of Regulations of Board of County Commissioners - Fines and Penalties - Procedure
 
- Lake Area Planning Commission
+868.12. Zoning Regulations Defined
 
- 869.1. Lake Area Planning Commission - Power to Create 
+868.13. Outdoor Advertising Structures
 
- 869.2. Resolution Creating 
+868.14. Existing Uses
 
- 869.3. Membership - Qualifications - Term - Joint Commission - Removal - Vacancies - Compensation 
+868.15. Procedure for Adoption of Zoning Regulations
 
- 869.4. Jurisdiction of Commission 
+868.16. Amendment of Zoning Regulations
 
- 869.5. Authority of Commission - Powers of County - Officers - Meetings - Funds - Personnel - Expenses - Fees 
+868.17. Enforcement by County Engineer
 
- 869.6. Administration of Zoning Regulations - Board of Adjustment 
+868.17A. Building and Fire Codes
 
- 869.7. Violations - Penalties 
+868.18. Appeals to County Board of Adjustment
 
- Chapter 20 - Sewer Improvement Districts
+868.19. Appeals to District Court and Supreme Court
 
- 871. Improvement Districts 
+868.20. Conflicts between Cities
 
- 872. Petition 
+868.21. Violations
 
- 872.1. Annexation of Territory 
+868.22. Counties in which Applicable
 
- 873. Election 
+868.23. Subject to Authority of Board of Adjustment and County Planning Commission
 
- 874. Board of Directors - Powers and Duties 
+Lake Area Planning Commission
 
- 875. Meetings of Board - Records - Purchase and Eminent Domain 
+869.1. Lake Area Planning Commission - Power to Create
 
- 876. Title to Property 
+869.2. Resolution Creating
 
- 877. Directors Authorized to Take Conveyances - Actions 
+869.3. Membership - Qualifications - Term - Joint Commission - Removal - Vacancies - Compensation
 
- 878. Secretary - Duties 
+869.4. Jurisdiction of Commission
 
- 879. Rules and Regulations 
+869.5. Authority of Commission - Powers of County - Officers - Meetings - Funds - Personnel - Expenses - Fees
 
- 880. Professional Engineer - Employment of 
+869.6. Administration of Zoning Regulations - Board of Adjustment
 
- 881. Computation of Costs - Assessment of Special Tax 
+869.7. Violations - Penalties
 
- 882. Clerk of District - Certify Assessments to County Treasurer 
+Chapter 20 - Sewer Improvement Districts
 
- 883. Suits - Barred if not Brought within 30 Days 
+871. Improvement Districts
 
- 884. General Plan of Proposed Operation - Bonds 
+872. Petition
 
- 885. Repealed 
+872.1. Annexation of Territory
 
- 886. Bonds Paid from Revenues 
+873. Election
 
- 887. County Assessor - Assessment of Property in District 
+874. Board of Directors - Powers and Duties
 
- 888. County Assessor - Deliver Assessment Book to Clerk of Board 
+875. Meetings of Board - Records - Purchase and Eminent Domain
 
- 889. Board of Directors - Board of Equalization - Meeting 
+876. Title to Property
 
- 890. Levy of Assessment 
+877. Directors Authorized to Take Conveyances - Actions
 
- 891. Costs and Expenses - Paid Out of Construction Fund 
+878. Secretary - Duties
 
- 892. Tolls and Charges 
+879. Rules and Regulations
 
- 893. Notice for Bids 
+880. Professional Engineer - Employment of
 
- 894. Claims - How Allowed and Paid 
+881. Computation of Costs - Assessment of Special Tax
 
- 895. Repealed 
+882. Clerk of District - Certify Assessments to County Treasurer
 
- 896. Bonds - Application to Supreme Court 
+883. Suits - Barred if not Brought within 30 Days
 
- 897. County Clerks to Record Instruments without Fee 
+884. General Plan of Proposed Operation - Bonds
 
- 898.1. Consolidation with City or Town Authorized 
+885. Repealed
 
- 898.2. Board of Directors - Request for Consolidation - City Council may Consolidate by Ordinance After Election Approving - Assumption of Bonded Indebtedness 
+886. Bonds Paid from Revenues
 
- 898.3. Property of Consolidated District Vests in City or Town 
+887. County Assessor - Assessment of Property in District
 
- 898.4. Assumption of Property of Legal Bonded Indebtedness 
+888. County Assessor - Deliver Assessment Book to Clerk of Board
 
- 898.5. City or Town to Comply with Bond Resolutions 
+889. Board of Directors - Board of Equalization - Meeting
 
- 898.6. Construction of Acts as to Bonds 
+890. Levy of Assessment
 
- 898.7. Mineral Interests not Affected by Act 
+891. Costs and Expenses - Paid Out of Construction Fund
 
- Chapter 21 - Fire Protection Districts
+892. Tolls and Charges
 
- 901.1. Board of County Commissioners - Fire Protection District 
+893. Notice for Bids
 
- 901.2. Petition - Contents 
+894. Claims - How Allowed and Paid
 
- 901.3. Election - Notice 
+895. Repealed
 
- 901.4. Conduct of Election - Returns 
+896. Bonds - Application to Supreme Court
 
- 901.5. Board of Directors 
+897. County Clerks to Record Instruments without Fee
 
- 901.5A. Fire Protection District - Optional Election Procedures 
+898.1. Consolidation with City or Town Authorized
 
- 901.6. Chairman, Clerk and Treasurer 
+898.2. Board of Directors - Request for Consolidation - City Council may Consolidate by Ordinance After Election Approving - Assumption of Bonded Indebtedness
 
- 901.7. Powers of Directors - Emergency Medical Services Agency 
+898.3. Property of Consolidated District Vests in City or Town
 
- 901.7a. Fire Protection Districts - Fire Chief Requirements and Duties 
+898.4. Assumption of Property of Legal Bonded Indebtedness
 
- 901.8. Meetings 
+898.5. City or Town to Comply with Bond Resolutions
 
- 901.9. Actions and Proceedings 
+898.6. Construction of Acts as to Bonds
 
- 901.10. Repealed 
+898.7. Mineral Interests not Affected by Act
 
- 901.11. Fire Protection District Appraisal Record 
+Chapter 21 - Fire Protection Districts
 
- 901.12. Repealed 
+901.1. Board of County Commissioners - Fire Protection District
 
- 901.13. Repealed 
+901.2. Petition - Contents
 
- 901.14. General Plan of District 
+901.3. Election - Notice
 
- 901.15. Bonds - Election 
+901.4. Conduct of Election - Returns
 
- 901.16. Bonds - Payment 
+901.5. Board of Directors
 
- 901.17. Sale of Bonds 
+901.5A. Fire Protection District - Optional Election Procedures
 
- 901.18. Annual Assessment to Pay Bonds 
+901.6. Chairman, Clerk and Treasurer
 
- 901.19. Levy of Assessment 
+901.7. Powers of Directors - Emergency Medical Services Agency
 
- 901.20. Clerk - Assessment Record 
+901.7a. Fire Protection Districts - Fire Chief Requirements and Duties
 
- 901.21. Claims - Payment 
+901.8. Meetings
 
- 901.22. Including Additional Territory 
+901.9. Actions and Proceedings
 
- 901.23. Withdrawals from District 
+901.10. Repealed
 
- 901.23a. Annexation of Fire Protection District Requirements 
+901.11. Fire Protection District Appraisal Record
 
- 901.24. Dissolution of District 
+901.12. Repealed
 
- 901.25. Fire Protection Service - Contract 
+901.13. Repealed
 
- 901.25a. When Districts are Contiguous - Inclusion - Consent 
+901.14. General Plan of District
 
- 901.26. Repealed 
+901.15. Bonds - Election
 
- 901.27. Requirement of Audits - Petition - Cost 
+901.16. Bonds - Payment
 
- 901.28. Audits to be Prepared by Certified Public Accountant or Licensed Public Accountant - Standards - Filing - Certification of Date of Creation - Filing 
+901.17. Sale of Bonds
 
- 901.29. Necessary Expense of Audit 
+901.18. Annual Assessment to Pay Bonds
 
- Collective Bargaining
+901.19. Levy of Assessment
 
- 901.30. Firefighters - Rural Fire Protection District - Strikes Prohibited 
+901.20. Clerk - Assessment Record
 
- 901.30-1. Definitions 
+901.21. Claims - Payment
 
- 901.30-2. Collective Bargaining 
+901.22. Including Additional Territory
 
- 901.30-2.1. Subpoenas - Rule-Making Authority 
+901.23. Withdrawals from District
 
- 901.30-2.2. Unfair Labor Practices - Cease and Desist Orders - Enforcement of and Relief from Restraining Orders 
+901.23a. Annexation of Fire Protection District Requirements
 
- 901.30-3. Rural Fire Protection District Obligated to Meet With Firefighter's Representatives - Arbitration 
+901.24. Dissolution of District
 
- 901.30-4. Arbitration Board To Call Hearing - Arbitration Statement 
+901.25. Fire Protection Service - Contract
 
- 901.30-5. Factors In Arbitration 
+901.25a. When Districts are Contiguous - Inclusion - Consent
 
- 901.30-6. Request for Special Election 
+901.26. Repealed
 
- 901.30-7. Negotiated Agreement Within Thirty Days 
+901.27. Requirement of Audits - Petition - Cost
 
- 901.30-8. Notice of Request for Collective Bargaining 
+901.28. Audits to be Prepared by Certified Public Accountant or Licensed Public Accountant - Standards - Filing - Certification of Date of Creation - Filing
 
- 901.30-9. Unlawful to Strike - Good Faith Bargaining 
+901.29. Necessary Expense of Audit
 
- Fire Protection District Budget Act
+Collective Bargaining
 
- 901.31. Short Title 
+901.30. Firefighters - Rural Fire Protection District - Strikes Prohibited
 
- 901.32. Purpose 
+901.30-1. Definitions
 
- 901.33. Applicability of Act 
+901.30-2. Collective Bargaining
 
- 901.34. Definitions 
+901.30-2.1. Subpoenas - Rule-Making Authority
 
- 901.35. Advice on Procedural and Technical Matters Relating to Accounting and Budget Procedures -State Auditor and Inspector 
+901.30-2.2. Unfair Labor Practices - Cease and Desist Orders - Enforcement of and Relief from Restraining Orders
 
- 901.36. Production of Financial Statement of District for Preceding Year 
+901.30-3. Rural Fire Protection District Obligated to Meet With Firefighter's Representatives - Arbitration
 
- 901.37. Budget for Each Fund - Budget Format - Estimate of Revenues - Board to Determine Needs 
+901.30-4. Arbitration Board To Call Hearing - Arbitration Statement
 
- 901.38. Repealed 
+901.30-5. Factors In Arbitration
 
- 901.39. Repealed 
+901.30-6. Request for Special Election
 
- 901.40. Accrual of Actual Cash Surpluses 
+901.30-7. Negotiated Agreement Within Thirty Days
 
- 901.41. Accounting of Monies Received and Expended 
+901.30-8. Notice of Request for Collective Bargaining
 
- 901.42. Public Hearing on Proposed Budget 
+901.30-9. Unlawful to Strike - Good Faith Bargaining
 
- 901.43. Required Hearing - Adopted Budget 
+Fire Protection District Budget Act
 
- 901.44. Eligibility to Protest any Alleged Illegality 
+901.31. Short Title
 
- 901.45. Authorization of Expenditures - Unlawful Acts - Liability 
+901.32. Purpose
 
- 901.46. Required Funds - Ledgers or Group of Accounts 
+901.33. Applicability of Act
 
- 901.47. Estimated Revenue and Appropriation Expenditures 
+901.34. Definitions
 
- 901.48. Board May Transfer Unexpended and Unencumbered Appropriation - Transfer of Balance to General Fund 
+901.35. Advice on Procedural and Technical Matters Relating to Accounting and Budget Procedures -State Auditor and Inspector
 
- 901.49. Board May Amend Budget to Make Supplemental Appropriations 
+901.36. Production of Financial Statement of District for Preceding Year
 
- 901.50. Promulgation and Enforcement of Rules and Regulations 
+901.37. Budget for Each Fund - Budget Format - Estimate of Revenues - Board to Determine Needs
 
- Rural Fire Protection Program Fund Act
+901.38. Repealed
 
- 901.55. Short Title 
+901.39. Repealed
 
- 901.56. Effectiveness of Provisions of this Section - Definition of Coordinator - Coordinators to Consider and Determine Need of Financial Assistance - Certification - Distribution of Monies - Expenditures 
+901.40. Accrual of Actual Cash Surpluses
 
- 901.57. State Department of Agriculture Shall Administer Grants 
+901.41. Accounting of Monies Received and Expended
 
- 901.58. Creation of Rural Fire Defense Equipment Revolving Fund 
+901.42. Public Hearing on Proposed Budget
 
- 901.59. Authorization to Use Revolving Fund to Purchase Equipment - Authorization to Acquire Storage Space 
+901.43. Required Hearing - Adopted Budget
 
- 901.60. Authorization to Sell Firefighting Equipment - Proceeds - Promulgation of Rules and Regulations 
+901.44. Eligibility to Protest any Alleged Illegality
 
- 901.61. Rural Fire Protection Program - Rural Fire Protection Coordination Districts 
+901.45. Authorization of Expenditures - Unlawful Acts - Liability
 
- Chapter 21A - Oklahoma Rural Road Improvement District Act
+901.46. Required Funds - Ledgers or Group of Accounts
 
- 902.1. Short Title 
+901.47. Estimated Revenue and Appropriation Expenditures
 
- 902.2. Petition for Formation of Rural Road Improvement District - Election for Organization 
+901.48. Board May Transfer Unexpended and Unencumbered Appropriation - Transfer of Balance to General Fund
 
- 902.3. Statements in Petition - Cash Deposit to Accompany Petition - Filing - Hearing - Orders - Election 
+901.49. Board May Amend Budget to Make Supplemental Appropriations
 
- 902.4. Election Notice 
+901.50. Promulgation and Enforcement of Rules and Regulations
 
- 902.5. Elections to be Conducted in Accordance with General Election Laws - Certification of Results - Orders 
+Rural Fire Protection Program Fund Act
 
- 902.6. Directors of Rural Road Improvement District - Elections - Terms - Bylaws - Election Resolution 
+901.55. Short Title
 
- 902.7. Election of Officers of Board of Directors - Term - Service without Compensation 
+901.56. Effectiveness of Provisions of this Section - Definition of Coordinator - Coordinators to Consider and Determine Need of Financial Assistance - Certification - Distribution of Monies - Expenditures
 
- 902.8. Board of Directors - Powers and Duties 
+901.57. State Department of Agriculture Shall Administer Grants
 
- 902.9. Establishment of Time and Place for Regular Meetings - Special Meetings - Members of Quorum - Voting - Records 
+901.58. Creation of Rural Fire Defense Equipment Revolving Fund
 
- 902.10. Institution, Maintenance, or Defense of Actions Necessary to Carry Out Provisions of Act 
+901.59. Authorization to Use Revolving Fund to Purchase Equipment - Authorization to Acquire Storage Space
 
- 902.11. Retirement of Bonded Indebtedness of Rural Road Improvement District - Duty to Keep Property Record 
+901.60. Authorization to Sell Firefighting Equipment - Proceeds - Promulgation of Rules and Regulations
 
- 902.12. Election on Decision of Issuance of Bond - Resolution of Board - Notice of Election - Conduct of Election - Canvass of Returns 
+901.61. Rural Fire Protection Program - Rural Fire Protection Coordination Districts
 
- 902.12b. Pay-As-You-Go Method of Financing Improvements - Bond Restrictions 
+Chapter 21A - Oklahoma Rural Road Improvement District Act
 
- 902.13. Bonds - Payable - Salability - Numbering - Interest 
+902.1. Short Title
 
- 902.14. Board to Sell Bonds 
+902.2. Petition for Formation of Rural Road Improvement District - Election for Organization
 
- 902.15. Bonds and Other Evidences of Indebtedness 
+902.3. Statements in Petition - Cash Deposit to Accompany Petition - Filing - Hearing - Orders - Election
 
- 902.16. Levying of Additional Annual Assessments - Election of Registered Voters 
+902.4. Election Notice
 
- 902.17. Levies - Amount Fixed by Resolution 
+902.5. Elections to be Conducted in Accordance with General Election Laws - Certification of Results - Orders
 
- 902.18. Duty or Obligation to Improve and Maintain County Roads 
+902.6. Directors of Rural Road Improvement District - Elections - Terms - Bylaws - Election Resolution
 
- 902.19. Formation of Rural Road Improvement District without Bonded Indebtedness or Levy of Taxes. 
+902.7. Election of Officers of Board of Directors - Term - Service without Compensation
 
- 902.20. Conducting Rural Road Improvement District Organization Elections - Conditions 
+902.8. Board of Directors - Powers and Duties
 
- 902.21. Directors of District - Election - Qualifications - Notice 
+902.9. Establishment of Time and Place for Regular Meetings - Special Meetings - Members of Quorum - Voting - Records
 
- 902.22. Dispute of an Election Due to Fraud or Irregularities - Procedure 
+902.10. Institution, Maintenance, or Defense of Actions Necessary to Carry Out Provisions of Act
 
- Chapter 21B - Criminal Justice Districts
+902.11. Retirement of Bonded Indebtedness of Rural Road Improvement District - Duty to Keep Property Record
 
- 903.1. Repealed 
+902.12. Election on Decision of Issuance of Bond - Resolution of Board - Notice of Election - Conduct of Election - Canvass of Returns
 
- 903.2. Repealed 
+902.12b. Pay-As-You-Go Method of Financing Improvements - Bond Restrictions
 
- 903.3. Repealed 
+902.13. Bonds - Payable - Salability - Numbering - Interest
 
- 903.4. Repealed 
+902.14. Board to Sell Bonds
 
- 903.5. Repealed 
+902.15. Bonds and Other Evidences of Indebtedness
 
- 903.6. Repealed 
+902.16. Levying of Additional Annual Assessments - Election of Registered Voters
 
- 903.7. Repealed 
+902.17. Levies - Amount Fixed by Resolution
 
- 903.8. Repealed 
+902.18. Duty or Obligation to Improve and Maintain County Roads
 
- 903.9. Repealed 
+902.19. Formation of Rural Road Improvement District without Bonded Indebtedness or Levy of Taxes.
 
- 903.10. Repealed 
+902.20. Conducting Rural Road Improvement District Organization Elections - Conditions
 
- 903.11. Repealed 
+902.21. Directors of District - Election - Qualifications - Notice
 
- 903.12. Repealed 
+902.22. Dispute of an Election Due to Fraud or Irregularities - Procedure
 
- 903.13. Repealed 
+Chapter 21B - Criminal Justice Districts
 
- 903.14. Repealed 
+903.1. Repealed
 
- 903.15. Repealed 
+903.2. Repealed
 
- 903.16. Repealed 
+903.3. Repealed
 
- 903.17. Repealed 
+903.4. Repealed
 
- 903.18. Repealed 
+903.5. Repealed
 
- 903.19. Repealed 
+903.6. Repealed
 
- 903.20. Repealed 
+903.7. Repealed
 
- 903.21. Repealed 
+903.8. Repealed
 
- 903.22. Repealed 
+903.9. Repealed
 
- Chapter 21C - County Jail Trust Authority
+903.10. Repealed
 
- 904.1. County Jail Trust Authority - Election 
+903.11. Repealed
 
- 904.2. Members of Directors of Authority - Chairman, Clerk and Treasurer - Service Without Compensation 
+903.12. Repealed
 
- 904.3. Board of Directors - Powers and Duties 
+903.13. Repealed
 
- 904.4. Establishment of Time and Place for Regular Meetings of Board 
+903.14. Repealed
 
- 904.5. Authority to Institute and Maintain, or Appear and Defend Actions and Proceedings 
+903.15. Repealed
 
- 904.6. General Plan of Proposed Operation - Election 
+903.16. Repealed
 
- 904.7. Claims - Payment of 
+903.17. Repealed
 
- 904.8. In Event of Dissolution of Authority 
+903.18. Repealed
 
- 904.9. Audit of Funds, Accounts and Fiscal Affairs 
+903.19. Repealed
 
- 904.10. Certification of Audit - Audit by State Auditor and Inspector - Expenses 
+903.20. Repealed
 
- Chapter 21D - Oklahoma Regional Jail District Act
+903.21. Repealed
 
- 905. Short Title 
+903.22. Repealed
 
- 905.1. Definitions 
+Chapter 21C - County Jail Trust Authority
 
- 905.2. Creation of Regional Jail Districts - Resolution and Agreement - Duration 
+904.1. County Jail Trust Authority - Election
 
- 905.3. Powers of Regional Jail District 
+904.2. Members of Directors of Authority - Chairman, Clerk and Treasurer - Service Without Compensation
 
- 905.4. Regional Jail Commission 
+904.3. Board of Directors - Powers and Duties
 
- 905.5. Director 
+904.4. Establishment of Time and Place for Regular Meetings of Board
 
- 905.6. Use and Occupants of Regional Jail and County Jails 
+904.5. Authority to Institute and Maintain, or Appear and Defend Actions and Proceedings
 
- Chapter 22 - County Archives and Records Commission
+904.6. General Plan of Proposed Operation - Election
 
- 911. Repealed 
+904.7. Claims - Payment of
 
- 912. Repealed 
+904.8. In Event of Dissolution of Authority
 
- 913. Repealed 
+904.9. Audit of Funds, Accounts and Fiscal Affairs
 
- 914. Repealed 
+904.10. Certification of Audit - Audit by State Auditor and Inspector - Expenses
 
- 915. Repealed 
+Chapter 21D - Oklahoma Regional Jail District Act
 
- 916. Repealed 
+905. Short Title
 
- 917. Repealed 
+905.1. Definitions
 
- 918. Repealed 
+905.2. Creation of Regional Jail Districts - Resolution and Agreement - Duration
 
- Chapter 23 - Public Recreational Facilities - Counties of 100,000 or More
+905.3. Powers of Regional Jail District
 
- 931. Population of 100,000 - Public Recreational Facilities Authorized 
+905.4. Regional Jail Commission
 
- 932. Use of Lands Now Owned, or Acquisition of Lands, Authorized - Equipment and Maintenance. 
+905.5. Director
 
- 933. Terms of Dedication of Lands - Resolution - Filed with County Clerk 
+905.6. Use and Occupants of Regional Jail and County Jails
 
- 934. Recreational Facilities May be Established Jointly with City, Town or School District 
+Chapter 22 - County Archives and Records Commission
 
- 935. Act Cumulative 
+911. Repealed
 
- Chapter 24 - County Parking Lots
+912. Repealed
 
- 941. County Parking Lot - Authorized by Written Petition - Parking Fees 
+913. Repealed
 
- 942. Failure to Pay Fee a Misdemeanor 
+914. Repealed
 
- 943. Disposition of Fines 
+915. Repealed
 
- 944. County Parking Restrictions and Fines 
+916. Repealed
 
- Chapter 25 - County Employees' Retirement Systems
+917. Repealed
 
- 951. Fund and System Authorized 
+918. Repealed
 
- 952. Control and Management 
+Chapter 23 - Public Recreational Facilities - Counties of 100,000 or More
 
- 952.1. Composition of Board of Trustees - Terms of Office 
+931. Population of 100,000 - Public Recreational Facilities Authorized
 
- 952.2. Costs and Expenses 
+932. Use of Lands Now Owned, or Acquisition of Lands, Authorized - Equipment and Maintenance.
 
- 953. Contributions - Investment of Funds 
+933. Terms of Dedication of Lands - Resolution - Filed with County Clerk
 
- 953.1. Board of Trustees - Duties and Powers With Respect to Retirement System in Counties With Population Exceeding 675,000 
+934. Recreational Facilities May be Established Jointly with City, Town or School District
 
- 953.1A. Board of Trustees - Duties and Powers With Respect to Retirement System in Counties With Population Under 675,000 
+935. Act Cumulative
 
- 953.2. Power, Duties and Authority of Fiduciaries - Restrictions 
+Chapter 24 - County Parking Lots
 
- 954. Appropriation from General Fund for Retirement Fund 
+941. County Parking Lot - Authorized by Written Petition - Parking Fees
 
- 955. Prorating of Benefits if Fund Insufficient 
+942. Failure to Pay Fee a Misdemeanor
 
- 956. Eligibility for Benefits 
+943. Disposition of Fines
 
- 956.1. Repealed 
+944. County Parking Restrictions and Fines
 
- 956.2. Alternative Retirement Benefits - Method - Restrictions 
+Chapter 25 - County Employees' Retirement Systems
 
- 956.3. Repealed 
+951. Fund and System Authorized
 
- 957. Employee Defined 
+952. Control and Management
 
- 957-1. Drainage District Employees 
+952.1. Composition of Board of Trustees - Terms of Office
 
- 958. Authority to Make Effective by Resolution 
+952.2. Costs and Expenses
 
- 959. Money not Liable to Attachment, Garnishment, Levy or Seizure 
+953. Contributions - Investment of Funds
 
- 959.1. Repealed 
+953.1. Board of Trustees - Duties and Powers With Respect to Retirement System in Counties With Population Exceeding 675,000
 
- 960. Employees Whose Salaries are Paid in Whole or in Part from Court Funds 
+953.1A. Board of Trustees - Duties and Powers With Respect to Retirement System in Counties With Population Under 675,000
 
- 961. Employees Whose Salaries are Paid in Whole or in Part from the Law Library Fund 
+953.2. Power, Duties and Authority of Fiduciaries - Restrictions
 
- 962. County Employees' Retirement System 
+954. Appropriation from General Fund for Retirement Fund
 
- 965. Amendments to Defined Benefit Retirement Plans 
+955. Prorating of Benefits if Fund Insufficient
 
- 971. Establishing a County Officer and Employee Deferred Savings Incentive Plan 
+956. Eligibility for Benefits
 
- Chapter 26 - City-County Park and Recreation Act of Oklahoma
+956.1. Repealed
 
- 1001. Short Title 
+956.2. Alternative Retirement Benefits - Method - Restrictions
 
- 1002. Purpose - Commission Created 
+956.3. Repealed
 
- 1003. Counties Authorized to Act - Contract with Cities - Resolution of Necessity 
+957. Employee Defined
 
- 1004. Commission Membership - Tenure - Vacancies - Compensation - Expenses 
+957-1. Drainage District Employees
 
- 1005. Chairman - Meetings - Quorum - Fee Schedule - Financial Assistance 
+958. Authority to Make Effective by Resolution
 
- 1006. Director 
+959. Money not Liable to Attachment, Garnishment, Levy or Seizure
 
- 1007. Annual Budget, Contributions and Expenditures - Tax Levy 
+959.1. Repealed
 
- 1008. Powers of Commission 
+960. Employees Whose Salaries are Paid in Whole or in Part from Court Funds
 
- 1009. Bringing in Other Cities, Towns or School Districts 
+961. Employees Whose Salaries are Paid in Whole or in Part from the Law Library Fund
 
- 1010. Retirement System - Workers' Compensation 
+962. County Employees' Retirement System
 
- 1011. Act as Cumulative 
+965. Amendments to Defined Benefit Retirement Plans
 
- Chapter 27 - Hospital District Act of 1967
+971. Establishing a County Officer and Employee Deferred Savings Incentive Plan
 
- 1051. Repealed 
+Chapter 26 - City-County Park and Recreation Act of Oklahoma
 
- 1052. Repealed 
+1001. Short Title
 
- 1053. Repealed 
+1002. Purpose - Commission Created
 
- 1054. Repealed 
+1003. Counties Authorized to Act - Contract with Cities - Resolution of Necessity
 
- 1055. Repealed 
+1004. Commission Membership - Tenure - Vacancies - Compensation - Expenses
 
- 1056. Repealed 
+1005. Chairman - Meetings - Quorum - Fee Schedule - Financial Assistance
 
- 1057. Repealed 
+1006. Director
 
- 1058. Repealed 
+1007. Annual Budget, Contributions and Expenditures - Tax Levy
 
- 1059. Repealed 
+1008. Powers of Commission
 
- 1060. Repealed 
+1009. Bringing in Other Cities, Towns or School Districts
 
- 1061. Repealed 
+1010. Retirement System - Workers' Compensation
 
- 1062. Repealed 
+1011. Act as Cumulative
 
- 1063. Repealed 
+Chapter 27 - Hospital District Act of 1967
 
- 1064. Repealed 
+1051. Repealed
 
- 1065. Repealed 
+1052. Repealed
 
- 1066. Repealed 
+1053. Repealed
 
- 1067. Repealed 
+1054. Repealed
 
- 1068. Repealed 
+1055. Repealed
 
- 1069. Repealed 
+1056. Repealed
 
- 1070. Repealed 
+1057. Repealed
 
- 1071. Repealed 
+1058. Repealed
 
- 1072. Repealed 
+1059. Repealed
 
- 1073. Repealed 
+1060. Repealed
 
- 1074. Repealed 
+1061. Repealed
 
- 1075. Repealed 
+1062. Repealed
 
- 1076. Repealed 
+1063. Repealed
 
- 1077. Repealed 
+1064. Repealed
 
- Chapter 28 - Economic Development Programs
+1065. Repealed
 
- 1101. Authorization to Establish County-Wide Programs - Financing 
+1066. Repealed
 
- 1102. Purposes for which Funds May be Expended 
+1067. Repealed
 
- 1103. Advisory Committee - Duties and Responsibilities 
+1068. Repealed
 
- 1103.1. Executive Director - Service - Renewal of Employment - Salary 
+1069. Repealed
 
- 1104. Cooperation with Other Counties, Agencies, etc. 
+1070. Repealed
 
- Chapter 29 - Ambulance Service Districts Act
+1071. Repealed
 
- 1201. Short Title 
+1072. Repealed
 
- 1202. Definitions 
+1073. Repealed
 
- 1203. Governing Body - Authorization to Create Districts - Emergency Medical Services Plan 
+1074. Repealed
 
- 1204. Petition for Creation of District - Contents 
+1075. Repealed
 
- 1205. Notice and Hearing 
+1076. Repealed
 
- 1206. Determination by Board - Declaration of Incorporation 
+1077. Repealed
 
- 1207. Board of Directors - Bylaws 
+Chapter 28 - Economic Development Programs
 
- 1208. Governing Body - Meetings - Vacancies - Rules and Regulations 
+1101. Authorization to Establish County-Wide Programs - Financing
 
- 1209. Powers of District - Annual Report 
+1102. Purposes for which Funds May be Expended
 
- 1210. Proportionate Payment of Costs 
+1103. Advisory Committee - Duties and Responsibilities
 
- 1211. Annexation of Additional Area 
+1103.1. Executive Director - Service - Renewal of Employment - Salary
 
- 1212. Notice of Annexation Petition 
+1104. Cooperation with Other Counties, Agencies, etc.
 
- 1213. Hearing and Determination of Annexation Petition 
+Chapter 29 - Ambulance Service Districts Act
 
- 1214. Terms of Board Members - Annual Meetings of Residents 
+1201. Short Title
 
- 1215. Officers 
+1202. Definitions
 
- 1216. Operation and Repair of Equipment - Compensation - Budgets - Audits 
+1203. Governing Body - Authorization to Create Districts - Emergency Medical Services Plan
 
- 1217. Dissolution of Districts 
+1204. Petition for Creation of District - Contents
 
- 1218. Sale of Facilities and Property 
+1205. Notice and Hearing
 
- 1219. Release of Area from District 
+1206. Determination by Board - Declaration of Incorporation
 
- 1220. Tax Exemption 
+1207. Board of Directors - Bylaws
 
- 1221. Consolidation of Districts 
+1208. Governing Body - Meetings - Vacancies - Rules and Regulations
 
- Chapter 30 - Road Improvements
+1209. Powers of District - Annual Report
 
- 1230. Change of Grade of Road, Street, etc. - Permanent Improvement - Powers of Commissioners 
+1210. Proportionate Payment of Costs
 
- 1231. Compensation of Abutting Property Holders - Failure to Compensate 
+1211. Annexation of Additional Area
 
- 1232. Plans and Specifications for Improvements - Resolution - Assessment Plat - Cost Estimate 
+1212. Notice of Annexation Petition
 
- 1233. Consulting Engineers 
+1213. Hearing and Determination of Annexation Petition
 
- 1234. Notice to Affected Property Owners - Protests 
+1214. Terms of Board Members - Annual Meetings of Residents
 
- 1235. Contest of Improvement 
+1215. Officers
 
- 1236. Petition for Improvement - Action of Board - Sufficiency of Petition 
+1216. Operation and Repair of Equipment - Compensation - Budgets - Audits
 
- 1237. Powers of Commissioners 
+1217. Dissolution of Districts
 
- 1238. Resolution of Non-contest of Improvement - Resolution of Approval of Plans and Specifications - Contracts - Contractor's Bond - Bidding Procedure 
+1218. Sale of Facilities and Property
 
- 1239. Awarding of Contracts - Excessive Costs 
+1219. Release of Area from District
 
- 1240. Direction to County Assessor to Appraise and Apportion Benefits - Error in Description 
+1220. Tax Exemption
 
- 1241. County Assessor - Duty to Appraise and Apportion - Reports 
+1221. Consolidation of Districts
 
- 1242. Objections to Appraisement or Apportionment - Hearing - Notice - Time 
+Chapter 30 - Road Improvements
 
- 1243. Review of Appraisement and Apportionment - Objections to Proposed Assessment 
+1230. Change of Grade of Road, Street, etc. - Permanent Improvement - Powers of Commissioners
 
- 1244. Property of Cities, Towns, Counties, Boards of Education or School Districts - Assessment Against 
+1231. Compensation of Abutting Property Holders - Failure to Compensate
 
- 1245. Repealed 
+1232. Plans and Specifications for Improvements - Resolution - Assessment Plat - Cost Estimate
 
- 1246. Street Intersections and Alley Crossings - Improvement Costs - State Aid 
+1233. Consulting Engineers
 
- 1247. Payment of Assessments - Interest - Levy of Assessment - Assessing Ordinance - Liens 
+1234. Notice to Affected Property Owners - Protests
 
- 1248. Road Assessment Record 
+1235. Contest of Improvement
 
- 1249. Due Date of First Installment - Delinquent Installments - Collection of Installments - Limitation of Actions 
+1236. Petition for Improvement - Action of Board - Sufficiency of Petition
 
- 1250. Installments - Payment - Collecting Agent - Bond - Duties 
+1237. Powers of Commissioners
 
- 1251. Action to Foreclose Lien - Petition - Summons - Parties - Judgments 
+1238. Resolution of Non-contest of Improvement - Resolution of Approval of Plans and Specifications - Contracts - Contractor's Bond - Bidding Procedure
 
- 1252. Penalties for Delinquent Taxes - Disposition 
+1239. Awarding of Contracts - Excessive Costs
 
- 1253. Grounds for Sustaining Action against Board of County Commissioners 
+1240. Direction to County Assessor to Appraise and Apportion Benefits - Error in Description
 
- 1254. Acceptance of Improvements 
+1241. County Assessor - Duty to Appraise and Apportion - Reports
 
- 1255. Improvement of Existing Roads, Streets, Avenues, Alleys, or Lanes - Application of Act 
+1242. Objections to Appraisement or Apportionment - Hearing - Notice - Time
 
- 1256. Contractor's Bond - Deposit Prior to Acceptance of Improvement - Amount - Repair of Improvements 
+1243. Review of Appraisement and Apportionment - Objections to Proposed Assessment
 
- 1257. Road Improvement Bonds 
+1244. Property of Cities, Towns, Counties, Boards of Education or School Districts - Assessment Against
 
- 1258. Payment of Contractor in Bonds 
+1245. Repealed
 
- 1259. Registration of Bonds - Transfer or Assignment 
+1246. Street Intersections and Alley Crossings - Improvement Costs - State Aid
 
- 1260. Consent of Registered Owners of Bond to Payment of Special Assessments - Presentment for Payment - Endorsement - Cancellation 
+1247. Payment of Assessments - Interest - Levy of Assessment - Assessing Ordinance - Liens
 
- 1261. Delinquent Assessments or Installments - Presentment of Bond Receipt as Payment - Discharge of Liens 
+1248. Road Assessment Record
 
- 1262. Transferees or Assignees - Obligations 
+1249. Due Date of First Installment - Delinquent Installments - Collection of Installments - Limitation of Actions
 
- 1263. Application of §§ 1230 through 1262 
+1250. Installments - Payment - Collecting Agent - Bond - Duties
 
- 1264. Petition for Change in Boundaries of Road Improvement District 
+1251. Action to Foreclose Lien - Petition - Summons - Parties - Judgments
 
- Chapter 30A - Bonds for Water Facilities, Reservoirs, and Projects
+1252. Penalties for Delinquent Taxes - Disposition
 
- 1275. Authority to Issue Bond. 
+1253. Grounds for Sustaining Action against Board of County Commissioners
 
- 1276. Election - Resolution - Notice - Ballots 
+1254. Acceptance of Improvements
 
- 1277. Issuance and Sale of Bonds - Competitive Bids - Deposit of Proceeds 
+1255. Improvement of Existing Roads, Streets, Avenues, Alleys, or Lanes - Application of Act
 
- 1278. Interest Rate 
+1256. Contractor's Bond - Deposit Prior to Acceptance of Improvement - Amount - Repair of Improvements
 
- 1279. Levy of Taxes to Pay Principal and Interest on Bond 
+1257. Road Improvement Bonds
 
- Chapter 31 - Vacation and Sick Leave
+1258. Payment of Contractor in Bonds
 
- 1301. Vacation and Sick Leave Plan 
+1259. Registration of Bonds - Transfer or Assignment
 
- 1302. Wellness Council - Wellness Program Fund 
+1260. Consent of Registered Owners of Bond to Payment of Special Assessments - Presentment for Payment - Endorsement - Cancellation
 
- Chapter 32 - County Budget Act
+1261. Delinquent Assessments or Installments - Presentment of Bond Receipt as Payment - Discharge of Liens
 
- 1401. Short Title 
+1262. Transferees or Assignees - Obligations
 
- 1402. Purpose of Act 
+1263. Application of §§ 1230 through 1262
 
- 1403. Application of Act 
+1264. Petition for Change in Boundaries of Road Improvement District
 
- 1404. Definitions 
+Chapter 30A - Bonds for Water Facilities, Reservoirs, and Projects
 
- 1405. Accounting Records and Financial Statements - Establishment and Maintenance 
+1275. Authority to Issue Bond.
 
- 1406. Maintenance of Funds and Account Groups 
+1276. Election - Resolution - Notice - Ballots
 
- 1407. County Budget Board - Membership - Officers - Vacancies - Meetings 
+1277. Issuance and Sale of Bonds - Competitive Bids - Deposit of Proceeds
 
- 1408. Preparation of Budget for Each Fund 
+1278. Interest Rate
 
- 1409. Adoption of Budget - Capital Projects Fund Budget 
+1279. Levy of Taxes to Pay Principal and Interest on Bond
 
- 1410. Fund Budgets Required - Format - Contents 
+Chapter 31 - Vacation and Sick Leave
 
- 1411. Estimate of Revenues and Expenditures 
+1301. Vacation and Sick Leave Plan
 
- 1412. Public Hearings - Notice 
+1302. Wellness Council - Wellness Program Fund
 
- 1413. Adoption of Budget - Filing - Appropriations 
+Chapter 32 - County Budget Act
 
- 1414. Examination of Budgets - Powers and Duties of Excise Board 
+1401. Short Title
 
- 1415. Protests - Status of Budget - Examination 
+1402. Purpose of Act
 
- 1416. Expenditures Exceeding Fund Balance Prohibited - Budget Balances - Other Unlawful Acts - Liability 
+1403. Application of Act
 
- 1417. Classifying Estimated Revenues and Expenditures 
+1404. Definitions
 
- 1418. Transfer of Appropriations 
+1405. Accounting Records and Financial Statements - Establishment and Maintenance
 
- 1419. Transfer of Special Fund, Debt Service and Special Assessment Fund Balances 
+1406. Maintenance of Funds and Account Groups
 
- 1420. Supplemental Appropriations - Amendment of Budget 
+1407. County Budget Board - Membership - Officers - Vacancies - Meetings
 
- 1421. Implementation and Administration of Act 
+1408. Preparation of Budget for Each Fund
 
- Chapter 33 - Purchasing
+1409. Adoption of Budget - Capital Projects Fund Budget
 
- 1500. County Purchasing Agent - Appointment - Training - Duties and Responsibilities - Salary - Office Space and Equipment 
+1410. Fund Budgets Required - Format - Contents
 
- 1500.1. County Purchasing Agent - Authority 
+1411. Estimate of Revenues and Expenditures
 
- 1501. Duties of County Purchasing Agent 
+1412. Public Hearings - Notice
 
- 1501. Duties of County Purchasing Agent 
+1413. Adoption of Budget - Filing - Appropriations
 
- 1502. Uniform Identification System and Inventory System for County Supplies, Materials, and Equipment - County Road and Bridge Inventory Officer - Duties of County Commissioners 
+1414. Examination of Budgets - Powers and Duties of Excise Board
 
- 1503. Designation of Receiving and Requisitioning Officers 
+1415. Protests - Status of Budget - Examination
 
- 1504. Duties of Receiving Officer 
+1416. Expenditures Exceeding Fund Balance Prohibited - Budget Balances - Other Unlawful Acts - Liability
 
- 1505. Procedure for Requisition, Purchase, Lease-Purchase, and Rental - Supplies, Material, and Equipment for Maintenance, Operation, and Capital Expenditures of County Government 
+1417. Classifying Estimated Revenues and Expenditures
 
- 1505.1. County Contracts for Supplies, Equipment or Materials - Bidders to Provide Specifications as to Manufacturer and Country of Origin 
+1418. Transfer of Appropriations
 
- 1505.2. Inapplicability to Receipt of or Purchases, Lease-Purchases, and Rentals of Supplies, Materials, Equipment, and Improvements 
+1419. Transfer of Special Fund, Debt Service and Special Assessment Fund Balances
 
- 1506. Authority of Sheriff or Deputy Sheriff to Make Certain Travel Purchases by Credit Card 
+1420. Supplemental Appropriations - Amendment of Budget
 
- 1507. Limitations Regarding Number of Credit Cards Issued and Amount of Charges Allowed 
+1421. Implementation and Administration of Act
 
- Chapter 34 - Transient Merchant Licensing Act
+Chapter 33 - Purchasing
 
- 1601. Short Title 
+1500. County Purchasing Agent - Appointment - Training - Duties and Responsibilities - Salary - Office Space and Equipment
 
- 1602. Definition 
+1500.1. County Purchasing Agent - Authority
 
- 1603. Inapplicability of Act 
+1501. Duties of County Purchasing Agent
 
- 1604. Requirement to Secure a License 
+1501. Duties of County Purchasing Agent
 
- 1605. License Application - Contents 
+1502. Uniform Identification System and Inventory System for County Supplies, Materials, and Equipment - County Road and Bridge Inventory Officer - Duties of County Commissioners
 
- 1606. Design and Print of Appropriate Forms for License Applications 
+1503. Designation of Receiving and Requisitioning Officers
 
- 1607. Requirements to be Agents of Transient Merchants - List of Transient Merchants 
+1504. Duties of Receiving Officer
 
- 1608. Fee for License Application - Bond 
+1505. Procedure for Requisition, Purchase, Lease-Purchase, and Rental - Supplies, Material, and Equipment for Maintenance, Operation, and Capital Expenditures of County Government
 
- 1609. Issuance of License Only upon Meeting all Requirements of Act - Transferability - Validity 
+1505. Procedure for Requisition, Purchase, Lease-Purchase, and Rental - Supplies, Material, and Equipment for Maintenance, Operation, and Capital Expenditures of County Government
 
- 1610. Requirement of License - Violations - Guilty of Misdemeanor 
+1505.1. County Contracts for Supplies, Equipment or Materials - Bidders to Provide Specifications as to Manufacturer and Country of Origin
 
- 1611. Duty of Sheriff and Other Law Enforcement Officers to Enforce Act 
+1505.2. Inapplicability to Receipt of or Purchases, Lease-Purchases, and Rentals of Supplies, Materials, Equipment, and Improvements
 
- Chapter 35 - Emergency Medical Service District Budget Act
+1506. Authority of Sheriff or Deputy Sheriff to Make Certain Travel Purchases by Credit Card
 
- 1701. Short Title 
+1507. Limitations Regarding Number of Credit Cards Issued and Amount of Charges Allowed
 
- 1702. Purpose of Act to Provide Budget Procedure for Emergency Medical Service Districts 
+Chapter 34 - Transient Merchant Licensing Act
 
- 1703. Act to Apply to All Emergency Medical Service Districts 
+1601. Short Title
 
- 1704. Definitions 
+1602. Definition
 
- 1705. State Auditor and Inspector to Advise Districts on Procedural and Technical Matters 
+1603. Inapplicability of Act
 
- 1706. Duty to Produce Financial Statement for Preceding Year 
+1604. Requirement to Secure a License
 
- 1706.1. Audit Expense Funding 
+1605. License Application - Contents
 
- 1707. Election, Rights and Privileges of Officers 
+1606. Design and Print of Appropriate Forms for License Applications
 
- 1708. Preparation of Each Budget Year a Budget for Each Fund 
+1607. Requirements to be Agents of Transient Merchants - List of Transient Merchants
 
- 1709. Completion of Budget for Each Fund - Format - Budget Summary - Estimate of Revenues - Need for Sinking Fund Purposes 
+1608. Fee for License Application - Bond
 
- 1710. Annual Levy for Sinking Fund - Formula - Intent of Act 
+1609. Issuance of License Only upon Meeting all Requirements of Act - Transferability - Validity
 
- 1710.1. Emergency medical service districts--Ambulance services 
+1610. Requirement of License - Violations - Guilty of Misdemeanor
 
- 1711. Procedure for Computation of Levy for Each Fund 
+1611. Duty of Sheriff and Other Law Enforcement Officers to Enforce Act
 
- 1712. Accrual of Actual Cash Surpluses 
+Chapter 35 - Emergency Medical Service District Budget Act
 
- 1713. Monies Received or Expended by District Must be Accounted for by Fund and Account 
+1701. Short Title
 
- 1714. Public Hearing on Proposed Budget 
+1702. Purpose of Act to Provide Budget Procedure for Emergency Medical Service Districts
 
- 1715. Budget Adoption - Filing Adopted Budget - Effective Date - Review 
+1703. Act to Apply to All Emergency Medical Service Districts
 
- 1716. Filing of Protests against Any Illegality of Budget 
+1704. Definitions
 
- 1717. Expenditure not Authorized which Exceeds Fund Balance - Unlawful Acts for Employees or Member of Board - Penalties 
+1705. State Auditor and Inspector to Advise Districts on Procedural and Technical Matters
 
- 1718. Maintenance of Funds and Account Groups 
+1706. Duty to Produce Financial Statement for Preceding Year
 
- 1719. Estimated Revenues and Appropriation Expenditures - Classification of 
+1706.1. Audit Expense Funding
 
- 1720. Unexpended or Unencumbered Appropriation or Funds in Special Fund - Transfer of 
+1707. Election, Rights and Privileges of Officers
 
- 1721. Board may Amend Budget due to Certain Circumstances 
+1708. Preparation of Each Budget Year a Budget for Each Fund
 
- 1722. Rules, Regulations, and Forms 
+1709. Completion of Budget for Each Fund - Format - Budget Summary - Estimate of Revenues - Need for Sinking Fund Purposes
 
- 1723. Purchases by Competitive Bid 
+1710. Annual Levy for Sinking Fund - Formula - Intent of Act
 
- Reverse Auction Bidding
+1710.1. Emergency medical service districts--Ambulance services
 
- 1801. Repealed 
+1711. Procedure for Computation of Levy for Each Fund
 
- 1801. Authorization for Reverse Auction Bidding - Procedure - Governing Laws - Remedies
+1712. Accrual of Actual Cash Surpluses
+
+1713. Monies Received or Expended by District Must be Accounted for by Fund and Account
+
+1714. Public Hearing on Proposed Budget
+
+1715. Budget Adoption - Filing Adopted Budget - Effective Date - Review
+
+1716. Filing of Protests against Any Illegality of Budget
+
+1717. Expenditure not Authorized which Exceeds Fund Balance - Unlawful Acts for Employees or Member of Board - Penalties
+
+1718. Maintenance of Funds and Account Groups
+
+1719. Estimated Revenues and Appropriation Expenditures - Classification of
+
+1720. Unexpended or Unencumbered Appropriation or Funds in Special Fund - Transfer of
+
+1721. Board may Amend Budget due to Certain Circumstances
+
+1722. Rules, Regulations, and Forms
+
+1723. Purchases by Competitive Bid
+
+Reverse Auction Bidding
+
+1801. Repealed
+
+1801. Authorization for Reverse Auction Bidding - Procedure - Governing Laws - Remedies

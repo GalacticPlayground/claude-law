@@ -8,1245 +8,1260 @@
 
 OCIS Document Index 
 
- Index of Available Documents 
 
- Up One Level 
- Show 
- 1 2 3 4 5 Levels 
- Title 5. Attorneys and the State Bar (STOKST05) Search 
 
- Chapter 1 - Attorneys and Counselors
 
- General Provisions
 
- 1. Persons Who May Not Practice as an Attorney - Aliens 
 
- Registration of Out-of-State Attorneys Act
 
- 1.1. Repealed 
 
- 1.2. Repealed 
 
- 1.3. Repealed 
 
- 1.4. Repealed 
 
- 1.5. Repealed 
 
- 1.6. Repealed 
 
- 1.7. Repealed 
 
- 1.8. Repealed 
+Index of Available Documents
 
- 1.9. Repealed 
+| |
+Up One Level
+| Show 
+1 2 3 4 5 Levels | |
+Title 5. Attorneys and the State Bar (STOKST05)
+Search
 
- 1.10. Repealed 
+Chapter 1 - Attorneys and Counselors
 
- 1.11. Repealed 
+General Provisions
 
- 1.12. Repealed 
+1. Persons Who May Not Practice as an Attorney - Aliens
 
- 1.13. Repealed 
+Registration of Out-of-State Attorneys Act
 
- 1.14. Repealed 
+1.1. Repealed
 
- 1.15. Repealed 
+1.2. Repealed
 
- 1.16. Repealed 
+1.3. Repealed
 
- 1.17. Repealed 
+1.4. Repealed
 
- 1.18. Repealed 
+1.5. Repealed
 
- 1.19. Repealed 
+1.6. Repealed
 
- General Provisions (cont.)
+1.7. Repealed
 
- 2. Attorney's Oath 
+1.8. Repealed
 
- 3. Duties of Attorneys 
+1.9. Repealed
 
- 4. Receiving Money Claimed by Client 
+1.10. Repealed
 
- 5. Proof of Authority - Stay of Proceedings 
+1.11. Repealed
 
- 6. Attorney's Lien Upon Cause of Action - Procedure - Notice to Defendants - Filing - Settlements - Action to Enforce 
+1.12. Repealed
 
- 7. Contingent Fee - Limitation on Amount-Compromise or Settlement - Effect on Liens - Contract Void When Layman Secures or Has Any Interest Therein 
+1.13. Repealed
 
- 7.1. Repealed 
+1.14. Repealed
 
- 8. Liability of Adverse Party 
+1.15. Repealed
 
- 9. Amount of Recovery 
+1.16. Repealed
 
- 10. Execution of Bond to Release Lien 
+1.17. Repealed
 
- 11. Licensed Attorneys and their Spouses-Prohibition on Becoming Sureties-Effect of Unauthorized Bond 
+1.18. Repealed
 
- 12. Admission to Practice 
+1.19. Repealed
 
- 13. Power of Supreme Court 
+General Provisions (cont.)
 
- 14. Applicants for Admission 
+2. Attorney's Oath
 
- 15. Unconstitutional 
+3. Duties of Attorneys
 
- 16. Examinations 
+4. Receiving Money Claimed by Client
 
- 17. Repealed 
+5. Proof of Authority - Stay of Proceedings
 
- 18. Inactive Membership Status - Application 
+6. Attorney's Lien Upon Cause of Action - Procedure - Notice to Defendants - Filing - Settlements - Action to Enforce
 
- 21. Repealed 
+7. Contingent Fee - Limitation on Amount-Compromise or Settlement - Effect on Liens - Contract Void When Layman Secures or Has Any Interest Therein
 
- 22. Repealed 
+7.1. Repealed
 
- 23. Repealed 
+8. Liability of Adverse Party
 
- 24. Repealed 
+9. Amount of Recovery
 
- 25. Repealed 
+10. Execution of Bond to Release Lien
 
- 26. Repealed 
+11. Licensed Attorneys and their Spouses-Prohibition on Becoming Sureties-Effect of Unauthorized Bond
 
- 27. Repealed 
+12. Admission to Practice
 
- 28. Repealed 
+13. Power of Supreme Court
 
- 29. Repealed 
+14. Applicants for Admission
 
- 30. Repealed 
+15. Unconstitutional
 
- 31. Repealed 
+16. Examinations
 
- 32. Repealed 
+17. Repealed
 
- 33. Repealed 
+18. Inactive Membership Status - Application
 
- 34. Repealed 
+21. Repealed
 
- 35. Repealed 
+22. Repealed
 
- 36. Repealed 
+23. Repealed
 
- 37. Repealed 
+24. Repealed
 
- 38. Repealed 
+25. Repealed
 
- 39. Repealed 
+26. Repealed
 
- 40. Repealed 
+27. Repealed
 
- 41. Repealed 
+28. Repealed
 
- 42. Repealed 
+29. Repealed
 
- 43. Repealed 
+30. Repealed
 
- 44. Repealed 
+31. Repealed
 
- 45. Repealed 
+32. Repealed
 
- 46. Repealed 
+33. Repealed
 
- 47. Repealed 
+34. Repealed
 
- 48. Repealed 
+35. Repealed
 
- 49. Repealed 
+36. Repealed
 
- 50. Repealed 
+37. Repealed
 
- 51. Repealed 
+38. Repealed
 
- 52. Repealed 
+39. Repealed
 
- 53. Repealed 
+40. Repealed
 
- 54. Repealed 
+41. Repealed
 
- 55. Repealed 
+42. Repealed
 
- 56. Repealed 
+43. Repealed
 
- 57. Repealed 
+44. Repealed
 
- 58. Repealed 
+45. Repealed
 
- 59. Repealed 
+46. Repealed
 
- 60. Repealed 
+47. Repealed
 
- 61. Repealed 
+48. Repealed
 
- 62. Repealed 
+49. Repealed
 
- 63. Repealed 
+50. Repealed
 
- 64. Repealed 
+51. Repealed
 
- 65. Repealed 
+52. Repealed
 
- 66. Repealed 
+53. Repealed
 
- 67. Repealed 
+54. Repealed
 
- 68. Repealed 
+55. Repealed
 
- 69. Repealed 
+56. Repealed
 
- Appendix 1 - Rules Creating and Controlling the Oklahoma Bar Association
+57. Repealed
 
- Preamble
+58. Repealed
 
- Preamble. 
+59. Repealed
 
- Article I
+60. Repealed
 
- Art I Sec 1. Association As Official Arm of Supreme Court 
+61. Repealed
 
- Art I Sec 2. Attorney As Part of Judicial System 
+62. Repealed
 
- Article II
+63. Repealed
 
- Art II Sec 1. Membership 
+64. Repealed
 
- Art II Sec 1A. Law Student Division 
+65. Repealed
 
- Art II Sec 2. Members Classified 
+66. Repealed
 
- Art II Sec 3. Resignation of Member 
+67. Repealed
 
- Art II Sec 4. Moving to Another State 
+68. Repealed
 
- Art II Sec 5. Out-of-State Attorneys and Attorneys Granted a Special Temporary Permit To Practice 
+69. Repealed
 
- Art II Sec 6. Small Claims Procedure 
+Appendix 1 - Rules Creating and Controlling the Oklahoma Bar Association
 
- Art II Sec 7. Who May Practice Law 
+Preamble
 
- Article III
+Preamble.
 
- Art III Sec 1. House of Delegates 
+Article I
 
- Art III Sec 2. Bylaws to Govern 
+Art I Sec 1. Association As Official Arm of Supreme Court
 
- Article IV
+Art I Sec 2. Attorney As Part of Judicial System
 
- Art IV Sec 1. Board of Governors 
+Article II
 
- Art IV Sec 2. Meetings of Board of Governors 
+Art II Sec 1. Membership
 
- Art IV Sec 3. Filling Vacancies 
+Art II Sec 1A. Law Student Division
 
- Art IV Sec 4. Voting Status of the Members of the Board of Governors and Officers of the Association 
+Art II Sec 2. Members Classified
 
- Art IV Sec 5. Duties of Board of Governors 
+Art II Sec 3. Resignation of Member
 
- Art IV Sec 6. Length of Service 
+Art II Sec 4. Moving to Another State
 
- Art IV Sec 7. Attendance 
+Art II Sec 5. Out-of-State Attorneys and Attorneys Granted a Special Temporary Permit To Practice
 
- Art IV Sec 8. Conflict of Interest 
+Art II Sec 6. Small Claims Procedure
 
- Article IV-A
+Art II Sec 7. Who May Practice Law
 
- Art IV-A. REVOKED, eff. July 1, 1981. 
+Article III
 
- Article V
+Art III Sec 1. House of Delegates
 
- Art V Sec 1. Officers of the Association 
+Art III Sec 2. Bylaws to Govern
 
- Article VI
+Article IV
 
- Art VI Sec 1. Executive Director, Treasurer, and General Counsel 
+Art IV Sec 1. Board of Governors
 
- Art VI Sec 2. Other Employees 
+Art IV Sec 2. Meetings of Board of Governors
 
- Art VI Sec 3. Employee Bonds 
+Art IV Sec 3. Filling Vacancies
 
- Art VI Sec 4. Executive Director, Duties 
+Art IV Sec 4. Voting Status of the Members of the Board of Governors and Officers of the Association
 
- Art VI Sec 5. Report of Executive Director 
+Art IV Sec 5. Duties of Board of Governors
 
- Article VII
+Art IV Sec 6. Length of Service
 
- Art VII Sec 1. Budget Committee 
+Art IV Sec 7. Attendance
 
- Art VII Sec 2. Use and Disbursements of Funds 
+Art IV Sec 8. Conflict of Interest
 
- Article VIII
+Article IV-A
 
- Art VIII Sec 1. Annual Dues 
+Art IV-A. REVOKED, eff. July 1, 1981.
 
- Art VIII Sec 2. Suspension for Nonpayment 
+Article V
 
- Art VIII Sec 3. Penalty 
+Art V Sec 1. Officers of the Association
 
- Art VIII Sec 4. Reinstatement of Attorneys 
+Article VI
 
- Art VIII Sec 5. Name Stricken from Rolls 
+Art VI Sec 1. Executive Director, Treasurer, and General Counsel
 
- Article IX
+Art VI Sec 2. Other Employees
 
- Art IX. REVOKED, eff. July 1, 1981. 
+Art VI Sec 3. Employee Bonds
 
- Article X
+Art VI Sec 4. Executive Director, Duties
 
- Art X. REVOKED, eff. July 1, 1981. 
+Art VI Sec 5. Report of Executive Director
 
- Article XI
+Article VII
 
- Art XI. REVOKED, eff. July 1, 1981. 
+Art VII Sec 1. Budget Committee
 
- Article XII
+Art VII Sec 2. Use and Disbursements of Funds
 
- Art XII Sec 1. General Duties of Attorneys 
+Article VIII
 
- Art XII Sec 2. Nonliability of the Association and its Members 
+Art VIII Sec 1. Annual Dues
 
- Article XIII
+Art VIII Sec 2. Suspension for Nonpayment
 
- Art XIII Sec 1. Board of Bar Examiners 
+Art VIII Sec 3. Penalty
 
- Art XIII Sec 2. Compensation of Members 
+Art VIII Sec 4. Reinstatement of Attorneys
 
- Art XIII Sec 3. Rules of the Board 
+Art VIII Sec 5. Name Stricken from Rolls
 
- Art XIII Sec 4. Members Not to Hold Certain Positions 
+Article IX
 
- Art XIII Sec 5. Attendance 
+Art IX. REVOKED, eff. July 1, 1981.
 
- Article XIV
+Article X
 
- Art XIV. Meetings 
+Art X. REVOKED, eff. July 1, 1981.
 
- Article XV
+Article XI
 
- Art XV. Bylaws Adopted By Association 
+Art XI. REVOKED, eff. July 1, 1981.
 
- Article XVI
+Article XII
 
- Art XVI. Amendment of Rules 
+Art XII Sec 1. General Duties of Attorneys
 
- Article XVII
+Art XII Sec 2. Nonliability of the Association and its Members
 
- Art XVII. Prior Rules Revoked 
+Article XIII
 
- Article XVIII
+Art XIII Sec 1. Board of Bar Examiners
 
- Art XVIII Sec. 1. Access to Justice Advisory Committee of the Oklahoma Bar Association 
+Art XIII Sec 2. Compensation of Members
 
- Art XVIII Sec. 2. Selection of Committee Members; Term 
+Art XIII Sec 3. Rules of the Board
 
- Art XVIII Sec. 3. Vacancy of Position 
+Art XIII Sec 4. Members Not to Hold Certain Positions
 
- Art XVIII Sec. 4. Ex-Officio Members 
+Art XIII Sec 5. Attendance
 
- Art XVIII Sec. 5. Officers of the Committee 
+Article XIV
 
- Art XVIII Sec. 6. Compensation of Committee and Ex-Officio Members 
+Art XIV. Meetings
 
- Art XVIII Sec. 7. Staff 
+Article XV
 
- Art XVIII Sec. 8. Annual Budget 
+Art XV. Bylaws Adopted By Association
 
- Art XVIII Sec. 9. Rules of the Committee 
+Article XVI
 
- Art XVIII Sec. 10. Annual Report 
+Art XVI. Amendment of Rules
 
- Appendix 1-A - Rules Governing Disciplinary Proceedings
+Article XVII
 
- Rule 1. Jurisdiction of the Court in the Discipline of Lawyers and the Unauthorized Practice of Law
+Art XVII. Prior Rules Revoked
 
- Sec 1.1. Declaration of Jurisdiction 
+Article XVIII
 
- Sec 1.2. Implied Exceptions Negated 
+Art XVIII Sec. 1. Access to Justice Advisory Committee of the Oklahoma Bar Association
 
- Sec 1.3. Discipline for Act Contrary to Prescribe Standards of Conduct 
+Art XVIII Sec. 2. Selection of Committee Members; Term
 
- Sec 1.4. Controversies Regarding Fees 
+Art XVIII Sec. 3. Vacancy of Position
 
- Sec 1.5. Code of Professional Responsibility 
+Art XVIII Sec. 4. Ex-Officio Members
 
- Sec 1.6. Code of Judicial Conduct 
+Art XVIII Sec. 5. Officers of the Committee
 
- Sec 1.7. Discipline 
+Art XVIII Sec. 6. Compensation of Committee and Ex-Officio Members
 
- Rule 2. Professional Responsibility Commission
+Art XVIII Sec. 7. Staff
 
- Sec 2.1. Composition and Appointment 
+Art XVIII Sec. 8. Annual Budget
 
- Sec 2.2. Organization 
+Art XVIII Sec. 9. Rules of the Committee
 
- Sec 2.3. Compensation and Reimbursement 
+Art XVIII Sec. 10. Annual Report
 
- Sec 2.4. Meetings 
+Appendix 1-A - Rules Governing Disciplinary Proceedings
 
- Sec 2.5. Removal 
+Rule 1. Jurisdiction of the Court in the Discipline of Lawyers and the Unauthorized Practice of Law
 
- Sec 2.6. Quorum 
+Sec 1.1. Declaration of Jurisdiction
 
- Sec 2.7. Financing 
+Sec 1.2. Implied Exceptions Negated
 
- Sec 2.8. Duties and Powers 
+Sec 1.3. Discipline for Act Contrary to Prescribe Standards of Conduct
 
- Sec 2.9. Transitional Provisions 
+Sec 1.4. Controversies Regarding Fees
 
- Sec 2.10. Conflict of Interest 
+Sec 1.5. Code of Professional Responsibility
 
- Rule 3. General Counsel
+Sec 1.6. Code of Judicial Conduct
 
- Sec 3.1. Employment 
+Sec 1.7. Discipline
 
- Sec 3.2. Duties 
+Rule 2. Professional Responsibility Commission
 
- Sec 3.3. Grievances Against the General Counsel of the Association 
+Sec 2.1. Composition and Appointment
 
- Sec 3.4. Disqualification of General Counsel 
+Sec 2.2. Organization
 
- Sec 3.5. Special Trial Attorneys 
+Sec 2.3. Compensation and Reimbursement
 
- Rule 4. Professional Responsibility Tribunal
+Sec 2.4. Meetings
 
- Sec 4.1. Composition and Appointment 
+Sec 2.5. Removal
 
- Sec 4.2. Organization 
+Sec 2.6. Quorum
 
- Sec 4.3. Removal 
+Sec 2.7. Financing
 
- Sec 4.4. Compensation and Reimbursement of Expenses 
+Sec 2.8. Duties and Powers
 
- Sec 4.5. Duties and Powers 
+Sec 2.9. Transitional Provisions
 
- Sec 4.6. Conflict of Interest 
+Sec 2.10. Conflict of Interest
 
- Rule 5. Filing and Processing of Grievances and Requests for Investigation
+Rule 3. General Counsel
 
- Sec 5.1. Form of Grievances, Requests for Investigations, and Referrals Into Diversion Program 
+Sec 3.1. Employment
 
- Sec 5.2. Investigations 
+Sec 3.2. Duties
 
- Sec 5.3. Actions By Commission 
+Sec 3.3. Grievances Against the General Counsel of the Association
 
- Sec 5.4. Grievances Privileged 
+Sec 3.4. Disqualification of General Counsel
 
- Sec 5.5. Continuation of Proceedings Notwithstanding Failure to Prosecute, Withdrawal or Settlement of Grievance 
+Sec 3.5. Special Trial Attorneys
 
- Sec 5.6. Pending Litigation 
+Rule 4. Professional Responsibility Tribunal
 
- Sec 5.7. Confidentiality of Disciplinary Investigations and Results 
+Sec 4.1. Composition and Appointment
 
- Sec 5.8. Confidentiality of Disciplinary Records 
+Sec 4.2. Organization
 
- Sec 5.9. Proceedings Which Are to be a Matter of Public Record 
+Sec 4.3. Removal
 
- Rule 6. Formal Proceedings Before Supreme Court and Professional Responsibility Tribunal
+Sec 4.4. Compensation and Reimbursement of Expenses
 
- Sec 6.1. Manner of Instituting 
+Sec 4.5. Duties and Powers
 
- Sec 6.2. Contents of Formal Complaint 
+Sec 4.6. Conflict of Interest
 
- Sec 6.2A. Emergency Interim Suspension Orders and Related Relief 
+Rule 5. Filing and Processing of Grievances and Requests for Investigation
 
- Sec 6.3. Notification of Filing of Complaint 
+Sec 5.1. Form of Grievances, Requests for Investigations, and Referrals Into Diversion Program
 
- Sec 6.4. Response to Complaint 
+Sec 5.2. Investigations
 
- Sec 6.5. Amendment of Complaint 
+Sec 5.3. Actions By Commission
 
- Sec 6.6. Trial Panel 
+Sec 5.4. Grievances Privileged
 
- Sec 6.7. Setting and Notification of Hearing 
+Sec 5.5. Continuation of Proceedings Notwithstanding Failure to Prosecute, Withdrawal or Settlement of Grievance
 
- Sec 6.8. Depositions and Discovery 
+Sec 5.6. Pending Litigation
 
- Sec 6.9. Hearing Open to Public 
+Sec 5.7. Confidentiality of Disciplinary Investigations and Results
 
- Sec 6.10. Record of Proceedings 
+Sec 5.8. Confidentiality of Disciplinary Records
 
- Sec 6.11. Powers of Trial Panel in Conduct of Proceedings 
+Sec 5.9. Proceedings Which Are to be a Matter of Public Record
 
- Sec 6.12. Evidence, Procedure and Standard of Proof 
+Rule 6. Formal Proceedings Before Supreme Court and Professional Responsibility Tribunal
 
- Sec 6.13. Report By Trial Panel 
+Sec 6.1. Manner of Instituting
 
- Sec 6.14. Briefing After Report by Trial Panel 
+Sec 6.2. Contents of Formal Complaint
 
- Sec 6.15. Decision by Supreme Court 
+Sec 6.2A. Emergency Interim Suspension Orders and Related Relief
 
- Sec 6.16. Cost of Investigations and Disciplinary Proceedings Where Discipline Results 
+Sec 6.3. Notification of Filing of Complaint
 
- Rule 7. Summary Disciplinary Proceedings Before Supreme Court
+Sec 6.4. Response to Complaint
 
- Sec 7.1. Criminal Conviction of Lawyer 
+Sec 6.5. Amendment of Complaint
 
- Sec 7.2. Transmittal of Record Relating to Conviction 
+Sec 6.6. Trial Panel
 
- Sec 7.3. Interim Suspension From Practice 
+Sec 6.7. Setting and Notification of Hearing
 
- Sec 7.4. Conviction Becoming Final Without Appeal 
+Sec 6.8. Depositions and Discovery
 
- Sec 7.5. Appeal of Conviction 
+Sec 6.9. Hearing Open to Public
 
- Sec 7.6. Disciplinary Proceedings Based Upon Same Facts as Criminal Proceeding 
+Sec 6.10. Record of Proceedings
 
- Sec 7.7. Disciplinary Action in Other Jurisdictions, As Basis for Discipline 
+Sec 6.11. Powers of Trial Panel in Conduct of Proceedings
 
- Sec 7.8. Noncompliance With An Order of Support 
+Sec 6.12. Evidence, Procedure and Standard of Proof
 
- Sec 7.9. Transmittal of Record Relating to Finding of Noncompliance with an Order of Support 
+Sec 6.13. Report By Trial Panel
 
- Sec 7.10. Noncompliance With An Order For Support, As Basis for Discipline 
+Sec 6.14. Briefing After Report by Trial Panel
 
- Rule 8. Resignation Pending Disciplinary Proceedings
+Sec 6.15. Decision by Supreme Court
 
- Sec 8.1. Prerequisites for Resignation 
+Sec 6.16. Cost of Investigations and Disciplinary Proceedings Where Discipline Results
 
- Sec 8.2. Order Approving; Reinstatement 
+Rule 7. Summary Disciplinary Proceedings Before Supreme Court
 
- Rule 9. Procedure Following Disciplinary Action by Court and Notice Thereof; Winding Up of Business of Deceased, Disciplined or Missing Lawyer
+Sec 7.1. Criminal Conviction of Lawyer
 
- Sec 9.1. Notice to Clients; List of Other Bars to Which Admitted 
+Sec 7.2. Transmittal of Record Relating to Conviction
 
- Sec 9.2. Notice to Other Jurisdictions 
+Sec 7.3. Interim Suspension From Practice
 
- Sec 9.3. Appointment of Attorneys to Wind Up Lawyer's Business 
+Sec 7.4. Conviction Becoming Final Without Appeal
 
- Rule 10. Suspension for Personal Incapacity to Practice Law
+Sec 7.5. Appeal of Conviction
 
- Sec 10.1. Definition 
+Sec 7.6. Disciplinary Proceedings Based Upon Same Facts as Criminal Proceeding
 
- Sec 10.2. Suspension 
+Sec 7.7. Disciplinary Action in Other Jurisdictions, As Basis for Discipline
 
- Sec 10.2A. Emergency Interim Suspension Orders and Related Relief 
+Sec 7.8. Noncompliance With An Order of Support
 
- Sec 10.3. Procedure in General 
+Sec 7.9. Transmittal of Record Relating to Finding of Noncompliance with an Order of Support
 
- Sec 10.4. Inquiry As to Personal Incapacity to Practice Law, Incidental to Disciplinary Proceedings 
+Sec 7.10. Noncompliance With An Order For Support, As Basis for Discipline
 
- Sec 10.5. Joinder of Disciplinary Charges With Charges of Personal Incapacity to Practice Law 
+Rule 8. Resignation Pending Disciplinary Proceedings
 
- Sec 10.6. Representation by Counsel 
+Sec 8.1. Prerequisites for Resignation
 
- Sec 10.7. Service of Process or Notice 
+Sec 8.2. Order Approving; Reinstatement
 
- Sec 10.8. Proof by Certified Copies 
+Rule 9. Procedure Following Disciplinary Action by Court and Notice Thereof; Winding Up of Business of Deceased, Disciplined or Missing Lawyer
 
- Sec 10.9. Examination by Physicians 
+Sec 9.1. Notice to Clients; List of Other Bars to Which Admitted
 
- Sec 10.10. Proceedings in Supreme Court 
+Sec 9.2. Notice to Other Jurisdictions
 
- Sec 10.11. Application for Reinstatement 
+Sec 9.3. Appointment of Attorneys to Wind Up Lawyer's Business
 
- Sec 10.12. Confidentiality 
+Rule 10. Suspension for Personal Incapacity to Practice Law
 
- Rule 11. Reinstatement
+Sec 10.1. Definition
 
- Sec 11.1. Petition for Reinstatement 
+Sec 10.2. Suspension
 
- Sec 11.2. Investigation by Professional Responsibility Commission 
+Sec 10.2A. Emergency Interim Suspension Orders and Related Relief
 
- Sec 11.3. Hearing Before Professional Responsibility Tribunal 
+Sec 10.3. Procedure in General
 
- Sec 11.4. Standard of Proof for Petitions for Reinstatement 
+Sec 10.4. Inquiry As to Personal Incapacity to Practice Law, Incidental to Disciplinary Proceedings
 
- Sec 11.5. Findings Prerequisite to Reinstatement 
+Sec 10.5. Joinder of Disciplinary Charges With Charges of Personal Incapacity to Practice Law
 
- Sec 11.6. Review by Supreme Court 
+Sec 10.6. Representation by Counsel
 
- Sec 11.7. Notice of Decision and Petition for Rehearing 
+Sec 10.7. Service of Process or Notice
 
- Sec 11.8. Reinstatement Without Order After Suspension of Two Years of Less 
+Sec 10.8. Proof by Certified Copies
 
- Rule 12. Winding Up Business of Lawyer Who Is Deceased, Incapacitated or Missing Not Pending Disciplinary Proceedings
+Sec 10.9. Examination by Physicians
 
- Sec 12.1. Notice to General Counsel 
+Sec 10.10. Proceedings in Supreme Court
 
- Sec 12.2. Action By General Counsel to Ensure Protection of Clients Upon the Receipt of Notice Pursuant to Rule 
+Sec 10.11. Application for Reinstatement
 
- Sec 12.3. Appointment of Counsel to Protect Interests of Clients of Deceased, Incapacitated or Disappeared Lawyer 
+Sec 10.12. Confidentiality
 
- Sec 12.4. Rules and Forms to Effectuate Rule 
+Rule 11. Reinstatement
 
- Rule 13. Service
+Sec 11.1. Petition for Reinstatement
 
- Sec 13.1. Manner of Service 
+Sec 11.2. Investigation by Professional Responsibility Commission
 
- Rule 14. Annual Reports
+Sec 11.3. Hearing Before Professional Responsibility Tribunal
 
- Sec 14.1. Annual Reports 
+Sec 11.4. Standard of Proof for Petitions for Reinstatement
 
- Rule 15. Immunity for Official Acts
+Sec 11.5. Findings Prerequisite to Reinstatement
 
- Sec 15.1. Immunity for Official Acts 
+Sec 11.6. Review by Supreme Court
 
- Rule 16. Revocation of Prior Rules, Effective Date, Transitional Provisions
+Sec 11.7. Notice of Decision and Petition for Rehearing
 
- Sec 16.1. Revocation of Prior Rules, Effective Date, Transitional Provisions 
+Sec 11.8. Reinstatement Without Order After Suspension of Two Years of Less
 
- Appendix 1-B - Rules for Mandatory Continuing Legal Education
+Rule 12. Winding Up Business of Lawyer Who Is Deceased, Incapacitated or Missing Not Pending Disciplinary Proceedings
 
- Rule 1. Mandatory Continuing Legal Education Commission 
+Sec 12.1. Notice to General Counsel
 
- Rule 2. Scope and Exemptions 
+Sec 12.2. Action By General Counsel to Ensure Protection of Clients Upon the Receipt of Notice Pursuant to Rule
 
- Rule 3. Continuing Legal Education Requirement 
+Sec 12.3. Appointment of Counsel to Protect Interests of Clients of Deceased, Incapacitated or Disappeared Lawyer
 
- Rule 4. Credits 
+Sec 12.4. Rules and Forms to Effectuate Rule
 
- Rule 5. Annual Report 
+Rule 13. Service
 
- Rule 6. Noncompliance and Sanctions 
+Sec 13.1. Manner of Service
 
- Rule 7. Regulations 
+Rule 14. Annual Reports
 
- Appendix 2 - Bylaws of the Oklahoma Bar Association
+Sec 14.1. Annual Reports
 
- Preamble. Preamble 
+Rule 15. Immunity for Official Acts
 
- Article I - House of Delegates
+Sec 15.1. Immunity for Official Acts
 
- Art I Sec 1. Control of Association 
+Rule 16. Revocation of Prior Rules, Effective Date, Transitional Provisions
 
- Art I Sec 2. Membership 
+Sec 16.1. Revocation of Prior Rules, Effective Date, Transitional Provisions
 
- Art I Sec 3. Residence 
+Appendix 1-B - Rules for Mandatory Continuing Legal Education
 
- Art I Sec 4. Meetings 
+Rule 1. Mandatory Continuing Legal Education Commission
 
- Article II - Officers
+Rule 2. Scope and Exemptions
 
- Art II Sec 1. Officers Enumerated 
+Rule 3. Continuing Legal Education Requirement
 
- Art II Sec 2. Election of Officers - Miscellaneous Provisions 
+Rule 4. Credits
 
- Art II Sec 3. The Board of Governors 
+Rule 5. Annual Report
 
- Art II Sec 4. Eligibility 
+Rule 6. Noncompliance and Sanctions
 
- Art II Sec 5. Indemnification 
+Rule 7. Regulations
 
- Article III - Nominations and Elections
+Appendix 2 - Bylaws of the Oklahoma Bar Association
 
- Art III Sec 1. Nominations 
+Preamble. Preamble
 
- Art III Sec 2. Majority Vote - Run-off 
+Article I - House of Delegates
 
- Art III Sec 3. Uncontested Election 
+Art I Sec 1. Control of Association
 
- Art III Sec 4. Defect of Candidates 
+Art I Sec 2. Membership
 
- Art III Sec 5. Inauguration Ceremonial and Oath of Office 
+Art I Sec 3. Residence
 
- Article IV - Duties of Officers
+Art I Sec 4. Meetings
 
- Art IV Sec 1. President 
+Article II - Officers
 
- Art IV Sec 2. President - Elect 
+Art II Sec 1. Officers Enumerated
 
- Art IV Sec 3. Vice - President 
+Art II Sec 2. Election of Officers - Miscellaneous Provisions
 
- Art IV Sec 4. Executive Director 
+Art II Sec 3. The Board of Governors
 
- Article V - Vacancies in Office and Ineligibility
+Art II Sec 4. Eligibility
 
- Art V Sec 1. Vacancy in the Office of President 
+Art II Sec 5. Indemnification
 
- Art V Sec 2. Vacancy in the Offices of President-Elect or Vice-President 
+Article III - Nominations and Elections
 
- Art V Sec 3. Vacancy in the Board of Governors 
+Art III Sec 1. Nominations
 
- Art V Sec 4. Ineligibility 
+Art III Sec 2. Majority Vote - Run-off
 
- Article VI - Board of Governors - Duties
+Art III Sec 3. Uncontested Election
 
- Art VI. Board of Governors - Duties 
+Art III Sec 4. Defect of Candidates
 
- Article VII - Bar Journal
+Art III Sec 5. Inauguration Ceremonial and Oath of Office
 
- Art VII. Bar Journal 
+Article IV - Duties of Officers
 
- Article VIII - Legislative Studies and Proposals
+Art IV Sec 1. President
 
- Art VIII Sec 1. Studies 
+Art IV Sec 2. President - Elect
 
- Art VIII Sec 2. Legislative or Rule-Making Recommendations by Association 
+Art IV Sec 3. Vice - President
 
- Art VIII Sec 3. Legislative Program - Subject Matter 
+Art IV Sec 4. Executive Director
 
- Art VIII Sec 4. Endorsement in Principle - Subject Matter 
+Article V - Vacancies in Office and Ineligibility
 
- Art VIII Sec 5. Legislative Proposals and Endorsements in Principle: Jurisdiction to Make 
+Art V Sec 1. Vacancy in the Office of President
 
- Art VIII Sec 6. Publicity Concerning Proposals 
+Art V Sec 2. Vacancy in the Offices of President-Elect or Vice-President
 
- Art VIII Sec 7. Duration of Legislative Programs or Endorsements 
+Art V Sec 3. Vacancy in the Board of Governors
 
- Art VIII Sec 8. Recommendations Concerning Policy 
+Art V Sec 4. Ineligibility
 
- Art VIII Sec 9. Recommendations Concerning Pending Legislative Proposals 
+Article VI - Board of Governors - Duties
 
- Article IX - Sections
+Art VI. Board of Governors - Duties
 
- Art IX Sec 1. Establishment and Discontinuance 
+Article VII - Bar Journal
 
- Art IX Sec 2. Bylaws 
+Art VII. Bar Journal
 
- Article X - Amendment of Bylaws
+Article VIII - Legislative Studies and Proposals
 
- Art X Sec 1. Young Lawyers Division 
+Art VIII Sec 1. Studies
 
- Art X Sec 2. Law Student Division 
+Art VIII Sec 2. Legislative or Rule-Making Recommendations by Association
 
- Article XI - Amendment of Bylaws
+Art VIII Sec 3. Legislative Program - Subject Matter
 
- Art XI Sec 1. Amendment of Bylaws 
+Art VIII Sec 4. Endorsement in Principle - Subject Matter
 
- Article XII - Immediate Effect
+Art VIII Sec 5. Legislative Proposals and Endorsements in Principle: Jurisdiction to Make
 
- Art XII. Revocation 
+Art VIII Sec 6. Publicity Concerning Proposals
 
- Article XIII - Immediate Effect
+Art VIII Sec 7. Duration of Legislative Programs or Endorsements
 
- Art XIII. Immediate Effect 
+Art VIII Sec 8. Recommendations Concerning Policy
 
- Appendix 3 - Code of Professional Responsibility
+Art VIII Sec 9. Recommendations Concerning Pending Legislative Proposals
 
- App 3. Superseded by the Rules of Professional Conduct, Title 5, Ch. 1, App. 3-A. 
+Article IX - Sections
 
- Appendix 3-A - Oklahoma Rules of Professional Conduct
+Art IX Sec 1. Establishment and Discontinuance
 
- Preamble. A Lawyer's Responsibilities 
+Art IX Sec 2. Bylaws
 
- Scope. Scope 
+Article X - Amendment of Bylaws
 
- Rule 1.0. Terminology 
+Art X Sec 1. Young Lawyers Division
 
- Client-Lawyer Relationship
+Art X Sec 2. Law Student Division
 
- Rule 1.1. Competence 
+Article XI - Amendment of Bylaws
 
- Rule 1.2. Scope of Representation and Allocation of Authority Between Client and Lawyer 
+Art XI Sec 1. Amendment of Bylaws
 
- Rule 1.3. Diligence 
+Article XII - Immediate Effect
 
- Rule 1.4. Communication 
+Art XII. Revocation
 
- Rule 1.5. Fees 
+Article XIII - Immediate Effect
 
- Rule 1.6. Confidentiality of Information 
+Art XIII. Immediate Effect
 
- Rule 1.7. Conflict of Interest: Current Clients 
+Appendix 3 - Code of Professional Responsibility
 
- Rule 1.8. Conflict of Interest: Current Clients: Specific Rules 
+App 3. Superseded by the Rules of Professional Conduct, Title 5, Ch. 1, App. 3-A.
 
- Rule 1.9. Conflict of Interest: Duties To Former Clients 
+Appendix 3-A - Oklahoma Rules of Professional Conduct
 
- Rule 1.10. Imputation of Conflicts of Interest: General Rule 
+Preamble. A Lawyer's Responsibilities
 
- Rule 1.11. Special Conflicts of Interest for Former and Current Government Officers and Employees 
+Scope. Scope
 
- Rule 1.12. Former Judge, Arbitrator, Mediator Or Other Third-Party Neutral 
+Rule 1.0. Terminology
 
- Rule 1.13. Organization as Client 
+Client-Lawyer Relationship
 
- Rule 1.14. Client With Diminished Capacity 
+Rule 1.1. Competence
 
- Rule 1.15. Safekeeping Property 
+Rule 1.2. Scope of Representation and Allocation of Authority Between Client and Lawyer
 
- Rule 1.16. Declining or Terminating Representation 
+Rule 1.3. Diligence
 
- Rule 1.17. Sale of Law Practice 
+Rule 1.4. Communication
 
- Rule 1.18. Duties To Prospective Client 
+Rule 1.5. Fees
 
- Counselor
+Rule 1.6. Confidentiality of Information
 
- Rule 2.1. Advisor 
+Rule 1.7. Conflict of Interest: Current Clients
 
- Rule 2.3. Evaluation for Use by Third Persons 
+Rule 1.8. Conflict of Interest: Current Clients: Specific Rules
 
- Rule 2.4. Lawyer Serving As Third-Party Neutral 
+Rule 1.9. Conflict of Interest: Duties To Former Clients
 
- Advocate
+Rule 1.10. Imputation of Conflicts of Interest: General Rule
 
- Rule 3.1. Meritorious Claims and Contentions 
+Rule 1.11. Special Conflicts of Interest for Former and Current Government Officers and Employees
 
- Rule 3.2. Expediting Litigation 
+Rule 1.12. Former Judge, Arbitrator, Mediator Or Other Third-Party Neutral
 
- Rule 3.3. Candor Toward the Tribunal 
+Rule 1.13. Organization as Client
 
- Rule 3.4. Fairness to Opposing Party and Counsel 
+Rule 1.14. Client With Diminished Capacity
 
- Rule 3.5. Impartiality and Decorum of the Tribunal 
+Rule 1.15. Safekeeping Property
 
- Rule 3.6. Trial Publicity 
+Rule 1.16. Declining or Terminating Representation
 
- Rule 3.7. Lawyer as Witness 
+Rule 1.17. Sale of Law Practice
 
- Rule 3.8. Special Responsibilities of a Prosecutor 
+Rule 1.18. Duties To Prospective Client
 
- Rule 3.9. Advocate in Nonadjudicative Proceedings 
+Counselor
 
- Transactions with Persons Other than Clients
+Rule 2.1. Advisor
 
- Rule 4.1. Truthfulness in Statements to Others 
+Rule 2.3. Evaluation for Use by Third Persons
 
- Rule 4.2. Communication with Person Represented by Counsel 
+Rule 2.4. Lawyer Serving As Third-Party Neutral
 
- Rule 4.3. Dealing With Unrepresented Person 
+Advocate
 
- Rule 4.4. Respect for Rights of Third Persons 
+Rule 3.1. Meritorious Claims and Contentions
 
- Law Firms and Associations
+Rule 3.2. Expediting Litigation
 
- Rule 5.1. Responsibilities of Partners, Managers, and Supervisory Lawyers 
+Rule 3.3. Candor Toward the Tribunal
 
- Rule 5.2. Responsibilities of a Subordinate Lawyer 
+Rule 3.4. Fairness to Opposing Party and Counsel
 
- Rule 5.3. Responsibilities Regarding Nonlawyer Assistants 
+Rule 3.5. Impartiality and Decorum of the Tribunal
 
- Rule 5.4. Professional Independence of a Lawyer 
+Rule 3.6. Trial Publicity
 
- Rule 5.5. Unauthorized Practice of Law; Multijurisdictional Practice of Law 
+Rule 3.7. Lawyer as Witness
 
- Rule 5.6. Restrictions on Right to Practice 
+Rule 3.8. Special Responsibilities of a Prosecutor
 
- Rule 5.7. Responsibilities Regarding Law-Related Services 
+Rule 3.9. Advocate in Nonadjudicative Proceedings
 
- Public Service
+Transactions with Persons Other than Clients
 
- Rule 6.1. Pro Bono Public Service 
+Rule 4.1. Truthfulness in Statements to Others
 
- Rule 6.2. Accepting Appointments 
+Rule 4.2. Communication with Person Represented by Counsel
 
- Rule 6.3. Membership in Legal Services Organization 
+Rule 4.3. Dealing With Unrepresented Person
 
- Rule 6.4. Law Reform Activities Affecting Client Interests 
+Rule 4.4. Respect for Rights of Third Persons
 
- Rule 6.5. Nonprofit and Court-Annexed Limited Legal Services Programs 
+Law Firms and Associations
 
- Information About Legal Services
+Rule 5.1. Responsibilities of Partners, Managers, and Supervisory Lawyers
 
- Rule 7.1. Communications Concerning a Lawyer's Services 
+Rule 5.2. Responsibilities of a Subordinate Lawyer
 
- Rule 7.2. Advertising 
+Rule 5.3. Responsibilities Regarding Nonlawyer Assistants
 
- Rule 7.3. Solicitation of Clients 
+Rule 5.4. Professional Independence of a Lawyer
 
- Rule 7.4. Communication of Fields of Practice and Certification 
+Rule 5.5. Unauthorized Practice of Law; Multijurisdictional Practice of Law
 
- Rule 7.5. Firm Names and Letterheads 
+Rule 5.6. Restrictions on Right to Practice
 
- Maintaining the Integrity of the Profession
+Rule 5.7. Responsibilities Regarding Law-Related Services
 
- Rule 8.1. Bar Admission and Disciplinary Matters 
+Public Service
 
- Rule 8.2. Judicial and Legal Officials 
+Rule 6.1. Pro Bono Public Service
 
- Rule 8.3. Reporting Professional Misconduct 
+Rule 6.2. Accepting Appointments
 
- Rule 8.4. Misconduct 
+Rule 6.3. Membership in Legal Services Organization
 
- Rule 8.5. Disciplinary Authority; Choice of Law 
+Rule 6.4. Law Reform Activities Affecting Client Interests
 
- Appendix 4 - Code of Judicial Conduct
+Rule 6.5. Nonprofit and Court-Annexed Limited Legal Services Programs
 
- Preamble. 
+Information About Legal Services
 
- Scope. 
+Rule 7.1. Communications Concerning a Lawyer's Services
 
- Terminology. 
+Rule 7.2. Advertising
 
- Application. 
+Rule 7.3. Solicitation of Clients
 
- Canon 1. 
+Rule 7.4. Communication of Fields of Practice and Certification
 
- Rule 1.1. Compliance with the Law 
+Rule 7.5. Firm Names and Letterheads
 
- Rule 1.2. Promoting Confidence in the Judiciary 
+Maintaining the Integrity of the Profession
 
- Rule 1.3. Avoiding Abuse of the Prestige of Judicial Office 
+Rule 8.1. Bar Admission and Disciplinary Matters
 
- Canon 2. 
+Rule 8.2. Judicial and Legal Officials
 
- Rule 2.1. Giving Precedence to the Duties of Judicial Office 
+Rule 8.3. Reporting Professional Misconduct
 
- Rule 2.2. Impartiality and Fairness 
+Rule 8.4. Misconduct
 
- Rule 2.3. Bias, Prejudice, and Harassment 
+Rule 8.5. Disciplinary Authority; Choice of Law
 
- Rule 2.4. External Influences on Judicial Conduct 
+Appendix 4 - Code of Judicial Conduct
 
- Rule 2.5. Competence, Diligence, and Cooperation 
+Preamble.
 
- Rule 2.6. Ensuring the Right to Be Heard 
+Scope.
 
- Rule 2.7. Responsibility to Decide 
+Terminology.
 
- Rule 2.8. Decorum, Demeanor, and Communication with Jurors 
+Application.
 
- Rule 2.9. Ex Parte Communications 
+Canon 1.
 
- Rule 2.10. Judicial Statements on Pending and Impending Cases 
+Rule 1.1. Compliance with the Law
 
- Rule 2.11. Disqualification 
+Rule 1.2. Promoting Confidence in the Judiciary
 
- Rule 2.12. Supervisory Duties 
+Rule 1.3. Avoiding Abuse of the Prestige of Judicial Office
 
- Rule 2.13. Administrative Appointments 
+Canon 2.
 
- Rule 2.14. Disability and Impairment 
+Rule 2.1. Giving Precedence to the Duties of Judicial Office
 
- Rule 2.15. Responding to Judicial and Lawyer Misconduct 
+Rule 2.2. Impartiality and Fairness
 
- Rule 2.16. Cooperation with Disciplinary Authorities 
+Rule 2.3. Bias, Prejudice, and Harassment
 
- Canon 3. 
+Rule 2.4. External Influences on Judicial Conduct
 
- Rule 3.1. Extrajudicial Activities in General 
+Rule 2.5. Competence, Diligence, and Cooperation
 
- Rule 3.2. Appearances before Governmental Bodies and Consultation with Government Officials 
+Rule 2.6. Ensuring the Right to Be Heard
 
- Rule 3.3. Testifying as a Character Witness 
+Rule 2.7. Responsibility to Decide
 
- Rule 3.4. Appointments to Governmental Positions 
+Rule 2.8. Decorum, Demeanor, and Communication with Jurors
 
- Rule 3.5. Use of Nonpublic Information 
+Rule 2.9. Ex Parte Communications
 
- Rule 3.6. Affiliation with Discriminatory Organizations 
+Rule 2.10. Judicial Statements on Pending and Impending Cases
 
- Rule 3.7. Participation in Educational, Religious, Charitable, Fraternal, or Civic Organizations and Activities 
+Rule 2.11. Disqualification
 
- Rule 3.8. Appointments to Fiduciary Positions 
+Rule 2.12. Supervisory Duties
 
- Rule 3.9. Service as Arbitrator or Mediator 
+Rule 2.13. Administrative Appointments
 
- Rule 3.10. Practice of Law 
+Rule 2.14. Disability and Impairment
 
- Rule 3.11. Financial, Business, or Remunerative Activities 
+Rule 2.15. Responding to Judicial and Lawyer Misconduct
 
- Rule 3.12. Compensation for Extrajudicial Activities 
+Rule 2.16. Cooperation with Disciplinary Authorities
 
- Rule 3.13. Accepting Gifts, Loans, Bequests, Benefits, or Other Things of Value. 
+Canon 3.
 
- Rule 3.14. Reimbursement of Expenses and Waivers of Fees or Charges 
+Rule 3.1. Extrajudicial Activities in General
 
- Rule 3.15. Reporting Requirements 
+Rule 3.2. Appearances before Governmental Bodies and Consultation with Government Officials
 
- Canon 4. 
+Rule 3.3. Testifying as a Character Witness
 
- Rule 4.1. Political and Campaign Activities of Judges and Judicial Candidates in General 
+Rule 3.4. Appointments to Governmental Positions
 
- Rule 4.2. Political and Campaign Activities of Judicial Candidates in Public Elections 
+Rule 3.5. Use of Nonpublic Information
 
- Rule 4.3. Activities of Candidates for Appointive Judicial Office 
+Rule 3.6. Affiliation with Discriminatory Organizations
 
- Rule 4.4. Campaign Committees 
+Rule 3.7. Participation in Educational, Religious, Charitable, Fraternal, or Civic Organizations and Activities
 
- Rule 4.5. Activities of Judges Who Become Candidates for Nonjudicial Office 
+Rule 3.8. Appointments to Fiduciary Positions
 
- Rule 4.6. Statement of Candidate for Judicial Office 
+Rule 3.9. Service as Arbitrator or Mediator
 
- Appendix 4A - Rules Governing Complaints On Judicial Misconduct
+Rule 3.10. Practice of Law
 
- Preface. Preface: Article VII, Constitution of Oklahoma 
+Rule 3.11. Financial, Business, or Remunerative Activities
 
- Rule 1. Nature of Complaint 
+Rule 3.12. Compensation for Extrajudicial Activities
 
- Rule 2. Timeliness 
+Rule 3.13. Accepting Gifts, Loans, Bequests, Benefits, or Other Things of Value.
 
- Rule 3. Council On Judicial Complaints 
+Rule 3.14. Reimbursement of Expenses and Waivers of Fees or Charges
 
- Rule 4. Review By Chief Justice 
+Rule 3.15. Reporting Requirements
 
- Rule 5. Confidentiality 
+Canon 4.
 
- Rule 6. Amendments 
+Rule 4.1. Political and Campaign Activities of Judges and Judicial Candidates in General
 
- Appendix 4B - Rules for Mandatory Continuing Judicial Legal Education
+Rule 4.2. Political and Campaign Activities of Judicial Candidates in Public Elections
 
- Rule 1. Judges Who Must Obtain Annual Judicial Continuing Legal Education. 
+Rule 4.3. Activities of Candidates for Appointive Judicial Office
 
- Rule 2. Approved Courses for Mandatory Judicial Continuing Legal Education 
+Rule 4.4. Campaign Committees
 
- Rule 3. Judicial Continuing Education Programs at Meetings of the Oklahoma Judicial Conference. 
+Rule 4.5. Activities of Judges Who Become Candidates for Nonjudicial Office
 
- Rule 4. Filing Reports of Mandatory Judicial Continuing Legal Education 
+Rule 4.6. Statement of Candidate for Judicial Office
 
- Rule 5. Carryover of Credit-Hours to Subsequent Years 
+Appendix 4A - Rules Governing Complaints On Judicial Misconduct
 
- Rule 6. Report of Non-Compliance 
+Preface. Preface: Article VII, Constitution of Oklahoma
 
- Appendix 4C - Rules for the Committee on Judicial Elections
+Rule 1. Nature of Complaint
 
- Purpose of Rules. 
+Rule 2. Timeliness
 
- Rule 1. Organization 
+Rule 3. Council On Judicial Complaints
 
- Rule 2. Complaints 
+Rule 4. Review By Chief Justice
 
- Rule 3. Hearing Procedures 
+Rule 5. Confidentiality
 
- Rule 4. Appellate Procedures 
+Rule 6. Amendments
 
- Rule 5. Actions and Sanctions 
+Appendix 4B - Rules for Mandatory Continuing Judicial Legal Education
 
- Rule 6. Referral For Discipline 
+Rule 1. Judges Who Must Obtain Annual Judicial Continuing Legal Education.
 
- Definitions. 
+Rule 2. Approved Courses for Mandatory Judicial Continuing Legal Education
 
- Appendix 4D - Rules of the Judicial Ethics Advisory Panel
+Rule 3. Judicial Continuing Education Programs at Meetings of the Oklahoma Judicial Conference.
 
- Preamble. 
+Rule 4. Filing Reports of Mandatory Judicial Continuing Legal Education
 
- Rule 1. 
+Rule 5. Carryover of Credit-Hours to Subsequent Years
 
- Rule 2. 
+Rule 6. Report of Non-Compliance
 
- Rule 3. 
+Appendix 4C - Rules for the Committee on Judicial Elections
 
- Rule 4. 
+Purpose of Rules.
 
- Rule 5. 
+Rule 1. Organization
 
- Rule 6. 
+Rule 2. Complaints
 
- Rule 7. 
+Rule 3. Hearing Procedures
 
- Rule 8. 
+Rule 4. Appellate Procedures
 
- Rule 9. 
+Rule 5. Actions and Sanctions
 
- Appendix 5 - Rules Governing Admission to the Practice of Law in the State of Oklahoma
+Rule 6. Referral For Discipline
 
- Preamble. 
+Definitions.
 
- Rule 1. Qualifications to Practice Law in Oklahoma 
+Appendix 4D - Rules of the Judicial Ethics Advisory Panel
 
- Rule 2. Admission Upon Motion Without Examination 
+Preamble.
 
- Rule 3. Examination Compulsory 
+Rule 1.
 
- Rule 4. Admission by Examination or UBE Score Transfer 
+Rule 2.
 
- Rule 5. Examination 
+Rule 3.
 
- Rule 6. Additional Examinations 
+Rule 4.
 
- Rule 7. Fees 
+Rule 5.
 
- Rule 8. Bar Exam Results 
+Rule 6.
 
- Rule 9. Temporary Permits 
+Rule 7.
 
- Rule 10. Expiration of Temporary Permit 
+Rule 8.
 
- Rule 11. Hearing as to Character And/Or Fitness 
+Rule 9.
 
- Rule 12. Independent Investigation 
+Appendix 5 - Rules Governing Admission to the Practice of Law in the State of Oklahoma
 
- Rule 13. Denial Under Rule Eleven for Failure to Demonstrate Good Moral Character, Due Respect for the Law, and Fitness to Practice Law - Minimum Time Requirements for Reapplication 
+Preamble.
 
- Rule 14. Confidentiality of Records, Investigations and Results 
+Rule 1. Qualifications to Practice Law in Oklahoma
 
- Rule 15. Civil Liability and Damages 
+Rule 2. Admission Upon Motion Without Examination
 
- Rule 16. Revocation 
+Rule 3. Examination Compulsory
 
- Appendix 6 - Rules of the Supreme Court on Licensed Legal Internship
+Rule 4. Admission by Examination or UBE Score Transfer
 
- Rule 1. Purpose of Licensed Legal Internship Rules
+Rule 5. Examination
 
- Sec 1.1. Purpose 
+Rule 6. Additional Examinations
 
- Rule 2. Eligibility for a Limited License
+Rule 7. Fees
 
- Sec 2.1. Law Student Applicant 
+Rule 8. Bar Exam Results
 
- Sec 2.1A. Academic Legal Intern License 
+Rule 9. Temporary Permits
 
- Sec 2.2. Law Graduate Applicant 
+Rule 10. Expiration of Temporary Permit
 
- Rule 3. Supervising Attorneys
+Rule 11. Hearing as to Character And/Or Fitness
 
- Sec 3.1. Eligibility 
+Rule 12. Independent Investigation
 
- Sec 3.2. Approved List 
+Rule 13. Denial Under Rule Eleven for Failure to Demonstrate Good Moral Character, Due Respect for the Law, and Fitness to Practice Law - Minimum Time Requirements for Reapplication
 
- Sec 3.3. Number of Supervising Attorneys 
+Rule 14. Confidentiality of Records, Investigations and Results
 
- Sec 3.4. Substitute Supervising Attorney 
+Rule 15. Civil Liability and Damages
 
- Sec 3.5. Number of Licensed Legal Interns 
+Rule 16. Revocation
 
- Sec 3.6. Change of Supervising Attorney 
+Appendix 6 - Rules of the Supreme Court on Licensed Legal Internship
 
- Sec 3.7. Responsibilities of Supervising Attorney 
+Rule 1. Purpose of Licensed Legal Internship Rules
 
- Sec 3.8. Termination of Supervising Attorney Approval 
+Sec 1.1. Purpose
 
- Rule 4. Law School Internship Programs
+Rule 2. Eligibility for a Limited License
 
- Sec 4.1. Approved Law School Internship Programs 
+Sec 2.1. Law Student Applicant
 
- Sec 4.2. Minimum Criteria for Law School Programs 
+Sec 2.1A. Academic Legal Intern License
 
- Sec 4.3. Approval of Law School Programs 
+Sec 2.2. Law Graduate Applicant
 
- Rule 5. Procedure to Obtain Limited License
+Rule 3. Supervising Attorneys
 
- Sec 5.1. Documentation 
+Sec 3.1. Eligibility
 
- Sec 5.2. Licensed Legal Internship Examination 
+Sec 3.2. Approved List
 
- Sec 5.3. Duties of the Oklahoma Bar Association 
+Sec 3.3. Number of Supervising Attorneys
 
- Sec 5.4. Decision by the Oklahoma Supreme Court 
+Sec 3.4. Substitute Supervising Attorney
 
- Sec 5.5. Licensed Legal Intern Oath of Office 
+Sec 3.5. Number of Licensed Legal Interns
 
- Sec 5.6. Licensed Legal Intern Title 
+Sec 3.6. Change of Supervising Attorney
 
- Rule 6. Term of Limited License
+Sec 3.7. Responsibilities of Supervising Attorney
 
- Sec 6.1. Termination of the Limited License 
+Sec 3.8. Termination of Supervising Attorney Approval
 
- Sec 6.2. Inactive Status of the Limited License 
+Rule 4. Law School Internship Programs
 
- Sec 6.3. Revocation of the Limited License 
+Sec 4.1. Approved Law School Internship Programs
 
- Sec 6.4. Disclosure Requirement 
+Sec 4.2. Minimum Criteria for Law School Programs
 
- Rule 7. Practice Under the Limited License
+Sec 4.3. Approval of Law School Programs
 
- Sec 7.1. Applicable to Courts of Record, Municipal Courts and Administrative Agencies 
+Rule 5. Procedure to Obtain Limited License
 
- Sec 7.2. In-Court Practice Requirement 
+Sec 5.1. Documentation
 
- Sec 7.3. Supervision of Approved Supervising Attorney 
+Sec 5.2. Licensed Legal Internship Examination
 
- Sec 7.4. Licensed Legal Intern Signature and Identification of Status 
+Sec 5.3. Duties of the Oklahoma Bar Association
 
- Sec 7.5. Criminal Representation Limitations 
+Sec 5.4. Decision by the Oklahoma Supreme Court
 
- Sec 7.6. Civil Representation Limitations 
+Sec 5.5. Licensed Legal Intern Oath of Office
 
- Sec 7.7. Juvenile Delinquent and Deprived Proceeding Representation 
+Sec 5.6. Licensed Legal Intern Title
 
- Sec 7.8. Appellate Representation Limitations 
+Rule 6. Term of Limited License
 
- Sec 7.9. Representation In Administrative Hearings 
+Sec 6.1. Termination of the Limited License
 
- Rule 8. Permission of Client
+Sec 6.2. Inactive Status of the Limited License
 
- Sec 8.1. Permission of Client 
+Sec 6.3. Revocation of the Limited License
 
- Rule 9. Compensation of the Licensed Legal Intern
+Sec 6.4. Disclosure Requirement
 
- Sec 9.1. Compensation of the Licensed Legal Intern 
+Rule 7. Practice Under the Limited License
 
- Rule 10. Fees
+Sec 7.1. Applicable to Courts of Record, Municipal Courts and Administrative Agencies
 
- Sec 10.1. Fees 
+Sec 7.2. In-Court Practice Requirement
 
- Rule 11. Legal Internship Committee
+Sec 7.3. Supervision of Approved Supervising Attorney
 
- Sec 11.1. Creation 
+Sec 7.4. Licensed Legal Intern Signature and Identification of Status
 
- Sec 11.2. Responsibilities of the Licensed Legal Internship Committee 
+Sec 7.5. Criminal Representation Limitations
 
- Exhibit A. Exhibit A 
+Sec 7.6. Civil Representation Limitations
 
- Appendix 7 - Rules of the Court on the Judiciary
+Sec 7.7. Juvenile Delinquent and Deprived Proceeding Representation
 
- Trial Division
+Sec 7.8. Appellate Representation Limitations
 
- Rule 1. State Capitol Building - Records - Place and Time of Holding Court 
+Sec 7.9. Representation In Administrative Hearings
 
- Rule 2. Appointment of Officers - Payment of Expenses 
+Rule 8. Permission of Client
 
- Rule 3. Presiding and Vice-Presiding Judge 
+Sec 8.1. Permission of Client
 
- Rule 4. Quorum - Dismissal - Failure to Appear 
+Rule 9. Compensation of the Licensed Legal Intern
 
- Rule 5. Disqualification of judge 
+Sec 9.1. Compensation of the Licensed Legal Intern
 
- Rule 6. Judge Pro Tem 
+Rule 10. Fees
 
- Rule 7. Prosecutor and Assistants - Qualifications 
+Sec 10.1. Fees
 
- Rule 8. Limitation on Filing Petition for Removal from Office or for Compulsory Retirement 
+Rule 11. Legal Internship Committee
 
- Rule 9. Petition - Form and Style 
+Sec 11.1. Creation
 
- Rule 10. Temporary Suspension 
+Sec 11.2. Responsibilities of the Licensed Legal Internship Committee
 
- Rule 11. Notice of Hearing 
+Exhibit A. Exhibit A
 
- Rule 12. Service of Notice and Copy of Petition 
+Appendix 7 - Rules of the Court on the Judiciary
 
- Rule 13. Process - Issuance and Service 
+Trial Division
 
- Rule 14. Filing of Pleadings Without Cost - Copies - Mailing Copies of Pleadings or Orders to Members of Court 
+Rule 1. State Capitol Building - Records - Place and Time of Holding Court
 
- Rule 15. Motions and Demurrers - Joinder of Motions - Omission of Defense or Objection as Waiver 
+Rule 2. Appointment of Officers - Payment of Expenses
 
- Rule 16. Service of Orders, Pleadings Subsequent to Original Petition and Written Motions 
+Rule 3. Presiding and Vice-Presiding Judge
 
- Rule 17. Notice of Motions, Demurrers, etc., to Presiding Judge - Docketing - Time for Hearing 
+Rule 4. Quorum - Dismissal - Failure to Appear
 
- Rule 18. Failure to Present Motion or Demurrer - Exceptions and Objections 
+Rule 5. Disqualification of judge
 
- Rule 19. Answer - Notice to Presiding Judge - Docketing - Pre-Trial Conferences 
+Rule 6. Judge Pro Tem
 
- Rule 20. Date of Trial on Merits 
+Rule 7. Prosecutor and Assistants - Qualifications
 
- Rule 21. Law Governing Procedural Matters 
+Rule 8. Limitation on Filing Petition for Removal from Office or for Compulsory Retirement
 
- Rule 22. Depositions and Discovery; Rules Governing 
+Rule 9. Petition - Form and Style
 
- Rule 23. Refusal to Comply With Rules or Orders 
+Rule 10. Temporary Suspension
 
- Appellate Division - Rules of Procedure
+Rule 11. Notice of Hearing
 
- ROP 1. Organization of the Appellate Division 
+Rule 12. Service of Notice and Copy of Petition
 
- ROP 2. Appeals from Judgement of the Trial Division 
+Rule 13. Process - Issuance and Service
 
- ROP 3. Other Members Before the Appellate Division 
+Rule 14. Filing of Pleadings Without Cost - Copies - Mailing Copies of Pleadings or Orders to Members of Court
 
- ROP 4. Oral Argument Before Court 
+Rule 15. Motions and Demurrers - Joinder of Motions - Omission of Defense or Objection as Waiver
 
- ROP 5. The Record on Appeal 
+Rule 16. Service of Orders, Pleadings Subsequent to Original Petition and Written Motions
 
- ROP 6. Matters Not Covered By Rules 
+Rule 17. Notice of Motions, Demurrers, etc., to Presiding Judge - Docketing - Time for Hearing
 
- ROP 7. Modification of Rules 
+Rule 18. Failure to Present Motion or Demurrer - Exceptions and Objections
 
- ROP 8. Guidelines for Award of Fees for Services of Prosecutors 
+Rule 19. Answer - Notice to Presiding Judge - Docketing - Pre-Trial Conferences
 
- Appendix 8 - Rules for Judicial Legal Internship
+Rule 20. Date of Trial on Merits
 
- Sec 1. Requirements for a Judicial Legal Internship License for the State of Oklahoma 
+Rule 21. Law Governing Procedural Matters
 
- Sec 2. Manner of Appointment and Tenure of Panels 
+Rule 22. Depositions and Discovery; Rules Governing
 
- Sec 3. Procedure for Securing a Judicial Legal Internship License 
+Rule 23. Refusal to Comply With Rules or Orders
 
- Sec 4. Term of Limited License 
+Appellate Division - Rules of Procedure
 
- Sec 5. Time of Application 
+ROP 1. Organization of the Appellate Division
 
- Sec 6. Term of License 
+ROP 2. Appeals from Judgement of the Trial Division
 
- Sec 7. Limitation of Practice Under the Limited License 
+ROP 3. Other Members Before the Appellate Division
 
- Sec 8. Approved Judicial Legal Internship Programs 
+ROP 4. Oral Argument Before Court
 
- Sec 9. Compliance with Rules 
+ROP 5. The Record on Appeal
 
- Sec 10. Promulgation of Regulations
+ROP 6. Matters Not Covered By Rules
+
+ROP 7. Modification of Rules
+
+ROP 8. Guidelines for Award of Fees for Services of Prosecutors
+
+Appendix 8 - Rules for Judicial Legal Internship
+
+Sec 1. Requirements for a Judicial Legal Internship License for the State of Oklahoma
+
+Sec 2. Manner of Appointment and Tenure of Panels
+
+Sec 3. Procedure for Securing a Judicial Legal Internship License
+
+Sec 4. Term of Limited License
+
+Sec 5. Time of Application
+
+Sec 6. Term of License
+
+Sec 7. Limitation of Practice Under the Limited License
+
+Sec 8. Approved Judicial Legal Internship Programs
+
+Sec 9. Compliance with Rules
+
+Sec 10. Promulgation of Regulations

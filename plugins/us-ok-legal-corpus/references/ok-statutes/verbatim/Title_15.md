@@ -8,1403 +8,1418 @@
 
 OCIS Document Index 
 
- Index of Available Documents 
 
- Up One Level 
- Show 
- 1 2 3 4 5 Levels 
- Title 15. Contracts (STOKST15) Search 
 
- Chapter 1 - Nature of Contracts
 
- Definition and Essential Elements
 
- 1. Definition - Contract 
 
- 2. Essential Elements of Contract 
 
- Persons Capable of Contracting, Disabilities, Capacity, and Disaffirmance
 
- 11. Persons Authorized to Contract 
 
- 12. Capacity of Minors and Persons of Unsound Mind 
 
- 13. Definitions of Minors - Calculation of Period of Minority 
 
- 14. Other Persons 
 
- 15. Unborn Child to be Deemed Existing Person 
 
- 16. Persons of Unsound Mind 
 
- 17. Disability of Minor - What Contracts Prohibited 
+Index of Available Documents
 
- 18. Contracts Minors May Make 
+| |
+Up One Level
+| Show 
+1 2 3 4 5 Levels | |
+Title 15. Contracts (STOKST15)
+Search
 
- 19. Disaffirmance of Minor's Contract 
+Chapter 1 - Nature of Contracts
 
- 20. Contracts Involving Minors that Can't be Disaffirmed 
+Definition and Essential Elements
 
- 21. Minor Cannot Disaffirm Certain Valid Obligations 
+1. Definition - Contract
 
- 22. Persons without Understanding - Power to Make Contracts - Liability 
+2. Essential Elements of Contract
 
- 23. Rescission of Contract by Person of Unsound Mind 
+Persons Capable of Contracting, Disabilities, Capacity, and Disaffirmance
 
- 24. Capacity to Make Conveyance, Contract, or Will 
+11. Persons Authorized to Contract
 
- 25. Civil Liability of Minors and Persons of Unsound Mind 
+12. Capacity of Minors and Persons of Unsound Mind
 
- 26. Liability of Minor or Person of Unsound Mind for Exemplary Damages 
+13. Definitions of Minors - Calculation of Period of Minority
 
- 27. Guardian Appointed to Enforce Rights of Minor by Civil Action 
+14. Other Persons
 
- 28. Identity of Contractual Parties 
+15. Unborn Child to be Deemed Existing Person
 
- 29. Enforcement of Contract by Third Party Beneficiary 
+16. Persons of Unsound Mind
 
- 30. Repealed 
+17. Disability of Minor - What Contracts Prohibited
 
- Uniform Minor Student Capacity to Borrow Act
+18. Contracts Minors May Make
 
- 31. Short Title 
+19. Disaffirmance of Minor's Contract
 
- 32. Definitions 
+20. Contracts Involving Minors that Can't be Disaffirmed
 
- 33. Enforceable Obligations 
+21. Minor Cannot Disaffirm Certain Valid Obligations
 
- 34. Construction 
+22. Persons without Understanding - Power to Make Contracts - Liability
 
- Consent, Duress, Fraud, Mistake, Acceptance, Revocation, Ratification
+23. Rescission of Contract by Person of Unsound Mind
 
- 51. Consent of Parties to a Contract 
+24. Capacity to Make Conveyance, Contract, or Will
 
- 52. When Consent is Not Free, May be Rescinded 
+25. Civil Liability of Minors and Persons of Unsound Mind
 
- 53. When Consent is Not Real or Free 
+26. Liability of Minor or Person of Unsound Mind for Exemplary Damages
 
- 54. Consent Deemed Obtained through Invalidating Causes 
+27. Guardian Appointed to Enforce Rights of Minor by Civil Action
 
- 55. Duress 
+28. Identity of Contractual Parties
 
- 56. Menace 
+29. Enforcement of Contract by Third Party Beneficiary
 
- 57. Fraud 
+30. Repealed
 
- 58. Definition of Actual Fraud 
+Uniform Minor Student Capacity to Borrow Act
 
- 59. Definition of Constructive Fraud 
+31. Short Title
 
- 60. Actual Fraud 
+32. Definitions
 
- 61. Undue Influence 
+33. Enforceable Obligations
 
- 62. Mistake of Fact or Law 
+34. Construction
 
- 63. Mistake of Fact 
+Consent, Duress, Fraud, Mistake, Acceptance, Revocation, Ratification
 
- 64. Mistake of Law 
+51. Consent of Parties to a Contract
 
- 65. Mistake of Foreign Laws 
+52. When Consent is Not Free, May be Rescinded
 
- 66. Mutual Consent 
+53. When Consent is Not Real or Free
 
- 67. Communication of Consent 
+54. Consent Deemed Obtained through Invalidating Causes
 
- 68. Acceptance - Mode of 
+55. Duress
 
- 69. Fully Communicated Consent - Acceptance 
+56. Menace
 
- 70. Acceptance of Proposal 
+57. Fraud
 
- 71. Absolute and Unqualified Acceptance Required 
+58. Definition of Actual Fraud
 
- 72. Proposal May be Revoked, When 
+59. Definition of Constructive Fraud
 
- 73. How Proposal is Revoked 
+60. Actual Fraud
 
- 74. Subsequent Consent 
+61. Undue Influence
 
- 75. Voluntary Acceptance 
+62. Mistake of Fact or Law
 
- Object - Legality - Consideration
+63. Mistake of Fact
 
- 101. Object 
+64. Mistake of Law
 
- 102. Object Must be Lawful, Possible, and Ascertainable 
+65. Mistake of Foreign Laws
 
- 103. Possibility 
+66. Mutual Consent
 
- 104. Object Unlawful, Impossible or Vague 
+67. Communication of Consent
 
- 105. Lawful Part Valid - Unlawful Part Void 
+68. Acceptance - Mode of
 
- 106. Good Consideration for a Promise Defined 
+69. Fully Communicated Consent - Acceptance
 
- 107. Legal or Moral Obligation 
+70. Acceptance of Proposal
 
- 108. Lawful Consideration 
+71. Absolute and Unqualified Acceptance Required
 
- 109. Illegality of Consideration 
+72. Proposal May be Revoked, When
 
- 110. Consideration 
+73. How Proposal is Revoked
 
- 111. Executory Consideration 
+74. Subsequent Consent
 
- 112. When Contract Does Not Determine Amount of Consideration 
+75. Voluntary Acceptance
 
- 113. Consideration Not Ascertained as Agreed - Entire Contract Void 
+Object - Legality - Consideration
 
- 114. Presumptive Evidence of Consideration 
+101. Object
 
- 115. Burden of Proof 
+102. Object Must be Lawful, Possible, and Ascertainable
 
- Chapter 2 - Manner of Creation of Contracts
+103. Possibility
 
- 131. Express or Implied Contract 
+104. Object Unlawful, Impossible or Vague
 
- 132. Definition: Express Contract 
+105. Lawful Part Valid - Unlawful Part Void
 
- 133. Definition: Implied Contract 
+106. Good Consideration for a Promise Defined
 
- 134. Oral Contracts 
+107. Legal or Moral Obligation
 
- 135. Contract in Writing - Fraud - Enforcement Against Fraudulent Party 
+108. Lawful Consideration
 
- 136. Statute of Frauds 
+109. Illegality of Consideration
 
- 137. Execution of Written Contract Supersedes Oral Negotiations or Stipulations 
+110. Consideration
 
- 138. Written Contract Takes Effect Upon Delivery 
+111. Executory Consideration
 
- 139. Distinction Abolished Between Sealed and Unsealed 
+112. When Contract Does Not Determine Amount of Consideration
 
- Credit Agreements
+113. Consideration Not Ascertained as Agreed - Entire Contract Void
 
- 140. Definitions 
+114. Presumptive Evidence of Consideration
 
- 140.1. Debt Cancellation Agreement 
+115. Burden of Proof
 
- Financial Protection Products
+Chapter 2 - Manner of Creation of Contracts
 
- 140.2. Definitions 
+131. Express or Implied Contract
 
- 140.3. Motor Vehicle Financial Protection Products 
+132. Definition: Express Contract
 
- 140.4. Debt Waivers - Definitions - Conditions - Cancelation - Exemptions 
+133. Definition: Implied Contract
 
- 140.5. Vehicle Value Protection Agreements - Definitions - Requirements 
+134. Oral Contracts
 
- 140.6. Enforcement by the Insurance Commissioner 
+135. Contract in Writing - Fraud - Enforcement Against Fraudulent Party
 
- 140.7. Motor Vehicle Financial Protection Products Not Construed as Insurance 
+136. Statute of Frauds
 
- 141. [RESERVED] 
+137. Execution of Written Contract Supersedes Oral Negotiations or Stipulations
 
- Service Warranty Act
+138. Written Contract Takes Effect Upon Delivery
 
- 141.1. Short Title 
+139. Distinction Abolished Between Sealed and Unsealed
 
- 141.2. Definitions 
+Credit Agreements
 
- 141.3. Enforcement of Act - Rules 
+140. Definitions
 
- 141.4. License Requirements - Fees - Exemption from Insurance Code 
+140.1. Debt Cancellation Agreement
 
- 141.5. Qualifications for License 
+Financial Protection Products
 
- 141.6. Licensee Duties - Financial Responsibility Requirements - Unearned Reserve Account - Net Asset Ratios 
+140.2. Definitions
 
- 141.7. Application for License 
+140.3. Motor Vehicle Financial Protection Products
 
- 141.8. Annual License - Expiration, Renewal, and Fees - Reinstated Requirements 
+140.4. Debt Waivers - Definitions - Conditions - Cancelation - Exemptions
 
- 141.9. License Revocation, Suspension, or Refusal to Renew 
+140.5. Vehicle Value Protection Agreements - Definitions - Requirements
 
- 141.10. Notice of License Revocation or Suspension 
+140.6. Enforcement by the Insurance Commissioner
 
- 141.11. Length of License Suspension - Licensee's Duties During Suspension - Automatic Reinstatement 
+140.7. Motor Vehicle Financial Protection Products Not Construed as Insurance
 
- 141.12. Violations of Act, Rules, or Orders - Penalties 
+141. [RESERVED]
 
- 141.13. Service Warranty Forms - Filing and Approval - Electronic Submission - Service Warranty Contract 
+Service Warranty Act
 
- 141.14. Annual Statement - Penalties for Late Filing - Quarterly and Special Reports - Administrative Fee 
+141.1. Short Title
 
- 141.14. Annual Statement - Penalties for Late Filing - Quarterly and Special Reports - Administrative Fee 
+141.2. Definitions
 
- 141.15. Periodic Examinations by the Insurance Commissioner 
+141.3. Enforcement of Act - Rules
 
- 141.16. Minimum Requirement for Permanent Office Records 
+141.4. License Requirements - Fees - Exemption from Insurance Code
 
- 141.17. Designation of Agent for Service of Process 
+141.5. Qualifications for License
 
- 141.18. Duty to Provide Names and Addresses of Sales Representatives 
+141.6. Licensee Duties - Financial Responsibility Requirements - Unearned Reserve Account - Net Asset Ratios
 
- 141.19. Administrative Penalties in Lieu of Suspension 
+141.7. Application for License
 
- 141.20. No Authority to Transact Insurance Business or Act as Fronting Company 
+141.8. Annual License - Expiration, Renewal, and Fees - Reinstated Requirements
 
- 141.21. Disclosure Statement in Service Warranty 
+141.9. License Revocation, Suspension, or Refusal to Renew
 
- 141.22. Supervision of Dissolution or Liquidation of Association Subject to Service Warranty Act 
+141.10. Notice of License Revocation or Suspension
 
- 141.23. Fraudulent Application for License or Registration - Knowing Violation of Act - Criminal Penalties 
+141.11. Length of License Suspension - Licensee's Duties During Suspension - Automatic Reinstatement
 
- 141.24. Civil Action for Damages 
+141.12. Violations of Act, Rules, or Orders - Penalties
 
- 141.25. Prohibition Against Unfair Competition and Unfair or Deceptive Acts or Practices 
+141.13. Service Warranty Forms - Filing and Approval - Electronic Submission - Service Warranty Contract
 
- 141.26. Acts and Practices Constituting Unfair Methods of Competition and Unfair or Deceptive Acts 
+141.14. Annual Statement - Penalties for Late Filing - Quarterly and Special Reports - Administrative Fee
 
- 141.27. Investigative Authority of Insurance Commissioner 
+141.14. Annual Statement - Penalties for Late Filing - Quarterly and Special Reports - Administrative Fee
 
- 141.28. Hearings - Methods of Serving Statements and Other Documents 
+141.15. Periodic Examinations by the Insurance Commissioner
 
- 141.29. Final Order of Commissioner - Penalties - Appeals - Violations of Cease and Desist Orders 
+141.16. Minimum Requirement for Permanent Office Records
 
- 141.30. Commissioner's Authority to Seek Injunctive and Restraining Orders and Remedies 
+141.17. Designation of Agent for Service of Process
 
- 141.31. Provisions of Act Cumulative to Rights Under General Civil and Common Law 
+141.18. Duty to Provide Names and Addresses of Sales Representatives
 
- 141.32. Confidentiality of Active Investigatory Records 
+141.19. Administrative Penalties in Lieu of Suspension
 
- 141.33. Claim Files of Service Warranty Associations - Contents - Examination - Inquiry From Commissioner - Civil Penalties for Violations 
+141.20. No Authority to Transact Insurance Business or Act as Fronting Company
 
- 141.34. Insurance Commissioner - Authority to Issue Ex Parte Cease and Desist Order 
+141.21. Disclosure Statement in Service Warranty
 
- 141.35. Emergency Cease and Desist Order - Service - Hearing - Procedure - Final Order - Judicial Review 
+141.22. Supervision of Dissolution or Liquidation of Association Subject to Service Warranty Act
 
- 142. [RESERVED] 
+141.23. Fraudulent Application for License or Registration - Knowing Violation of Act - Criminal Penalties
 
- 143. [RESERVED] 
+141.24. Civil Action for Damages
 
- 144. [RESERVED] 
+141.25. Prohibition Against Unfair Competition and Unfair or Deceptive Acts or Practices
 
- 145. [RESERVED] 
+141.26. Acts and Practices Constituting Unfair Methods of Competition and Unfair or Deceptive Acts
 
- 146. [RESERVED] 
+141.27. Investigative Authority of Insurance Commissioner
 
- 147. [RESERVED] 
+141.28. Hearings - Methods of Serving Statements and Other Documents
 
- 148. [RESERVED] 
+141.29. Final Order of Commissioner - Penalties - Appeals - Violations of Cease and Desist Orders
 
- 149. [RESERVED] 
+141.30. Commissioner's Authority to Seek Injunctive and Restraining Orders and Remedies
 
- 150. [RESERVED] 
+141.31. Provisions of Act Cumulative to Rights Under General Civil and Common Law
 
- Chapter 3 - Contract Interpretation
+141.32. Confidentiality of Active Investigatory Records
 
- 151. Same Rules 
+141.33. Claim Files of Service Warranty Associations - Contents - Examination - Inquiry From Commissioner - Civil Penalties for Violations
 
- 152. Interpreted to Give Effect to Mutual Intention of Parties 
+141.34. Insurance Commissioner - Authority to Issue Ex Parte Cease and Desist Order
 
- 153. Ascertaining Intention of Parties 
+141.35. Emergency Cease and Desist Order - Service - Hearing - Procedure - Final Order - Judicial Review
 
- 154. Language of Contract Governs 
+142. [RESERVED]
 
- 155. Intention of Parties Ascertained from Writing 
+143. [RESERVED]
 
- 156. Failure to Express Real - Intention Regarded - Error Disregarded 
+144. [RESERVED]
 
- 157. Whole of Contract Taken Together 
+145. [RESERVED]
 
- 158. Several Contracts Taken Together 
+146. [RESERVED]
 
- 159. Contract Interpretation 
+147. [RESERVED]
 
- 160. Words of Contract to be Taken in Ordinary Sense - Exceptions 
+148. [RESERVED]
 
- 161. Technical Words - How Interpreted 
+149. [RESERVED]
 
- 162. Law Governing Contract 
+150. [RESERVED]
 
- 163. Explanation by Reference to the Circumstances 
+Chapter 3 - Contract Interpretation
 
- 164. Terms of Contract Restricted to Intention of Parties 
+151. Same Rules
 
- 165. Ambiguous or Uncertain Terms of Promise 
+152. Interpreted to Give Effect to Mutual Intention of Parties
 
- 166. Subordinate Clauses 
+153. Ascertaining Intention of Parties
 
- 167. Written Parts Control Printed Parts - Original Parts Control Copied Parts 
+154. Language of Contract Governs
 
- 168. Repugnant Clauses 
+155. Intention of Parties Ascertained from Writing
 
- 169. Wholly Inconsistent Words Rejected 
+156. Failure to Express Real - Intention Regarded - Error Disregarded
 
- 170. Construction Against Party Causing Uncertainty 
+157. Whole of Contract Taken Together
 
- 171. Reasonable Stipulations 
+158. Several Contracts Taken Together
 
- 172. Necessary or Incidental Things to be Implied 
+159. Contract Interpretation
 
- 173. If No Time Specified for Performance, Reasonable Time Allowed 
+160. Words of Contract to be Taken in Ordinary Sense - Exceptions
 
- 174. Time Never of the Essence Unless so Provided by Contract 
+161. Technical Words - How Interpreted
 
- 175. Joint and Several Promise 
+162. Law Governing Contract
 
- 176. Promise Singular, but Executed by Several Persons 
+163. Explanation by Reference to the Circumstances
 
- 177. Executed Contracts 
+164. Terms of Contract Restricted to Intention of Parties
 
- 178. Providing Death Benefits - Contracts of Designating Former Spouse as Beneficiary - Effect of Divorce or Annulment. 
+165. Ambiguous or Uncertain Terms of Promise
 
- Chapter 4 - Unlawful Contracts
+166. Subordinate Clauses
 
- 211. Unlawful Contracts 
+167. Written Parts Control Printed Parts - Original Parts Control Copied Parts
 
- 212. Contracts Exempting Any One from Responsibility for Own Fraud or Willful Injury against Policy of Law 
+168. Repugnant Clauses
 
- 212.1. Notice Exempting Business Entity from Personal Injury Liability Caused by Negligence of Employees or Servants Deemed Void 
+169. Wholly Inconsistent Words Rejected
 
- 213. Penalties Imposed by Contract for Nonperformance Void 
+170. Construction Against Party Causing Uncertainty
 
- 214. Provisions in Contract to Fix Damages Void Except as Provided 
+171. Reasonable Stipulations
 
- 215. Presumption for Damage Amount 
+172. Necessary or Incidental Things to be Implied
 
- 216. Provisions Restricting or Limiting Enforcement of Contractual Rights by Legal Proceedings are Void 
+173. If No Time Specified for Performance, Reasonable Time Allowed
 
- 217. Restraint of Trade Void 
+174. Time Never of the Essence Unless so Provided by Contract
 
- 218. Exception as to Sale of Goodwill 
+175. Joint and Several Promise
 
- 219. Exception as to Partners 
+176. Promise Singular, but Executed by Several Persons
 
- 219A. Non-Compete Employment Contracts 
+177. Executed Contracts
 
- 219B. Non-Solicitation Contracts 
+178. Providing Death Benefits - Contracts of Designating Former Spouse as Beneficiary - Effect of Divorce or Annulment.
 
- 220. Contract in Restraint of Marriage Void - Exception 
+Chapter 4 - Unlawful Contracts
 
- 221. Construction Agreement - Insurance and Indemnity - Circumvention Void 
+211. Unlawful Contracts
 
- 221A. Design Professional Services Agreement 
+212. Contracts Exempting Any One from Responsibility for Own Fraud or Willful Injury against Policy of Law
 
- 222. Renewal Provision Limitations for Rental Contracts 
+212.1. Notice Exempting Business Entity from Personal Injury Liability Caused by Negligence of Employees or Servants Deemed Void
 
- Chapter 5 - Extinguishment, Recission, and Other Termination of Contracts
+213. Penalties Imposed by Contract for Nonperformance Void
 
- 231. Extinguishing of the Contract 
+214. Provisions in Contract to Fix Damages Void Except as Provided
 
- 232. Contract Extinguished by Rescission 
+215. Presumption for Damage Amount
 
- 233. Party to Contract May Rescind the Contract in the Following Cases 
+216. Provisions Restricting or Limiting Enforcement of Contractual Rights by Legal Proceedings are Void
 
- 233A. Procedures in Actions for Rescission 
+217. Restraint of Trade Void
 
- 233B. Form of Relief in Actions for Rescission 
+218. Exception as to Sale of Goodwill
 
- 234. Stipulation of Errors of Description - How the Stipulation Affects Rescission 
+219. Exception as to Partners
 
- 235. Compliance of Rules by Party Attempting Rescission 
+219A. Non-Compete Employment Contracts
 
- 236. Alteration of Contract Not in Writing - Effect of New Alteration 
+219B. Non-Solicitation Contracts
 
- 237. Alteration of Written Contract 
+220. Contract in Restraint of Marriage Void - Exception
 
- 238. Destruction or Cancellation of Written Contract - Intent to Extinguish 
+221. Construction Agreement - Insurance and Indemnity - Circumvention Void
 
- 239. Destruction, Cancellation or Material Alteration of Written Contract, by Party Entitled to Benefit 
+221A. Design Professional Services Agreement
 
- 240. When Contract Executed in Duplicate - Effect of Alteration or Destruction of One Copy 
+222. Renewal Provision Limitations for Rental Contracts
 
- 241. Restoration of Unlawfully Taken Thing - Exception for Acquiring Superior Title 
+Chapter 5 - Extinguishment, Recission, and Other Termination of Contracts
 
- 242. Restoration to be Made without Demand - Exceptions 
+231. Extinguishing of the Contract
 
- Chapter 5A - Fair Practices of Equipment Manufacturers, Distributors, Wholesalers and Dealers Act
+232. Contract Extinguished by Rescission
 
- 244. Short Title 
+233. Party to Contract May Rescind the Contract in the Following Cases
 
- 244A. Legislative Findings - Purpose of Act 
+233A. Procedures in Actions for Rescission
 
- 245. Definitions 
+233B. Form of Relief in Actions for Rescission
 
- 245A. Violations of the Act 
+234. Stipulation of Errors of Description - How the Stipulation Affects Rescission
 
- 245A.1. Termination of Supplier by Dealer 
+235. Compliance of Rules by Party Attempting Rescission
 
- 245A.2. Termination of Dealer by Supplier - Transfer of Business 
+236. Alteration of Contract Not in Writing - Effect of New Alteration
 
- 245A.3. Termination of Single Line Dealer Agreements 
+237. Alteration of Written Contract
 
- 245A.4. Death of Single Line Dealer 
+238. Destruction or Cancellation of Written Contract - Intent to Extinguish
 
- 245A.5. Warranty Claims by Dealer 
+239. Destruction, Cancellation or Material Alteration of Written Contract, by Party Entitled to Benefit
 
- 246. Termination of Agreement - Cost - Title - Specialty Agricultural Equipment Supplies 
+240. When Contract Executed in Duplicate - Effect of Alteration or Destruction of One Copy
 
- 247. Exemptions 
+241. Restoration of Unlawfully Taken Thing - Exception for Acquiring Superior Title
 
- 248. Violations of Act 
+242. Restoration to be Made without Demand - Exceptions
 
- 249. Void Provisions 
+Chapter 5A - Fair Practices of Equipment Manufacturers, Distributors, Wholesalers and Dealers Act
 
- 250. Applicability of Act 
+244. Short Title
 
- 250A. Dealer Remedies 
+244A. Legislative Findings - Purpose of Act
 
- 251. Civil Actions - Attorney Fees 
+245. Definitions
 
- Chapter 6 - Loans of Money
+245A. Violations of the Act
 
- 261. Repealed 
+245A.1. Termination of Supplier by Dealer
 
- 262. Borrower Must Pay Amount Due in Current Money 
+245A.2. Termination of Dealer by Supplier - Transfer of Business
 
- 263. Presumption that Loan Made upon Interest, unless Expressly Stipulated 
+245A.3. Termination of Single Line Dealer Agreements
 
- 264. Repealed 
+245A.4. Death of Single Line Dealer
 
- 264A. Interest Defined 
+245A.5. Warranty Claims by Dealer
 
- 265. When Rate of Interest Not Specified - Annual Rate 
+246. Termination of Agreement - Cost - Title - Specialty Agricultural Equipment Supplies
 
- 266. Legal and Contract Rates of Interest 
+247. Exemptions
 
- 267. Repealed 
+248. Violations of Act
 
- 268. Repealed 
+249. Void Provisions
 
- 269. Repealed 
+250. Applicability of Act
 
- 270. Repealed 
+250A. Dealer Remedies
 
- 271. Repealed 
+251. Civil Actions - Attorney Fees
 
- 272. Banks to Report - Withdrawal of Charter - Procedure 
+Chapter 6 - Loans of Money
 
- 273. Repealed 
+261. Repealed
 
- 274. Renumbered as 12 O.S. § 727 by Laws 1971, HB 1298, c. 252, § 2 
+262. Borrower Must Pay Amount Due in Current Money
 
- 275. Legal Rate of Interest on Contracts after Breach 
+263. Presumption that Loan Made upon Interest, unless Expressly Stipulated
 
- 276. Action to Collect upon Obligation to Repay Money after Default - Attorney Fees 
+264. Repealed
 
- Small Loans
+264A. Interest Defined
 
- 280.1. Repealed 
+265. When Rate of Interest Not Specified - Annual Rate
 
- 280.2. Repealed 
+266. Legal and Contract Rates of Interest
 
- 280.3. Repealed 
+267. Repealed
 
- 280.4. Repealed 
+268. Repealed
 
- 280.5. Repealed 
+269. Repealed
 
- 280.6. Repealed 
+270. Repealed
 
- 280.7. Repealed 
+271. Repealed
 
- 280.8. Repealed 
+272. Banks to Report - Withdrawal of Charter - Procedure
 
- 280.9. Repealed 
+273. Repealed
 
- 280.10. Repealed 
+274. Renumbered as 12 O.S. § 727 by Laws 1971, HB 1298, c. 252, § 2
 
- 280.11. Repealed 
+275. Legal Rate of Interest on Contracts after Breach
 
- 280.12. Repealed 
+276. Action to Collect upon Obligation to Repay Money after Default - Attorney Fees
 
- 280.13. Repealed 
+Small Loans
 
- 280.14. Repealed 
+280.1. Repealed
 
- 280.15. Repealed 
+280.2. Repealed
 
- 280.16. Repealed 
+280.3. Repealed
 
- 280.17. Repealed 
+280.4. Repealed
 
- 280.18. Repealed 
+280.5. Repealed
 
- 280.19. Repealed 
+280.6. Repealed
 
- 280.20. Repealed 
+280.7. Repealed
 
- 280.21. Repealed 
+280.8. Repealed
 
- 280.22. Repealed 
+280.9. Repealed
 
- 280.23. Repealed 
+280.10. Repealed
 
- 280.24. Repealed 
+280.11. Repealed
 
- 280.25. Repealed 
+280.12. Repealed
 
- 280.26. Repealed 
+280.13. Repealed
 
- 280.27. Repealed 
+280.14. Repealed
 
- 280.28. Repealed 
+280.15. Repealed
 
- 280.29. Repealed 
+280.16. Repealed
 
- Chapter 7 - Loans of Property
+280.17. Repealed
 
- 291. Loan for Use 
+280.18. Repealed
 
- 292. Loan for Use - Transfer of Title - Increase During Period of Loan 
+280.19. Repealed
 
- 293. Care by Borrower for Use 
+280.20. Repealed
 
- 294. Care Required of Borrower of Living Animals 
+280.21. Repealed
 
- 295. Degree of Skill of Borrower for Use 
+280.22. Repealed
 
- 296. Repair of Deteriorations or Injuries by Borrower for Use 
+280.23. Repealed
 
- 297. Borrower's Uses Limited 
+280.24. Repealed
 
- 298. Borrower Must Not Lend Third Person without Lender's Consent 
+280.25. Repealed
 
- 299. Expenses Born by Borrower - Compensation from Lender - Exoneration of Lender 
+280.26. Repealed
 
- 300. Lender Must Indemnify the Borrower for Damages Caused by Defects 
+280.27. Repealed
 
- 301. Lender May Require Return 
+280.28. Repealed
 
- 302. Return with or without Demand - Place of Return 
+280.29. Repealed
 
- 303. Loan for Exchange Defined 
+Chapter 7 - Loans of Property
 
- 304. Loan for Use or for Exchange Subject to All Provisions of this Chapter 
+291. Loan for Use
 
- 305. Loan for Exchange - Title Transfer - Expenses - Increase 
+292. Loan for Use - Transfer of Title - Increase During Period of Loan
 
- 306. Modification Attempts by Lender 
+293. Care by Borrower for Use
 
- Chapter 8 - Guaranty
+294. Care Required of Borrower of Living Animals
 
- 321. "Guaranty" Defined 
+295. Degree of Skill of Borrower for Use
 
- 322. Consent or Knowledge of Principal Unnecessary 
+296. Repair of Deteriorations or Injuries by Borrower for Use
 
- 323. Consideration 
+297. Borrower's Uses Limited
 
- 324. Guaranty Must be in Writing, Signed by Guarantor - Writing Need Not Express Consideration 
+298. Borrower Must Not Lend Third Person without Lender's Consent
 
- 325. When Promise Deemed Original and Need Not be in Writing 
+299. Expenses Born by Borrower - Compensation from Lender - Exoneration of Lender
 
- 326. Necessity of Notice of Acceptance of Guaranty 
+300. Lender Must Indemnify the Borrower for Damages Caused by Defects
 
- 327. When Terms of Contract are Not Settled, Certain Terms are Implied 
+301. Lender May Require Return
 
- 328. Solvency Guaranty 
+302. Return with or without Demand - Place of Return
 
- 329. Guaranty of Solvency Not Discharged for Failure to Take Proceedings 
+303. Loan for Exchange Defined
 
- 330. Removal of Principal from State Deemed Equivalent to Insolvency 
+304. Loan for Use or for Exchange Subject to All Provisions of this Chapter
 
- 331. Guaranty is to be Deemed Unconditional - Exception 
+305. Loan for Exchange - Title Transfer - Expenses - Increase
 
- 332. Guarantor Liable to Guarantee on Default of Principal without Notice 
+306. Modification Attempts by Lender
 
- 333. Guaranty of Conditional Obligation - Liability - Notice 
+Chapter 8 - Guaranty
 
- 334. Obligation of Guarantor - Limitation 
+321. "Guaranty" Defined
 
- 335. Guarantor Not Liable if Contract of Principal is Unlawful - Disability of Principal 
+322. Consent or Knowledge of Principal Unnecessary
 
- 336. Continuing Guaranty Defined 
+323. Consideration
 
- 337. Continuing Guaranty - Revocation of 
+324. Guaranty Must be in Writing, Signed by Guarantor - Writing Need Not Express Consideration
 
- 338. Guarantor - Exoneration 
+325. When Promise Deemed Original and Need Not be in Writing
 
- 339. Void Promise of Creditor Does Not Alter Obligation or Suspend or Impair the Remedy 
+326. Necessity of Notice of Acceptance of Guaranty
 
- 340. Rescission of New Agreement Does Not Restore Guarantor's Liability 
+327. When Terms of Contract are Not Settled, Certain Terms are Implied
 
- 341. Reducing Guarantor's Obligation 
+328. Solvency Guaranty
 
- 342. Mere Delay on Part of Creditor Does Not Exonerate Guarantor 
+329. Guaranty of Solvency Not Discharged for Failure to Take Proceedings
 
- 343. Liability of Guarantor, Indemnified by Principal 
+330. Removal of Principal from State Deemed Equivalent to Insolvency
 
- 344. Guarantor Not Exonerated by Principal's Discharge - Exception 
+331. Guaranty is to be Deemed Unconditional - Exception
 
- Chapter 9 - Surety
+332. Guarantor Liable to Guarantee on Default of Principal without Notice
 
- 371. "Surety" Defined 
+333. Guaranty of Conditional Obligation - Liability - Notice
 
- 372. Apparent Principal - Proof of Surety 
+334. Obligation of Guarantor - Limitation
 
- 373. Surety - Liability 
+335. Guarantor Not Liable if Contract of Principal is Unlawful - Disability of Principal
 
- 374. Interpretation of Terms of Contract 
+336. Continuing Guaranty Defined
 
- 375. Judgment Doesn't Affect Relation of Surety 
+337. Continuing Guaranty - Revocation of
 
- 376. Performance of Obligation Exonerates Surety 
+338. Guarantor - Exoneration
 
- 377. Exoneration of Surety 
+339. Void Promise of Creditor Does Not Alter Obligation or Suspend or Impair the Remedy
 
- 378. Rights of Surety 
+340. Rescission of New Agreement Does Not Restore Guarantor's Liability
 
- 379. Surety May Require Proceedings against Principal 
+341. Reducing Guarantor's Obligation
 
- 380. Compelling Performance of Principal 
+342. Mere Delay on Part of Creditor Does Not Exonerate Guarantor
 
- 381. Principal to Reimburse Surety 
+343. Liability of Guarantor, Indemnified by Principal
 
- 382. Surety's Enforcement of Remedies against Principal and Cosureties 
+344. Guarantor Not Exonerated by Principal's Discharge - Exception
 
- 383. Rights of Surety as to Security 
+Chapter 9 - Surety
 
- 384. Hypothecated Property - Entitlement of Surety to Discharge 
+371. "Surety" Defined
 
- 385. Creditor Entitled to Benefits 
+372. Apparent Principal - Proof of Surety
 
- Chapter 10 - Indemnity
+373. Surety - Liability
 
- 421. "Indemnity" Defined 
+374. Interpretation of Terms of Contract
 
- 422. Indemnity for Unlawful Act Void 
+375. Judgment Doesn't Affect Relation of Surety
 
- 423. Indemnity against Unlawful Act Valid if Act Already Done unless It Was a Felony 
+376. Performance of Obligation Exonerates Surety
 
- 424. Indemnity Extended to Acts of Agents 
+377. Exoneration of Surety
 
- 425. Applicability of Indemnity to Each Person of a Several Person Agreement 
+378. Rights of Surety
 
- 426. Liable Jointly and Separately 
+379. Surety May Require Proceedings against Principal
 
- 427. Interpretation of Contract of Indemnity - Rules Governing 
+380. Compelling Performance of Principal
 
- 428. Reimbursement for Answering in Damages 
+381. Principal to Reimburse Surety
 
- 429. Bail 
+382. Surety's Enforcement of Remedies against Principal and Cosureties
 
- 430. Obligations of Bail Governed by Statutes 
+383. Rights of Surety as to Security
 
- Chapter 11 - Bailment
+384. Hypothecated Property - Entitlement of Surety to Discharge
 
- 441. Bailment 
+385. Creditor Entitled to Benefits
 
- 442. Voluntary Bailment 
+Chapter 10 - Indemnity
 
- 443. Involuntary Bailment 
+421. "Indemnity" Defined
 
- 444. Involuntary Bailee Bound to Take Charge if Able 
+422. Indemnity for Unlawful Act Void
 
- 445. Bailment for Safekeeping 
+423. Indemnity against Unlawful Act Valid if Act Already Done unless It Was a Felony
 
- 446. Bailment for Exchange 
+424. Indemnity Extended to Acts of Agents
 
- 447. Delivery on Demand 
+425. Applicability of Indemnity to Each Person of a Several Person Agreement
 
- 448. Demand Necessary for Delivery 
+426. Liable Jointly and Separately
 
- 449. Delivery to be at Place Most Convenient 
+427. Interpretation of Contract of Indemnity - Rules Governing
 
- 450. Prompt Notice to Owner of Adverse Claim 
+428. Reimbursement for Answering in Damages
 
- 451. Notice of Bailment to True Owner of Wrongful Detention 
+429. Bail
 
- 452. Delivery when Owners Disagree upon Manner of Delivery 
+430. Obligations of Bail Governed by Statutes
 
- 453. Bailor to Indemnify Bailee 
+Chapter 11 - Bailment
 
- 454. Duty of Bailee of Living Animals 
+441. Bailment
 
- 455. Use of Thing Bailed Prohibited without Consent of Bailor 
+442. Voluntary Bailment
 
- 456. Bailee Liable for Damages for Wrongful Use 
+443. Involuntary Bailment
 
- 457. Sale of Bailed Item in Actual Danger of Perishing 
+444. Involuntary Bailee Bound to Take Charge if Able
 
- 458. Presumption of Willful or Gross Negligence 
+445. Bailment for Safekeeping
 
- 459. Duties and Liabilities of Bailee Involving Services 
+446. Bailment for Exchange
 
- 460. Limitations on Liability of Bailee for Negligence 
+447. Delivery on Demand
 
- 461. Gratuitous Bailment Defined 
+448. Demand Necessary for Delivery
 
- 462. Involuntary Bailment Gratuitous 
+449. Delivery to be at Place Most Convenient
 
- 463. Gratuitous Bailee Must Use at Least Slight Care 
+450. Prompt Notice to Owner of Adverse Claim
 
- 464. Duties of Gratuitous Bailee Cease, When 
+451. Notice of Bailment to True Owner of Wrongful Detention
 
- 465. Bailment for Hire Defined 
+452. Delivery when Owners Disagree upon Manner of Delivery
 
- 466. Ordinary Care Required for Bailee for Hire 
+453. Bailor to Indemnify Bailee
 
- 467. Compensation 
+454. Duty of Bailee of Living Animals
 
- 468. Bailment, Termination of 
+455. Use of Thing Bailed Prohibited without Consent of Bailor
 
- 469. Bailment to Terminate on Payment of Full Compensation 
+456. Bailee Liable for Damages for Wrongful Use
 
- 470. No Applicability to Things Intentionally Abandoned 
+457. Sale of Bailed Item in Actual Danger of Perishing
 
- 471. Bailment for Exchange Transfers Title to Bailee 
+458. Presumption of Willful or Gross Negligence
 
- 501. Liability of Keeper of an Inn or Boarding House - Lien 
+459. Duties and Liabilities of Bailee Involving Services
 
- 502. Repealed 
+460. Limitations on Liability of Bailee for Negligence
 
- 503. Hotels, Apartment Hotels, Inns - Guest Rooms to Have Suitable Night Latches, Chains, or Bolts 
+461. Gratuitous Bailment Defined
 
- 503a. Safe or Depository - Liability 
+462. Involuntary Bailment Gratuitous
 
- 503b. Liability for Loss - Limitations 
+463. Gratuitous Bailee Must Use at Least Slight Care
 
- 503c. Apartment Hotel - Definition 
+464. Duties of Gratuitous Bailee Cease, When
 
- 503d. Guest - Who Included in Term 
+465. Bailment for Hire Defined
 
- Oklahoma Innkeeper Rights Act
+466. Ordinary Care Required for Bailee for Hire
 
- 504. Short Title 
+467. Compensation
 
- 505. Definitions 
+468. Bailment, Termination of
 
- 506. Right to Refuse or Deny Any Accommodation - Right to Financial Guarantees - Limitation on Number of Occupants - Immunity 
+469. Bailment to Terminate on Payment of Full Compensation
 
- 507. Damages to Lodging Establishment Room or Furnishings - Liability 
+470. No Applicability to Things Intentionally Abandoned
 
- 508. Right of Innkeeper to Eject Guests 
+471. Bailment for Exchange Transfers Title to Bailee
 
- 509. Posting Copy of Oklahoma Innkeeper Rights Act and Rules of Establishment 
+501. Liability of Keeper of an Inn or Boarding House - Lien
 
- 511. Finder Not Bound to Take Charge, but if Does, Bailee 
+502. Repealed
 
- 512. Finder - Duty to Notify Owner if Known or Suspected 
+503. Hotels, Apartment Hotels, Inns - Guest Rooms to Have Suitable Night Latches, Chains, or Bolts
 
- 513. Proof of Ownership May be Required 
+503a. Safe or Depository - Liability
 
- 514. Compensation for Expenses, Service, and Reward 
+503b. Liability for Loss - Limitations
 
- 515. Finder May be Exonerated from Liability by Storing with Another 
+503c. Apartment Hotel - Definition
 
- 516. When Finder May Sell 
+503d. Guest - Who Included in Term
 
- 517. Sale, Manner of 
+Oklahoma Innkeeper Rights Act
 
- 518. Exoneration by Surrender 
+504. Short Title
 
- Chapter 12 - Hiring of Personal Property
+505. Definitions
 
- 531 to 545. Repealed 
+506. Right to Refuse or Deny Any Accommodation - Right to Financial Guarantees - Limitation on Number of Occupants - Immunity
 
- Chapter 13 - Contracts for Sale of Future Delivery
+507. Damages to Lodging Establishment Room or Furnishings - Liability
 
- 561. Definitions 
+508. Right of Innkeeper to Eject Guests
 
- 562. Contract of Sales Valid 
+509. Posting Copy of Oklahoma Innkeeper Rights Act and Rules of Establishment
 
- 563. Brokers - Parties Liable 
+511. Finder Not Bound to Take Charge, but if Does, Bailee
 
- 564. Contract of Sale - When Invalid 
+512. Finder - Duty to Notify Owner if Known or Suspected
 
- 565. Bucket Shops 
+513. Proof of Ownership May be Required
 
- 566. Illegal Contract 
+514. Compensation for Expenses, Service, and Reward
 
- 567. Violation - Felony 
+515. Finder May be Exonerated from Liability by Storing with Another
 
- 568. Associations Organized 
+516. When Finder May Sell
 
- 569. Market Quotations Received 
+517. Sale, Manner of
 
- 570. Acts Invalidated 
+518. Exoneration by Surrender
 
- Chapter 14 - Unfair Sales Act
+Chapter 12 - Hiring of Personal Property
 
- 591. Repealed 
+531 to 545. Repealed
 
- 592. Repealed 
+Chapter 13 - Contracts for Sale of Future Delivery
 
- 593. Repealed 
+561. Definitions
 
- 594. Repealed 
+562. Contract of Sales Valid
 
- 595. Repealed 
+563. Brokers - Parties Liable
 
- 596. Repealed 
+564. Contract of Sale - When Invalid
 
- 597. Repealed 
+565. Bucket Shops
 
- 598.1. Short Title 
+566. Illegal Contract
 
- 598.2. Definitions 
+567. Violation - Felony
 
- 598.3. Unfair Competition 
+568. Associations Organized
 
- 598.4. Retailer - Violations of Act - Misdemeanor 
+569. Market Quotations Received
 
- 598.5. Action - Injunction 
+570. Acts Invalidated
 
- 598.6. Sales to Which Act Does Not Apply 
+Chapter 14 - Unfair Sales Act
 
- 598.7. Sales Prices Made in Good Faith 
+591. Repealed
 
- 598.8. Cost - Method of Fixing 
+592. Repealed
 
- 598.9. Evidence - Immunity of Witness 
+593. Repealed
 
- 598.10. Trade Associations May File Suit 
+594. Repealed
 
- 598.11. Invalidity Clause 
+595. Repealed
 
- Cigarettes and Tobacco Products
+596. Repealed
 
- 599.1. Renumbered as 68 O.S. § 326 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+597. Repealed
 
- 599.2. Renumbered as 68 O.S. § 327 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+598.1. Short Title
 
- 599.3. Renumbered as 68 O.S. § 328 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+598.2. Definitions
 
- 599.4. Renumbered as 68 O.S. § 329 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+598.3. Unfair Competition
 
- 599.5. Renumbered as 68 O.S. § 330 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+598.4. Retailer - Violations of Act - Misdemeanor
 
- 599.6. Renumbered as 68 O.S. § 331 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+598.5. Action - Injunction
 
- 599.7. Renumbered as 68 O.S. § 332 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+598.6. Sales to Which Act Does Not Apply
 
- 599.8. Renumbered as 68 O.S. § 333 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+598.7. Sales Prices Made in Good Faith
 
- 599.9. Renumbered as 68 O.S. § 334 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+598.8. Cost - Method of Fixing
 
- 599.10. Renumbered as 68 O.S. § 335 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+598.9. Evidence - Immunity of Witness
 
- 599.11. Renumbered as 68 O.S. § 336 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+598.10. Trade Associations May File Suit
 
- 599.12. Renumbered as 68 O.S. § 337 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+598.11. Invalidity Clause
 
- 599.13. Renumbered as 68 O.S. § 338 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+Cigarettes and Tobacco Products
 
- 599.14. Renumbered as 68 O.S. § 339 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+599.1. Renumbered as 68 O.S. § 326 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 599.15. Repealed 
+599.2. Renumbered as 68 O.S. § 327 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 599.16. Renumbered as 68 O.S. § 340 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+599.3. Renumbered as 68 O.S. § 328 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 599.17. Renumbered as 68 O.S. § 341 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+599.4. Renumbered as 68 O.S. § 329 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 599.18. Renumbered as 68 O.S. § 342 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981 
+599.5. Renumbered as 68 O.S. § 330 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- Chapter 15 - Secondhand Watches
+599.6. Renumbered as 68 O.S. § 331 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 611. Repealed 
+599.7. Renumbered as 68 O.S. § 332 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 612. Repealed 
+599.8. Renumbered as 68 O.S. § 333 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 613. Repealed 
+599.9. Renumbered as 68 O.S. § 334 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 614. Repealed 
+599.10. Renumbered as 68 O.S. § 335 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 615. Repealed 
+599.11. Renumbered as 68 O.S. § 336 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- Chapter 15A - Fair Pay for Construction Act
+599.12. Renumbered as 68 O.S. § 337 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 621. Renumbered as 61 O.S. § 221 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005 
+599.13. Renumbered as 68 O.S. § 338 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 622. Renumbered as 61 O.S. § 222 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005 
+599.14. Renumbered as 68 O.S. § 339 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 623. Renumbered as 61 O.S. § 223 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005 
+599.15. Repealed
 
- 624. Renumbered as 61 O.S. § 224 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005 
+599.16. Renumbered as 68 O.S. § 340 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 625. Renumbered as 61 O.S. § 225 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005 
+599.17. Renumbered as 68 O.S. § 341 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 626. Renumbered as 61 O.S. § 226 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005 
+599.18. Renumbered as 68 O.S. § 342 by Laws 1981, HB 1096, c. 211, § 7, emerg. eff. June 1, 1981
 
- 627. Renumbered as 61 O.S. § 227 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005 
+Chapter 15 - Secondhand Watches
 
- Chapter 16 - Assignment of Accounts Receivable
+611. Repealed
 
- 631 to 637. Repealed 
+612. Repealed
 
- Chapter 17 - Industrial Selling Act
+613. Repealed
 
- 651. Short Title 
+614. Repealed
 
- 652. Definitions 
+615. Repealed
 
- 653. Purchasing on Discount - Limitations and Exemptions 
+Chapter 15A - Fair Pay for Construction Act
 
- 654. Representation of Wholesale Prices 
+621. Renumbered as 61 O.S. § 221 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005
 
- 655. Violations a Misdemeanor 
+622. Renumbered as 61 O.S. § 222 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005
 
- 656. Damages - Injunctions 
+623. Renumbered as 61 O.S. § 223 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005
 
- 657. Exemptions 
+624. Renumbered as 61 O.S. § 224 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005
 
- 658. Repealed 
+625. Renumbered as 61 O.S. § 225 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005
 
- Chapter 17A - Sales Representatives Recognition Act
+626. Renumbered as 61 O.S. § 226 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005
 
- 675. Short Title 
+627. Renumbered as 61 O.S. § 227 by Laws 2005, SB 1001, c. 92, § 6, eff. November 1, 2005
 
- 676. Definitions 
+Chapter 16 - Assignment of Accounts Receivable
 
- 677. Time at Which a Commission is Due - Manner Determined 
+631 to 637. Repealed
 
- 678. Payment of Commission and Attorney's Fees and Court Costs if Contract Terminated 
+Chapter 17 - Industrial Selling Act
 
- 679. Personal Jurisdiction of Principal - Waiver of Provisions of Act - Availability of Rights and Remedies - Contracts Affected 
+651. Short Title
 
- Chapter 17B - Invention Development Services Act
+652. Definitions
 
- 680. Short Title 
+653. Purchasing on Discount - Limitations and Exemptions
 
- 681. Definitions 
+654. Representation of Wholesale Prices
 
- 682. Contract to be Written - Customer to Receive Copy - Written Statement to Customer and Summary of Terms 
+655. Violations a Misdemeanor
 
- 683. Right to Cancel Contract 
+656. Damages - Injunctions
 
- 684. Form of Contract for Invention Development Services 
+657. Exemptions
 
- 685. Disclosure - Time Period 
+658. Repealed
 
- 686. Invention Developer - Financial Requirements 
+Chapter 17A - Sales Representatives Recognition Act
 
- 687. Use of Negotiable Instruments - Restrictions 
+675. Short Title
 
- 688. Maintenance of Records and Correspondence Relating to Performance of Invention Development Contract 
+676. Definitions
 
- 689. Provisions of Act Not Exclusive - Noncompliance with Provisions - Violations - Remedies - Application of Act 
+677. Time at Which a Commission is Due - Manner Determined
 
- 691. Definitions 
+678. Payment of Commission and Attorney's Fees and Court Costs if Contract Terminated
 
- 692. Rights of Customer 
+679. Personal Jurisdiction of Principal - Waiver of Provisions of Act - Availability of Rights and Remedies - Contracts Affected
 
- 693. Lien of Molder 
+Chapter 17B - Invention Development Services Act
 
- 694. Procedure to Sell Die, Mold, Form, or Pattern 
+680. Short Title
 
- Chapter 18 - Retail Installment Sales Act
+681. Definitions
 
- 701. Repealed 
+682. Contract to be Written - Customer to Receive Copy - Written Statement to Customer and Summary of Terms
 
- 702. Repealed 
+683. Right to Cancel Contract
 
- 703. Repealed 
+684. Form of Contract for Invention Development Services
 
- 704. Repealed 
+685. Disclosure - Time Period
 
- 705. Repealed 
+686. Invention Developer - Financial Requirements
 
- 706. Repealed 
+687. Use of Negotiable Instruments - Restrictions
 
- 707. Repealed 
+688. Maintenance of Records and Correspondence Relating to Performance of Invention Development Contract
 
- 708. Repealed 
+689. Provisions of Act Not Exclusive - Noncompliance with Provisions - Violations - Remedies - Application of Act
 
- 709. Repealed 
+691. Definitions
 
- 710. Repealed 
+692. Rights of Customer
 
- 711. Repealed 
+693. Lien of Molder
 
- 712. Repealed 
+694. Procedure to Sell Die, Mold, Form, or Pattern
 
- Chapter 19 - Unsolicited Goods, Wares, or Merchandise
+Chapter 18 - Retail Installment Sales Act
 
- 721. Unsolicited Goods - Receipt Deemed Unconditional Gift - Injunctive Relief 
+701. Repealed
 
- 722. Unsolicited Goods Sent by Organization to Member after Termination of Membership 
+702. Repealed
 
- Chapter 20 - Consumer Protection
+703. Repealed
 
- Consumer Protection Act
+704. Repealed
 
- 751. Short Title 
+705. Repealed
 
- 752. Definitions 
+706. Repealed
 
- 752A. Credit/Debit Cards - Restrictions Regarding Account Numbers on Electronic Receipts 
+707. Repealed
 
- 753. Unlawful Practices 
+708. Repealed
 
- 754. Exemptions 
+709. Repealed
 
- 755.1. Automatic Dial Announcing Device - Operation - Conditions - Exceptions 
+710. Repealed
 
- 755.2. Contracts or Agreements Pursuant to Unsolicited Calls or Messages - Voidability 
+711. Repealed
 
- 755.3. Service Utilized for Relaying Messages 
+712. Repealed
 
- 756. Repealed 
+Chapter 19 - Unsolicited Goods, Wares, or Merchandise
 
- 756.1. Actions by Attorney General or District Attorney - Consent Judgment - Orders 
+721. Unsolicited Goods - Receipt Deemed Unconditional Gift - Injunctive Relief
 
- 757. Investigations 
+722. Unsolicited Goods Sent by Organization to Member after Termination of Membership
 
- 758. Subpoenas, Hearings, Rules, and Regulations 
+Chapter 20 - Consumer Protection
 
- 759. Service of Notice, Demand, or Subpoena 
+Consumer Protection Act
 
- 760. Enforcement of Notice, Demand or Subpoena Powers 
+751. Short Title
 
- 761.1. Liability under Consumer Protection Act 
+752. Definitions
 
- 762. Additional Powers and Duties 
+752A. Credit/Debit Cards - Restrictions Regarding Account Numbers on Electronic Receipts
 
- 763. Effect on Other Remedies 
+753. Unlawful Practices
 
- 764. Repealed 
+754. Exemptions
 
- 764.1. Hearing Aid Providers - Contracts - Recission Period 
+755.1. Automatic Dial Announcing Device - Operation - Conditions - Exceptions
 
- 765. Repealed 
+755.2. Contracts or Agreements Pursuant to Unsolicited Calls or Messages - Voidability
 
- Home Repair Fraud Act
+755.3. Service Utilized for Relaying Messages
 
- 765.1. Short Title - Construction of Violations 
+756. Repealed
 
- 765.2. Definitions - Application of Act 
+756.1. Actions by Attorney General or District Attorney - Consent Judgment - Orders
 
- 765.3. Acts Constituting Home Repair Fraud 
+757. Investigations
 
- 765.4. Mold Inspection and Removal by Same Person or Entity 
+758. Subpoenas, Hearings, Rules, and Regulations
 
- Notice of Opportunity to Repair Act
+759. Service of Notice, Demand, or Subpoena
 
- 765.5. Short Title 
+760. Enforcement of Notice, Demand or Subpoena Powers
 
- 765.6. Definitions - Contract Provision Requiring Notice of Construction Defects - Effect on Lawsuit 
+761.1. Liability under Consumer Protection Act
 
- 766. Application of Closing Out Provisions 
+762. Additional Powers and Duties
 
- 767. License for Closing Out Sale - Application - Forms - Contents - Affidavits - Fees - Violations 
+763. Effect on Other Remedies
 
- 768. District Attorney to Receive Copy of Application - Objections - Grounds for Denying Application 
+764. Repealed
 
- 769. Issuance of License - Conditions on Sale 
+764.1. Hearing Aid Providers - Contracts - Recission Period
 
- 770. Revocation of License 
+765. Repealed
 
- 771. Appeals 
+Home Repair Fraud Act
 
- Ticket Scalping
+765.1. Short Title - Construction of Violations
 
- 774. Definitions 
+765.2. Definitions - Application of Act
 
- 774.1. Unlawful Practices 
+765.3. Acts Constituting Home Repair Fraud
 
- Oklahoma Health Spa Act
+765.4. Mold Inspection and Removal by Same Person or Entity
 
- 775 to 775.9. Renumbered as 59 O.S. §§ 2000 to 2009 by Laws 1988, HB 1630, c. 215, § 12, eff. November 1, 1988 
+Notice of Opportunity to Repair Act
 
- Commercial Telephone Solicitation
+765.5. Short Title
 
- 775A.1. Legislative Findings and Declarations 
+765.6. Definitions - Contract Provision Requiring Notice of Construction Defects - Effect on Lawsuit
 
- 775A.2. Definitions 
+766. Application of Closing Out Provisions
 
- 775A.3. Registering with Attorney General 
+767. License for Closing Out Sale - Application - Forms - Contents - Affidavits - Fees - Violations
 
- 775A.4. Commercial Telephone Seller - Unlawful Telemarketing Practice, When 
+768. District Attorney to Receive Copy of Application - Objections - Grounds for Denying Application
 
- 775A.5. Application - Bond Required 
+769. Issuance of License - Conditions on Sale
 
- Telemarketer Restriction Act
+770. Revocation of License
 
- 775B.1. Short Title 
+771. Appeals
 
- 775B.2. Definitions 
+Ticket Scalping
 
- 775B.3. Attorney General Required to Establish Registry of Consumers 
+774. Definitions
 
- 775B.4. Notice to Consumers of No-Telemarketing-Sales-Call Registry 
+774.1. Unlawful Practices
 
- 775B.5. Attorney General - Rule-Making Authority 
+Oklahoma Health Spa Act
 
- 775B.6. Unsolicited Telemarketing Sales Call or Message to Consumers on Registry - Prohibition - Violations 
+775 to 775.9. Renumbered as 59 O.S. §§ 2000 to 2009 by Laws 1988, HB 1630, c. 215, § 12, eff. November 1, 1988
 
- 775B.7. Establishment of Telemarketer Revolving Fund 
+Commercial Telephone Solicitation
 
- Telephone Solicitation Act of 2022
+775A.1. Legislative Findings and Declarations
 
- 775C.1. Short Title 
+775A.2. Definitions
 
- 775C.2. Definitions 
+775A.3. Registering with Attorney General
 
- 775C.3. Prohibiting Actions - Presumption Sales Calls Are Made to Oklahoma Residents or Person in Oklahoma 
+775A.4. Commercial Telephone Seller - Unlawful Telemarketing Practice, When
 
- 775C.4. Prohibiting Calls - Prohibited Actions 
+775A.5. Application - Bond Required
 
- 775C.5. Exemptions 
+Telemarketer Restriction Act
 
- 775C.6. Cause of Action - Damages 
+775B.1. Short Title
 
- Fraudulent Electronic Mail
+775B.2. Definitions
 
- 776.1. Fraudulent Use of Electronic Mail 
+775B.3. Attorney General Required to Establish Registry of Consumers
 
- 776.2. Recovery of Damages of Fraudulent Electronic Mail 
+775B.4. Notice to Consumers of No-Telemarketing-Sales-Call Registry
 
- 776.3. Jurisdiction Defined 
+775B.5. Attorney General - Rule-Making Authority
 
- 776.4. Definitions 
+775B.6. Unsolicited Telemarketing Sales Call or Message to Consumers on Registry - Prohibition - Violations
 
- 776.5. Commercial Electronic Mail - Definitions 
+775B.7. Establishment of Telemarketer Revolving Fund
 
- 776.6. Violations 
+Telephone Solicitation Act of 2022
 
- 776.7. Actions, Damages, Penalties 
+775C.1. Short Title
 
- Anti-Phishing Act
+775C.2. Definitions
 
- 776.8. Short Title 
+775C.3. Prohibiting Actions - Presumption Sales Calls Are Made to Oklahoma Residents or Person in Oklahoma
 
- 776.9. Definitions 
+775C.4. Prohibiting Calls - Prohibited Actions
 
- 776.10. Fraudulent Use of Identifying Information 
+775C.5. Exemptions
 
- 776.11. Cause of Action - Remedies - Violations of the Same Nature - Oklahoma Consumer Protection Act 
+775C.6. Cause of Action - Damages
 
- 776.12. Good Faith Acts by Telecommunications or Internet Service Provider 
+Fraudulent Electronic Mail
 
- Anti-Caller ID Spoofing Act
+776.1. Fraudulent Use of Electronic Mail
 
- 776.20. Legislative Findings 
+776.2. Recovery of Damages of Fraudulent Electronic Mail
 
- 776.21. Short Title 
+776.3. Jurisdiction Defined
 
- 776.22. Definitions 
+776.4. Definitions
 
- 776.23. Prohibited Acts and Practices - Exemptions - Penalties - Violations of Oklahoma Consumer Protection Act 
+776.5. Commercial Electronic Mail - Definitions
 
- Emergency Price Stabilization Act
+776.6. Violations
 
- 777.1. Short Title 
+776.7. Actions, Damages, Penalties
 
- 777.2. Definitions 
+Anti-Phishing Act
 
- 777.3. Action to Enforce Provisions 
+776.8. Short Title
 
- 777.4. Price Increase Limitations 
+776.9. Definitions
 
- 777.5. Violation of Emergency Price Stabilization Act 
+776.10. Fraudulent Use of Identifying Information
 
- 778. Termination or Suspension of Service Contracts While on Active Duty 
+776.11. Cause of Action - Remedies - Violations of the Same Nature - Oklahoma Consumer Protection Act
 
- Third Party Prescription Act
+776.12. Good Faith Acts by Telecommunications or Internet Service Provider
 
- 781. Short Title 
+Anti-Caller ID Spoofing Act
 
- 782. Legislative Findings 
+776.20. Legislative Findings
 
- 783. Inapplicability 
+776.21. Short Title
 
- 784. Third Party Prescription Program 
+776.22. Definitions
 
- 785. Instituting Third Party Prescription Programs - Requirements for 
+776.23. Prohibited Acts and Practices - Exemptions - Penalties - Violations of Oklahoma Consumer Protection Act
 
- 786. Issuance of Identification Cards - Ineligibility - Notice 
+Emergency Price Stabilization Act
 
- 787. Denial or Withholding of Payments 
+777.1. Short Title
 
- 788. No Agreements to Establish Reimbursement Rate - Limitation of Reimbursement Rate - Right to Participate in Third Party Prescription Program 
+777.2. Definitions
 
- 789. Insurance Department - Administration and Enforcement of Act - Rules and Regulations 
+777.3. Action to Enforce Provisions
 
- 790. Definitions - Copyright Owners and Performing Rights Societies - Royalty Contracts - Violations - Applicability 
+777.4. Price Increase Limitations
 
- Age Verification and Explicit Materials
+777.5. Violation of Emergency Price Stabilization Act
 
- 791. Definitions 
+778. Termination or Suspension of Service Contracts While on Active Duty
 
- 791.1. Liability of Commercial Entities - Punitive Damages - Joinder or Class Action 
+Third Party Prescription Act
 
- 791.2. Opportunity to Deny Access - Block Access to Minors - Liability - Punitive Damages - Joinder or Class Action - Reasonable Age Verification Methods 
+781. Short Title
 
- 791.3. Attorney General - Injunctive and Other Equitable Relief - Guidance or Regulations 
+782. Legislative Findings
 
- 791.4. Severability 
+783. Inapplicability
 
- Gift Certificate and Gift Card Disclosure Act
+784. Third Party Prescription Program
 
- 795. Short Title 
+785. Instituting Third Party Prescription Programs - Requirements for
 
- 796. Definitions 
+786. Issuance of Identification Cards - Ineligibility - Notice
 
- 797. Unlawful Acts - Expiration Dates - Dormancy Fees - Refunds 
+787. Denial or Withholding of Payments
 
- 798. Gift Certificate or Card Constitutes Value Held in Trust - Issuer in Bankruptcy - Waiver of Rights Void 
+788. No Agreements to Establish Reimbursement Rate - Limitation of Reimbursement Rate - Right to Participate in Third Party Prescription Program
 
- 798.1. Exclusions From Definition of "Gift Certificate" or "Gift Card" 
+789. Insurance Department - Administration and Enforcement of Act - Rules and Regulations
 
- 799. Enforcement 
+790. Definitions - Copyright Owners and Performing Rights Societies - Royalty Contracts - Violations - Applicability
 
- Oklahoma INFORM Act
+Age Verification and Explicit Materials
 
- 799A.1. Short Title 
+791. Definitions
 
- 799A.2. Definitions 
+791.1. Liability of Commercial Entities - Punitive Damages - Joinder or Class Action
 
- 799A.3. Sellers to Disclose Specified Information - Notice by Online Marketplace - Suspension of Sales - Verification - Security Procedures 
+791.2. Opportunity to Deny Access - Block Access to Minors - Liability - Punitive Damages - Joinder or Class Action - Reasonable Age Verification Methods
 
- 799A.4. Requiring Disclosures of Certain Information to Consumers - Suspension of Certain Sales Activity Upon Certain Noncompliance 
+791.3. Attorney General - Injunctive and Other Equitable Relief - Guidance or Regulations
 
- 799A.5. Requiring Disclosure of Certain Reporting Mechanism 
+791.4. Severability
 
- 799A.6. Suspension of Certain Sales Activity Upon Noncompliance 
+Gift Certificate and Gift Card Disclosure Act
 
- 799A.7. Authorizing Attorney General to Bring Civil Action for Certain Violations 
+795. Short Title
 
- 799A.8. Prohibiting Political Subdivisions from Imposing Certain Requirements on Online Marketplaces 
+796. Definitions
 
- Chapter 21 - Uniform Arbitration Act
+797. Unlawful Acts - Expiration Dates - Dormancy Fees - Refunds
 
- 801. Repealed 
+798. Gift Certificate or Card Constitutes Value Held in Trust - Issuer in Bankruptcy - Waiver of Rights Void
 
- 802. Repealed 
+798.1. Exclusions From Definition of "Gift Certificate" or "Gift Card"
 
- 803. Repealed 
+799. Enforcement
 
- 804. Repealed 
+Oklahoma INFORM Act
 
- 805. Repealed 
+799A.1. Short Title
 
- 806. Repealed 
+799A.2. Definitions
 
- 807. Repealed 
+799A.3. Sellers to Disclose Specified Information - Notice by Online Marketplace - Suspension of Sales - Verification - Security Procedures
 
- 808. Repealed 
+799A.4. Requiring Disclosures of Certain Information to Consumers - Suspension of Certain Sales Activity Upon Certain Noncompliance
 
- 809. Repealed 
+799A.5. Requiring Disclosure of Certain Reporting Mechanism
 
- 810. Repealed 
+799A.6. Suspension of Certain Sales Activity Upon Noncompliance
 
- 811. Repealed 
+799A.7. Authorizing Attorney General to Bring Civil Action for Certain Violations
 
- 812. Repealed 
+799A.8. Prohibiting Political Subdivisions from Imposing Certain Requirements on Online Marketplaces
 
- 813. Repealed 
+Chapter 21 - Uniform Arbitration Act
 
- 814. Repealed 
+801. Repealed
 
- 815. Repealed 
+802. Repealed
 
- 816. Repealed 
+803. Repealed
 
- 817. Repealed 
+804. Repealed
 
- 818. Repealed 
+805. Repealed
 
- 820. Bid Projects and Private Negotiated Projects - Contracts - Suspension and Resumption of Work 
+806. Repealed
 
- 821. Contracts to Which Act Does Not Apply - Void and Unenforceable Provisions, Covenants, and Clauses 
+807. Repealed
 
- Chapter 22 - Manufacturers' Warranties
+808. Repealed
 
- 901. New Motor Vehicle Not Conforming to Express Warranties - Repairs - Refunds - Attorney General's Written Statement of Rights - Civil Action 
+809. Repealed
 
- 901.1. Manufacturer Reacquiring Vehicle - Duty to Retitle - Duty to Brand Certificate of Title 
+810. Repealed
 
- 902. Installation of Object in Lieu of Airbag - Misdemeanor 
+811. Repealed
 
- Defective Assistive Device Act
+812. Repealed
 
- 910. Short Title 
+813. Repealed
 
- 910.1. Definitions 
+814. Repealed
 
- 910.2. Manufacturer to Supply Warranty - Repairs 
+815. Repealed
 
- 910.3. Required Actions of Manufacturer if Nonconformity is Not Repaired 
+816. Repealed
 
- 910.4. How to Receive a New Assistive Device or Refund - Return of Assistive Device with Nonconformity - Sale of Returned Assistive Device 
+817. Repealed
 
- 910.5. Option of Alternate Arbitration - Waiver of Rights - Limitation of Rights or Remedies 
+818. Repealed
 
- Aftermarket Crash Parts Regulation Act
+820. Bid Projects and Private Negotiated Projects - Contracts - Suspension and Resumption of Work
 
- 951. Short Title 
+821. Contracts to Which Act Does Not Apply - Void and Unenforceable Provisions, Covenants, and Clauses
 
- 952. Purpose of Act 
+Chapter 22 - Manufacturers' Warranties
 
- 953. Definitions 
+901. New Motor Vehicle Not Conforming to Express Warranties - Repairs - Refunds - Attorney General's Written Statement of Rights - Civil Action
 
- 954. Logo or Name of Manufacturer Inscription - Visibility 
+901.1. Manufacturer Reacquiring Vehicle - Duty to Retitle - Duty to Brand Certificate of Title
 
- 955. Requirements to Use of Non-Original Equipment Manufacturer Aftermarket Crash Parts 
+902. Installation of Object in Lieu of Airbag - Misdemeanor
 
- 956. Violations - Enforcement 
+Defective Assistive Device Act
 
- Chapter 23 - Electronic Records and Signature Act of 1998
+910. Short Title
 
- 960. Repealed 
+910.1. Definitions
 
- 961. Repealed 
+910.2. Manufacturer to Supply Warranty - Repairs
 
- 962. Repealed 
+910.3. Required Actions of Manufacturer if Nonconformity is Not Repaired
 
- 963. Repealed 
+910.4. How to Receive a New Assistive Device or Refund - Return of Assistive Device with Nonconformity - Sale of Returned Assistive Device
 
- 964. Repealed 
+910.5. Option of Alternate Arbitration - Waiver of Rights - Limitation of Rights or Remedies
 
- 965. Repealed 
+Aftermarket Crash Parts Regulation Act
 
- 966. Repealed 
+951. Short Title
 
- 967. Repealed 
+952. Purpose of Act
 
- 968. Repealed 
+953. Definitions
 
- Chapter 24 - Uniform Statutory Form Power of Attorney Act
+954. Logo or Name of Manufacturer Inscription - Visibility
 
- 1001. Short Title 
+955. Requirements to Use of Non-Original Equipment Manufacturer Aftermarket Crash Parts
 
- 1002. Purposes of Act 
+956. Violations - Enforcement
 
- 1003. Statutory Form for Power of Attorney 
+Chapter 23 - Electronic Records and Signature Act of 1998
 
- 1004. Durability of Power of Attorney 
+960. Repealed
 
- 1005. Construction of Power Generally 
+961. Repealed
 
- 1006. Construction of Power Relating to Real Property Transactions 
+962. Repealed
 
- 1007. Construction of Power Relating to Tangible Personal Property Transactions 
+963. Repealed
 
- 1008. Construction of Power Relating to Stock and Bond Transactions 
+964. Repealed
 
- 1009. Construction of Power Relating to Commodity and Option Transactions 
+965. Repealed
 
- 1010. Construction of Power Relating to Banking and Other Financial Institution Transactions 
+966. Repealed
 
- 1011. Construction of Power Relating to Business Operating Transactions 
+967. Repealed
 
- 1012. Construction of Power Relating to Insurance Transactions 
+968. Repealed
 
- 1013. Construction of Power Relating to Estate, Trust, and Other Beneficiary Transactions 
+Chapter 24 - Uniform Statutory Form Power of Attorney Act
 
- 1014. Construction of Power Relating to Claims and Litigation 
+1001. Short Title
 
- 1015. Construction of Power Relating to Personal and Family Maintenance 
+1002. Purposes of Act
 
- 1016. Construction of Power Relating to Benefits from Social Security, Medicare, Medicaid, or Other Governmental Programs or Military Service 
+1003. Statutory Form for Power of Attorney
 
- 1017. Construction of Power Relating to Retirement Plan Transactions 
+1004. Durability of Power of Attorney
 
- 1018. Construction of Power Relating to Tax Matters 
+1005. Construction of Power Generally
 
- 1019. Existing Interests - Foreign Interests 
+1006. Construction of Power Relating to Real Property Transactions
 
- 1020. Uniformity of Application and Construction 
+1007. Construction of Power Relating to Tangible Personal Property Transactions
 
- Chapter 25 - Y2K Protection Act
+1008. Construction of Power Relating to Stock and Bond Transactions
 
- 1021. Repealed 
+1009. Construction of Power Relating to Commodity and Option Transactions
 
- 1022. Repealed 
+1010. Construction of Power Relating to Banking and Other Financial Institution Transactions
 
- 1023. Repealed 
+1011. Construction of Power Relating to Business Operating Transactions
 
- 1024. Repealed
+1012. Construction of Power Relating to Insurance Transactions
+
+1013. Construction of Power Relating to Estate, Trust, and Other Beneficiary Transactions
+
+1014. Construction of Power Relating to Claims and Litigation
+
+1015. Construction of Power Relating to Personal and Family Maintenance
+
+1016. Construction of Power Relating to Benefits from Social Security, Medicare, Medicaid, or Other Governmental Programs or Military Service
+
+1017. Construction of Power Relating to Retirement Plan Transactions
+
+1018. Construction of Power Relating to Tax Matters
+
+1019. Existing Interests - Foreign Interests
+
+1020. Uniformity of Application and Construction
+
+Chapter 25 - Y2K Protection Act
+
+1021. Repealed
+
+1022. Repealed
+
+1023. Repealed
+
+1024. Repealed
