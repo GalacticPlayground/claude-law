@@ -1,12 +1,41 @@
 # MS — Title 5 (Justia)
 
-**Source:** <https://law.justia.com/codes/mississippi/title-5/>
+**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/mississippi/title-5/>
 **Plugin:** `us-ms-legal-corpus`
 **Pulled:** 2026-06-05
 
 ---
 
 Mississippi Code Title 5 (2024) - LEGISLATIVE DEPARTMENT :: 2024 Mississippi Code :: U.S. Codes and Statutes :: U.S. Law :: Justia
+
+2 captures
+10 Sep 2024 - 03 Apr 2025
+
+Mar |
+APR |
+May |
+
+|
+03 |
+|
+
+2024 |
+2025 |
+2026 |
+
+success
+
+fail
+
+About this capture
+
+COLLECTED BY
+
+Collection: Save Page Now Outlinks
+
+TIMESTAMPS
+
+The Wayback Machine - https://web.archive.org/web/20250403232351/https://law.justia.com/codes/mississippi/title-5/
 
 Go to Previous Versions
 of
@@ -46,6 +75,10 @@ Previous
 Next
 
 Disclaimer: These codes may not be the most recent version. Mississippi may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
+
+This site is protected by reCAPTCHA and the Google
+Privacy Policy and
+Terms of Service apply.
 
 Toggle button
 
@@ -201,7 +234,7 @@ Testimonials
 
 More...
 
-© 2026 Justia
+© 2025 Justia
 
 Justia Connect
 Legal Portal
