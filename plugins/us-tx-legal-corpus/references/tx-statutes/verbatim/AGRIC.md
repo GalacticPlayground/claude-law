@@ -1,6 +1,6 @@
-# TX — ALCO
+# TX — AGRIC
 
-**Source:** <https://statutes.capitol.texas.gov/Docs/ALCO/htm/ALCO.1.htm>
+**Source:** <https://statutes.capitol.texas.gov/Docs/AGRIC/htm/AGRIC.1.htm>
 **Plugin:** `us-tx-legal-corpus`
 **Pulled:** 2026-06-05
 
