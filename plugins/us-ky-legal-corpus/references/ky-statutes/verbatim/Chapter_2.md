@@ -77,7 +77,7 @@ Kentucky Revised Statutes
 
 
 
-Includes enactments through the 2025 Regular Session 
+Includes enactments through the 2026 Regular Session 
 
 
 
@@ -108,7 +108,7 @@ see KRS Chapter 446.
 
 
 
-The KRS database was last updated on 06/05/2026 
+The KRS database was last updated on 07/01/2026 
 
 
 
@@ -385,7 +385,7 @@ Subchapter 47 Forest Resources Development
 Subchapter 48 Environmental Stewardship
 Subchapter 50 Industrial Development
 Subchapter 54 International Trade Development (Superseded)
-Subchapter 60 Small Business Tax Credit Program
+Subchapter 60 Small Business Tax Credit and Selling Farmer Tax Credit Programs
 Subchapter 61 Motion Pictures and Entertainment Productions
 Subchapter 80 Water Resources Development
 Subchapter 85 West Kentucky Development
@@ -447,7 +447,7 @@ CHAPTER 187 FINANCIAL RESPONSIBILITY LAW
 CHAPTER 188 SERVICE OF PROCESS ON NONRESIDENT MOTORISTS
 CHAPTER 189 TRAFFIC REGULATIONS -- VEHICLE EQUIPMENT AND STORAGE
 CHAPTER 189A DRIVING UNDER THE INFLUENCE
-CHAPTER 190 MOTOR VEHICLE SALES
+CHAPTER 190 MOTOR VEHICLE SALES -- RECYCLERS
 CHAPTER 190A RECREATIONAL VEHICLE SALES
 CHAPTERS 191 TO 193 (Not yet utilized.)
 
@@ -897,6 +897,8 @@ Subchapter 8. Duties and Powers of Trustee
 Subchapter 9. Uniform Prudent Investor Act
 Subchapter 10. Liability of Trustees and Rights of Persons Dealing with Trustees
 Subchapter 11. Miscellaneous Provisions
+Subchapter 12. Uniform Directed Trust Act
+Subchapter 13. Uniform Trust Decanting Act
 CHAPTER 387 GUARDIANS -- CONSERVATORS -- CURATORS OF CONVICTS
 CHAPTER 388 UNIFORM VETERANS' GUARDIANSHIP ACT
 CHAPTER 389 SALES OF REALTY OF PERSONS UNDER DISABILITY (Superseded)

@@ -60,7 +60,7 @@ KRS Chapter 1
 
 
 
-Includes enactments through the 2025 Regular Session 
+Includes enactments through the 2026 Regular Session 
 
 
 
@@ -91,7 +91,7 @@ see KRS Chapter 446.
 
 
 
-The KRS database was last updated on 06/05/2026 
+The KRS database was last updated on 07/01/2026 
 
 
 
