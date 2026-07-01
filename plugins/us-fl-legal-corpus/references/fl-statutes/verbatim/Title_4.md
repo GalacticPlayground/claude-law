@@ -7,172 +7,359 @@
 ---
 
 Statutes & Constitution 
- :View Statutes 
- :
- 
- Online Sunshine 
+:View Statutes 
+:
 
- Skip to Menu | Skip to Main Content 
+Online Sunshine 
 
- June 5, 2026 
 
- Search Statutes:
 
- 2025 
- 
- 2024 
- 
- 2023 
- 
- 2022 
- 
- 2021 
- 
- 2020 
- 
- 2019 
- 
- 2018 
- 
- 2017 
- 
- 2016 
- 
- 2015 
- 
- 2014 
- 
- 2013 
- 
- 2012 
- 
- 2011 
- 
- 2010 
- 
- 2009 
- 
- 2008 
- 
- 2007 
- 
- 2006 
- 
- 2005 
- 
- 2004 
- 
- 2003 
- 
- 2002 
- 
- 2001 
- 
- 2000 
- 
- 1999 
- 
- 1998 
- 
- 1997 
 
- Search Terms:
 
- Home 
 
- Senate 
 
- House 
 
- Citator 
 
- Statutes, Constitution,
+
+
+
+
+
+
+
+
+
+  | 
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Menu | Skip to Main Content
+
+
+
+
+| 
+
+
+
+
+
+
+
+July 1, 2026 | 
+
+
+Search Statutes:
+
+
+
+2025 
+
+2024 
+
+2023 
+
+2022 
+
+2021 
+
+2020 
+
+2019 
+
+2018 
+
+2017 
+
+2016 
+
+2015 
+
+2014 
+
+2013 
+
+2012 
+
+2011 
+
+2010 
+
+2009 
+
+2008 
+
+2007 
+
+2006 
+
+2005 
+
+2004 
+
+2003 
+
+2002 
+
+2001 
+
+2000 
+
+1999 
+
+1998 
+
+1997 
+
+
+Search Terms:
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+Home 
+
+
+Senate 
+
+House 
+
+Citator 
+
+Statutes, Constitution,
 
 & Laws of Florida 
 
- Florida Statutes 
 
- Search & Browse Download 
+Florida Statutes
 
- Search Statutes 
 
- Search Tips 
+Search & Browse Download
 
- Florida Constitution 
+Search Statutes
 
- Laws of Florida 
+Search Tips
 
- Legislative & Executive Branch Lobbyists 
- Information Center 
+Florida Constitution
 
- Joint Legislative Committees & 
+Laws of Florida
+
+
+
+Legislative & Executive Branch Lobbyists 
+Information Center 
+
+
+Joint Legislative Committees &
 Other Entities 
 
- Joint Administrative Procedures Committee (JAPC) 
- 
- Joint Committee on Public Counsel Oversight(JCPO) 
 
- Joint Legislative Auditing Committee (JLAC) 
+Joint Administrative Procedures Committee (JAPC)
 
- Joint Legislative Budget Commission (JLBC) 
+Joint Committee on Public Counsel Oversight(JCPO)
 
- Joint Select Committee on Collective Bargaining (JSCB) 
+Joint Legislative Auditing Committee (JLAC)
 
- Public Service Commission Nominating Council (PSCNC) 
- --> 
- Office of Program Policy Analysis & Government Accountability (OPPAGA) 
 
- Auditor General 
+Joint Legislative Budget Commission (JLBC)
 
- Commission on Ethics 
- 
- Economic and Demographic Research (EDR) 
+Joint Select Committee on Collective Bargaining (JSCB)
 
- Florida Historic Capitol 
+Public Service Commission Nominating Council (PSCNC)
+--> 
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
 
- Florida Government Efficiency Task Force 
- Legislative Employment 
- Legistore 
- Links 
+Auditor General
 
- -->
+Commission on Ethics
 
- Select Year:  
+Economic and Demographic Research (EDR)
 
- 2025 
- 2024 
- 2023 
- 2022 
- 2021 
- 2020 
- 2019 
- 2018 
- 2017 
- 2016 
- 2015 
- 2014 
- 2013 
- 2012 
- 2011 
- 2010 
- 2009 
- 2008 
- 2007 
- 2006 
- 2005 
- 2004 
- 2003 
- 2002 
- 2001 
- 2000 
- 1999 
- 1998 
- 1997 
+Florida Historic Capitol
 
- The Florida Statutes 
 
- The 2025 Florida Statutes 
 
-The statute you have selected cannot be found. 
 
- Copyright © 1995-2026 The Florida Legislature • Privacy Statement • Contact Us
+
+
+
+
+
+
+
+Florida Government Efficiency Task Force 
+Legislative Employment 
+Legistore 
+Links 
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select Year:  
+
+
+
+2025 
+2024 
+2023 
+2022 
+2021 
+2020 
+2019 
+2018 
+2017 
+2016 
+2015 
+2014 
+2013 
+2012 
+2011 
+2010 
+2009 
+2008 
+2007 
+2006 
+2005 
+2004 
+2003 
+2002 
+2001 
+2000 
+1999 
+1998 
+1997 
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+The Florida Statutes 
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+The 2025 Florida Statutes 
+
+
+
+
+| 
+
+
+
+
+| 
+
+
+
+The statute you have selected cannot be found.
+
+|
+
+
+
+
+
+| 
+
+
+
+Copyright © 1995-2026 The Florida Legislature • Privacy Statement • Contact Us |
