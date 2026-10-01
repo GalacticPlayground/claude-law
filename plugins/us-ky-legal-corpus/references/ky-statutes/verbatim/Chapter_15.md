@@ -40,6 +40,8 @@ Kentucky Revised Statutes - Chapter 2
 
 
 
+
+
 Kentucky Revised Statutes 
 
 
@@ -60,7 +62,7 @@ KRS Chapter 2
 
 
 
-Includes enactments through the 2025 Regular Session 
+Includes enactments through the 2026 Regular Session 
 
 
 
@@ -91,7 +93,7 @@ see KRS Chapter 446.
 
 
 
-The KRS database was last updated on 06/05/2026 
+The KRS database was last updated on 10/01/2026 
 
 
 
@@ -108,7 +110,9 @@ The KRS database was last updated on 06/05/2026
 
 .013 State language.
 
-.015 Age of majority -- Exceptions.
+.015 Age of majority -- Exceptions. (Effective January 1, 2027)
+
+.015 Age of majority -- Exceptions. (Effective until January 1, 2027)
 
 .020 State seal.
 
@@ -129,6 +133,16 @@ The KRS database was last updated on 06/05/2026
 .065 POW/MIA flag -- Flags purchased or displayed by public institutions to be manufactured in United States.
 
 .070 Repealed, 1975.
+
+.071 State dog.
+
+.072 Official pets.
+
+.075 State nongame mammal.
+
+.076 State amphibian.
+
+.078 State mushroom.
 
 .080 State bird.
 
@@ -267,6 +281,8 @@ The KRS database was last updated on 06/05/2026
 .250 Garden week.
 
 .255 "Commonwealth Cleanup" week -- Environmental Education Month.
+
+.257 Unclaimed Property Week.
 
 .260 State Tug-of-War Championship.
 
