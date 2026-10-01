@@ -1,26 +1,56 @@
 # MS — Title 21 (Justia)
 
-**Source:** <https://law.justia.com/codes/mississippi/title-21/>
+**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/mississippi/title-21/>
 **Plugin:** `us-ms-legal-corpus`
 **Pulled:** 2026-06-05
 
 ---
 
-Mississippi Code Title 21 (2024) - MUNICIPALITIES :: 2024 Mississippi Code :: U.S. Codes and Statutes :: U.S. Law :: Justia
+Mississippi Code Title 21 (2023) - MUNICIPALITIES :: 2023 Mississippi Code :: US Codes and Statutes :: US Law :: Justia
 
-Go to Previous Versions
+3 captures
+08 Oct 2024 - 20 Jul 2026
+
+Sep |
+OCT |
+Nov |
+
+|
+08 |
+|
+
+2023 |
+2024 |
+2025 |
+
+success
+
+fail
+
+About this capture
+
+TIMESTAMPS
+
+The Wayback Machine - https://web.archive.org/web/20241008020750/https://law.justia.com/codes/mississippi/title-21/
+
+Go to previous versions
 of
 this Title
 
-2024 Mississippi Code (here)
+2023
+(you are here)
 
-2023 Mississippi Code
+2020
 
-2020 Mississippi Code
+2019
 
-View All Versions
+2018
 
-Mississippi Code 1972 (2024)
+2017
+
+Other previous versions
+
+Mississippi Code 1972 (2023)
 Title 21 - MUNICIPALITIES (§§ 21-1-1 — 21-47-5)
 
 Previous
@@ -55,7 +85,7 @@ Chapter 23 - MUNICIPAL COURTS (§§ 21-23-1 — 21-23-23)
 
 Chapter 25 - FIRE DEPARTMENTS AND FIRE DISTRICTS (§§ 21-25-1 — 21-25-59)
 
-Chapter 27 - PUBLIC UTILITIES AND TRANSPORTATION (§§ 21-27-1 — 21-27-253)
+Chapter 27 - PUBLIC UTILITIES AND TRANSPORTATION (§§ 21-27-1 — 21-27-221)
 
 Chapter 29 - EMPLOYEES' RETIREMENT AND DISABILITY SYSTEMS (§§ 21-29-1 — 21-29-333)
 
@@ -84,6 +114,10 @@ Previous
 Next
 
 Disclaimer: These codes may not be the most recent version. Mississippi may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
+
+This site is protected by reCAPTCHA and the Google
+Privacy Policy and
+Terms of Service apply.
 
 Toggle button
 
@@ -167,11 +201,11 @@ Employment
 
 More...
 
-U.S. Federal Law
+US Federal Law
 
-U.S. Constitution
+US Constitution
 
-U.S. Code
+US Code
 
 Regulations
 
@@ -185,7 +219,7 @@ Dockets & Filings
 
 More...
 
-U.S. State Law
+US State Law
 
 State Constitutions
 
@@ -239,7 +273,7 @@ Testimonials
 
 More...
 
-© 2026 Justia
+© 2024 Justia
 
 Justia Connect
 Legal Portal

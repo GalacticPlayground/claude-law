@@ -1,26 +1,51 @@
 # MS — Title 13 (Justia)
 
-**Source:** <https://law.justia.com/codes/mississippi/title-13/>
+**Source:** <https://web.archive.org/web/2024/https://law.justia.com/codes/mississippi/title-13/>
 **Plugin:** `us-ms-legal-corpus`
 **Pulled:** 2026-06-05
 
 ---
 
-Mississippi Code Title 13 (2024) - EVIDENCE, PROCESS AND JURIES :: 2024 Mississippi Code :: U.S. Codes and Statutes :: U.S. Law :: Justia
+Mississippi Code Title 13 (2023) - EVIDENCE, PROCESS AND JURIES :: 2023 Mississippi Code :: US Codes and Statutes :: US Law :: Justia
+
+3 captures
+11 Dec 2024 - 04 Aug 2026
+
+Nov |
+DEC |
+Jan |
+
+|
+11 |
+|
+
+2023 |
+2024 |
+2025 |
+
+success
+
+fail
+
+About this capture
+
+TIMESTAMPS
+
+The Wayback Machine - https://web.archive.org/web/20241211105509/https://law.justia.com/codes/mississippi/title-13/
 
 Go to Previous Versions
 of
 this Title
 
-2024 Mississippi Code (here)
-
-2023 Mississippi Code
+2023 Mississippi Code (here)
 
 2020 Mississippi Code
 
+2019 Mississippi Code
+
 View All Versions
 
-Mississippi Code 1972 (2024)
+Mississippi Code 1972 (2023)
 Title 13 - EVIDENCE, PROCESS AND JURIES (§§ 13-1-1 — 13-7-49)
 
 Previous
@@ -40,6 +65,10 @@ Previous
 Next
 
 Disclaimer: These codes may not be the most recent version. Mississippi may have more current or accurate information. We make no warranties or guarantees about the accuracy, completeness, or adequacy of the information contained on this site or the information linked to on the state site. Please check official sources.
+
+This site is protected by reCAPTCHA and the Google
+Privacy Policy and
+Terms of Service apply.
 
 Toggle button
 
@@ -123,11 +152,11 @@ Employment
 
 More...
 
-U.S. Federal Law
+US Federal Law
 
-U.S. Constitution
+US Constitution
 
-U.S. Code
+US Code
 
 Regulations
 
@@ -141,7 +170,7 @@ Dockets & Filings
 
 More...
 
-U.S. State Law
+US State Law
 
 State Constitutions
 
@@ -195,7 +224,7 @@ Testimonials
 
 More...
 
-© 2026 Justia
+© 2024 Justia
 
 Justia Connect
 Legal Portal

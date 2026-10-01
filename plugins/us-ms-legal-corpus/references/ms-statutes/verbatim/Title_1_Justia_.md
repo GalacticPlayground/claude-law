@@ -8,8 +8,8 @@
 
 Mississippi Code Title 1 (2023) - LAWS AND STATUTES :: 2023 Mississippi Code :: US Codes and Statutes :: US Law :: Justia
 
-4 captures
-10 Sep 2024 - 31 Mar 2025
+9 captures
+10 Sep 2024 - 13 Sep 2026
 
 Nov |
 DEC |
@@ -28,12 +28,6 @@ success
 fail
 
 About this capture
-
-COLLECTED BY
-
-Collection: Common Crawl
-
-Web crawl data from Common Crawl.
 
 TIMESTAMPS
 
