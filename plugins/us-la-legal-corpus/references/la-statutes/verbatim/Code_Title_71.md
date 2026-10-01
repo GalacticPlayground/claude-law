@@ -402,7 +402,7 @@ Applicability of Code of Evidence
 CHC 106 
 | 
 
-Number, gender 
+Number; sex 
 | 
 
 
@@ -1509,10 +1509,20 @@ Multidisciplinary investigative team; scope of responsibility
 
 
 
+CHC 508.1 
+| 
+
+Multidisciplinary investigative team; care coordination 
+| 
+
+
+
+
+
 CHC 509 
 | 
 
-Development of interagency protocols; drafting committee membership; meetings; compliance deadline 
+Repealed by Acts 2026, No. 960, §11, eff. Jan. 1, 2027. 
 | 
 
 
@@ -1613,6 +1623,16 @@ CHC 525
 | 
 
 Confidentiality policy; exceptions 
+| 
+
+
+
+
+
+CHC 525.1 
+| 
+
+Confidential information of child advocacy centers and multidisciplinary investigative teams 
 | 
 
 
@@ -1849,6 +1869,46 @@ Child Protection Representation Commission; establishment; purpose and functions
 
 
 
+CHC 581.1 
+| 
+
+Contractual agreement; Title IV-E eligible legal representation costs; claims; definitions 
+| 
+
+
+
+
+
+CHC 581.2 
+| 
+
+Contractual agreement; duty to negotiate 
+| 
+
+
+
+
+
+CHC 581.3 
+| 
+
+Reimbursement; legal representation costs; retention 
+| 
+
+
+
+
+
+CHC 581.4 
+| 
+
+Promulgation of rules 
+| 
+
+
+
+
+
 CHC 601 
 | 
 
@@ -1883,6 +1943,16 @@ CHC 603.1
 | 
 
 Required education; reporting child abuse 
+| 
+
+
+
+
+
+CHC 603.2 
+| 
+
+Pregnancy of a child; service eligibility 
 | 
 
 
@@ -2032,7 +2102,7 @@ Reports; review by district attorney
 CHC 616 
 | 
 
-Central registry; screening court-appointed special advocates volunteers; confidentiality 
+Registry; screening of CASA volunteers, staff, and board members; confidentiality 
 | 
 
 
@@ -2453,7 +2523,7 @@ Answer to petition; objection by child
 CHC 650 
 | 
 
-Intervention 
+Repealed by Acts 2026, No. 139, §2. 
 | 
 
 
@@ -2534,6 +2604,16 @@ CHC 658
 | 
 
 Dismissal of petition 
+| 
+
+
+
+
+
+CHC 658.1 
+| 
+
+Motion for intervention 
 | 
 
 
@@ -2783,7 +2863,7 @@ Disposition hearing; time
 CHC 679 
 | 
 
-Notice; presence at disposition 
+Notice; presence at disposition hearing; right to be heard 
 | 
 
 
@@ -2943,7 +3023,7 @@ Notice; absent parents
 CHC 695 
 | 
 
-Notice; foster parents, pre-adoptive parents, relatives providing care; right to be heard 
+Notice; presence at case review hearing; right to be heard 
 | 
 
 
@@ -2963,7 +3043,7 @@ Rights of parties
 CHC 697 
 | 
 
-Intervention 
+Repealed by Acts 2026, No. 139, §2 
 | 
 
 
@@ -3043,7 +3123,7 @@ Notice; absent parents
 CHC 705 
 | 
 
-Notice; right to be heard 
+Notice; presence at permanency hearing; right to be heard 
 | 
 
 
@@ -3063,7 +3143,7 @@ Rights of parties
 CHC 707 
 | 
 
-Intervention 
+Repealed by Acts 2026, No. 139, §2. 
 | 
 
 
@@ -5061,6 +5141,16 @@ Adjudication hearing; time limitations
 
 
 
+CHC 877.1 
+| 
+
+Suspension of time limitations 
+| 
+
+
+
+
+
 CHC 878 
 | 
 
@@ -5625,6 +5715,16 @@ CHC 951
 | 
 
 Purpose 
+| 
+
+
+
+
+
+CHC 951.1 
+| 
+
+Definitions 
 | 
 
 
@@ -8185,7 +8285,7 @@ Continuing contact agreements; voluntary
 CHC 1269.2 
 | 
 
-Continuing post-adoption contact; foster child adoptions 
+Continuing post-adoption contact; adoption of child in foster care 
 | 
 
 
@@ -11699,130 +11799,4 @@ Conditions for placement
 CHC 1611 
 | 
 
-Illegal placement; penalty 
-| 
-
-
-
-
-
-CHC 1612 
-| 
-
-Retention of jurisdiction 
-| 
-
-
-
-
-
-CHC 1613 
-| 
-
-Institutional care of delinquent children 
-| 
-
-
-
-
-
-CHC 1614 
-| 
-
-Compact administrator 
-| 
-
-
-
-
-
-CHC 1615 
-| 
-
-Limitations upon applicability 
-| 
-
-
-
-
-
-CHC 1616 
-| 
-
-Enactment and withdrawal 
-| 
-
-
-
-
-
-CHC 1617 
-| 
-
-Construction and severability 
-| 
-
-
-
-
-
-CHC 1618 
-| 
-
-Supplementary definitions applicable only to this state 
-| 
-
-
-
-
-
-CHC 1619 
-| 
-
-Financial responsibility for children 
-| 
-
-
-
-
-
-CHC 1620 
-| 
-
-Authority to enter into agreements; approval of state treasurer 
-| 
-
-
-
-
-
-CHC 1621 
-| 
-
-Jurisdiction 
-| 
-
-
-
-
-
-CHC 1622 
-| 
-
-Appointment of compact administrator 
-| 
-
-
-
-
-
-CHC 1623 
-| 
-
-Interstate compact for the placement of children; purpose 
-| 
-
-
-
-
-
+Illegal placement; p

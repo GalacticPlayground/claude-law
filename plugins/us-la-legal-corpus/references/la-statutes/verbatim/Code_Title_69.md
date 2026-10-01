@@ -362,7 +362,7 @@ Procedures not otherwise specified
 CCRP 4 
 | 
 
-Number; gender 
+Number; sex 
 | 
 
 
@@ -982,7 +982,7 @@ Arrest defined
 CCRP 202 
 | 
 
-Warrant of arrest; issuance 
+Warrant of arrest; issuance; recall 
 | 
 
 
@@ -1819,6 +1819,16 @@ Right to bail before and after conviction
 
 
 
+CCRP 312.1 
+| 
+
+Revocation of bail upon subsequent felony arrest 
+| 
+
+
+
+
+
 CCRP 313 
 | 
 
@@ -2012,7 +2022,7 @@ Bail undertaking
 CCRP 329 
 | 
 
-Declaration of residence; waiver of notice 
+Declaration of address of service; waiver of notice 
 | 
 
 
@@ -2082,7 +2092,7 @@ Court order for arrest of defendant
 CCRP 333 
 | 
 
-Failure to appear; issuance of arrest warrant 
+Failure to appear; notice and issuance of warrant for arrest; effect on surety 
 | 
 
 
@@ -2092,7 +2102,7 @@ Failure to appear; issuance of arrest warrant
 CCRP 334 
 | 
 
-Notice of warrant of arrest 
+Repealed 
 | 
 
 
@@ -3979,6 +3989,16 @@ Time limitation for certain sex offenses
 
 
 
+CCRP 571.2 
+| 
+
+Time limitation for certain offenses committed by elected officials or public employees 
+| 
+
+
+
+
+
 CCRP 572 
 | 
 
@@ -5099,6 +5119,16 @@ Notice of defense based upon mental condition
 
 
 
+CCRP 726.1 
+| 
+
+Notice of medical condition 
+| 
+
+
+
+
+
 CCRP 727 
 | 
 
@@ -5729,10 +5759,20 @@ Removal of jury
 
 
 
+CCRP 794.1 
+| 
+
+Disclosure of juror information 
+| 
+
+
+
+
+
 CCRP 795 
 | 
 
-Time for challenges; method; peremptory challenges based on race or gender; restrictions 
+Time for challenges; method; peremptory challenges based on race or sex; restrictions 
 | 
 
 
@@ -6372,7 +6412,7 @@ Cruel or unusual punishment
 CCRP 878.1 
 | 
 
-Sentencing hearing for juvenile offenders 
+Hearing to determine parole eligibility for certain juvenile offenders 
 | 
 
 
@@ -6803,6 +6843,16 @@ CCRP 894.5
 | 
 
 Submission of DWI - Code of Criminal Procedure Article 894 Plea Records to office of motor vehicles; forms to be used and completed by the clerk of court 
+| 
+
+
+
+
+
+CCRP 894.6 
+| 
+
+Sentencing considerations and conditions of probation for pregnant defendants 
 | 
 
 
@@ -7420,6 +7470,16 @@ Abandonment of application
 
 
 
+CCRP 927.2 
+| 
+
+Unexhausted claims 
+| 
+
+
+
+
+
 CCRP 928 
 | 
 
@@ -7723,7 +7783,7 @@ Clerk of affected court
 CCRP 953 
 | 
 
-Authority of indigent defender board in emergency sessions of court 
+Authority of office of the district public defender in emergency sessions of court 
 | 
 
 
@@ -7864,6 +7924,16 @@ CCRP 978
 | 
 
 Motion to expunge record of arrest and conviction of a felony offense 
+| 
+
+
+
+
+
+CCRP 978.1 
+| 
+
+Requirements for submitting motion to expunge arrest information 
 | 
 
 

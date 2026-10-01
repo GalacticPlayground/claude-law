@@ -462,7 +462,7 @@ Laws on the same subject matter
 CC 14 
 | 
 
-Use of gender 
+Use of sex 
 | 
 
 
@@ -1203,6 +1203,16 @@ CC 137
 | 
 
 Denial of visitation; sex offense; death of a parent 
+| 
+
+
+
+
+
+CC 138 
+| 
+
+Modification of custody award 
 | 
 
 
@@ -11733,12 +11743,4 @@ Solidary obligation arising from different sources
 CC 1798 
 | 
 
-Obligation subject to condition or term 
-| 
-
-
-
-
-
-CC 1799 
-| 
+Obligation 

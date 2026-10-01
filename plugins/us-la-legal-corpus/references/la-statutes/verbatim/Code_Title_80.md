@@ -799,6 +799,16 @@ Noncompliance with Chapter; injunction
 
 
 
+RS 4.82.3 
+| 
+
+Disciplinary actions 
+| 
+
+
+
+
+
 RS 4:83 
 | 
 
@@ -934,6 +944,16 @@ RS 4:147.2
 | 
 
 Additional powers of commission; force majeure 
+| 
+
+
+
+
+
+RS 4:147.3 
+| 
+
+Authority to obtain criminal history record information 
 | 
 
 
@@ -2451,6 +2471,16 @@ Agent's contract; schedule of fees; maximum fee; notification; penalty
 
 
 
+RS 4:423.1 
+| 
+
+Additional required disclosures for endorsement contracts; rules 
+| 
+
+
+
+
+
 RS 4:424 
 | 
 
@@ -2464,7 +2494,7 @@ Prohibited activities; duties, obligations, and responsibilities
 RS 4:425 
 | 
 
-On-campus agent interviews 
+Repealed by Acts 2026, No. 895, §2, eff. June 2, 2026. 
 | 
 
 
@@ -2514,7 +2544,7 @@ Time for registration and compliance with Chapter
 RS 4:430 
 | 
 
-Attorneys licensed in state 
+Repealed by Acts 2026, No. 895, §2, eff. June 9, 2026 
 | 
 
 
@@ -2541,10 +2571,40 @@ Liability for loss of eligibility
 
 
 
+RS 4:432.1 
+| 
+
+Civil remedies 
+| 
+
+
+
+
+
 RS 4:433 
 | 
 
 Unlawful payments; penalties 
+| 
+
+
+
+
+
+RS 4:434 
+| 
+
+Unfair or deceptive acts or practices; investigations and actions by the attorney general; private actions 
+| 
+
+
+
+
+
+RS 4:435 
+| 
+
+Requirement to register 
 | 
 
 
@@ -2685,6 +2745,16 @@ RS 4:705
 | 
 
 Office functions, duties, and responsibilities 
+| 
+
+
+
+
+
+RS 4:705.1 
+| 
+
+Authority to obtain criminal history record information 
 | 
 
 
@@ -2934,7 +3004,7 @@ License for manufacturers or distributors of gaming supplies or equipment; prohi
 RS 4:727 
 | 
 
-Combination of interests prohibited 
+Repealed by Acts 2026, No. 940, §2. 
 | 
 
 
