@@ -8,8 +8,8 @@
 
 Alabama Code Title 2 (2023) - Agriculture. :: 2023 Code of Alabama :: US Codes and Statutes :: US Law :: Justia
 
-2 captures
-30 Sep 2024 - 30 Apr 2025
+3 captures
+30 Sep 2024 - 10 Jun 2026
 
 Aug |
 SEP |
@@ -28,10 +28,6 @@ success
 fail
 
 About this capture
-
-COLLECTED BY
-
-Collection: Save Page Now Outlinks
 
 TIMESTAMPS
 

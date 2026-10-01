@@ -8,8 +8,8 @@
 
 Alabama Code Title 3 (2023) - Animals. :: 2023 Code of Alabama :: US Codes and Statutes :: US Law :: Justia
 
-1 capture
-30 Sep 2024
+3 captures
+17 Jun 2024 - 10 Jun 2026
 
 Aug |
 SEP |
@@ -28,10 +28,6 @@ success
 fail
 
 About this capture
-
-COLLECTED BY
-
-Collection: Save Page Now Outlinks
 
 TIMESTAMPS
 
