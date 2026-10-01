@@ -8,199 +8,201 @@
 
 Ch. 8 MN Statutes
 
- Minnesota Legislature 
- 
- Advanced
- Search 
- Search Legislature 
- 
- Search 
+Minnesota Legislature
 
- Office of the Revisor of Statutes 
+Advanced
+Search
+Search Legislature
 
- Office of the Revisor of Statutes
+Search
 
- 2025 Minnesota Statutes 
+Office of the Revisor of Statutes
 
- CONSTITUTIONAL OFFICES AND DUTIES 
+Office of the Revisor of Statutes
 
- Chapter 8
+2025 Minnesota Statutes
 
- 2025 Minnesota Statutes
+CONSTITUTIONAL OFFICES AND DUTIES
 
- Authenticate 
+Chapter 8
 
- PDF 
+2025 Minnesota Statutes
 
- Resources
+Authenticate
 
- Search Minnesota Statutes 
+PDF
 
- About Minnesota Statutes 
+Resources
 
- 2025 Statutes New, Amended or Repealed 
+Search Minnesota Statutes
 
- 2025 Table of Chapters 
+About Minnesota Statutes
 
- 2025 Statutes Topics (Index) 
+2025 Statutes New, Amended or Repealed
 
- Chapter 8
+2025 Table of Chapters
 
- Table of Sections 
+2025 Statutes Topics (Index)
 
- Full Chapter Text 
+Chapter 8
 
- Version List 
+Table of Sections
 
- This chapter has been affected by law enacted during the 2026 Regular Session. More info... 
+Full Chapter Text
 
- 8.16 subd. 1 has been amended by Chapter 97, Article 3, Section 1 
+Version List
 
- 8.16 subd. 1 has been amended by Chapter 118, Article 4, Section 1 
+This chapter has been affected by law enacted during the 2026 Regular Session. More info...
 
- 8.16 subd. 1 has been amended by Chapter 127, Article 7, Section 1 
+8.16 subd. 1 has been amended by Chapter 97, Article 3, Section 1
 
- 8.37 subd. 3 has been amended by Chapter 124, Article 1, Section 1 
+8.16 subd. 1 has been amended by Chapter 118, Article 4, Section 1
 
- 8.37 subd. 5 has been amended by Chapter 124, Article 1, Section 2 
+8.16 subd. 1 has been other by Chapter 118, Article 4, Section 5
 
- Note: see session law sections for effective dates.
+8.16 subd. 1 has been amended by Chapter 127, Article 7, Section 1
 
- CHAPTER 8. ATTORNEY GENERAL
+8.37 subd. 3 has been amended by Chapter 124, Article 1, Section 1
 
- Table of Sections 
+8.37 subd. 5 has been amended by Chapter 124, Article 1, Section 2
 
- Section 
- Headnote 
+Note: see session law sections for effective dates.
 
- 8.01 
- 
- APPEARANCE. 
+CHAPTER 8. ATTORNEY GENERAL
 
- 8.02 
- 
- DEPUTIES, ASSISTANTS. 
+Table of Sections
 
- 8.023 
- 
- [Repealed, 1977 c 172 s 3 ] 
+Section
+Headnote
 
- 8.024 
- 
- [Repealed, 1977 c 172 s 3 ] 
+8.01
+|
+APPEARANCE. |
 
- 8.025 
- 
- PART-TIME SPECIAL ATTORNEYS, PAYMENT ON HOURLY BASIS. 
+8.02
+|
+DEPUTIES, ASSISTANTS. |
 
- 8.026 
- 
- [Repealed, 1977 c 172 s 3 ] 
+8.023
+|
+[Repealed, 1977 c 172 s 3 ] |
 
- 8.03 
- 
- PROSECUTIONS. 
+8.024
+|
+[Repealed, 1977 c 172 s 3 ] |
 
- 8.04 
- 
- PUBLIC LANDS. 
+8.025
+|
+PART-TIME SPECIAL ATTORNEYS, PAYMENT ON HOURLY BASIS. |
 
- 8.05 
- 
- FORMS PREPARED; OPINIONS. 
+8.026
+|
+[Repealed, 1977 c 172 s 3 ] |
 
- 8.06 
- 
- ATTORNEY FOR STATE OFFICERS, BOARDS, OR COMMISSIONS; EMPLOY COUNSEL. 
+8.03
+|
+PROSECUTIONS. |
 
- 8.065 
- 
- PRIVATE ATTORNEY CONTRACTS. 
+8.04
+|
+PUBLIC LANDS. |
 
- 8.07 
- 
- OPINIONS: QUESTIONS OF PUBLIC IMPORTANCE; PUBLIC SCHOOLS. 
+8.05
+|
+FORMS PREPARED; OPINIONS. |
 
- 8.08 
- 
- REPORT. 
+8.06
+|
+ATTORNEY FOR STATE OFFICERS, BOARDS, OR COMMISSIONS; EMPLOY COUNSEL. |
 
- 8.09 
- 
- CLAIMS OF STATE AGAINST UNITED STATES; RETAIN COUNSEL. 
+8.065
+|
+PRIVATE ATTORNEY CONTRACTS. |
 
- 8.10 
- 
- COMPENSATION OF ATTORNEYS. 
+8.07
+|
+OPINIONS: QUESTIONS OF PUBLIC IMPORTANCE; PUBLIC SCHOOLS. |
 
- 8.11 
- 
- BRINGING ACTION TO RECOVER ON BONDS. 
+8.08
+|
+REPORT. |
 
- 8.12 
- 
- SOLICITOR GENERAL; DUTIES. 
+8.09
+|
+CLAIMS OF STATE AGAINST UNITED STATES; RETAIN COUNSEL. |
 
- 8.13 
- 
- CONTEST OF BARRIERS ON DAIRY PRODUCTS. 
+8.10
+|
+COMPENSATION OF ATTORNEYS. |
 
- 8.14 
- 
- ACTIONS CHALLENGING STATE EXPENDITURES; INTERVENTION. 
+8.11
+|
+BRINGING ACTION TO RECOVER ON BONDS. |
 
- 8.15 
- 
- ATTORNEY GENERAL COSTS. 
+8.12
+|
+SOLICITOR GENERAL; DUTIES. |
 
- 8.16 
- 
- ATTORNEY GENERAL; ADMINISTRATIVE SUBPOENAS. 
+8.13
+|
+CONTEST OF BARRIERS ON DAIRY PRODUCTS. |
 
- 8.20 
- 
- DELEGATION OF CONTRACT REVIEW. 
+8.14
+|
+ACTIONS CHALLENGING STATE EXPENDITURES; INTERVENTION. |
 
- 8.30 
- 
- COMPROMISE OF TAX AND FEE CLAIMS. 
+8.15
+|
+ATTORNEY GENERAL COSTS. |
 
- 8.31 
- 
- ADDITIONAL DUTIES OF ATTORNEY GENERAL. 
+8.16
+|
+ATTORNEY GENERAL; ADMINISTRATIVE SUBPOENAS. |
 
- 8.315 
- 
- CONSUMER LITIGATION ACCOUNT. 
+8.20
+|
+DELEGATION OF CONTRACT REVIEW. |
 
- 8.32 
- 
- CONSUMER AFFAIRS. 
+8.30
+|
+COMPROMISE OF TAX AND FEE CLAIMS. |
 
- 8.33 
- 
- REPRESENTATION OF CONSUMER AND SMALL BUSINESS INTEREST IN PUBLIC UTILITY MATTERS. 
+8.31
+|
+ADDITIONAL DUTIES OF ATTORNEY GENERAL. |
 
- 8.34 
- 
- BIAS-MOTIVATED CRIME PROSECUTION TRAINING. 
+8.315
+|
+CONSUMER LITIGATION ACCOUNT. |
 
- 8.35 
- 
- PUBLIC EDUCATION CAMPAIGN. 
+8.32
+|
+CONSUMER AFFAIRS. |
 
- 8.36 
- 
- [Repealed, 1995 c 226 art 3 s 64 ] 
+8.33
+|
+REPRESENTATION OF CONSUMER AND SMALL BUSINESS INTEREST IN PUBLIC UTILITY MATTERS. |
 
- 8.37 
- 
- CONSUMER PROTECTION RESTITUTION ACCOUNT. 
+8.34
+|
+BIAS-MOTIVATED CRIME PROSECUTION TRAINING. |
 
- 8.40 
- 
- EXPENSES OF ATTORNEY GENERAL-ELECT. 
+8.35
+|
+PUBLIC EDUCATION CAMPAIGN. |
 
- Official Publication of the State of Minnesota
+8.36
+|
+[Repealed, 1995 c 226 art 3 s 64 ] |
 
- Revisor of Statutes
+8.37
+|
+CONSUMER PROTECTION RESTITUTION ACCOUNT. |
+
+8.40
+|
+EXPENSES OF ATTORNEY GENERAL-ELECT. |
+
+Official Publication of the State of Minnesota
+
+Revisor of Statutes
