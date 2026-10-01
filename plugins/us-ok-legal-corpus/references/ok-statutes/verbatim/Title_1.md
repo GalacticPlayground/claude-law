@@ -8,97 +8,112 @@
 
 OCIS Document Index 
 
- Index of Available Documents 
 
- Up One Level 
- Show 
- 1 2 3 4 5 Levels 
- Title 1. Abstracting (STOKST01) Search 
 
- 1. Repealed 
 
- 2. Repealed 
 
- 3. Repealed 
 
- 4. Repealed 
 
- 5. Repealed 
 
- 6. Repealed 
 
- 7. Repealed 
 
- 8. Repealed 
 
- 9. Repealed 
 
- 10. Repealed 
 
- 11. Repealed 
 
- 12. Repealed 
+Index of Available Documents
 
- 13. Repealed 
+| |
+Up One Level
+| Show 
+1 2 3 4 5 Levels | |
+Title 1. Abstracting (STOKST01)
+Search
 
- 14. Repealed 
+1. Repealed
 
- 15. Repealed 
+2. Repealed
 
- 16. Repealed 
+3. Repealed
 
- 17. Repealed 
+4. Repealed
 
- 18. Repealed 
+5. Repealed
 
- Oklahoma Abstractors Act
+6. Repealed
 
- 20. Short Title 
+7. Repealed
 
- 21. Definitions 
+8. Repealed
 
- 22. Oklahoma Abstractors Board - Powers - Duties - Members 
+9. Repealed
 
- 23. Oklahoma Abstractors Board - Meetings - Officers - Quorum 
+10. Repealed
 
- 24. Administration of Oklahoma Abstractors Act - Employment of Hearing Examiners 
+11. Repealed
 
- 25. Oklahoma Abstractors Board - Additional Powers and Duties 
+12. Repealed
 
- 26. Oklahoma Abstractors Board Revolving Fund 
+13. Repealed
 
- 27. Application for Certificate of Authority - Fees - Bonds 
+14. Repealed
 
- 28. Independent Set of Abstract Books Required to Engage in Abstracting 
+15. Repealed
 
- 29. Certain Entities Required to Apply for Certificate of Authority - Notice to Certificate Holders in County 
+16. Repealed
 
- 30. Certificate of Authority - Issuance - Form - Display - Renewal 
+17. Repealed
 
- 31. Requirement of Abstract Plant and Maintenance 
+18. Repealed
 
- 32. Abstracts and Documents to be Provided to Upon Valid Order - Penalties and Liability - Extenuating Circumstances 
+Oklahoma Abstractors Act
 
- 33. Repeated Violations - Temporary Certificates of Authority 
+20. Short Title
 
- 34. Application for Permit to Develop Abstract Plants 
+21. Definitions
 
- 35. Penalties for Violations 
+22. Oklahoma Abstractors Board - Powers - Duties - Members
 
- 36. Duties, Rights, and Obligations of Abstract License or Permit Holders - Control of and Access to Records 
+23. Oklahoma Abstractors Board - Meetings - Officers - Quorum
 
- 37. Licensure Required 
+24. Administration of Oklahoma Abstractors Act - Employment of Hearing Examiners
 
- 38. Eligibility for Abstract License - License Validity and Fees 
+25. Oklahoma Abstractors Board - Additional Powers and Duties
 
- 38. Eligibility for Abstract License - License Validity and Fees 
+26. Oklahoma Abstractors Board Revolving Fund
 
- 39. Abstract Licensees - Supervision 
+27. Application for Certificate of Authority - Fees - Bonds
 
- 40. Reasons for Censure or Revocation or Suspension of License 
+28. Independent Set of Abstract Books Required to Engage in Abstracting
 
- 41. Charge for Making, Extending, or Certifying Abstract of Title - Statement of Abstracting Charges 
+29. Certain Entities Required to Apply for Certificate of Authority - Notice to Certificate Holders in County
 
- 42. Limitation of Actions 
+30. Certificate of Authority - Issuance - Form - Display - Renewal
 
- 43. Option to Retain Property Abstract
+31. Requirement of Abstract Plant and Maintenance
+
+32. Abstracts and Documents to be Provided to Upon Valid Order - Penalties and Liability - Extenuating Circumstances
+
+33. Repeated Violations - Temporary Certificates of Authority
+
+34. Application for Permit to Develop Abstract Plants
+
+35. Penalties for Violations
+
+36. Duties, Rights, and Obligations of Abstract License or Permit Holders - Control of and Access to Records
+
+37. Licensure Required
+
+38. Eligibility for Abstract License - License Validity and Fees
+
+38. Eligibility for Abstract License - License Validity and Fees
+
+39. Abstract Licensees - Supervision
+
+40. Reasons for Censure or Revocation or Suspension of License
+
+41. Charge for Making, Extending, or Certifying Abstract of Title - Statement of Abstracting Charges
+
+42. Limitation of Actions
+
+43. Option to Retain Property Abstract

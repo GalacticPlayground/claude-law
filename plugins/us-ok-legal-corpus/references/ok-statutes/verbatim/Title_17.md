@@ -8,1157 +8,1208 @@
 
 OCIS Document Index 
 
- Index of Available Documents 
 
- Up One Level 
- Show 
- 1 2 3 4 5 Levels 
- Title 17. Corporation Commission (STOKST17) Search 
 
- Chapter 1 - Contempt - Procedures - Penalties
 
- 1. Violation of Commission's Rules - Fine - Suspension Pending Appeal 
 
- 2. Punishment of Corporation, Person or Firm for Failure to Obey or Comply with Order or Requirement of Corporation Commission 
 
- 3. Appearance or Filing of Answer by Defendant 
 
- 4. Necessary for Defendant to Give Suspending Bond 
 
- 5. Precedence of Appealed Judgments of Corporation Commission in the Supreme Court 
 
- 6. First Lien - Execution 
 
- 6.1. Civil Penalties for Violation of Order or Rule - Criminal Penalty for Willfully and Knowingly Injuring or Destroying Pipeline Transportation System 
 
- 7. Cases Appealed to Supreme Court 
 
- 8. Moneys Collected by Commission to be Paid into State Treasury 
 
- 9. Costs and Fees - Taxation 
 
- 10. Duty of Attorney General to Prosecute 
+Index of Available Documents
 
- 11. When a Quorum of the Commission is Not Present 
+| |
+Up One Level
+| Show 
+1 2 3 4 5 Levels | |
+Title 17. Corporation Commission (STOKST17)
+Search
 
- 12. Depositions - Authorizations - Manner 
+Chapter 1 - Contempt - Procedures - Penalties
 
- 13. Corporation Commission - Admission of Evidence 
+1. Violation of Commission's Rules - Fine - Suspension Pending Appeal
 
- 14. Penalty for Refusing Examination of Books - Misdemeanor 
+2. Punishment of Corporation, Person or Firm for Failure to Obey or Comply with Order or Requirement of Corporation Commission
 
- 15. Penalty for Refusing Examination of Books 
+3. Appearance or Filing of Answer by Defendant
 
- 16. Destroying Records - Penalty 
+4. Necessary for Defendant to Give Suspending Bond
 
- 17. Penalties 
+5. Precedence of Appealed Judgments of Corporation Commission in the Supreme Court
 
- 18. Authority to Employ Expert Witnesses and Present Testimony 
+6. First Lien - Execution
 
- 21. Repealed 
+6.1. Civil Penalties for Violation of Order or Rule - Criminal Penalty for Willfully and Knowingly Injuring or Destroying Pipeline Transportation System
 
- 22. Repealed 
+7. Cases Appealed to Supreme Court
 
- 23. Repealed 
+8. Moneys Collected by Commission to be Paid into State Treasury
 
- 24. Repealed 
+9. Costs and Fees - Taxation
 
- Chapter 1A - Administration
+10. Duty of Attorney General to Prosecute
 
- 31. Senior Utility Rate Analyst - Salary - Qualifications - Duties 
+11. When a Quorum of the Commission is Not Present
 
- 32. Director of Administration - Qualifications - Duties - Conflicts of Interest 
+12. Depositions - Authorizations - Manner
 
- 33. Administrative Aide - Salary - Powers and Duties - Office Location 
+13. Corporation Commission - Admission of Evidence
 
- 34. Repealed 
+14. Penalty for Refusing Examination of Books - Misdemeanor
 
- 34.1. Energy Conservation Programs - Powers and Duties of Corporation Commission 
+15. Penalty for Refusing Examination of Books
 
- 34.2. Full-Time-Equivalent Employees under Federal Underground Injection Control Project 
+16. Destroying Records - Penalty
 
- 35. Creation and Responsibilities of Data Processing Division - Support Services - Director 
+17. Penalties
 
- 36. Repealed 
+18. Authority to Employ Expert Witnesses and Present Testimony
 
- 37. Certain Federal Rules and Regulations Not to be Enforced - Exceptions 
+21. Repealed
 
- 38. Repealed 
+22. Repealed
 
- 39. Petty Cash Fund 
+23. Repealed
 
- 39.1. Blank 
+24. Repealed
 
- 39.2. Remittances to Corporation Commission - Receipts - Deposit of Money - Assessment of Administrative Service Fee - Returned Checks 
+Chapter 1A - Administration
 
- 40. Creation of Transportation Division 
+31. Senior Utility Rate Analyst - Salary - Qualifications - Duties
 
- 40.1. Division of Regional Service Areas - Regional Service Office - Oil and Gas Well Development and Other Administrative Applications - Record of Filings - Hearings 
+32. Director of Administration - Qualifications - Duties - Conflicts of Interest
 
- 40.2. Electronic Signature - Electronic Image of the Corporation Commissions Seal 
+33. Administrative Aide - Salary - Powers and Duties - Office Location
 
- Chapter 2 - Cotton Gins
+34. Repealed
 
- 41. Cotton Gins - Declared Public Utilities 
+34.1. Energy Conservation Programs - Powers and Duties of Corporation Commission
 
- 42. Licenses - Corporation Commission - Fees 
+34.2. Full-Time-Equivalent Employees under Federal Underground Injection Control Project
 
- 43. Cotton Gins - Corporation Commission - Licenses 
+35. Creation and Responsibilities of Data Processing Division - Support Services - Director
 
- 44. Same - Powers and Authority 
+36. Repealed
 
- 45. Appeals to Supreme Court 
+37. Certain Federal Rules and Regulations Not to be Enforced - Exceptions
 
- 46. Regulations - Enforcement of Orders 
+38. Repealed
 
- 47. Validity of Several Sections 
+39. Petty Cash Fund
 
- Chapter 2A - Presents and Gratuities
+39.1. Blank
 
- 48. Prohibition of Transportation, Presents, or Gratuities to Corporation Commissioners or Employees - Exceptions - Penalty 
+39.2. Remittances to Corporation Commission - Receipts - Deposit of Money - Assessment of Administrative Service Fee - Returned Checks
 
- Chapter 3 - Oil and Gas
+40. Creation of Transportation Division
 
- 51. Oil and Gas Department Established 
+40.1. Division of Regional Service Areas - Regional Service Office - Oil and Gas Well Development and Administrative Applications - Record of Filings - Hearings
 
- 52. Corporation Commission - Jurisdiction, Power and Authority - Environmental Jurisdiction of Department of Environmental Quality 
+40.1. Division of Regional Service Areas - Regional Service Office - Oil and Gas Well Development and Other Administrative Applications - Record of Filings - Hearings
 
- 53. Rules and Regulations - Plugging Wells - Definitions 
+40.2. Electronic Signature - Electronic Image of the Corporation Commissions Seal
 
- 53.1. Removal of Surface Trash and Debris - Rules and Regulations 
+Chapter 2 - Cotton Gins
 
- 53.2. Unnecessary Operating Equipment, Structures, Surface Debris, Abutments and Obstacles to be Removed - Rules and Regulations 
+41. Cotton Gins - Declared Public Utilities
 
- 53.3. Abandoned Oil and Gas Well-Site Equipment - Presumption of Abandonment - State Lien 
+42. Licenses - Corporation Commission - Fees
 
- 54. Definitions 
+43. Cotton Gins - Corporation Commission - Licenses
 
- 55. Use of Frac Tanks with Unprotected Manways Prohibited 
+44. Same - Powers and Authority
 
- 56. Inspections - Devices Complying with Act - Injunctions 
+45. Appeals to Supreme Court
 
- 56A. Repealed 
+46. Regulations - Enforcement of Orders
 
- 56B. Repealed 
+47. Validity of Several Sections
 
- 57. Oil and Gas Division Revolving Fund 
+Chapter 2A - Presents and Gratuities
 
- Chapter 4 - Railroad Companies
+48. Prohibition of Transportation, Presents, or Gratuities to Corporation Commissioners or Employees - Exceptions - Penalty
 
- 61. Repealed 
+Chapter 3 - Oil and Gas
 
- 62. Repealed 
+51. Oil and Gas Department Established
 
- 63. Repealed 
+52. Corporation Commission - Jurisdiction, Power and Authority - Environmental Jurisdiction of Department of Environmental Quality
 
- 71. Rate Regulation - Power Conferred upon Commission 
+53. Rules and Regulations - Plugging Wells - Definitions
 
- 72. Effect of Act - Amendment of Constitution 
+53.1. Removal of Surface Trash and Debris - Rules and Regulations
 
- 73. Right of Appeal 
+53.2. Unnecessary Operating Equipment, Structures, Surface Debris, Abutments and Obstacles to be Removed - Rules and Regulations
 
- 74. Repealed 
+53.3. Abandoned Oil and Gas Well-Site Equipment - Presumption of Abandonment - State Lien
 
- 81. Corporation Commission - Jurisdiction over Public Highway Crossings 
+54. Definitions
 
- 82. Expense of Crossings 
+55. Use of Frac Tanks with Unprotected Manways Prohibited
 
- 83. Procedure before Commission 
+56. Inspections - Devices Complying with Act - Injunctions
 
- 84. Jurisdiction of Commission 
+56A. Repealed
 
- 85. Effect of Partial Invalidity 
+56B. Repealed
 
- 86. Extra Hazardous Crossings - Protective Devices - Costs 
+57. Oil and Gas Division Revolving Fund
 
- 87. Payment of State Costs 
+Chapter 4 - Railroad Companies
 
- 91. Power of Corporation Commission 
+61. Repealed
 
- 92. Procedure 
+62. Repealed
 
- 101. Repealed 
+63. Repealed
 
- 102. Repealed 
+71. Rate Regulation - Power Conferred upon Commission
 
- 103. Repealed 
+72. Effect of Act - Amendment of Constitution
 
- 104. Repealed 
+73. Right of Appeal
 
- 105.1. Repealed 
+74. Repealed
 
- 105.2. Repealed 
+81. Corporation Commission - Jurisdiction over Public Highway Crossings
 
- 105.3. Repealed 
+82. Expense of Crossings
 
- 105.4. Repealed 
+83. Procedure before Commission
 
- 105.5. Repealed 
+84. Jurisdiction of Commission
 
- 111. Repealed 
+85. Effect of Partial Invalidity
 
- 112. Repealed 
+86. Extra Hazardous Crossings - Protective Devices - Costs
 
- 113. Repealed 
+87. Payment of State Costs
 
- 115. Rules and Regulations Relating to Safety, Sanitation and Shelter 
+91. Power of Corporation Commission
 
- 116.1. Definitions 
+92. Procedure
 
- 116.2. Railroad Company Motor Vehicles Used to Transport Workers - Safe Condition and Operation 
+101. Repealed
 
- 116.3. Rules and Regulations Establishing Minimum Standards 
+102. Repealed
 
- 116.4. Hearings - Suggestions 
+103. Repealed
 
- 116.5. Amendment of Rules and Regulations 
+104. Repealed
 
- 116.6. Inspections 
+105.1. Repealed
 
- 116.7. Orders of Commission 
+105.2. Repealed
 
- 116.8. Enforcement 
+105.3. Repealed
 
- 116.9. Penalties 
+105.4. Repealed
 
- Chapter 5 - Refunds and Overcharges
+105.5. Repealed
 
- 121. Commission Vested with Power of Court of Record 
+111. Repealed
 
- 122. Judgment - Collection 
+112. Repealed
 
- 123. Appealed Orders - Additional Judgment for Expenses of Commission 
+113. Repealed
 
- 124. Right of Appeal 
+115. Rules and Regulations Relating to Safety, Sanitation and Shelter
 
- 125. Unclaimed Refunds 
+116.1. Definitions
 
- Chapter 6 - Telecommunications
+116.2. Railroad Company Motor Vehicles Used to Transport Workers - Safe Condition and Operation
 
- Telephone Companies
+116.3. Rules and Regulations Establishing Minimum Standards
 
- 131. Certificate of Convenience and Necessity 
+116.4. Hearings - Suggestions
 
- 132. Rules and Regulations - Notice of Application for Certificate 
+116.5. Amendment of Rules and Regulations
 
- 133. Issuance or Refusal of Certificate - Public Hearing 
+116.6. Inspections
 
- 134. Preparing Lines - Maintenance 
+116.7. Orders of Commission
 
- 135. Repealed 
+116.8. Enforcement
 
- 136. Petition of Citizens Requesting Service - Hearing - Notice - Service Ordered to Be Furnished under Certain Conditions 
+116.9. Penalties
 
- 137. Corporation Commission to Prescribe and Enforce Rates to Provide a Fair Return 
+Chapter 5 - Refunds and Overcharges
 
- 137.1. Repealed 
+121. Commission Vested with Power of Court of Record
 
- 137.2. Repealed 
+122. Judgment - Collection
 
- 137.3. Assessment of Universal Service Fee 
+123. Appealed Orders - Additional Judgment for Expenses of Commission
 
- 138. Declaration of Open Territory for Refusal to Extend Service - Contempt 
+124. Right of Appeal
 
- 139.1. Coin-Activated and Credit Card-Activated Telephones - Enforcement of Operating Requirements 
+125. Unclaimed Refunds
 
- 139.2. Operating Requirements for Operator-Assisted Services -Requirements - Directories of Subscribers 
+Chapter 6 - Telecommunications
 
- Oklahoma Telecommunications Act of 1997
+Telephone Companies
 
- 139.101. Short Title 
+131. Certificate of Convenience and Necessity
 
- 139.102. Definitions 
+132. Rules and Regulations - Notice of Application for Certificate
 
- 139.103. Required Commission Approval - Scope and Application of Act 
+133. Issuance or Refusal of Certificate - Public Hearing
 
- 139.104. Attorney General Compensation 
+134. Preparing Lines - Maintenance
 
- 139.105. Oklahoma Lifeline Fund 
+135. Repealed
 
- 139.106. Oklahoma Universal Service Fund (OUSF) 
+136. Petition of Citizens Requesting Service - Hearing - Notice - Service Ordered to Be Furnished under Certain Conditions
 
- 139.107. Administration of Funds 
+137. Corporation Commission to Prescribe and Enforce Rates to Provide a Fair Return
 
- 139.108. Fund Administration 
+137.1. Repealed
 
- 139.109. Repealed 
+137.2. Repealed
 
- 139.109.1. Special Universal Services - Competitive Bidding Exemption - Authority of Administrator - Authority of Corporation Commission 
+137.3. Assessment of Universal Service Fee
 
- 139.110. Prohibition on Corporation Commission from Imposing Restrictions on High Speed Internet Providers; Requirement to Provide Certain Network Access 
+138. Declaration of Open Territory for Refusal to Extend Service - Contempt
 
- Oklahoma Broadband Expansion Act
+139.1. Coin-Activated and Credit Card-Activated Telephones - Enforcement of Operating Requirements
 
- 139.201. Renumbered 
+139.2. Operating Requirements for Operator-Assisted Services -Requirements - Directories of Subscribers
 
- 139.202. Renumbered 
+Oklahoma Telecommunications Act of 1997
 
- 139.203. Renumbered 
+139.101. Short Title
 
- 139.204. Repealed 
+139.102. Definitions
 
- Easements
+139.103. Required Commission Approval - Scope and Application of Act
 
- 139.301. Definitions 
+139.104. Attorney General Compensation
 
- 139.302. Electric Services Easement May Be Used for Broadband Services - Class Action Lawsuit Prohibited 
+139.105. Oklahoma Lifeline Fund
 
- 139.303. Legislative Finding - Existing Electric Utility Easements 
+139.106. Oklahoma Universal Service Fund (OUSF)
 
- Wide Area Calling Plans
+139.107. Administration of Funds
 
- 139.601. Expansion of Wide Area Calling Plans - Definition of Seated 
+139.108. Fund Administration
 
- 140. Repealed 
+139.109. Repealed
 
- Pay Per Call Service
+139.109.1. Special Universal Services - Competitive Bidding Exemption - Authority of Administrator - Authority of Corporation Commission
 
- 140.1. Definitions 
+139.110. Prohibition on Corporation Commission from Imposing Restrictions on High Speed Internet Providers; Requirement to Provide Certain Network Access
 
- 140.2. Prohibition of Billing a Subscriber for Certain Pay-Per-Call Services or Interactive Programs 
+Oklahoma Broadband Expansion Act
 
- 140.3. Requirements for Services to Children Under 12 Years 
+139.201. Renumbered
 
- 140.4. Authorization to Adopt Rules and Regulations 
+139.202. Renumbered
 
- 140.5. Provisions in Conflict or Inconsistent with Oklahoma Constitution as Amendments and Alterations 
+139.203. Renumbered
 
- 140.6. Intention of Legislature 
+139.204. Repealed
 
- Chapter 7 - Trusts
+Easements
 
- 141. Repealed 
+139.301. Definitions
 
- 142. Repealed 
+139.302. Electric Services Easement May Be Used for Broadband Services - Class Action Lawsuit Prohibited
 
- 143. Repealed 
+139.303. Legislative Finding - Existing Electric Utility Easements
 
- 144. Repealed 
+Wide Area Calling Plans
 
- 145. Repealed 
+139.601. Expansion of Wide Area Calling Plans - Definition of Seated
 
- Chapter 8 - Water, Heat, Light, and Power Companies
+140. Repealed
 
- 151. Public Utility Defined - Exemptions - Requirements 
+Pay Per Call Service
 
- 151.1. Reselling of Water and Sewage Services 
+140.1. Definitions
 
- 152. Commission's Jurisdiction Over Public Utilities 
+140.2. Prohibition of Billing a Subscriber for Certain Pay-Per-Call Services or Interactive Programs
 
- 153. Implied Powers of Commission - Contempt 
+140.3. Requirements for Services to Children Under 12 Years
 
- 154. Records of Public Utility Business 
+140.4. Authorization to Adopt Rules and Regulations
 
- 155. Orders of Commission - Scope - Right of Appeal 
+140.5. Provisions in Conflict or Inconsistent with Oklahoma Constitution as Amendments and Alterations
 
- 156. Installation of Solar Energy Devices - Increased Rates - Surcharges 
+140.6. Intention of Legislature
 
- 157. Repealed 
+Chapter 7 - Trusts
 
- Retail Electric Supplier Certified Territory Act
+141. Repealed
 
- 158.21. Short Title 
+142. Repealed
 
- 158.21a. Provisions of Act in Conflict or Inconsistent with Constitution as Amendments and Alterations 
+143. Repealed
 
- 158.22. Definitions 
+144. Repealed
 
- 158.23. Geographical Areas 
+145. Repealed
 
- 158.24. Fixing Boundaries of Certified Territories - Protests - Hearings by Commission 
+Chapter 8 - Water, Heat, Light, and Power Companies
 
- 158.25. Exclusive Rights within Territory - New Electric-Consuming Facilities - Rate Tariffs 
+151. Public Utility Defined - Exemptions - Requirements
 
- 158.26. Contracts between Suppliers 
+151.1. Reselling of Water and Sewage Services
 
- 158.27. General Supervision by Commission 
+152. Commission's Jurisdiction Over Public Utilities
 
- 158.28. Applicability of Act 
+153. Implied Powers of Commission - Contempt
 
- 158.29. Annexation of Area to City or Town 
+154. Records of Public Utility Business
 
- 158.30. Grand River Dam Authority Excepted 
+155. Orders of Commission - Scope - Right of Appeal
 
- 158.31. Liberal Construction 
+156. Installation of Solar Energy Devices - Increased Rates - Surcharges
 
- 158.32. Section 437.2 of Title 18 Not Repealed - Provisions as Cumulative 
+157. Repealed
 
- Retail Electric Consumer Cost Reduction, Safety and Service Efficiency Act
+Retail Electric Supplier Certified Territory Act
 
- 158.41. Short Title 
+158.21. Short Title
 
- 158.42. Purpose 
+158.21a. Provisions of Act in Conflict or Inconsistent with Constitution as Amendments and Alterations
 
- 158.43. Two or More Retail Electric Suppliers in Affected Area After Annexation 
+158.22. Definitions
 
- 158.44. Right to Continue and Extend the Furnishing of Electricity 
+158.23. Geographical Areas
 
- 158.45. Effect of Act on Constitution in Event of Conflicting Provisions 
+158.24. Fixing Boundaries of Certified Territories - Protests - Hearings by Commission
 
- Rural Electric Cooperatives
+158.25. Exclusive Rights within Territory - New Electric-Consuming Facilities - Rate Tariffs
 
- 158.50. Definitions 
+158.26. Contracts between Suppliers
 
- 158.51. Offers, Requests, Invitations and Acquisitions to Control Rural Electric Cooperative - Conflict of Interests - Statement - Approval 
+158.27. General Supervision by Commission
 
- 158.52. Statement to be Filed with Corporation Commission - Contents 
+158.28. Applicability of Act
 
- 158.53. Corporation Commission to Approve Acquisition of Control - Public Hearing 
+158.29. Annexation of Area to City or Town
 
- 158.54. Notice of Public Hearing - Form of Notice - Expenses and Security 
+158.30. Grand River Dam Authority Excepted
 
- 158.55. If Acquiring Party is a Domestic Public Utility - Filing Application for Approval - Exemption 
+158.31. Liberal Construction
 
- 158.56. Jurisdiction - Copies of Lawful Process to be Served 
+158.32. Section 437.2 of Title 18 Not Repealed - Provisions as Cumulative
 
- 158.57. Power of Corporation Commission - Expenses 
+Retail Electric Consumer Cost Reduction, Safety and Service Efficiency Act
 
- 158.58. Injunctions for Violations - Transmitting Evidence - Institution of Criminal Proceedings 
+158.41. Short Title
 
- 158.59. Fines and Penalties for Violations 
+158.42. Purpose
 
- 158.60. Parties Adversely Affected by Actions May Appeal - Precedence 
+158.43. Two or More Retail Electric Suppliers in Affected Area After Annexation
 
- 158.61. Provisions in Conflict or Inconsistent with Constitution as Amendments and Alterations 
+158.44. Right to Continue and Extend the Furnishing of Electricity
 
- 158.66. Facilitating Internet Broadband Rural Expansion (FIBRE) Act 
+158.45. Effect of Act on Constitution in Event of Conflicting Provisions
 
- Water Transportation Service
+Rural Electric Cooperatives
 
- 159.1. Repealed 
+158.50. Definitions
 
- 159.2. Repealed 
+158.51. Offers, Requests, Invitations and Acquisitions to Control Rural Electric Cooperative - Conflict of Interests - Statement - Approval
 
- 159.3. Repealed 
+158.52. Statement to be Filed with Corporation Commission - Contents
 
- 159.4. Repealed 
+158.53. Corporation Commission to Approve Acquisition of Control - Public Hearing
 
- 159.5. Repealed 
+158.54. Notice of Public Hearing - Form of Notice - Expenses and Security
 
- 159.6. Repealed 
+158.55. If Acquiring Party is a Domestic Public Utility - Filing Application for Approval - Exemption
 
- 159.7. Repealed 
+158.56. Jurisdiction - Copies of Lawful Process to be Served
 
- 159.8. Blank 
+158.57. Power of Corporation Commission - Expenses
 
- 159.9. Blank 
+158.58. Injunctions for Violations - Transmitting Evidence - Institution of Criminal Proceedings
 
- 159.10. Blank 
+158.59. Fines and Penalties for Violations
 
- 159.11. Definitions 
+158.60. Parties Adversely Affected by Actions May Appeal - Precedence
 
- 159.12. Certificate of Convenience and Necessity Required for Water Transportation Lines 
+158.61. Provisions in Conflict or Inconsistent with Constitution as Amendments and Alterations
 
- 159.13. Rules and Regulations for Applications 
+158.66. Facilitating Internet Broadband Rural Expansion (FIBRE) Act
 
- 159.14. Information to be Furnished with Application 
+Water Transportation Service
 
- 159.15. Notice of Receipt of Application 
+159.1. Repealed
 
- 159.16. Power to Issue or Refuse Certificate - Protests 
+159.2. Repealed
 
- 159.17. Certificate - Time Limits - Default 
+159.3. Repealed
 
- 159.18. Assignment of Certificate 
+159.4. Repealed
 
- 159.19. Rates 
+159.5. Repealed
 
- 159.20. Petition for Service 
+159.6. Repealed
 
- 159.21. Administrative Procedures Act to Govern - Review 
+159.7. Repealed
 
- 159.22. Exceptions 
+159.8. Blank
 
- 159.23. Restriction on Owning or Holding Water Rights 
+159.9. Blank
 
- 159.24. Repealed 
+159.10. Blank
 
- 159.25. Repealed 
+159.11. Definitions
 
- 159.26. Repealed 
+159.12. Certificate of Convenience and Necessity Required for Water Transportation Lines
 
- Natural Gas and Steam Supply Systems
+159.13. Rules and Regulations for Applications
 
- 160.1. Ratemaking Authority and General Jurisdiction of Corporation Commission 
+159.14. Information to be Furnished with Application
 
- 160.2. Existing Trusts to Submit Certain Information - Rate Orders 
+159.15. Notice of Receipt of Application
 
- Oklahoma Wind Energy Development Act
+159.16. Power to Issue or Refuse Certificate - Protests
 
- 160.11. Short Title 
+159.17. Certificate - Time Limits - Default
 
- 160.12. Findings 
+159.18. Assignment of Certificate
 
- 160.13. Definitions 
+159.19. Rates
 
- 160.14. Decommissioning of a Wind Energy Facility 
+159.20. Petition for Service
 
- 160.14A. Renewable Energy Recycling Facility - Annual Report - Evidence of Financial Security - Penalty - Annual Registration Fee 
+159.21. Administrative Procedures Act to Govern - Review
 
- 160.15. Evidence of Financial Security of Facility Owner - Penalty - Transfer of Ownership - Applicability 
+159.22. Exceptions
 
- 160.16. Statement of Basis for Payment to Landowners Paid Based on Amount of Electrical Energy Produced 
+159.23. Restriction on Owning or Holding Water Rights
 
- 160.17. Landowner's Right to Inspect Facility Owner's Records 
+159.24. Repealed
 
- 160.18. Facility Owner's Annual Report to Corporation Commission 
+159.25. Repealed
 
- 160.19. Facility Owner's Insurance Requirements - Landowner as Insured - Evidence of Policy 
+159.26. Repealed
 
- 160.20. Setback Requirements for Wind Energy Facilities - Attestation of Compliance - Jurisdiction Over Disputes - Adverse Impact on Military - Penalties 
+Natural Gas and Steam Supply Systems
 
- 160.21. Notification of Intent to Build a Facility - Public Meeting - Penalties - Notice to Oklahoma Strategic Military Planning Commission 
+160.1. Ratemaking Authority and General Jurisdiction of Corporation Commission
 
- 160.22. Rules - Fees - Administration of Act 
+160.2. Existing Trusts to Submit Certain Information - Rate Orders
 
- 160.23. Definitions- Application for Light-Mitigatnig Technology - Deadline - Issuance of Revenue Bond By County - Cost Recovery - Wind Energy Facility Rules 
+Oklahoma Wind Energy Development Act
 
- 160.24. State Fire Marshal Inspection Fees 
+160.11. Short Title
 
- Oklahoma Electric Vehicle Charging Act
+160.12. Findings
 
- 160.31. Short Title 
+160.13. Definitions
 
- 160.32. Definitions 
+160.14. Decommissioning of a Wind Energy Facility
 
- 160.33. Retail Electric Supplier - Electric Vehicle Charging Provider - Subsidizing Costs 
+160.14A. Renewable Energy Recycling Facility - Annual Report - Evidence of Financial Security - Penalty - Annual Registration Fee
 
- 160.34. Non-Discrimination among Electric Vehicle Charging Providers 
+160.15. Evidence of Financial Security of Facility Owner - Penalty - Transfer of Ownership - Applicability
 
- 160.35. Municipality Revenue Restriction 
+160.16. Statement of Basis for Payment to Landowners Paid Based on Amount of Electrical Energy Produced
 
- 160.36. Violations - Authority 
+160.17. Landowner's Right to Inspect Facility Owner's Records
 
- 160.37. Corporation Commission Rules 
+160.18. Facility Owner's Annual Report to Corporation Commission
 
- 160.38. Electric Supplier or Municipal Corporation Not Prohibited from Own Charging or Hydrogen Fueling Station 
+160.19. Facility Owner's Insurance Requirements - Landowner as Insured - Evidence of Policy
 
- Chapter 9 - Miscellaneous Provisions
+160.20. Setback Requirements for Wind Energy Facilities - Attestation of Compliance - Jurisdiction Over Disputes - Adverse Impact on Military - Penalties
 
- 161. Repealed 
+160.21. Notification of Intent to Build a Facility - Public Meeting - Penalties - Notice to Oklahoma Strategic Military Planning Commission
 
- 161.1. Limitations on Charges for Reselling Electric Current or Natural Gas 
+160.22. Rules - Fees - Administration of Act
 
- 162. Appropriation 
+160.23. Definitions- Application for Light-Mitigatnig Technology - Deadline - Issuance of Revenue Bond By County - Cost Recovery - Wind Energy Facility Rules
 
- 163. Repealed 
+160.24. State Fire Marshal Inspection Fees - Distribution - Review
 
- 163.1. Establishment of Rates - Intent of Legislature 
+Oklahoma Electric Vehicle Charging Act
 
- 164. Fees for Rebates 
+160.31. Short Title
 
- 166. Repealed 
+160.32. Definitions
 
- 166.1. Fees - Rules and Regulations 
+160.33. Retail Electric Supplier - Electric Vehicle Charging Provider - Subsidizing Costs
 
- 166.1a. Schedule of Fees for Permits, Licenses, Certificates and Other Authorizations - Service Fee Schedule - Limitations on Fees - Disposition of Fees Collected 
+160.34. Non-Discrimination among Electric Vehicle Charging Providers
 
- 166.2. Conservation Fund - Purchase of Transcripts 
+160.35. Municipality Revenue Restriction
 
- 166.3. Conferences - Promotion - Authorization to Charge Registration Fees - Disposition of Fees 
+160.36. Violations - Authority
 
- 167. Certificate of Record Showing as to Oil and Gas Leases - Filing 
+160.37. Corporation Commission Rules
 
- 168. Effect of Certificate when Filed 
+160.38. Electric Supplier or Municipal Corporation Not Prohibited from Own Charging or Hydrogen Fueling Station
 
- 169. Repealed 
+Chapter 9 - Miscellaneous Provisions
 
- 170. Repealed 
+161. Repealed
 
- 171. Repealed 
+161.1. Limitations on Charges for Reselling Electric Current or Natural Gas
 
- 172. Repealed 
+162. Appropriation
 
- 173. Repealed 
+163. Repealed
 
- 174. Repealed 
+163.1. Establishment of Rates - Intent of Legislature
 
- 175. Repealed 
+164. Fees for Rebates
 
- 176. Repealed 
+166. Repealed
 
- 177. Renumbered as 74 O.S. § 4219.1 by Laws 1989, SB 384, c. 206, § 2, eff. November 1, 1989 
+166.1. Fees - Rules and Regulations
 
- 178. Renumbered as 74 O.S. § 4219.2 by Laws 1989, SB 384, c. 206, § 2, eff. November 1, 1989 
+166.1a. Schedule of Fees for Permits, Licenses, Certificates and Other Authorizations - Service Fee Schedule - Limitations on Fees - Disposition of Fees Collected
 
- 179. Acts in Conflict of Interest by Commission Members Prohibited 
+166.2. Conservation Fund - Purchase of Transcripts
 
- 180. Penalties 
+166.3. Conferences - Promotion - Authorization to Charge Registration Fees - Disposition of Fees
 
- 180.1. Advertising Expenses by Public Utilities 
+167. Certificate of Record Showing as to Oil and Gas Leases - Filing
 
- 180.2. Public Utilities - Promotional Payments 
+168. Effect of Certificate when Filed
 
- 180.3. Repealed 
+169. Repealed
 
- 180.4. Political Activities Prohibited - Exception 
+170. Repealed
 
- 180.5. File of Applications for Motor Carrier Operating Authority - Carriers of Commodities - Certificates or Permits - Rate-Making Procedure - Divisions Combined 
+171. Repealed
 
- 180.6. Telephone Communication that is Intrastate Transmission 
+172. Repealed
 
- 180.7. Corporation Commission Revolving Fund 
+173. Repealed
 
- 180.8. Repealed 
+174. Repealed
 
- 180.9. Repealed 
+175. Repealed
 
- 180.10. Corporation Commission Plugging Fund 
+176. Repealed
 
- 180.11. Fees for Public Utilities 
+177. Renumbered as 74 O.S. § 4219.1 by Laws 1989, SB 384, c. 206, § 2, eff. November 1, 1989
 
- 180.12. Victim of Domestic Violence, Stalking, or Harassment Exempt from Initial Credit and Deposit Requirements - Certification Letter - Confidential 
+178. Renumbered as 74 O.S. § 4219.2 by Laws 1989, SB 384, c. 206, § 2, eff. November 1, 1989
 
- 180.13. Oklahoma Corporation Commission - Exemptions to Open Meetings Act - Notice - Training 
+179. Acts in Conflict of Interest by Commission Members Prohibited
 
- Oklahoma Energy Storage Resource Safety Act
+180. Penalties
 
- 180.14. Short Title 
+180.1. Advertising Expenses by Public Utilities
 
- 180.15. Legislature Findings 
+180.2. Public Utilities - Promotional Payments
 
- 180.16. Definitions 
+180.3. Repealed
 
- 180.17. Energy Storage Resource - Safety Codes and Standards 
+180.4. Political Activities Prohibited - Exception
 
- 180.18. Energy Storage Resource Agreement - Responsibilities 
+180.5. File of Applications for Motor Carrier Operating Authority - Carriers of Commodities - Certificates or Permits - Rate-Making Procedure - Divisions Combined
 
- 180.19. Energy Storage Resource Agreement - Financial Assurance 
+180.6. Telephone Communication that is Intrastate Transmission
 
- 180.20. Energy Storage Resource Agreement Enforcement 
+180.7. Corporation Commission Revolving Fund
 
- 180.21. State Fire Marshal Inspection Fees 
+180.8. Repealed
 
- Chapter 10 - Securities of Public Utilities
+180.9. Repealed
 
- 181. Definitions 
+180.10. Corporation Commission Plugging Fund
 
- 182. Power of Public Utilities to Issue Securities 
+180.11. Fees for Public Utilities
 
- 183. Corporation Commission - Certificate Authorizing Issuance of Securities 
+180.12. Victim of Domestic Violence, Stalking, or Harassment Exempt from Initial Credit and Deposit Requirements - Certification Letter - Confidential
 
- 184. Securities - Issued for what Purposes 
+180.13. Oklahoma Corporation Commission - Exemptions to Open Meetings Act - Notice - Training
 
- 185. Application to Issue Securities - Contents of 
+Oklahoma Energy Storage Resource Safety Act
 
- 186. Securities Heretofore Issued - Validated upon Application 
+180.14. Short Title
 
- 187. Appeals from Commission 
+180.15. Legislative Findings
 
- 188. Securities Not Subject to Oklahoma Securities Commission 
+180.16. Definitions
 
- 189. Act not Applicable to Rural Electric Cooperative Corporations 
+180.17. Safety Codes and Standards - Report - Emergency Operations Plan - Training
 
- 190. Addition of Optical Fiber as Part of Static Wire Attached to Electricity Towers 
+180.18. Responsibilities after Suspension of Operations or Decommission
 
- Chapter 10A - Restructuring, Acquisition, Control, or Merger of Domestic Public Utilities
+180.19. Financial Assurance for Responsibilities after Suspension of Operations or Decommision
 
- Electric Restructuring Act of 1997
+180.20. Waiver or Exemption of Responsibilities Unenforceable - Cause of Action - Other Remedies
 
- 190.1. Short Title 
+180.21. State Fire Marshal Inspection Fees - Distribution - Review - Rules
 
- 190.2. Goals of a Restructured Electric Utility Industry 
+Chapter 9 - Miscellaneous Provisions, cont.
 
- 190.3. Definitions 
+180.31. Remediation Assistance - Process - Application - Liability - Rules
 
- 190.4. Electric Utility Industry Restructuring Study and Development 
+180.32. Remediation Assistance Revolving Fund
 
- 190.5. Oklahoma Tax Commission Restructuring Impact Study 
+Chapter 10 - Securities of Public Utilities
 
- 190.6. Repealed 
+181. Definitions
 
- 190.7. Customer Switching Without Mutual Consent - Prohibitions on Municipalities and Beneficial Trusts from Extending Distribution Service 
+182. Power of Public Utilities to Issue Securities
 
- 190.8. Access to Electric Transmission and Distribution Facilities 
+183. Corporation Commission - Certificate Authorizing Issuance of Securities
 
- 190.9. Collection and Remittance of Municipal Taxes 
+184. Securities - Issued for what Purposes
 
- 190.20. Repealed 
+185. Application to Issue Securities - Contents of
 
- 190.21. Joint Electric Utility Restructuring Task Force 
+186. Securities Heretofore Issued - Validated upon Application
 
- Acquisition, Control, or Merger
+187. Appeals from Commission
 
- 191.1. Definitions 
+188. Securities Not Subject to Oklahoma Securities Commission
 
- 191.2. Procedure for Entering Agreements for Acquisition, Control or Merger of Certain Domestic Public Utilities 
+189. Act not Applicable to Rural Electric Cooperative Corporations
 
- 191.3. Contents of Statement to be Filed with Corporation Commission 
+190. Addition of Optical Fiber as Part of Static Wire Attached to Electricity Towers
 
- 191.4. Proposal of Offer, Request, Invitation, Merger, or Acquisition to be Made by Means of a Registration Statement 
+Chapter 10A - Restructuring, Acquisition, Control, or Merger of Domestic Public Utilities
 
- 191.5. Approval or Disapproval of Merger - Hearing 
+Electric Restructuring Act of 1997
 
- 191.6. Form of Notice - Hearing - Bond for Payment of Expenses 
+190.1. Short Title
 
- 191.7. Acquiring Party as Domestic Public Utility 
+190.2. Goals of a Restructured Electric Utility Industry
 
- 191.8. Jurisdiction - Commission to be the Agent for Service of Process - Copies of Process to be Served on Commission 
+190.3. Definitions
 
- 191.9. Corporation Commission - Powers - Expenses of Analysis and Investigation 
+190.4. Electric Utility Industry Restructuring Study and Development
 
- 191.10. Injunctions for Violations of Act 
+190.5. Oklahoma Tax Commission Restructuring Impact Study
 
- 191.11. Violations - Punishment - Fines 
+190.6. Repealed
 
- 191.12. Appeal to Supreme Court - Manner of Appeal 
+190.7. Customer Switching Without Mutual Consent - Prohibitions on Municipalities and Beneficial Trusts from Extending Distribution Service
 
- 191.13. Provisions in Conflict or Inconsistent with Oklahoma Constitution as Alterations and Amendments 
+190.8. Access to Electric Transmission and Distribution Facilities
 
- Chapter 11 - Radio Common Carriers
+190.9. Collection and Remittance of Municipal Taxes
 
- 200. Intent of Legislature Regarding Competition 
+190.20. Repealed
 
- 201. Definition 
+190.21. Joint Electric Utility Restructuring Task Force
 
- 202. Authorization of Radio Common Carrier to Enter Business 
+Acquisition, Control, or Merger
 
- 203. Repealed 
+191.1. Definitions
 
- 204. Repealed 
+191.2. Procedure for Entering Agreements for Acquisition, Control or Merger of Certain Domestic Public Utilities
 
- 205. Rules and Regulations 
+191.3. Contents of Statement to be Filed with Corporation Commission
 
- 206. Amendments and Alterations to Constitution 
+191.4. Proposal of Offer, Request, Invitation, Merger, or Acquisition to be Made by Means of a Registration Statement
 
- Chapter 12 - Rate Adjustment
+191.5. Approval or Disapproval of Merger - Hearing
 
- Article 1 - Definitions
+191.6. Form of Notice - Hearing - Bond for Payment of Expenses
 
- 250. Definitions 
+191.7. Acquiring Party as Domestic Public Utility
 
- Article 2 - Fuel Adjustment Clauses
+191.8. Jurisdiction - Commission to be the Agent for Service of Process - Copies of Process to be Served on Commission
 
- 251. Change in Price of Fuels or Power - Approval of Fuel Adjustment Clauses - Rules for Making Determination 
+191.9. Corporation Commission - Powers - Expenses of Analysis and Investigation
 
- 252. Monitoring of Fuel Adjustment Clauses 
+191.10. Injunctions for Violations of Act
 
- 253. Regulations for Considering Adjustment Applications 
+191.11. Violations - Punishment - Fines
 
- 254. Disclosure in Customer Bills 
+191.12. Appeal to Supreme Court - Manner of Appeal
 
- 255. Preexisting Clauses to Continue 
+191.13. Provisions in Conflict or Inconsistent with Oklahoma Constitution as Alterations and Amendments
 
- 256. Sections 251 to 255 Not Applicable to Electric Cooperatives 
+Chapter 11 - Radio Common Carriers
 
- 257. Electric Generation Cooperatives - Report of Fuel Adjustment Clauses 
+200. Intent of Legislature Regarding Competition
 
- Article 3 - Purchased Power Adjustment Clauses for Electric Distribution Cooperatives
+201. Definition
 
- 258. Approval of Purchased Power Adjustment Clauses 
+202. Authorization of Radio Common Carrier to Enter Business
 
- 259. Monitoring of Application of Adjustment Clauses 
+203. Repealed
 
- 260. Disclosure of Per Unit Rate in Consumer's Bill 
+204. Repealed
 
- 261. Preexisting Purchased Power Adjustment Clauses 
+205. Rules and Regulations
 
- 262. Applications through Common Representative 
+206. Amendments and Alterations to Constitution
 
- Article 4 - Rate Investigations
+Chapter 12 - Rate Adjustment
 
- 263. Periodic Detailed Rate Investigations 
+Article 1 - Definitions
 
- 264. Article Headings 
+250. Definitions
 
- Chapter 13 - Natural Gas Policy
+Article 2 - Fuel Adjustment Clauses
 
- 270. Natural Gas Policy Act of 1978 - Power and Duties of Corporation Commission - Applications for Determinations - Fees 
+251. Change in Price of Fuels or Power - Approval of Fuel Adjustment Clauses - Rules for Making Determination
 
- 271. Appeals 
+252. Monitoring of Fuel Adjustment Clauses
 
- Chapter 13A - Public Utility Resources
+253. Regulations for Considering Adjustment Applications
 
- 281. Responses to Discovery Requests - Time Allowed for Response 
+253. Regulations for Considering Adjustment Applications
 
- 282. Settlement Conferences Ordered by Corporation Commission - Scheduling - Termination - Designation of Adjudicating Parties 
+254. Disclosure in Customer Bills
 
- 283. Exit Conferences 
+255. Preexisting Clauses to Continue
 
- 284. Application to Change Rates and Charges - Effect Given to Known and Measurable Changes 
+256. Sections 251 to 255 Not Applicable to Electric Cooperatives
 
- 285. Communication of Information from Utilities to Customers 
+257. Electric Generation Cooperatives - Report of Fuel Adjustment Clauses
 
- 286. Cost of Transmission Upgrades - Approval of Electric Generation Facilities - Rules 
+Article 3 - Purchased Power Adjustment Clauses for Electric Distribution Cooperatives
 
- 286A. Depreciation Expenses - Regulatory Asset Balance 
+258. Approval of Purchased Power Adjustment Clauses
 
- 287. Legislative Declaration - Promotion of Wind-Energy Development - Plan to Expand Transmission Capacity in State 
+259. Monitoring of Application of Adjustment Clauses
 
- 291. Definitions 
+260. Disclosure of Per Unit Rate in Consumer's Bill
 
- 292. Rights of Incumbent Electric Transmission Owners 
+261. Preexisting Purchased Power Adjustment Clauses
 
- 293. Notice of Intent to Construct, Own and Maintain Local Electric Transmission Facility 
+262. Applications through Common Representative
 
- 294. Southwest Power Pool Report 
+Article 4 - Rate Investigations
 
- Chapter 14
+263. Periodic Detailed Rate Investigations
 
- Oklahoma Petroleum Storage Tank Consolidation Act
+264. Article Headings
 
- 301. Short Title 
+Chapter 13 - Natural Gas Policy
 
- 302. Release of Petroleum - Public Policy 
+270. Natural Gas Policy Act of 1978 - Power and Duties of Corporation Commission - Applications for Determinations - Fees
 
- 303. Definitions 
+271. Appeals
 
- 304. Exemptions from Oklahoma Petroleum Storage Tank Consolidation Act 
+Chapter 13A - Public Utility Resources
 
- 304.1. Aboveground Storage Tanks Utilized by Marinas, Retail Facilities, Fleet and Commercial Facilities - Rules Governing Design and Labeling of Aboveground Storage Tanks 
+281. Responses to Discovery Requests - Time Allowed for Response
 
- 305. State Agencies Designated to Administer Certain Federal Acts 
+282. Settlement Conferences Ordered by Corporation Commission - Scheduling - Termination - Designation of Adjudicating Parties
 
- 306. Powers and Duties of Corporation Commission 
+283. Exit Conferences
 
- 306.1. Tanks Containing Petroleum Products for Agricultural Purposes - Permit Fee 
+284. Application to Change Rates and Charges - Effect Given to Known and Measurable Changes
 
- 307. Promulgation of Rules Governing Storage Tank Systems 
+285. Communication of Information from Utilities to Customers
 
- 308. Necessity of Permits - Operating Pursuant to Permit - Application - Issuance of Permit 
+286. Cost of Transmission Upgrades - Approval of Electric Generation Facilities - Rules
 
- 308.1. Assessment of Permit Fee - Failure to Pay Fees - Penalty 
+286A. Depreciation Expenses - Regulatory Asset Balance
 
- 309. Allowance of Release from Storage Tank System - Corrective Actions - Liability of Owner, Operator - Expenses 
+287. Legislative Declaration - Promotion of Wind-Energy Development - Plan to Expand Transmission Capacity in State
 
- 310. Inspections and Investigations of Storage Tank Systems - Violations - Notice - Failure to Take Corrective Action - Notice and Hearing - Orders - Service of Instruments 
+291. Definitions
 
- 310.1. Necessity of Notice and Hearing by Commission to Owners of Surface Rights and Property Adjacent 
+292. Rights of Incumbent Electric Transmission Owners
 
- 311. Liability for Administrative Penalties 
+293. Notice of Intent to Construct, Own and Maintain Local Electric Transmission Facility
 
- 312. Enforcement of Actions for Injunction or Recovery of Penalties - Action for Equitable Relief - Jurisdiction - Relief - Execution of Judgment 
+294. Repealed
 
- 313. Records, Reports or Information - Disclosure to Federal or State Representatives 
+294. Southwest Power Pool Report
 
- 314. Annual Compilation of New Reported Releases 
+Chapter 14
 
- 315. Corporation Commission Storage Tank Revolving Fund 
+Oklahoma Petroleum Storage Tank Consolidation Act
 
- 316. Prohibition of the Promulgation of Ordinances, Regulations, or Requirements in Conflict with Act Prohibited 
+301. Short Title
 
- 317. Repealed 
+302. Release of Petroleum - Public Policy
 
- 318. Licensing of Petroleum Storage Tank Professionals - Meeting Training and Other Requirements of Federal Law and Regulations and State Statutes 
+303. Definitions
 
- 319. Underground Storage Tank Operator Training Program 
+304. Exemptions from Oklahoma Petroleum Storage Tank Consolidation Act
 
- 321. Intent of Legislature - Oklahoma Petroleum Storage Tank Reform Act - Purpose - Rules - Application 
+304.1. Aboveground Storage Tanks Utilized by Marinas, Retail Facilities, Fleet and Commercial Facilities - Rules Governing Design and Labeling of Aboveground Storage Tanks
 
- 322. Establishment of Petroleum Storage Tank Division - Jurisdiction - Duties of Director 
+305. State Agencies Designated to Administer Certain Federal Acts
 
- 323. Repealed 
+306. Powers and Duties of Corporation Commission
 
- 324. Expenditures of Petroleum Storage Tank Indemnity Fund - Administrator 
+306.1. Tanks Containing Petroleum Products for Agricultural Purposes - Permit Fee
 
- 325. Annual Reports - Audit 
+307. Promulgation of Rules Governing Storage Tank Systems
 
- 326. Repealed 
+308. Necessity of Permits - Operating Pursuant to Permit - Application - Issuance of Permit
 
- 327. Voting Requirement to Change Distribution of Assessments 
+308.1. Assessment of Permit Fee - Failure to Pay Fees - Penalty
 
- 327.1. Assessment Per Gallon of Motor Fuel - Exemptions - Distribution 
+309. Allowance of Release from Storage Tank System - Corrective Actions - Liability of Owner, Operator - Expenses
 
- 327.2. Duty to Precollect, Remit, and Report Assessment to Oklahoma Tax Commission - Penalty 
+310. Inspections and Investigations of Storage Tank Systems - Violations - Notice - Failure to Take Corrective Action - Notice and Hearing - Orders - Service of Instruments
 
- 327.3. Requirements for Reimbursement Claims 
+310.1. Necessity of Notice and Hearing by Commission to Owners of Surface Rights and Property Adjacent
 
- 327.4. Confidentiality of Trade Secrets 
+311. Liability for Administrative Penalties
 
- 327.5. Subrogation - Third Party Claims 
+312. Enforcement of Actions for Injunction or Recovery of Penalties - Action for Equitable Relief - Jurisdiction - Relief - Execution of Judgment
 
- 328. Creation of Oklahoma Leaking Storage Tank Trust Fund, Revolving Fund - Emergency Situations - Reimbursement 
+313. Records, Reports or Information - Disclosure to Federal or State Representatives
 
- 330. Protests - Hearing - Procedures 
+314. Annual Compilation of New Reported Releases
 
- 340. Storage Tank Advisory Council - Appointment of Members - Quorum - Officers - Meetings - Authority - Rules - Expenses 
+315. Corporation Commission Storage Tank Revolving Fund
 
- 341. Compliance of Regulated Substances Manufactured or Transported into State with Rules and Laws 
+316. Prohibition of the Promulgation of Ordinances, Regulations, or Requirements in Conflict with Act Prohibited
 
- 341.1. Appointment of Fuel Inspection and Compliance Personnel 
+317. Repealed
 
- 341.2. Division Employees Prohibited from Working in Regulated Areas or Fields 
+318. Licensing of Petroleum Storage Tank Professionals - Meeting Training and Other Requirements of Federal Law and Regulations and State Statutes
 
- 341.3. Severability of Provisions Declared Unconstitutional or Void 
+319. Underground Storage Tank Operator Training Program
 
- 342. Jurisdiction to Prescribe and Promulgate Rules and Specifications 
+321. Intent of Legislature - Oklahoma Petroleum Storage Tank Reform Act - Purpose - Rules - Application
 
- 343. Requirement of Inspection for Regulated Substances, Mixtures Intended for Sale 
+322. Establishment of Petroleum Storage Tank Division - Jurisdiction - Duties of Director
 
- 344. Penalty to Refuse to Admit Inspector - Misdemeanor 
+323. Repealed
 
- 345. Measuring Device Accuracy - Voluntary Calibration Program - Calibration Fee - Certificate of Measurement 
+324. Expenditures of Petroleum Storage Tank Indemnity Fund - Administrator
 
- 346. Duty to Inspect Facilities - Test Samples - Seal and Lock Noncompliant Dispenser - Right to Hearing 
+325. Annual Reports - Audit
 
- 346.1. Duty to Inspect Measuring Devices - Report - Seal and Lock Noncompliant Measuring Devices - Right to Hearing 
+325. Annual Reports - Audit
 
- 346.2. Non-Applicability to Regulated Substances in Transit to Other States or Territories 
+326. Repealed
 
- 346.3. Penalty for Noncompliance - Penalty for Tampering with Sign, Lock, or Seal - Misdemeanor 
+327. Voting Requirement to Change Distribution of Assessments
 
- 346.4. Penalty for Noncompliant Measuring Device - Penalty for Unauthorized Tampering of Sign, Label, Seal, or Lock - Misdemeanor 
+327.1. Assessment Per Gallon of Motor Fuel - Exemptions - Distribution
 
- 347. Ethanol or Methanol Labeling 
+327.2. Duty to Precollect, Remit, and Report Assessment to Oklahoma Tax Commission - Penalty
 
- 347.1. No Label Requirements for Fuel Additives - Alcohol Label for Fuel at Regional or Smaller Airports 
+327.3. Requirements for Reimbursement Claims
 
- Antifreeze
+327.4. Confidentiality of Trade Secrets
 
- 348. Definitions 
+327.5. Subrogation - Third Party Claims
 
- 348.1. Antifreeze Adulterated 
+328. Creation of Oklahoma Leaking Storage Tank Trust Fund, Revolving Fund - Emergency Situations - Reimbursement
 
- 348.2. Antifreeze Misbranded 
+330. Protests - Hearing - Procedures
 
- 348.3. Initial and Annual Renewal Permit Application - Sample Analysis - Application Fee - Permit Cancelation 
+340. Storage Tank Advisory Council - Appointment of Members - Quorum - Officers - Meetings - Authority - Rules - Expenses
 
- 348.4. Enforcement by Certification, Inspection, Analysis, other Methods - Samples for Inspection or Analysis, Certified Analysis - Access During Business Hours - Access for Sample Analysis 
+341. Compliance of Regulated Substances Manufactured or Transported into State with Rules and Laws
 
- 348.5. Authority to Promulgate Rules and Regulations 
+341.1. Appointment of Fuel Inspection and Compliance Personnel
 
- 348.6. Requests for Lists of Permitted Brands and Trademarks 
+341.2. Division Employees Prohibited from Working in Regulated Areas or Fields
 
- 348.7. Restrictions on Advertising 
+341.3. Severability of Provisions Declared Unconstitutional or Void
 
- 348.8. Deposit of Fees - Corporation Commission Revolving Fund 
+342. Jurisdiction to Prescribe and Promulgate Rules and Specifications
 
- 348.9. Penalty - Misdemeanor - Contempt 
+343. Requirement of Inspection for Regulated Substances, Mixtures Intended for Sale
 
- Chapter 15 - Oklahoma Petroleum Storage Tank Release Indemnity Program
+344. Penalty to Refuse to Admit Inspector - Misdemeanor
 
- 350. Repealed 
+345. Measuring Device Accuracy - Voluntary Calibration Program - Calibration Fee - Certificate of Measurement
 
- 351. Repealed 
+346. Duty to Inspect Facilities - Test Samples - Seal and Lock Noncompliant Dispenser - Right to Hearing
 
- 352. Repealed 
+346.1. Duty to Inspect Measuring Devices - Report - Seal and Lock Noncompliant Measuring Devices - Right to Hearing
 
- 353. Repealed 
+346.2. Non-Applicability to Regulated Substances in Transit to Other States or Territories
 
- 353.1. Repealed 
+346.3. Penalty for Noncompliance - Penalty for Tampering with Sign, Lock, or Seal - Misdemeanor
 
- 354. Repealed 
+346.4. Penalty for Noncompliant Measuring Device - Penalty for Unauthorized Tampering of Sign, Label, Seal, or Lock - Misdemeanor
 
- 355. Repealed 
+347. Ethanol or Methanol Labeling
 
- 356. Repealed 
+347.1. No Label Requirements for Fuel Additives - Alcohol Label for Fuel at Regional or Smaller Airports
 
- 356.1. Repealed 
+Antifreeze
 
- 357. Repealed 
+348. Definitions
 
- 358. Repealed 
+348.1. Antifreeze Adulterated
 
- 359. Repealed 
+348.2. Antifreeze Misbranded
 
- 360. Repealed 
+348.3. Initial and Annual Renewal Permit Application - Sample Analysis - Application Fee - Permit Cancelation
 
- 361. Repealed 
+348.4. Enforcement by Certification, Inspection, Analysis, other Methods - Samples for Inspection or Analysis, Certified Analysis - Access During Business Hours - Access for Sample Analysis
 
- 365. Repealed 
+348.5. Authority to Promulgate Rules and Regulations
 
- Chapter 16 - Oklahoma Aboveground Tank Regulation Act
+348.6. Requests for Lists of Permitted Brands and Trademarks
 
- 401. Repealed 
+348.7. Restrictions on Advertising
 
- 402. Repealed 
+348.8. Deposit of Fees - Corporation Commission Revolving Fund
 
- 403. Repealed 
+348.9. Penalty - Misdemeanor - Contempt
 
- 404. Repealed 
+Chapter 15 - Oklahoma Petroleum Storage Tank Release Indemnity Program
 
- 405. Repealed 
+350. Repealed
 
- 406. Repealed 
+351. Repealed
 
- 407. Repealed 
+352. Repealed
 
- 408. Repealed 
+353. Repealed
 
- 409. Repealed 
+353.1. Repealed
 
- 410. Repealed 
+354. Repealed
 
- Chapter 17 - Oklahoma Brine Development Act
+355. Repealed
 
- 500. Short Title 
+356. Repealed
 
- 501. Necessity of Authorizing, Regulating and Providing for Development of Brine and Associated Solution Gas 
+356.1. Repealed
 
- 502. Definitions 
+357. Repealed
 
- 503. Jurisdiction of Corporation Commission - Rules - Limit on Jurisdiction 
+358. Repealed
 
- 504. Application for Utilization of Brine Rights - Solution Gas Owners as Respondents 
+359. Repealed
 
- 505. Notice of Filing of Application to Create Unitization of Brine Rights 
+360. Repealed
 
- 506. Commission's Findings - Substantial Evidence Required - Orders - Applicability 
+361. Repealed
 
- 507. Commission to Define Unit Area - Allocation of Production 
+365. Repealed
 
- 508. Plan of Unitization - Procedures - Method of Apportioning - Provisions - Ratification by Record Owners - Election to Sell 
+Chapter 16 - Oklahoma Aboveground Tank Regulation Act
 
- 509. Amended and Modified Property Rights and Obligations - Distribution of Production 
+401. Repealed
 
- 510. Increase and Decrease of Existing Unit Area Size 
+402. Repealed
 
- 511. Liability of Lessee or Owner - Liens 
+403. Repealed
 
- 512. Aggrieved Person May Appeal from Orders 
+404. Repealed
 
- 513. Authorization to Participate in Plans or Programs by State and Local Land Management Boards 
+405. Repealed
 
- 514. Treatment of Unit Production or Sale Proceeds 
+406. Repealed
 
- 515. Designation of Priorities for Purchasing of Solution Gas 
+407. Repealed
 
- 516. Effect of Act on Pre-Existing Brine, Solution Gas or Brine and Solution Gas Units 
+408. Repealed
 
- 517. Payment of Proceeds - Information Accompanying Payment - Violation 
+409. Repealed
 
- 518. Agreement in Writing to Comply with Rules and Regulations - Requirements to Establish Evidence of Financial Ability - Neglect, Failure or Refusal to Plug and Abandon or Replug Well - Forfeiture or Payment - Transfer of Title - Orphan Well Methane Testing- Carbon Credits 
+410. Repealed
 
- 519. Written Notice to Surface Owner of Intent to Drill - Exceptions - Duty to Enter into Good Faith Negotiations to Determine Surface Damages 
+Chapter 17 - Oklahoma Brine Development Act
 
- 520. Filing of Bond for Payment of Location Damages - Liability - Filing of Claim - Entry on Property upon Deposit of Bond - Additional Bond 
+500. Short Title
 
- 521. Negotiation for Payment of Damages - Agreement - Appointment or Selection of Appraisers - Appraiser Report - Assessment of Costs and Attorney Fees 
+501. Purpose
 
- 522. Aggrieved Party May Appeal from Court Review or Jury Verdict of Appraiser's Report - Authority of Administrator or Executor of Estate to Execute Instruments of Conveyance When Estate in Probate, or There is a Minor or Incompetent Person 
+502. Definitions
 
- 523. Nothing to be Construed to Impair Existing Contractual Rights - Inapplicability 
+503. Jurisdiction of Corporation Commission - Rules - Limitation of Liability
 
- 524. Jurisdiction, Authority and Power of Corporation Commission 
+504. Application for Utilization of Brine or Produced Water Rights - Solution Gas Owners as Respondents
 
- 525. Willful and Knowing Entry upon Premises, Failure to Give Notice, Post Bond, Request Appraisers, Etc. - Treble Damages 
+505. Notice of Filing of Application to Create Unitization of Brine Rights
 
- 526. Amendatory Provisions of Oklahoma Brine Development Act 
+506. Commission's Findings - Substantial Evidence Required - Orders - Applicability
 
- Chapter 18 - Oklahoma Alternative Fuels Conversion Act
+507. Commission to Define Unit Area - Allocation of Production
 
- 601. Renumbered as 74 O.S. § 130.1 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991 
+508. Plan of Unitization - Procedures - Method of Apportioning - Provisions - Ratification by Record Owners - Election to Sell - Collection of Proceeds
 
- 602. Renumbered as 74 O.S. § 130.2 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991 
+509. Amended and Modified Property Rights and Obligations - Distribution of Production
 
- 603. Renumbered as 74 O.S. § 130.3 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991 
+510. Increase and Decrease of Existing Unit Area Size
 
- 604. Renumbered as 74 O.S. § 130.4 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991 
+511. Liability of Lessee or Owner - Liens
 
- 605. Renumbered as 74 O.S. § 130.5 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991 
+512. Aggrieved Person May Appeal from Orders
 
- 606. Renumbered as 74 O.S. § 130.6 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991 
+513. Authorization to Participate in Plans or Programs by State and Local Land Management Boards
 
- 607. Renumbered as 74 O.S. § 130.7 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991 
+514. Treatment of Unit Production or Sale Proceeds
 
- 608. Repealed 
+515. Designation of Priorities for Purchasing of Solution Gas
 
- 609. Renumbered as 74 O.S. § 130.9 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991 
+516. Exceptions - Existing Gas Units - Expansion
 
- 610. Renumbered as 74 O.S. § 130.10 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991 
+517. Payment of Proceeds - Information Accompanying Payment - Violation
 
- 620. Repealed 
+518. Agreement in Writing to Comply with Rules and Regulations - Requirements to Establish Evidence of Financial Ability - Neglect, Failure or Refusal to Plug and Abandon or Replug Well - Forfeiture or Payment - Transfer of Title - Orphan Well Methane Testing- Carbon Credits
 
- Chapter 19 - Information Searches
+519. Written Notice to Surface Owner of Intent to Drill - Exceptions - Duty to Enter into Good Faith Negotiations to Determine Surface Damages
 
- 701. Criminal History Searches - Employee Data - Rules and Orders - Trucking One-Stop Shop Act 
+520. Filing of Bond for Payment of Location Damages - Liability - Filing of Claim - Entry on Property upon Deposit of Bond - Additional Bond
 
- Chapter 20 - Electric Usage Data Protection Act
+521. Negotiation for Payment of Damages - Agreement - Appointment or Selection of Appraisers - Appraiser Report - Assessment of Costs and Attorney Fees
 
- 710.1. Short Title 
+522. Aggrieved Party May Appeal from Court Review or Jury Verdict of Appraiser's Report - Authority of Administrator or Executor of Estate to Execute Instruments of Conveyance When Estate in Probate, or There is a Minor or Incompetent Person
 
- 710.2. Legislative Findings - Purpose of Act 
+523. Nothing to be Construed to Impair Existing Contractual Rights - Inapplicability
 
- 710.3. Definitions 
+524. Jurisdiction, Authority and Power of Corporation Commission
 
- 710.4. Access to and Confidentiality of Customer Information - Use of Customer-Identifiable Usage Data 
+525. Willful and Knowing Entry upon Premises, Failure to Give Notice, Post Bond, Request Appraisers, Etc. - Treble Damages
 
- 710.5. Customer Access to Standard and Nonstandard Usage Data - Fees 
+526. Effective Date of Amendatory Provisions
 
- 710.6. Disclosure of Customer Information to Affiliates and Third Parties 
+Chapter 18 - Oklahoma Alternative Fuels Conversion Act
 
- 710.7. Use and Disclosure of Aggregate Usage Data 
+601. Renumbered as 74 O.S. § 130.1 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991
 
- 710.8. Promulgation of Rules 
+602. Renumbered as 74 O.S. § 130.2 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991
 
- Chapter 21 - Renewable Energy Fuels
+603. Renumbered as 74 O.S. § 130.3 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991
 
- 801. Promotion of Use of Cedar Tree Wood Products and Residue as Energy Source 
+604. Renumbered as 74 O.S. § 130.4 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991
 
- Chapter 22 - Oklahoma Energy Security Act
+605. Renumbered as 74 O.S. § 130.5 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991
 
- 801.1. Short Title 
+606. Renumbered as 74 O.S. § 130.6 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991
 
- 801.2. Legislative Intent 
+607. Renumbered as 74 O.S. § 130.7 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991
 
- 801.3. Definitions 
+608. Repealed
 
- 801.4. Renewable Energy Standard - Establishment - Resources - Determination of Renewable Energy - Reports 
+609. Renumbered as 74 O.S. § 130.9 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991
 
- 801.5. Natural Gas Energy Standard - Establishment - Generating Facilities' Use of Natural Gas 
+610. Renumbered as 74 O.S. § 130.10 by Laws 1991, HB 1193, c. 235, § 23, emerg. eff. July 1, 1991
 
- 801.6. Use of Energy Efficiency and Demand Side Management to Meet Renewable Energy Standard 
+620. Repealed
 
- 801.7. Authority of Corporation Commission to Ensure Reasonable Rates for Consumers 
+Chapter 19 - Information Searches
 
- 801.8. Renewable Natural Gas - Definitions - Report and Recommendations 
+701. Criminal History Searches - Employee Data - Rules and Orders - Trucking One-Stop Shop Act
 
- 801.9. Hydrogen Fuel Production Standard 
+Chapter 20 - Electric Usage Data Protection Act
 
- 801.10. Ratepayer-Funded Incentives, Rebates, or Inducements to Switch to Electricity Prohibited 
+710.1. Short Title
 
- Chapter 23 - Oklahoma Energy Initiative Act
+710.2. Legislative Findings - Purpose of Act
 
- 802.1. Short Title 
+710.3. Definitions
 
- 802.2. Oklahoma Energy Low Carbon Initiative - Duties 
+710.4. Access to and Confidentiality of Customer Information - Use of Customer-Identifiable Usage Data
 
- 802.3. Oklahoma Energy Low Carbon Initiative Board - Member Requirements - Purpose 
+710.5. Customer Access to Standard and Nonstandard Usage Data - Fees
 
- 802.4. Oklahoma Energy Initiative Revolving Fund 
+710.6. Disclosure of Customer Information to Affiliates and Third Parties
 
- 803. Nuclear Energy Generation Feasibility Study - Requirements - Delivery 
+710.7. Use and Disclosure of Aggregate Usage Data
 
- Oklahoma Solar Energy Development Act
+710.8. Promulgation of Rules
 
- 809. Short Title 
+Chapter 21 - Renewable Energy Fuels
 
- 809.1. Legislature Findings 
+801. Promotion of Use of Cedar Tree Wood Products and Residue as Energy Source
 
- 809.2. Definitions 
+Chapter 22 - Oklahoma Energy Security Act
 
- 809.3. Solar Energy Facility Payments to Landowners 
+801.1. Short Title
 
- 809.4. Landowner Inspections 
+801.2. Legislative Intent
 
- 809.5. Electrical Energy Reporting 
+801.3. Definitions
 
- 809.6. Insurance Requirements 
+801.4. Renewable Energy Standard - Establishment - Resources - Determination of Renewable Energy - Reports
 
- 809.7. Solar Energy Facility Public Notification Requirements 
+801.5. Natural Gas Energy Standard - Establishment - Generating Facilities' Use of Natural Gas
 
- 809.8. Solar Energy Facility Development Plan Requirements 
+801.6. Use of Energy Efficiency and Demand Side Management to Meet Renewable Energy Standard
 
- 809.9. Commercial Solar Facility Decommissioning Act Compliance 
+801.7. Authority of Corporation Commission to Ensure Reasonable Rates for Consumers
 
- 809.10. Authority 
+801.8. Renewable Natural Gas - Definitions - Report and Recommendations
 
- Commercial Solar Facility Decommissioning Act
+801.9. Hydrogen Fuel Production Standard
 
- 820. Short Title 
+801.9. Hydrogen Fuel Production Standard
 
- 820.1. Definitions 
+801.10. Ratepayer-Funded Incentives, Rebates, or Inducements to Switch to Electricity Prohibited
 
- 820.2. Applicability of Act 
+Chapter 23 - Oklahoma Energy Initiative Act
 
- 820.3. Void Agreements - Injunctive Relief - Non-Exclusivity 
+802.1. Short Title
 
- 820.4. Solar Power Facility Agreement Requirements 
+802.2. Oklahoma Energy Low Carbon Initiative - Duties
 
- 820.5. Financial Assurance Requirements 
+802.3. Oklahoma Energy Low Carbon Initiative Board - Member Requirements - Purpose
 
- Chapter 24 - High Voltage Electric Transmission Facility Act
+802.3. Oklahoma Energy Low Carbon Initiative Board - Member Requirements - Purpose
 
- 850. Definitions 
+802.3. Repealed
 
- 851. Certificate of Authority - Application Requirements - Notice - Order - Fee
+802.4. Oklahoma Energy Initiative Revolving Fund
+
+803. Nuclear Energy Generation Feasibility Study - Requirements - Delivery
+
+Oklahoma Solar Energy Development Act
+
+809. Short Title
+
+809.1. Legislative Findings
+
+809.2. Definitions
+
+809.3. Provide Payment Statement to Landowner
+
+809.4. Landowner Right to Inspect Records
+
+809.5. Annual Report of Energy Generated
+
+809.6. Insurance Requirements - Notice
+
+809.7. Notification of Intent to Build - Requirements
+
+809.8. Submit Plans to Fire Marshal - Review - Fees
+
+809.9. Commercial Solar Facility Decommissioning Act Compliance
+
+809.10. Rules - Fees - Jurisdiction
+
+Commercial Solar Facility Decommissioning Act
+
+820. Short Title
+
+820.1. Definitions
+
+820.2. Applicability of Act
+
+820.3. Void Agreements - Injunctive Relief - Non-Exclusivity
+
+820.4. Solar Power Facility Agreement Requirements
+
+820.5. Financial Assurance Requirements
+
+Chapter 24 - High Voltage Electric Transmission Facility Act
+
+850. Definitions
+
+851. Certificate of Authority - Application Requirements - Notice - Order - Fee
+
+Chapter 25 - Data Center Customer Ratepayer Protection Act of 2026
+
+900. Short TItle
+
+901. Definitions
+
+902. Purpose of Act
+
+903. Large Load Customers - Terms and Conditions - Tariffs
+
+904. Applicable to all Retail Electric Suppliers
+
+905. Rules - Jurisdiction - Compliance
+
+906. Land Purchases Outside Industrial Development Park or Municipality - Notice - Penalty
